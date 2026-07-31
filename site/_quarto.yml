@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: ../docs
+  render:
+    - index.qmd
+    - origins.qmd
+    - issr-era.qmd
+    - library-dsc.qmd
+    - people.qmd
+    - sources.qmd
+
+execute:
+  freeze: false
+
+website:
+  title: "SSDA / DSC Institutional History"
+  description: "An intellectual history of UCLA's social science data archive lineage, 1961 to present."
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: origins.qmd
+        text: "Origins (1961–1977)"
+      - href: issr-era.qmd
+        text: "The ISSR Era (1977–2014)"
+      - href: library-dsc.qmd
+        text: "Library & DSC (2014–present)"
+      - href: people.qmd
+        text: People
+      - href: sources.qmd
+        text: "Sources & Open Questions"
+  page-footer:
+    left: "SSDA / DSC Institutional History: an independent research project, not an official UCLA Library publication."
+    right: "Status: draft, research in progress. See [Sources & Open Questions](sources.qmd)."
+
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true

@@ -62,11 +62,12 @@ settles two "(verify)" items in `timeline.md`: UCLA's 1961 start and the DSC's 2
 - Pairs with Dennis et al. 2021 (the published version of this arc) and Rice & Southall
   2016 for the three-source lineage spine already planned in `sources-log.md`.
 
-## Companion deck: DIIT staff meeting, 2017-09-19 (added 2026-07-08)
+## Companion deck: DIIT staff meeting, 2017-09-19 (added 2026-07-08; raw file added 2026-07-31)
 
 Two months earlier, same lineage, same tagline ("Providing archive and data services since
-1961"). Raw markdown in `inbox/processed/2026-07-08-diit-deck-2017-09-19.md`. What it adds
-over the November deck:
+1961"). Raw markdown now in `evidence/Data Archive Preso.md` (a prior reference to
+`inbox/processed/2026-07-08-diit-deck-2017-09-19.md` pointed outside this repo; corrected).
+What it adds over the November deck:
 
 - **Jamie Jamison identified**: the deck's intro slide lists Jamie Jamison (PA 3) alongside
   Tim (Director) - this is the "Jamie" the 1970 census-hire memory traces to.
@@ -86,3 +87,17 @@ over the November deck:
   communities of practice around the Archive's data services") are the DSC mission in draft.
 - **Roper 1957 named in Tim's own notes** ("first Roper Center 1957") - the same founding
   cohort date Rice & Southall's Table 1.1 documents, cited independently seven years earlier.
+- **ISSR described, thinly**: speaker notes call ISSR "a service unit supporting secondary
+  analysis" - the first actual description of what ISSR did, not just that the archive was
+  under it. Still no directors, no staff, no operational detail for 1977-2014.
+- **No mention of Donald Treiman.** The history table goes straight from "1964 Merged with
+  Survey Research Center" to "1977 Became part of ISSR" - this is a second internal source
+  using ISSR-only framing for 1977, with no Treiman named anywhere. See the caveat in
+  `ssda-harvard-dataverse-about.md` about reconciling Treiman against ISSR.
+- **Important epistemic flag**: this deck's "Role of the Data Archive" slide
+  (hypothesis development → grant/funding → data collection/analysis/management →
+  long-term preservation) is near-verbatim the mission paragraph on the current Harvard
+  Dataverse About page (`ssda-harvard-dataverse-about.md`). That page is very likely
+  maintained by the same team and recycles this 2017 language, not an independent source.
+  Its historical claims (Treiman, "8 founding ICPSR members") should be treated as
+  institutional self-description to verify externally, not as third-party corroboration.

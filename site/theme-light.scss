@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+
+// UCLA Brand Guidelines (brand.ucla.edu/identity/colors), pulled 2026-07-31
+$ucla-blue:          #2774AE; // Primary
+$ucla-gold:          #FFD100; // Primary
+$ucla-blue-darkest:  #003B5C;
+$ucla-blue-darker:   #005587;
+$ucla-blue-lighter:  #8BB8EE;
+$ucla-blue-lightest: #DAEBFE;
+$ucla-gold-darkest:  #FFB81C;
+$ucla-gold-darker:   #FFC72C;
+$ucla-gray-80:       #333333; // UCLA's own recommended body-text color on white
+$ucla-gray-20:       #CCCCCC;
+$ucla-gray-10:       #E5E5E5;
+$ucla-gray-05:       #F2F2F2;
+
+// UCLA's "interactive" link palette (distinct from the brand blue,
+// chosen by UCLA for accessibility, not just decoration)
+$ucla-link:          #00598C;
+$ucla-link-hover:    #0079BF;
+$ucla-link-active:   #003B5C;
+$ucla-link-visited:  #5223B0;
+
+$primary:       $ucla-blue;
+$secondary:     $ucla-gray-80;
+$body-color:    $ucla-gray-80;
+$body-bg:       #FFFFFF;
+$link-color:    $ucla-link;
+$headings-color: $ucla-blue-darkest;
+
+$navbar-bg:         $ucla-blue;
+$navbar-fg:         #FFFFFF;
+$navbar-hl:         $ucla-gold;
+
+$border-color:  $ucla-gray-20;
+$table-border-color: $ucla-gray-20;
+
+/*-- scss:rules --*/
+
+a {
+  color: $ucla-link;
+}
+a:hover {
+  color: $ucla-link-hover;
+}
+a:visited {
+  color: $ucla-link-visited;
+}
+
+.navbar {
+  border-bottom: 3px solid $ucla-gold;
+}
+
+.status-banner {
+  border-left: 4px solid $ucla-gold-darkest;
+  background: rgba(255, 184, 28, 0.08);
+}

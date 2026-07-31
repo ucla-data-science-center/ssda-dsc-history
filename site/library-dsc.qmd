@@ -1,0 +1,86 @@
+---
+title: "Joining the Library & the Data Science Center (2014–present)"
+---
+
+::: {.callout-note}
+## Source
+This chapter draws heavily on a full book-chapter draft already written by DSC
+staff (`evidence/data-sci-libraries_chapter_edits.md`, "From a Data Archive to
+Data Science," Dennis, Yao, Phan, Allen, Jamison, Daniels, Ali) and the 2014 SSDA→
+Library MOU (`evidence/ssda-library-mou.md`). Most of what follows can be adapted
+directly from that chapter rather than rewritten from scratch.
+:::
+
+## The 2014 transfer
+
+The Social Science Data Archive transferred from UCLA's Social Sciences Division
+to the UCLA Library via a Memorandum of Understanding, drafted and effective
+November 1, 2014, and executed August 2015 (Virginia Steel, University Librarian,
+2015-08-04; Alessandro Duranti, Dean of Social Sciences, 2015-08-10). The MOU
+transferred:
+
+- 2.0 FTE and approximately $245,000 in permanent funds
+- Approximately $29,000 in permanent subscription funds (ICPSR, Roper, UC
+  Berkeley/SDA, Colectica/Algenta)
+- A "Data Archive Purchase Fund" foundation gift (~$10,477)
+- Two staff with continuous service: Elizabeth "Libbie" Stephenson (Librarian)
+  and Jina/Jamie Jamison (Programmer/Analyst), a director and a data archivist
+  per the book chapter
+
+The MOU also included a consultation clause: if the Library later made
+"substantial changes to the operations of Social Sciences Data Archives," the
+Library and the Social Sciences Division were to meet and ensure continuity of
+faculty access to services.
+
+By the 2010s, SSDA's narrow service profile (survey research data collection,
+management, and preservation) no longer matched researchers' emerging needs
+across formats (text, image, audio) and disciplines. The move to the Library was
+framed as a way to modernize services rather than simply relocate an existing one.
+
+## The 2018 rebrand: Data Science Center
+
+In Spring 2018, the unit was formally restructured and renamed the **Data Science
+Center (DSC)**, with a new mission statement:
+
+> The Data Science Center's mission is to foster a welcoming research community by
+> developing data literacy and foundational coding skills through consulting and
+> education. We support researchers throughout the full data life cycle of
+> activities: planning research projects and data management plans; data
+> acquisition, storage, cleaning and usage; analysis; publication; curation; and
+> preservation.
+
+The DSC retained SSDA's core services (data literacy, data management, data
+discovery) while broadening scope to serve any discipline, not only the social
+sciences.
+
+## The Carpentries
+
+The DSC joined **The Carpentries**, a volunteer-led data science teaching
+organization, in 2017 (ahead of the formal 2018 rebrand) to scale instruction with
+a limited staff. By the time of the book chapter's writing, Carpentries membership
+at UCLA had grown to over ten instructors across six departments, including the
+entire DSC team.
+
+## UCLA Dataverse
+
+Before joining the Library, SSDA's collections lived on Harvard's hosted Dataverse
+instance. In 2018, the DSC stood up a **local UCLA Dataverse** instance, extending
+the same repository model (DDI metadata support, tiered curation, license
+restriction) to the whole UCLA research community. Research groups can sponsor
+their own branded sub-collections within it.
+
+## Staffing growth
+
+The unit grew from two staff at the 2014 transfer to five full-time staff, adding
+roles in GIS (Spatial Data Science Librarian), computational/data-science
+facilitation, and machine learning. Most of that growth came from redesigning
+existing library positions rather than net-new hiring, supplemented by a
+Carpentries-trained instructor pool and a student program modeled on Carleton
+College's DataSquad.
+
+## A note on scope
+
+This history stops at the DSC's structure as it stood before 2026. As of
+publication, the unit's organizational status is under internal review. This
+history does not attempt to characterize an unresolved process. It will be
+revisited once that process concludes.

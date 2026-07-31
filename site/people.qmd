@@ -1,0 +1,54 @@
+---
+title: "People"
+---
+
+Every named director or staff member identified across the archive's history,
+in one place. This list doubles as the working candidate list for oral-history
+outreach; see [Sources & Open Questions](sources.qmd) for the status of that
+effort. Living/availability status has not been checked for anyone below unless
+noted.
+
+## Founders
+
+| Name | Role | Period | Confidence |
+|---|---|---|---|
+| Dwaine Marvick | Founder, Political Behavior Archive; UCLA political science professor; ICPR Council chair 1966–67 | Founded archive 1961; ICPSR governing board from 1964, council chair 1966–67. Died February 1999 (stroke) | High for the profile and ICPSR governance role. **His personal founding motivation and any 1962 ICPSR founding role are still not documented**, though a decade-long personal friendship with ICPSR founder Warren Miller (Michigan SRC, early 1950s) makes an informal role newly plausible; see [Origins](origins.qmd#a-founding-member-of-icpsr-1962) |
+
+## The ISSR era (1977–2011)
+
+| Name | Role | Period | Confidence |
+|---|---|---|---|
+| Howard E. Freeman | ISSR founding director | Late 1970s – ~1980 | High |
+| Marilynn B. Brewer | ISSR director | 1983 (snapshot) | High for 1983 |
+| David O. Sears | ISSR director | 1993–2008 | Very high |
+| Eve Fielder | Survey Research Center director | Disputed; see [Origins](origins.qmd#merger-into-the-survey-research-center-1964-disputed) | Disputed |
+| Donald J. Treiman | Designer of 1977 research-support framework (per UCLA's own Dataverse page); UCLA sociology professor | 1977 onward, exact end unclear | Moderate; see [Sources](sources.qmd) |
+| Rita Engelhardt | Head of statistical services (ISSR) | ~early 1980s | Moderate |
+| Donald Witzke | Sampling design (ISSR) | ~early 1980s | Moderate |
+| Michael Greenwell | Director, CATI facility | Undated | Moderate |
+| Ann Cinderella | Assistant director, ISSR | ~early 1980s | Moderate |
+| Madeleine / Madelyn De Maria | Administrative assistant, later assistant director, ISSR | ~1980s | Moderate (spelling varies across sources) |
+| Cheryl Groves | Coding supervisor | ~early 1980s | Moderate |
+| Kathleen O'Kane | Coding supervisor | ~early 1980s | Moderate |
+| Matthew Futterman | Programming (CATI) | ~early 1980s | Moderate |
+| Jack Katola | Programming (CATI) | ~early 1980s | Moderate |
+| Tana Wong | Assistant director, ISSR | 2009 | High for 2009 |
+| Elizabeth "Libbie" Stephenson | SSDA head archivist, later director; ICPSR Official Representative | ~2000s–2014 | Very high |
+
+## Library / DSC era (2014–present)
+
+| Name | Role | Period | Confidence |
+|---|---|---|---|
+| Elizabeth "Libbie" Stephenson | Librarian, continuous service through the 2014 transfer | 2014– | Very high |
+| Jina / Jamie Jamison | Programmer/Analyst, continuous service through the 2014 transfer | 2014– | Very high |
+| Tim Dennis | Director, Data Science Center | 2018– | Very high |
+| Zhiyuan Yao, Leigh Phan, Kristian Allen, Doug Daniels, Ibraheem Ali | DSC staff (book-chapter co-authors) | 2018–present era | High |
+
+## Notes
+
+- Most pre-2014 names beyond Stephenson and Jamison come from a single
+  deep-research pass and have not been independently verified against primary
+  documents. See [Sources & Open Questions](sources.qmd).
+- The distinction between "ISSR/SRC staff generally" and "SSDA-specific staff" is
+  often unclear in the sourcing. Several names above may have served the parent
+  institute broadly rather than the archive specifically.

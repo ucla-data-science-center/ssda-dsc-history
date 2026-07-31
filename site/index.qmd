@@ -1,0 +1,39 @@
+---
+title: "SSDA / DSC Institutional History"
+subtitle: "An intellectual history of UCLA's social science data archive lineage, 1961 to present"
+---
+
+::: {.status-banner}
+**This is a working draft.** Several claims below are still being verified against
+primary sources, and a few points are actively disputed across the sources gathered
+so far. Anywhere you see a caveat callout, treat the claim as a documented lead, not
+a settled fact. See [Sources & Open Questions](sources.qmd) for the full list.
+:::
+
+UCLA's data archive runs from one political scientist's personal collection in
+1961 to a campus-wide research data service today. This site documents that
+lineage on its own terms, independent of any grant proposal, advocacy document,
+or administrative reorganization that happens to reference parts of it.
+
+## The lineage, at a glance
+
+| Year | What happened | Chapter |
+|---|---|---|
+| 1961 | Political scientist Dwaine Marvick founds the Political Behavior Archive | [Origins](origins.qmd) |
+| 1962 | UCLA becomes a founding member institution of ICPSR | [Origins](origins.qmd) |
+| 1964 | The archive merges into UCLA's Survey Research Center | [Origins](origins.qmd) |
+| 1976–77 | The archive becomes a service unit of the Institute for Social Science Research (ISSR) | [The ISSR Era](issr-era.qmd) |
+| ~2009–10 | ISSR is renamed the Institute for Social Research (ISR) | [The ISSR Era](issr-era.qmd) |
+| ~2011 | ISR disappears from UCLA's catalog; the archive continues as a standalone unit | [The ISSR Era](issr-era.qmd) |
+| 2014 | The Social Science Data Archive joins the UCLA Library (MOU executed August 2015) | [Library & DSC](library-dsc.qmd) |
+| 2018 | The unit is renamed the Data Science Center (DSC) | [Library & DSC](library-dsc.qmd) |
+
+This history stops at the DSC's structure as it stood before 2026. See
+[Library & DSC](library-dsc.qmd) for why.
+
+## Where to start
+
+- New here: start with [Origins (1961–1977)](origins.qmd).
+- Looking for a specific person: check the [People](people.qmd) index.
+- Want to know what's solid versus still contested: see
+  [Sources & Open Questions](sources.qmd).

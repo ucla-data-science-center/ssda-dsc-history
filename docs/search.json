@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources & Open Questions",
+    "section": "",
+    "text": "This project treats provisional evidence as provisional, on purpose. This page tracks what’s solid, what’s a lead, and what’s actively disputed, so a claim’s confidence level is never more than one click from the claim itself."
+  },
+  {
+    "objectID": "sources.html#evidence-base",
+    "href": "sources.html#evidence-base",
+    "title": "Sources & Open Questions",
+    "section": "Evidence base",
+    "text": "Evidence base\n\n\n\n\n\n\n\n\nSource\nWhat it covers\nIndependence\n\n\n\n\nucla-ssda-lineage-2017-deck.md\n1961–2018 lineage, internal deck (Nov 2017)\nInternal, primary\n\n\nData Archive Preso.md\nCompanion internal deck (Sept 2017); source of the About-page mission language\nInternal, primary\n\n\nrice-southall-2016-ch1.md\nPeer cohort of founding data archives, 1957–1969\nExternal, scholarly\n\n\nicpsr-history.md\nICPSR’s own founding self-description\nExternal, institutional self-description\n\n\nssda-library-mou.md\n2014 MOU terms\nInternal, primary/legal document\n\n\nssda-harvard-dataverse-about.md\nCurrent Dataverse About page\nInternal, see epistemic flag below\n\n\ndeep-research-report.md\n1977–2014 ISSR-era facts, AI deep-research pass\nExternal sources cited, but not yet independently verified\n\n\ndata-sci-libraries_chapter_edits.md\n2014–present, book-chapter draft\nInternal, primary\n\n\ndeep-research-report2-intellectual-hist.md\nField-level intellectual lineage, AI deep-research pass\nExternal sources cited (primary: ICPSR’s 1962 founding memorandum, Bisco 1966, Hauptmann, institutional histories of Roper/Berkeley/UK Data Archive), not yet independently verified\n\n\nicpsr-founding-members-austin.md\nICPSR’s actual founding member list (22 institutions), pulled directly from ICPSR’s own site\nExternal, primary (Erik Austin, 41-year ICPSR staff member, using membership records)\n\n\nmiller-1962-considerations.md\nWarren Miller’s August 1962 founding memo for ICPSR, with a dated member list and the founding rationale in his own words\nExternal, primary (the actual founding document, not a description of it)\n\n\neulau-1999-miller-marvick-memoir.md\nHeinz Eulau’s 1999 joint memorial for Miller and Marvick: their friendship, careers, and Marvick’s death date\nExternal, primary (personal memoir by a close colleague of both)\n\n\numich-bhl-9938-finding-aid.md\nBentley Historical Library finding aid for ICPSR’s own institutional records, 1962–2007\nExternal, archival index (not yet requested/read; points to specific relevant boxes)"
+  },
+  {
+    "objectID": "sources.html#resolved",
+    "href": "sources.html#resolved",
+    "title": "Sources & Open Questions",
+    "section": "Resolved",
+    "text": "Resolved\n\nUCLA’s ICPSR founding-member status\nConfirmed against the actual 1962 document, not just a later recollection or a university’s own marketing page. Warren Miller’s own August 1962 founding memo lists “University of California at Los Angeles” among the institutions participating “as of July 30, 1962.” See miller-1962-considerations.md. This does not resolve the exact headcount (see below) or Marvick’s personal role (see below)."
+  },
+  {
+    "objectID": "sources.html#pre-1977-connective-tissue",
+    "href": "sources.html#pre-1977-connective-tissue",
+    "title": "Sources & Open Questions",
+    "section": "Open conflicts",
+    "text": "Open conflicts\n\nThe “8 founding members” headcount: not simply wrong, now genuinely unresolved\nThis looked settled, then got more complicated instead of less. Two independent counts put the full initial ICPSR membership above 8: Erik Austin’s founding-years essay counts 22 institutions from membership records, and Warren Miller’s own August 1962 memo names 21 directly, dated “as of July 30, 1962.” Both include UCLA. Neither has an “8” anywhere.\nBut ICPSR’s current director, Maggie Levenstein, independently used the figure “8” during a UCLA visit, not obviously drawing on UCLA’s own page. And ICPSR’s own institutional archive at the Bentley Historical Library holds a folder titled “Committee of Eight, Correspondence and Minutes, 1962-1963,” per its finding aid (umich-bhl-9938-finding-aid.md). A plausible reconciliation: “8” refers to a specific founding committee, not the full 21/22-institution membership roster. Both numbers could be correct, describing two different things. Not confirmed. Nobody has read that folder, and nobody has asked Levenstein what she meant. Either would settle this faster than more inference.\n\n\nEve Fielder’s SRC directorship: 1964 or 1976?\nThree internal sources say the archive merged into the Survey Research Center in 1964 “under Eve Fielder.” A Fielder obituary cited in the deep-research report says she became SRC’s first director in 1976, the same year SRC was reportedly incorporated into ISSR. Not resolved. Needs a documentary check (SRC records, UCLA Sociology/Political Science department histories, or an earlier obituary detail) before either date gets used as fact in the narrative.\n\n\n1977’s institutional home: four accounts, four answers\n\nBoth 2017 decks: the archive came under ISSR.\nThe Dataverse About page: Donald Treiman designed the framework; no institutional home named.\nThe book-chapter draft: the archive was created “as part of the Survey Research Center”; no ISSR mention.\nExternal evidence (UCLA’s 1977–78 General Catalog, per the deep-research report): ISSR is the named parent, with SRC as a component under it.\n\nThe catalog evidence points toward ISSR being correct and the book chapter’s SRC-only framing being the error. That’s an inference though, not a confirmed correction. Verify against the catalog directly.\n\n\nMarvick’s claimed ICPSR founding role\nSeparate question from the headcount above, and also not resolved, though closer than it was. ICPSR’s own first annual report names its initial council members, and Marvick isn’t among them. Neither Austin’s founding-years essay nor Miller’s own 1962 memo mentions him, though Miller’s memo doesn’t name any individual faculty member from any institution, since the Consortium was explicitly built on “institutional rather than individual participation,” so that absence carries less weight than his absence from the council-member list does. What changed: Eulau’s 1999 memorial establishes that Marvick and Miller were close personal friends and research collaborators for a full decade before either the archive or ICPSR existed, together at Michigan’s Survey Research Center in the early 1950s. That’s a real, documented mechanism for “through his efforts” to be true informally, even though no document yet says it directly. His formally documented ICPSR role is governing-board service from 1964, rising to chair of the ICPR Council in 1966-67 (per Eulau), all after founding. The Dataverse page’s “through [Marvick’s] efforts, UCLA was one of the founding members” is now plausible rather than simply unsupported, but still not confirmed by any document found so far.\n\n\nDonald Treiman’s relationship to ISSR\nThe Dataverse page credits him with designing the 1977 framework but doesn’t mention ISSR. The deep-research report notes his CV supports depositor and intellectual involvement but not necessarily a formal ISSR title. Whether he was an ISSR-affiliated director or a faculty collaborator outside ISSR’s own leadership structure is unresolved. His living status is also unconfirmed.\n\n\nNewsletters\nNo digitized ISSR/SSDA newsletter or annual-report run has been found in any public index checked (UCLA General Catalog, eScholarship, Internet Archive, HathiTrust, Google Books, UCLA Digital Library). This is a negative search result. It means “not found here,” not “doesn’t exist.” The physical-location inquiry (UCLA University Archives, former staff) is the live lead for this."
+  },
+  {
+    "objectID": "sources.html#how-to-read-confidence-notes-on-this-site",
+    "href": "sources.html#how-to-read-confidence-notes-on-this-site",
+    "title": "Sources & Open Questions",
+    "section": "How to read confidence notes on this site",
+    "text": "How to read confidence notes on this site\nWhere a claim in the narrative chapters carries a confidence note, it follows this rough scale:\n\nVery high: a primary document in hand (CV, MOU, obituary, catalog entry)\nHigh: a named, dated claim from a credible source, not yet cross-checked\nModerate: plausible, sourced, but only one account exists\nDisputed / unresolved: multiple sources actively disagree"
+  },
+  {
+    "objectID": "sources.html#what-hasnt-been-touched-yet",
+    "href": "sources.html#what-hasnt-been-touched-yet",
+    "title": "Sources & Open Questions",
+    "section": "What hasn’t been touched yet",
+    "text": "What hasn’t been touched yet\n\nIndependent verification of either deep-research report’s citations, one by one\nMarvick’s own papers (correspondence, project records from roughly 1959 to 1964): the likeliest source for his actual stated motivation for founding the archive in 1961, which no source found so far documents directly\nThe APSA oral history project: Eulau’s memoir mentions Marvick interviewed him for it in 1988. Worth checking whether that collection includes other interviews Marvick conducted, or covers Marvick himself\nICPSR’s own institutional records at the Bentley Historical Library (Michigan): a finding aid has been reviewed, not the actual boxes. Specific targets identified: Council meeting minutes for 1966–67 (Marvick’s chair years), the “Committee of Eight” correspondence from 1962–63, and a folder titled “Formation of a Data Repository, 1962.” See umich-bhl-9938-finding-aid.md\nThe cheapest possible next step on the “8 founders” question: just ask Maggie Levenstein, ICPSR’s current director, what she meant. She’s a named, reachable, current source who used the figure directly\nUCLA University Archives records (this site’s research has been entirely public-web so far)\nOral history outreach to any of the people listed on the People page"
+  },
+  {
+    "objectID": "library-dsc.html",
+    "href": "library-dsc.html",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "",
+    "text": "NoteSource\n\n\n\nThis chapter draws heavily on a full book-chapter draft already written by DSC staff (evidence/data-sci-libraries_chapter_edits.md, “From a Data Archive to Data Science,” Dennis, Yao, Phan, Allen, Jamison, Daniels, Ali) and the 2014 SSDA→ Library MOU (evidence/ssda-library-mou.md). Most of what follows can be adapted directly from that chapter rather than rewritten from scratch."
+  },
+  {
+    "objectID": "library-dsc.html#the-2014-transfer",
+    "href": "library-dsc.html#the-2014-transfer",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "The 2014 transfer",
+    "text": "The 2014 transfer\nThe Social Science Data Archive transferred from UCLA’s Social Sciences Division to the UCLA Library via a Memorandum of Understanding, drafted and effective November 1, 2014, and executed August 2015 (Virginia Steel, University Librarian, 2015-08-04; Alessandro Duranti, Dean of Social Sciences, 2015-08-10). The MOU transferred:\n\n2.0 FTE and approximately $245,000 in permanent funds\nApproximately $29,000 in permanent subscription funds (ICPSR, Roper, UC Berkeley/SDA, Colectica/Algenta)\nA “Data Archive Purchase Fund” foundation gift (~$10,477)\nTwo staff with continuous service: Elizabeth “Libbie” Stephenson (Librarian) and Jina/Jamie Jamison (Programmer/Analyst), a director and a data archivist per the book chapter\n\nThe MOU also included a consultation clause: if the Library later made “substantial changes to the operations of Social Sciences Data Archives,” the Library and the Social Sciences Division were to meet and ensure continuity of faculty access to services.\nBy the 2010s, SSDA’s narrow service profile (survey research data collection, management, and preservation) no longer matched researchers’ emerging needs across formats (text, image, audio) and disciplines. The move to the Library was framed as a way to modernize services rather than simply relocate an existing one."
+  },
+  {
+    "objectID": "library-dsc.html#the-2018-rebrand-data-science-center",
+    "href": "library-dsc.html#the-2018-rebrand-data-science-center",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "The 2018 rebrand: Data Science Center",
+    "text": "The 2018 rebrand: Data Science Center\nIn Spring 2018, the unit was formally restructured and renamed the Data Science Center (DSC), with a new mission statement:\n\nThe Data Science Center’s mission is to foster a welcoming research community by developing data literacy and foundational coding skills through consulting and education. We support researchers throughout the full data life cycle of activities: planning research projects and data management plans; data acquisition, storage, cleaning and usage; analysis; publication; curation; and preservation.\n\nThe DSC retained SSDA’s core services (data literacy, data management, data discovery) while broadening scope to serve any discipline, not only the social sciences."
+  },
+  {
+    "objectID": "library-dsc.html#the-carpentries",
+    "href": "library-dsc.html#the-carpentries",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "The Carpentries",
+    "text": "The Carpentries\nThe DSC joined The Carpentries, a volunteer-led data science teaching organization, in 2017 (ahead of the formal 2018 rebrand) to scale instruction with a limited staff. By the time of the book chapter’s writing, Carpentries membership at UCLA had grown to over ten instructors across six departments, including the entire DSC team."
+  },
+  {
+    "objectID": "library-dsc.html#ucla-dataverse",
+    "href": "library-dsc.html#ucla-dataverse",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "UCLA Dataverse",
+    "text": "UCLA Dataverse\nBefore joining the Library, SSDA’s collections lived on Harvard’s hosted Dataverse instance. In 2018, the DSC stood up a local UCLA Dataverse instance, extending the same repository model (DDI metadata support, tiered curation, license restriction) to the whole UCLA research community. Research groups can sponsor their own branded sub-collections within it."
+  },
+  {
+    "objectID": "library-dsc.html#staffing-growth",
+    "href": "library-dsc.html#staffing-growth",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "Staffing growth",
+    "text": "Staffing growth\nThe unit grew from two staff at the 2014 transfer to five full-time staff, adding roles in GIS (Spatial Data Science Librarian), computational/data-science facilitation, and machine learning. Most of that growth came from redesigning existing library positions rather than net-new hiring, supplemented by a Carpentries-trained instructor pool and a student program modeled on Carleton College’s DataSquad."
+  },
+  {
+    "objectID": "library-dsc.html#a-note-on-scope",
+    "href": "library-dsc.html#a-note-on-scope",
+    "title": "Joining the Library & the Data Science Center (2014–present)",
+    "section": "A note on scope",
+    "text": "A note on scope\nThis history stops at the DSC’s structure as it stood before 2026. As of publication, the unit’s organizational status is under internal review. This history does not attempt to characterize an unresolved process. It will be revisited once that process concludes."
+  },
+  {
+    "objectID": "origins.html",
+    "href": "origins.html",
+    "title": "Origins (1961–1977)",
+    "section": "",
+    "text": "UCLA’s data archive lineage begins with Dwaine Marvick, a UCLA political science professor who founded the Political Behavior Archive (PBA) in 1961. Rice & Southall (2016), The Data Librarian’s Handbook, Table 1.1, situates it in the field’s founding cohort: “UCLA Data Services, 1961” ranks as the fourth-oldest social-science data library or service in their sample, after Roper Center (1957), Berkeley (1958), and GESIS (1960), and ahead of ICPSR itself (1962)."
+  },
+  {
+    "objectID": "origins.html#the-political-behavior-archive-1961",
+    "href": "origins.html#the-political-behavior-archive-1961",
+    "title": "Origins (1961–1977)",
+    "section": "",
+    "text": "UCLA’s data archive lineage begins with Dwaine Marvick, a UCLA political science professor who founded the Political Behavior Archive (PBA) in 1961. Rice & Southall (2016), The Data Librarian’s Handbook, Table 1.1, situates it in the field’s founding cohort: “UCLA Data Services, 1961” ranks as the fourth-oldest social-science data library or service in their sample, after Roper Center (1957), Berkeley (1958), and GESIS (1960), and ahead of ICPSR itself (1962)."
+  },
+  {
+    "objectID": "origins.html#why-archives-like-this-one-emerged",
+    "href": "origins.html#why-archives-like-this-one-emerged",
+    "title": "Origins (1961–1977)",
+    "section": "Why archives like this one emerged",
+    "text": "Why archives like this one emerged\nUCLA’s archive is one local expression of a broader postwar development in empirical social science. It wasn’t the product of a single, unified “movement” with one agreed rationale. It’s better described as a family of related infrastructure-building projects, and contemporaries were already discussing them comparatively by the mid-1960s: Ralph Bisco’s 1966 review in the American Political Science Review treats Roper, Berkeley, Michigan, and European archives as one emerging domain.\nThe multi-causal explanation that survives scrutiny: the growth of survey research and behavioral political science produced large bodies of reusable observations. The expense of new surveys created an incentive to preserve and share existing ones. Punch cards, tabulating equipment, and later magnetic tape made large-scale reuse technically possible. Foundations, federal agencies, and membership consortia made the resulting infrastructure sustainable. Training new quantitative researchers wasn’t incidental either. At ICPSR especially, it was a founding purpose, not a service layered on afterward.\nOne correction to how this was framed internally: centralized campus computing is better documented as an enabling condition and a bottleneck than as the originating cause. The clearest founding documents (ICPSR’s 1962 memorandum, Roper’s founding rationale, the UK Data Archive’s founding committee) foreground research demand, cost, and coordination problems. Computing shows up as the means the solution operated through, not the reason the problem became urgent.\nThat framing holds up against the actual founding document. Warren Miller’s August 1962 memo to ISR director Rensis Likert, laying out the case for what became ICPSR, opens with the research problem, not a technology problem: “The rapid increase in scholarly interest in the kinds of data which survey research can provide has far outstripped the availability of the survey mechanism to the interested scholar. This hiatus has become a matter of serious concern to many social scientists.” Computing gets no mention in his stated rationale at all."
+  },
+  {
+    "objectID": "origins.html#a-founding-member-of-icpsr-1962",
+    "href": "origins.html#a-founding-member-of-icpsr-1962",
+    "title": "Origins (1961–1977)",
+    "section": "A founding member of ICPSR, 1962",
+    "text": "A founding member of ICPSR, 1962\nUCLA was among the founding member institutions of the Inter-university Consortium for Political and Social Research (ICPSR), established in 1962 by political scientist Warren E. Miller to solve an organizational bottleneck in the production of empirical political science. Heavily demanded election-study data needed permanent preservation and dissemination, but so did training new researchers to use it and coordinating a scattered research community. Its founding memorandum set four objectives, conceived together rather than as separable services: developing data resources, formal quantitative training, stimulating new research, and a clearinghouse on ongoing work.\nUCLA’s current Dataverse collection page credits this “through [Marvick’s] efforts” and states UCLA was one of 8 founding members. The full institutional membership at founding was larger than 8: Erik Austin, a longtime ICPSR staff member, compiled a list of 22 original institutions from membership records, Michigan plus 21 others. Miller’s own August 1962 memo goes further: it names the members directly, dated “as of July 30, 1962,” and lists 21, “University of California at Los Angeles” among them. Either way, UCLA’s founding-member status is confirmed against the actual 1962 document, not just a later recollection.\nThat looked like the end of the “8” question, and then it got more interesting. ICPSR’s current director, Maggie Levenstein, used the same “8” figure independently during a UCLA visit, not obviously copying UCLA’s own page. And ICPSR’s own institutional archive at the Bentley Historical Library, per its finding aid, holds a folder titled “Committee of Eight, Correspondence and Minutes, 1962-1963.” That’s a plausible, specific referent for “8” that has nothing to do with the 21/22-institution membership count: a smaller founding committee, not the full roster of dues-paying members. If that’s right, both numbers could be correct, describing two different things. Not confirmed. Nobody has read that folder yet.\n\n\n\n\n\n\nWarningThe headcount is fixed. The personal-role claim is now plausible, still not proven.\n\n\n\nUCLA’s founding-member status is confirmed against the primary 1962 document itself. The personal-role question moved, but didn’t resolve. No source found so far, including Miller’s own founding memo, gives documentary evidence Marvick had a formal role in founding ICPSR in 1962. ICPSR’s first annual report names its initial council members, and he isn’t on it. But a 1999 memorial by Heinz Eulau, a colleague of both men, establishes something new: Marvick and Warren Miller were personal friends and research collaborators a full decade before either the archive or ICPSR existed, together at Michigan’s Survey Research Center in the early 1950s. That’s a real, documented channel through which “through his efforts” could plausibly be true, even though nobody has yet found a document that says so directly. His formally documented ICPSR role remains governing-board service starting 1964, rising to chair of the ICPR Council in 1966-67 (per Eulau, more precise than earlier sources), all after founding, not during it. “Marvick helped connect UCLA to the emerging ICPSR network, likely through his friendship with Miller” is now a defensible sentence. “Through his efforts, UCLA was one of the founding members” still isn’t, on direct documentary evidence. See Sources & Open Questions for the full research trail.\n\n\n\nMarvick’s own scholarly profile\nApart from the ICPSR question, Marvick’s documented research program explains why an archive like this would plausibly come from him specifically: survey methods brought from Michigan in 1954, statistical approaches to political behavior, and, per a UC memorial, work as “an early advocate and practitioner of computer applications to political data.” His papers include election surveys, computer codebooks, and printouts spanning Los Angeles politics, the Detroit Area Study, West German elections, and Indian electorate surveys.\nEulau’s 1999 memorial fills in the earlier chapter of that career. Marvick arrived at Michigan’s Survey Research Center in the early 1950s, fresh off a Columbia PhD, as a Carnegie Fellow, working alongside Morris Janowitz on a restudy of the Center’s 1952 election data. Warren Miller was there too, still finishing his own PhD. The two became close, personally and professionally, years before either left Michigan, Miller for a stint at Berkeley, Marvick for UCLA, where Eulau writes he “took deep Western roots.” By 1956 Marvick was already organizing national conversations in the field: he named the three panels for the first APSA meeting sessions devoted exclusively to political behavior. He chaired APSA’s own 1972 annual meeting program at Eulau’s request, and in 1988 spent two days interviewing Eulau for the APSA oral history project, eight double-sided tapes, at his home in Los Angeles.\n\n\n\n\n\n\nNoteWhat’s still not documented: why 1961, specifically\n\n\n\nNo source found so far, including Eulau’s detailed personal memoir, states Marvick’s own reason for founding the archive in 1961. That absence is notable on its own: Eulau’s memoir covers Marvick’s career in real depth, APSA leadership roles, ICPR council chairmanship, his broad intellectual range, his family, and never once mentions the archive. The scholarly profile above makes founding an archive a plausible, well-contextualized move for him, but his personal motivation remains an inference, not a documented fact. His own papers (correspondence, project records from roughly 1959 to 1964) are still the likeliest place that would actually resolve this. Marvick died of a stroke in late February 1999, four weeks after Miller; any direct account would have to come from those papers or from people who knew him, not from him."
+  },
+  {
+    "objectID": "origins.html#merger-into-the-survey-research-center-1964-disputed",
+    "href": "origins.html#merger-into-the-survey-research-center-1964-disputed",
+    "title": "Origins (1961–1977)",
+    "section": "Merger into the Survey Research Center, 1964 (disputed)",
+    "text": "Merger into the Survey Research Center, 1964 (disputed)\nThree internal sources (two 2017 slide decks and the Dataverse About page) agree that the archive merged into UCLA’s Survey Research Center (SRC) in 1964, “under Eve Fielder.” One deck adds detail: the PBA “merged with a planned Archive Data Library the SRC was to house.”\n\n\n\n\n\n\nWarningOpen conflict: was Fielder SRC’s director from 1964?\n\n\n\nA published obituary for Eve Fielder states she became SRC’s first director in 1976, the same year external evidence (UCLA’s General Catalog) places SRC’s incorporation into ISSR. This directly conflicts with the “1964, under Fielder” framing repeated across three internal sources. Two readings are possible: SRC existed from 1964 under a different, unidentified founding director and Fielder took over later, or the “1964 + Fielder” framing in the internal decks compresses two separate events into one. Not resolved. See Sources & Open Questions."
+  },
+  {
+    "objectID": "origins.html#toward-1977",
+    "href": "origins.html#toward-1977",
+    "title": "Origins (1961–1977)",
+    "section": "Toward 1977",
+    "text": "Toward 1977\nWhat’s well-established: by the mid-1970s the archive was operating inside SRC, and by 1976–77 it was reconstituted as a service unit of the Institute for Social Science Research (ISSR). Exactly how SRC’s 1976 incorporation into ISSR relates to the archive’s own December 1977 establishment as a named ISSR unit is covered in the next chapter, The ISSR Era."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SSDA / DSC Institutional History",
+    "section": "",
+    "text": "This is a working draft. Several claims below are still being verified against primary sources, and a few points are actively disputed across the sources gathered so far. Anywhere you see a caveat callout, treat the claim as a documented lead, not a settled fact. See Sources & Open Questions for the full list.\nUCLA’s data archive runs from one political scientist’s personal collection in 1961 to a campus-wide research data service today. This site documents that lineage on its own terms, independent of any grant proposal, advocacy document, or administrative reorganization that happens to reference parts of it."
+  },
+  {
+    "objectID": "index.html#the-lineage-at-a-glance",
+    "href": "index.html#the-lineage-at-a-glance",
+    "title": "SSDA / DSC Institutional History",
+    "section": "The lineage, at a glance",
+    "text": "The lineage, at a glance\n\n\n\nYear\nWhat happened\nChapter\n\n\n\n\n1961\nPolitical scientist Dwaine Marvick founds the Political Behavior Archive\nOrigins\n\n\n1962\nUCLA becomes a founding member institution of ICPSR\nOrigins\n\n\n1964\nThe archive merges into UCLA’s Survey Research Center\nOrigins\n\n\n1976–77\nThe archive becomes a service unit of the Institute for Social Science Research (ISSR)\nThe ISSR Era\n\n\n~2009–10\nISSR is renamed the Institute for Social Research (ISR)\nThe ISSR Era\n\n\n~2011\nISR disappears from UCLA’s catalog; the archive continues as a standalone unit\nThe ISSR Era\n\n\n2014\nThe Social Science Data Archive joins the UCLA Library (MOU executed August 2015)\nLibrary & DSC\n\n\n2018\nThe unit is renamed the Data Science Center (DSC)\nLibrary & DSC\n\n\n\nThis history stops at the DSC’s structure as it stood before 2026. See Library & DSC for why."
+  },
+  {
+    "objectID": "index.html#where-to-start",
+    "href": "index.html#where-to-start",
+    "title": "SSDA / DSC Institutional History",
+    "section": "Where to start",
+    "text": "Where to start\n\nNew here: start with Origins (1961–1977).\nLooking for a specific person: check the People index.\nWant to know what’s solid versus still contested: see Sources & Open Questions."
+  },
+  {
+    "objectID": "issr-era.html",
+    "href": "issr-era.html",
+    "title": "The ISSR Era (1977–2014)",
+    "section": "",
+    "text": "NoteAbout this chapter\n\n\n\nMost of this chapter draws on a single deep-research pass (evidence/deep-research-report.md) that is heavily cited but not yet independently verified claim-by-claim. Treat names, dates, and titles here as well-sourced leads rather than settled fact until spot-checked against the primary documents it cites.\nThe archive’s 37 years under this institutional umbrella break into three distinct subperiods, not one continuous arrangement."
+  },
+  {
+    "objectID": "issr-era.html#issr-proper-1977-late-2000s",
+    "href": "issr-era.html#issr-proper-1977-late-2000s",
+    "title": "The ISSR Era (1977–2014)",
+    "section": "ISSR proper (1977 – late 2000s)",
+    "text": "ISSR proper (1977 – late 2000s)\nAn international directory published through the OECD describes the ISSR Data Archive at UCLA as established in December 1977 to support quantitative research, “primarily secondary analysis.” Data came mainly through UCLA’s ICPSR membership, supplemented by federal statistical agencies (Census Bureau, National Center for Health Statistics, National Center for Education Statistics, Bureau of Labor Statistics) and locally produced studies such as the Los Angeles County Social Survey.\nDirectors identified:\n\n\n\n\n\n\n\n\nDirector\nPeriod\nConfidence\n\n\n\n\nHoward E. Freeman\nLate 1970s – ~1980 (founding director)\nHigh\n\n\nMarilynn B. Brewer\n1983 (snapshot; exact term unknown)\nHigh for 1983\n\n\nDavid O. Sears\n1993–2008\nVery high (per his own CV)\n\n\n\nOperational staff identified (roles tied to ISSR/SRC broadly, not all confirmed as archive-specific): Eve Fielder (SRC director), Rita Engelhardt (statistical services), Donald Witzke (sampling), Michael Greenwell (CATI facility), Ann Cinderella and Madeleine/Madelyn De Maria (assistant directors), Cheryl Groves and Kathleen O’Kane (coding supervision), Matthew Futterman and Jack Katola (programming), Tana Wong (assistant director, 2009)."
+  },
+  {
+    "objectID": "issr-era.html#renamed-institute-for-social-research-20092011",
+    "href": "issr-era.html#renamed-institute-for-social-research-20092011",
+    "title": "The ISSR Era (1977–2014)",
+    "section": "Renamed: Institute for Social Research (~2009–2011)",
+    "text": "Renamed: Institute for Social Research (~2009–2011)\nBy the 2009–10 UCLA General Catalog, the parent institute’s name had changed to the Institute for Social Research (ISR): same phone number, new website (isr.ucla.edu), same components, including the Social Science Data Archive. No director has been identified for the institute under this name. The renamed institute still appears in the 2010–11 catalog."
+  },
+  {
+    "objectID": "issr-era.html#standalone-ssda-20112014",
+    "href": "issr-era.html#standalone-ssda-20112014",
+    "title": "The ISSR Era (1977–2014)",
+    "section": "Standalone SSDA (~2011–2014)",
+    "text": "Standalone SSDA (~2011–2014)\nBy the 2011–12 catalog, neither ISSR nor ISR appears as a named institute. The Social Science Data Archive is listed independently, as a Social Sciences collection, using its own website (dataarchives.ss.ucla.edu). No public source identifies a formal dissolution date or a single institutional successor for the parent institute.\nElizabeth “Libbie” Stephenson is identified as SSDA’s head archivist and later director through this period, overseeing collections and reference services. By the early 2010s the archive was moving toward modern research-data curation practice: a 2013 conference paper documents SSDA experimenting with the DDI-Lifecycle metadata standard and Colectica curation software immediately before the Library transfer."
+  },
+  {
+    "objectID": "issr-era.html#whats-still-unresolved",
+    "href": "issr-era.html#whats-still-unresolved",
+    "title": "The ISSR Era (1977–2014)",
+    "section": "What’s still unresolved",
+    "text": "What’s still unresolved\n\nThe exact reporting line for SSDA between ISR’s disappearance (~2011) and the 2014 Library transfer.\nWho, if anyone, directed the renamed ISR (2009–2011).\nThe formal date and authority for the ISSR-to-ISR rename, and for ISR’s eventual dissolution.\nWhether digitized ISSR/SSDA newsletters exist anywhere outside the indexes checked so far: UCLA General Catalog, eScholarship, Internet Archive, HathiTrust, Google Books, UCLA Digital Library, none found. This is a negative search result, not proof none exist.\n\nContinue to Library & DSC (2014–present)."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Every named director or staff member identified across the archive’s history, in one place. This list doubles as the working candidate list for oral-history outreach; see Sources & Open Questions for the status of that effort. Living/availability status has not been checked for anyone below unless noted."
+  },
+  {
+    "objectID": "people.html#founders",
+    "href": "people.html#founders",
+    "title": "People",
+    "section": "Founders",
+    "text": "Founders\n\n\n\nName\nRole\nPeriod\nConfidence\n\n\n\n\nDwaine Marvick\nFounder, Political Behavior Archive; UCLA political science professor; ICPR Council chair 1966–67\nFounded archive 1961; ICPSR governing board from 1964, council chair 1966–67. Died February 1999 (stroke)\nHigh for the profile and ICPSR governance role. His personal founding motivation and any 1962 ICPSR founding role are still not documented, though a decade-long personal friendship with ICPSR founder Warren Miller (Michigan SRC, early 1950s) makes an informal role newly plausible; see Origins"
+  },
+  {
+    "objectID": "people.html#the-issr-era-19772011",
+    "href": "people.html#the-issr-era-19772011",
+    "title": "People",
+    "section": "The ISSR era (1977–2011)",
+    "text": "The ISSR era (1977–2011)\n\n\n\nName\nRole\nPeriod\nConfidence\n\n\n\n\nHoward E. Freeman\nISSR founding director\nLate 1970s – ~1980\nHigh\n\n\nMarilynn B. Brewer\nISSR director\n1983 (snapshot)\nHigh for 1983\n\n\nDavid O. Sears\nISSR director\n1993–2008\nVery high\n\n\nEve Fielder\nSurvey Research Center director\nDisputed; see Origins\nDisputed\n\n\nDonald J. Treiman\nDesigner of 1977 research-support framework (per UCLA’s own Dataverse page); UCLA sociology professor\n1977 onward, exact end unclear\nModerate; see Sources\n\n\nRita Engelhardt\nHead of statistical services (ISSR)\n~early 1980s\nModerate\n\n\nDonald Witzke\nSampling design (ISSR)\n~early 1980s\nModerate\n\n\nMichael Greenwell\nDirector, CATI facility\nUndated\nModerate\n\n\nAnn Cinderella\nAssistant director, ISSR\n~early 1980s\nModerate\n\n\nMadeleine / Madelyn De Maria\nAdministrative assistant, later assistant director, ISSR\n~1980s\nModerate (spelling varies across sources)\n\n\nCheryl Groves\nCoding supervisor\n~early 1980s\nModerate\n\n\nKathleen O’Kane\nCoding supervisor\n~early 1980s\nModerate\n\n\nMatthew Futterman\nProgramming (CATI)\n~early 1980s\nModerate\n\n\nJack Katola\nProgramming (CATI)\n~early 1980s\nModerate\n\n\nTana Wong\nAssistant director, ISSR\n2009\nHigh for 2009\n\n\nElizabeth “Libbie” Stephenson\nSSDA head archivist, later director; ICPSR Official Representative\n~2000s–2014\nVery high"
+  },
+  {
+    "objectID": "people.html#library-dsc-era-2014present",
+    "href": "people.html#library-dsc-era-2014present",
+    "title": "People",
+    "section": "Library / DSC era (2014–present)",
+    "text": "Library / DSC era (2014–present)\n\n\n\n\n\n\n\n\n\nName\nRole\nPeriod\nConfidence\n\n\n\n\nElizabeth “Libbie” Stephenson\nLibrarian, continuous service through the 2014 transfer\n2014–\nVery high\n\n\nJina / Jamie Jamison\nProgrammer/Analyst, continuous service through the 2014 transfer\n2014–\nVery high\n\n\nTim Dennis\nDirector, Data Science Center\n2018–\nVery high\n\n\nZhiyuan Yao, Leigh Phan, Kristian Allen, Doug Daniels, Ibraheem Ali\nDSC staff (book-chapter co-authors)\n2018–present era\nHigh"
+  },
+  {
+    "objectID": "people.html#notes",
+    "href": "people.html#notes",
+    "title": "People",
+    "section": "Notes",
+    "text": "Notes\n\nMost pre-2014 names beyond Stephenson and Jamison come from a single deep-research pass and have not been independently verified against primary documents. See Sources & Open Questions.\nThe distinction between “ISSR/SRC staff generally” and “SSDA-specific staff” is often unclear in the sourcing. Several names above may have served the parent institute broadly rather than the archive specifically."
+  }
+]

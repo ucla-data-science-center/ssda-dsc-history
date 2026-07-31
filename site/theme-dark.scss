@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+
+// UCLA Brand Guidelines (brand.ucla.edu/identity/colors), pulled 2026-07-31.
+// Dark mode isn't part of UCLA's own guidelines, so this translates their
+// stated philosophy ("a field of blue with a gold accent says UCLA") into a
+// dark palette: dark blue field, gold accents, lighter blue for legible links.
+$ucla-blue:          #2774AE;
+$ucla-blue-darkest:  #003B5C;
+$ucla-blue-darker:   #005587;
+$ucla-blue-lighter:  #8BB8EE;
+$ucla-gold:          #FFD100;
+$ucla-gold-darker:   #FFC72C;
+$ucla-gray-10:       #E5E5E5;
+$ucla-gray-20:       #CCCCCC;
+
+$ucla-dark-bg:       #0A1929; // darker than UCLA's own "Darkest Blue," for contrast
+
+$primary:       $ucla-blue-lighter;
+$secondary:     $ucla-gray-20;
+$body-color:    $ucla-gray-10;
+$body-bg:       $ucla-dark-bg;
+$link-color:    $ucla-blue-lighter;
+$headings-color: $ucla-gold;
+
+$navbar-bg:         $ucla-blue-darkest;
+$navbar-fg:         #FFFFFF;
+$navbar-hl:         $ucla-gold;
+
+$border-color:  #1E3A52;
+$table-border-color: #1E3A52;
+
+/*-- scss:rules --*/
+
+a {
+  color: $ucla-blue-lighter;
+}
+a:hover {
+  color: $ucla-gold;
+}
+a:visited {
+  color: $ucla-gray-20;
+}
+
+.navbar {
+  border-bottom: 3px solid $ucla-gold;
+}
+
+.status-banner {
+  border-left: 4px solid $ucla-gold;
+  background: rgba(255, 209, 0, 0.08);
+}

@@ -1,0 +1,149 @@
+---
+title: "Sources & Open Questions"
+---
+
+This project treats provisional evidence as provisional, on purpose. This page
+tracks what's solid, what's a lead, and what's actively disputed, so a claim's
+confidence level is never more than one click from the claim itself.
+
+## Evidence base
+
+| Source | What it covers | Independence |
+|---|---|---|
+| `ucla-ssda-lineage-2017-deck.md` | 1961–2018 lineage, internal deck (Nov 2017) | Internal, primary |
+| `Data Archive Preso.md` | Companion internal deck (Sept 2017); source of the About-page mission language | Internal, primary |
+| `rice-southall-2016-ch1.md` | Peer cohort of founding data archives, 1957–1969 | External, scholarly |
+| `icpsr-history.md` | ICPSR's own founding self-description | External, institutional self-description |
+| `ssda-library-mou.md` | 2014 MOU terms | Internal, primary/legal document |
+| `ssda-harvard-dataverse-about.md` | Current Dataverse About page | Internal, see epistemic flag below |
+| `deep-research-report.md` | 1977–2014 ISSR-era facts, AI deep-research pass | External sources cited, but **not yet independently verified** |
+| `data-sci-libraries_chapter_edits.md` | 2014–present, book-chapter draft | Internal, primary |
+| `deep-research-report2-intellectual-hist.md` | Field-level intellectual lineage, AI deep-research pass | External sources cited (primary: ICPSR's 1962 founding memorandum, Bisco 1966, Hauptmann, institutional histories of Roper/Berkeley/UK Data Archive), **not yet independently verified** |
+| `icpsr-founding-members-austin.md` | ICPSR's actual founding member list (22 institutions), pulled directly from ICPSR's own site | External, primary (Erik Austin, 41-year ICPSR staff member, using membership records) |
+| `miller-1962-considerations.md` | Warren Miller's August 1962 founding memo for ICPSR, with a dated member list and the founding rationale in his own words | External, primary (the actual founding document, not a description of it) |
+| `eulau-1999-miller-marvick-memoir.md` | Heinz Eulau's 1999 joint memorial for Miller and Marvick: their friendship, careers, and Marvick's death date | External, primary (personal memoir by a close colleague of both) |
+| `umich-bhl-9938-finding-aid.md` | Bentley Historical Library finding aid for ICPSR's own institutional records, 1962–2007 | External, archival index (not yet requested/read; points to specific relevant boxes) |
+
+## Resolved
+
+### UCLA's ICPSR founding-member status
+
+Confirmed against the actual 1962 document, not just a later recollection or
+a university's own marketing page. Warren Miller's own August 1962 founding
+memo lists "University of California at Los Angeles" among the institutions
+participating "as of July 30, 1962." See `miller-1962-considerations.md`.
+This does not resolve the exact headcount (see below) or Marvick's personal
+role (see below).
+
+## Open conflicts {#pre-1977-connective-tissue}
+
+### The "8 founding members" headcount: not simply wrong, now genuinely unresolved
+
+This looked settled, then got more complicated instead of less. Two
+independent counts put the full initial ICPSR membership above 8: Erik
+Austin's founding-years essay counts 22 institutions from membership
+records, and Warren Miller's own August 1962 memo names 21 directly, dated
+"as of July 30, 1962." Both include UCLA. Neither has an "8" anywhere.
+
+But ICPSR's current director, Maggie Levenstein, independently used the
+figure "8" during a UCLA visit, not obviously drawing on UCLA's own page. And
+ICPSR's own institutional archive at the Bentley Historical Library holds a
+folder titled "Committee of Eight, Correspondence and Minutes, 1962-1963,"
+per its finding aid (`umich-bhl-9938-finding-aid.md`). A plausible
+reconciliation: "8" refers to a specific founding committee, not the full
+21/22-institution membership roster. Both numbers could be correct,
+describing two different things. Not confirmed. Nobody has read that folder,
+and nobody has asked Levenstein what she meant. Either would settle this
+faster than more inference.
+
+### Eve Fielder's SRC directorship: 1964 or 1976?
+
+Three internal sources say the archive merged into the Survey Research Center in
+1964 "under Eve Fielder." A Fielder obituary cited in the deep-research report
+says she became SRC's first director in 1976, the same year SRC was reportedly
+incorporated into ISSR. Not resolved. Needs a documentary check (SRC records,
+UCLA Sociology/Political Science department histories, or an earlier obituary
+detail) before either date gets used as fact in the narrative.
+
+### 1977's institutional home: four accounts, four answers
+
+- Both 2017 decks: the archive came under **ISSR**.
+- The Dataverse About page: **Donald Treiman** designed the framework; no
+  institutional home named.
+- The book-chapter draft: the archive was created "as part of the **Survey
+  Research Center**"; no ISSR mention.
+- External evidence (UCLA's 1977–78 General Catalog, per the deep-research
+  report): ISSR is the named parent, with SRC as a component under it.
+
+The catalog evidence points toward ISSR being correct and the book chapter's
+SRC-only framing being the error. That's an inference though, not a confirmed
+correction. Verify against the catalog directly.
+
+### Marvick's claimed ICPSR founding role
+
+Separate question from the headcount above, and also not resolved, though
+closer than it was. ICPSR's own first annual report names its
+initial council members, and Marvick isn't among them. Neither Austin's
+founding-years essay nor Miller's own 1962 memo mentions him, though Miller's
+memo doesn't name any individual faculty member from any institution, since
+the Consortium was explicitly built on "institutional rather than individual
+participation," so that absence carries less weight than his absence from
+the council-member list does. What changed: Eulau's 1999 memorial establishes
+that Marvick and Miller were close personal friends and research
+collaborators for a full decade before either the archive or ICPSR existed,
+together at Michigan's Survey Research Center in the early 1950s. That's a
+real, documented mechanism for "through his efforts" to be true informally,
+even though no document yet says it directly. His formally documented ICPSR
+role is governing-board service from 1964, rising to chair of the ICPR
+Council in 1966-67 (per Eulau), all after founding. The Dataverse page's
+"through [Marvick's] efforts, UCLA was one of the founding members" is now
+plausible rather than simply unsupported, but still not confirmed by any
+document found so far.
+
+### Donald Treiman's relationship to ISSR
+
+The Dataverse page credits him with designing the 1977 framework but doesn't
+mention ISSR. The deep-research report notes his CV supports depositor and
+intellectual involvement but not necessarily a formal ISSR title. Whether he
+was an ISSR-affiliated director or a faculty collaborator outside ISSR's own
+leadership structure is unresolved. His living status is also unconfirmed.
+
+### Newsletters
+
+No digitized ISSR/SSDA newsletter or annual-report run has been found in any
+public index checked (UCLA General Catalog, eScholarship, Internet Archive,
+HathiTrust, Google Books, UCLA Digital Library). This is a negative search
+result. It means "not found here," not "doesn't exist." The physical-location
+inquiry (UCLA University Archives, former staff) is the live lead for this.
+
+## How to read confidence notes on this site
+
+Where a claim in the narrative chapters carries a confidence note, it follows
+this rough scale:
+
+- **Very high**: a primary document in hand (CV, MOU, obituary, catalog entry)
+- **High**: a named, dated claim from a credible source, not yet cross-checked
+- **Moderate**: plausible, sourced, but only one account exists
+- **Disputed / unresolved**: multiple sources actively disagree
+
+## What hasn't been touched yet
+
+- Independent verification of either deep-research report's citations, one by one
+- Marvick's own papers (correspondence, project records from roughly 1959 to
+  1964): the likeliest source for his actual stated motivation for founding
+  the archive in 1961, which no source found so far documents directly
+- The APSA oral history project: Eulau's memoir mentions Marvick interviewed
+  him for it in 1988. Worth checking whether that collection includes other
+  interviews Marvick conducted, or covers Marvick himself
+- ICPSR's own institutional records at the Bentley Historical Library (Michigan):
+  a finding aid has been reviewed, not the actual boxes. Specific targets
+  identified: Council meeting minutes for 1966–67 (Marvick's chair years), the
+  "Committee of Eight" correspondence from 1962–63, and a folder titled
+  "Formation of a Data Repository, 1962." See `umich-bhl-9938-finding-aid.md`
+- The cheapest possible next step on the "8 founders" question: just ask
+  Maggie Levenstein, ICPSR's current director, what she meant. She's a named,
+  reachable, current source who used the figure directly
+- UCLA University Archives records (this site's research has been entirely
+  public-web so far)
+- Oral history outreach to any of the people listed on the [People](people.qmd)
+  page

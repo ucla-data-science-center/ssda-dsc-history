@@ -1,0 +1,89 @@
+---
+title: "The ISSR Era (1977–2014)"
+---
+
+::: {.callout-note}
+## About this chapter
+Most of this chapter draws on a single deep-research pass (`evidence/deep-research-report.md`)
+that is heavily cited but **not yet independently verified claim-by-claim**. Treat
+names, dates, and titles here as well-sourced leads rather than settled fact until
+spot-checked against the primary documents it cites.
+:::
+
+::: {.callout-warning}
+## Four internal sources, four different framings of 1977 {#the-1977-conflict}
+Both 2017 internal decks say the archive came under **ISSR** in 1977. The Dataverse
+About page names Donald Treiman as the 1977 framework's designer with no
+institutional home stated. A later book-chapter draft says the archive was created
+in 1977 "as part of the **Survey Research Center**," no ISSR mention at all.
+External evidence (UCLA's 1977–78 General Catalog, via the deep-research pass)
+supports ISSR as the actual named parent, with SRC as a component under it. That
+makes the book chapter's SRC-only framing the likeliest one to need correcting, but
+confirm it against the catalog directly. Don't assume it. See
+[Sources & Open Questions](sources.qmd).
+:::
+
+The archive's 37 years under this institutional umbrella break into three distinct
+subperiods, not one continuous arrangement.
+
+## ISSR proper (1977 – late 2000s)
+
+An international directory published through the OECD describes the **ISSR Data
+Archive at UCLA** as established in **December 1977** to support quantitative
+research, "primarily secondary analysis." Data came mainly through UCLA's ICPSR
+membership, supplemented by federal statistical agencies (Census Bureau, National
+Center for Health Statistics, National Center for Education Statistics, Bureau of
+Labor Statistics) and locally produced studies such as the **Los Angeles County
+Social Survey**.
+
+**Directors identified:**
+
+| Director | Period | Confidence |
+|---|---|---|
+| Howard E. Freeman | Late 1970s – ~1980 (founding director) | High |
+| Marilynn B. Brewer | 1983 (snapshot; exact term unknown) | High for 1983 |
+| David O. Sears | 1993–2008 | Very high (per his own CV) |
+
+**Operational staff identified** (roles tied to ISSR/SRC broadly, not all
+confirmed as archive-specific): Eve Fielder (SRC director), Rita Engelhardt
+(statistical services), Donald Witzke (sampling), Michael Greenwell (CATI
+facility), Ann Cinderella and Madeleine/Madelyn De Maria (assistant directors),
+Cheryl Groves and Kathleen O'Kane (coding supervision), Matthew Futterman and Jack
+Katola (programming), Tana Wong (assistant director, 2009).
+
+## Renamed: Institute for Social Research (~2009–2011)
+
+By the 2009–10 UCLA General Catalog, the parent institute's name had changed to
+the **Institute for Social Research (ISR)**: same phone number, new website
+(`isr.ucla.edu`), same components, including the Social Science Data Archive. No
+director has been identified for the institute under this name. The renamed
+institute still appears in the 2010–11 catalog.
+
+## Standalone SSDA (~2011–2014)
+
+By the 2011–12 catalog, neither ISSR nor ISR appears as a named institute. The
+**Social Science Data Archive** is listed independently, as a Social Sciences
+collection, using its own website (`dataarchives.ss.ucla.edu`). No public source
+identifies a formal dissolution date or a single institutional successor for the
+parent institute.
+
+Elizabeth "Libbie" Stephenson is identified as SSDA's head archivist and later
+director through this period, overseeing collections and reference services. By
+the early 2010s the archive was moving toward modern research-data curation
+practice: a 2013 conference paper documents SSDA experimenting with the
+DDI-Lifecycle metadata standard and Colectica curation software immediately
+before the Library transfer.
+
+## What's still unresolved
+
+- The exact reporting line for SSDA between ISR's disappearance (~2011) and the
+  2014 Library transfer.
+- Who, if anyone, directed the renamed ISR (2009–2011).
+- The formal date and authority for the ISSR-to-ISR rename, and for ISR's eventual
+  dissolution.
+- Whether digitized ISSR/SSDA newsletters exist anywhere outside the indexes
+  checked so far: UCLA General Catalog, eScholarship, Internet Archive,
+  HathiTrust, Google Books, UCLA Digital Library, none found. This is a
+  negative search result, not proof none exist.
+
+Continue to [Library & DSC (2014–present)](library-dsc.qmd).

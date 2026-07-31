@@ -1,0 +1,174 @@
+---
+title: "Origins (1961–1977)"
+---
+
+## The Political Behavior Archive, 1961
+
+UCLA's data archive lineage begins with Dwaine Marvick, a UCLA political
+science professor who founded the **Political Behavior Archive (PBA)** in
+1961. Rice & Southall (2016), *The Data Librarian's Handbook*, Table 1.1,
+situates it in the field's founding cohort: "UCLA Data Services, 1961" ranks
+as the fourth-oldest social-science data library or service in their sample,
+after Roper Center (1957), Berkeley (1958), and GESIS (1960), and ahead of
+ICPSR itself (1962).
+
+## Why archives like this one emerged
+
+UCLA's archive is one local expression of a broader postwar development in
+empirical social science. It wasn't the product of a single, unified
+"movement" with one agreed rationale. It's better described as a **family of
+related infrastructure-building projects**, and contemporaries were already
+discussing them comparatively by the mid-1960s: Ralph Bisco's 1966 review in
+the *American Political Science Review* treats Roper, Berkeley, Michigan, and
+European archives as one emerging domain.
+
+The multi-causal explanation that survives scrutiny: the growth of survey
+research and behavioral political science produced large bodies of reusable
+observations. The expense of new surveys created an incentive to preserve and
+share existing ones. Punch cards, tabulating equipment, and later magnetic
+tape made large-scale reuse technically possible. Foundations, federal
+agencies, and membership consortia made the resulting infrastructure
+sustainable. Training new quantitative researchers wasn't incidental either.
+At ICPSR especially, it was a founding purpose, not a service layered on
+afterward.
+
+One correction to how this was framed internally: **centralized campus
+computing is better documented as an enabling condition and a bottleneck than
+as the originating cause.** The clearest founding documents (ICPSR's 1962
+memorandum, Roper's founding rationale, the UK Data Archive's founding
+committee) foreground research demand, cost, and coordination problems.
+Computing shows up as the means the solution operated through, not the reason
+the problem became urgent.
+
+That framing holds up against the actual founding document. Warren Miller's
+August 1962 memo to ISR director Rensis Likert, laying out the case for what
+became ICPSR, opens with the research problem, not a technology problem: "The
+rapid increase in scholarly interest in the kinds of data which survey
+research can provide has far outstripped the availability of the survey
+mechanism to the interested scholar. This hiatus has become a matter of
+serious concern to many social scientists." Computing gets no mention in his
+stated rationale at all.
+
+## A founding member of ICPSR, 1962
+
+UCLA was among the founding member institutions of the **Inter-university
+Consortium for Political and Social Research (ICPSR)**, established in 1962
+by political scientist Warren E. Miller to solve an organizational bottleneck
+in the production of empirical political science. Heavily demanded
+election-study data needed permanent preservation and dissemination, but so
+did training new researchers to use it and coordinating a scattered research
+community. Its founding memorandum set four objectives, conceived together
+rather than as separable services: developing data resources, formal
+quantitative training, stimulating new research, and a clearinghouse on
+ongoing work.
+
+UCLA's current Dataverse collection page credits this "through [Marvick's]
+efforts" and states UCLA was one of **8** founding members. The full
+institutional membership at founding was larger than 8: Erik Austin, a
+longtime ICPSR staff member, compiled a list of 22 original institutions from
+membership records, Michigan plus 21 others. Miller's own August 1962 memo
+goes further: it names the members directly, dated "as of July 30, 1962," and
+lists 21, "University of California at Los Angeles" among them. Either way,
+UCLA's founding-member status is confirmed against the actual 1962 document,
+not just a later recollection.
+
+That looked like the end of the "8" question, and then it got more
+interesting. ICPSR's current director, Maggie Levenstein, used the same "8"
+figure independently during a UCLA visit, not obviously copying UCLA's own
+page. And ICPSR's own institutional archive at the Bentley Historical
+Library, per its finding aid, holds a folder titled "Committee of Eight,
+Correspondence and Minutes, 1962-1963." That's a plausible, specific referent
+for "8" that has nothing to do with the 21/22-institution membership count:
+a smaller founding committee, not the full roster of dues-paying members. If
+that's right, both numbers could be correct, describing two different things.
+Not confirmed. Nobody has read that folder yet.
+
+::: {.callout-warning}
+## The headcount is fixed. The personal-role claim is now plausible, still not proven.
+UCLA's founding-member status is confirmed against the primary 1962 document
+itself. The personal-role question moved, but didn't resolve. No source found
+so far, including Miller's own founding memo, gives documentary evidence
+Marvick had a formal role in founding ICPSR in 1962. ICPSR's first annual
+report names its initial council members, and he isn't on it. But a 1999
+memorial by Heinz Eulau, a colleague of both men, establishes something new:
+Marvick and Warren Miller were personal friends and research collaborators a
+full decade before either the archive or ICPSR existed, together at
+Michigan's Survey Research Center in the early 1950s. That's a real,
+documented channel through which "through his efforts" could plausibly be
+true, even though nobody has yet found a document that says so directly. His
+formally documented ICPSR role remains governing-board service starting
+**1964**, rising to **chair of the ICPR Council in 1966-67** (per Eulau,
+more precise than earlier sources), all after founding, not during it.
+"Marvick helped connect UCLA to the emerging ICPSR network, likely through
+his friendship with Miller" is now a defensible sentence. "Through his
+efforts, UCLA was one of the founding members" still isn't, on direct
+documentary evidence. See [Sources & Open Questions](sources.qmd) for the
+full research trail.
+:::
+
+### Marvick's own scholarly profile
+
+Apart from the ICPSR question, Marvick's documented research program explains
+why an archive like this would plausibly come from him specifically: survey
+methods brought from Michigan in 1954, statistical approaches to political
+behavior, and, per a UC memorial, work as "an early advocate and practitioner
+of computer applications to political data." His papers include election
+surveys, computer codebooks, and printouts spanning Los Angeles politics, the
+Detroit Area Study, West German elections, and Indian electorate surveys.
+
+Eulau's 1999 memorial fills in the earlier chapter of that career. Marvick
+arrived at Michigan's Survey Research Center in the early 1950s, fresh off a
+Columbia PhD, as a Carnegie Fellow, working alongside Morris Janowitz on a
+restudy of the Center's 1952 election data. Warren Miller was there too,
+still finishing his own PhD. The two became close, personally and
+professionally, years before either left Michigan, Miller for a stint at
+Berkeley, Marvick for UCLA, where Eulau writes he "took deep Western roots."
+By 1956 Marvick was already organizing national conversations in the field:
+he named the three panels for the first APSA meeting sessions devoted
+exclusively to political behavior. He chaired APSA's own 1972 annual meeting
+program at Eulau's request, and in 1988 spent two days interviewing Eulau for
+the APSA oral history project, eight double-sided tapes, at his home in Los
+Angeles.
+
+::: {.callout-note}
+## What's still not documented: why 1961, specifically
+No source found so far, including Eulau's detailed personal memoir, states
+Marvick's own reason for founding the archive in 1961. That absence is
+notable on its own: Eulau's memoir covers Marvick's career in real depth,
+APSA leadership roles, ICPR council chairmanship, his broad intellectual
+range, his family, and never once mentions the archive. The scholarly profile
+above makes founding an archive a plausible, well-contextualized move for
+him, but his personal motivation remains an inference, not a documented fact.
+His own papers (correspondence, project records from roughly 1959 to 1964)
+are still the likeliest place that would actually resolve this. Marvick died
+of a stroke in late February 1999, four weeks after Miller; any direct
+account would have to come from those papers or from people who knew him,
+not from him.
+:::
+
+## Merger into the Survey Research Center, 1964 (disputed)
+
+Three internal sources (two 2017 slide decks and the Dataverse About page)
+agree that the archive merged into UCLA's **Survey Research Center (SRC)** in
+1964, "under Eve Fielder." One deck adds detail: the PBA "merged with a
+planned Archive Data Library the SRC was to house."
+
+::: {.callout-warning}
+## Open conflict: was Fielder SRC's director from 1964?
+A published obituary for Eve Fielder states she became SRC's **first director
+in 1976**, the same year external evidence (UCLA's General Catalog) places
+SRC's incorporation into ISSR. This directly conflicts with the "1964, under
+Fielder" framing repeated across three internal sources. Two readings are
+possible: SRC existed from 1964 under a different, unidentified founding
+director and Fielder took over later, or the "1964 + Fielder" framing in the
+internal decks compresses two separate events into one. **Not resolved.** See
+[Sources & Open Questions](sources.qmd#pre-1977-connective-tissue).
+:::
+
+## Toward 1977
+
+What's well-established: by the mid-1970s the archive was operating inside
+SRC, and by 1976–77 it was reconstituted as a service unit of the Institute
+for Social Science Research (ISSR). Exactly how SRC's 1976 incorporation into
+ISSR relates to the archive's own December 1977 establishment as a named ISSR
+unit is covered in the next chapter, [The ISSR Era](issr-era.qmd).
