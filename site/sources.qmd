@@ -23,6 +23,9 @@ confidence level is never more than one click from the claim itself.
 | `miller-1962-considerations.md` | Warren Miller's August 1962 founding memo for ICPSR, with a dated member list and the founding rationale in his own words | External, primary (the actual founding document, not a description of it) |
 | `eulau-1999-miller-marvick-memoir.md` | Heinz Eulau's 1999 joint memorial for Miller and Marvick: their friendship, careers, and Marvick's death date | External, primary (personal memoir by a close colleague of both) |
 | `umich-bhl-9938-finding-aid.md` | Bentley Historical Library finding aid for ICPSR's own institutional records, 1962–2007 | External, archival index (not yet requested/read; points to specific relevant boxes) |
+| `stephenson-icpsr-sources.md` | ICPSR's retirement interview and award bio for Libbie Stephenson | External, primary (ICPSR's own site) |
+| `dsc-era-people-2026-07-31.md` | Bios for Doug Daniels, Todd Grappone, Tim Dennis, Jamie Jamison | Mixed: UCLA/ICPSR/Carpentries public record, plus Tim's direct testimony where flagged |
+| `newsletter-images-2017-deck.md` | Photographed excerpts of an actual ~1979 SSDA newsletter, embedded in a 2017 internal deck | Internal, primary (contemporaneous newsletter content, not a later description of it) |
 
 ## Resolved
 
@@ -108,23 +111,29 @@ intellectual involvement but not necessarily a formal ISSR title. Whether he
 was an ISSR-affiliated director or a faculty collaborator outside ISSR's own
 leadership structure is unresolved. His living status is also unconfirmed.
 
-### Newsletters
+### Newsletters: partial find, full run still missing
 
-No digitized ISSR/SSDA newsletter or annual-report run has been found in any
+No digitized ISSR/SSDA newsletter or annual-report *run* has been found in any
 public index checked (UCLA General Catalog, eScholarship, Internet Archive,
-HathiTrust, Google Books, UCLA Digital Library). This is a negative search
-result. It means "not found here," not "doesn't exist." The physical-location
-inquiry (UCLA University Archives, former staff) is the live lead for this,
-checking the week of 2026-08-03.
+HathiTrust, Google Books, UCLA Digital Library). That's still true. But real
+newsletter content has now turned up, just not where expected: photographed
+excerpts from an actual ~1979 SSDA newsletter, embedded in the 2017 "Library
+Data Archive" PowerPoint Tim added to evidence. Three new staff names, an
+earlier building location (Franz Hall, then the Gayley Center Building), and
+a resolved identity question (Gina Jamison of the newsletter is Jina/Jamie
+Jamison of today's DSC, confirmed by Tim). See
+`evidence/newsletter-images-2017-deck.md`. The physical-location inquiry
+(UCLA University Archives, former staff, checking the week of 2026-08-03) is
+still the path to anything resembling a full run.
 
-Tim recalls the newsletters referred to the unit informally as "the Data
-Archive," and that this usage spanned multiple formal institutional eras
-(ISSR, the ISR rename, standalone SSDA). Not yet confirmed since the
-newsletters themselves haven't been found. Worth watching for once they
-turn up: it would mean the informal "Data Archive" self-identification
-persisted underneath at least three formal name changes, which would be a
-nice thread connecting the 2017 internal decks' own tagline ("providing
-archive and data services since 1961") back through the whole ISSR era.
+Tim's recollection that the newsletters referred to the unit informally as
+"the Data Archive" is now confirmed by this excerpt: the newsletter's own
+masthead reads "The Social Science Data Archive: Access to Machine-Readable
+Data," and its items refer to "the Data Archive," "Data Archives Library,"
+and "the Data Library" interchangeably. That's the informal
+self-identification persisting through the ISSR era, the same thread as the
+2017 internal decks' tagline ("providing archive and data services since
+1961").
 
 ## How to read confidence notes on this site
 
