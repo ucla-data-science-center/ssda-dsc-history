@@ -37,6 +37,12 @@ management, and preservation) no longer matched researchers' emerging needs
 across formats (text, image, audio) and disciplines. The move to the Library was
 framed as a way to modernize services rather than simply relocate an existing one.
 
+Per Tim Dennis, Todd Grappone, then UCLA Library's AUL for Digital Initiatives
+and Information Technology, shepherded SSDA's transfer into the Library. This
+isn't yet documented in any source beyond Tim's own account as a direct
+participant. Grappone later became University Librarian at UC Santa Barbara in
+2025; see [People](people.qmd) for his fuller career record.
+
 ## The 2018 rebrand: Data Science Center
 
 In Spring 2018, the unit was formally restructured and renamed the **Data Science
@@ -51,7 +57,9 @@ Center (DSC)**, with a new mission statement:
 
 The DSC retained SSDA's core services (data literacy, data management, data
 discovery) while broadening scope to serve any discipline, not only the social
-sciences.
+sciences. Per Tim, Todd Grappone also coined the "Data Science Center" name and
+helped design and reorient the 2018 service model, alongside the 2018 book
+chapter's co-authors.
 
 ## The Carpentries
 
@@ -59,7 +67,9 @@ The DSC joined **The Carpentries**, a volunteer-led data science teaching
 organization, in 2017 (ahead of the formal 2018 rebrand) to scale instruction with
 a limited staff. By the time of the book chapter's writing, Carpentries membership
 at UCLA had grown to over ten instructors across six departments, including the
-entire DSC team.
+entire DSC team. Tim Dennis won The Carpentries' 2018 Community Service Award,
+cited for teaching over 20 workshops and establishing Library Carpentry as a
+Lesson Program within the organization.
 
 ## UCLA Dataverse
 
@@ -67,7 +77,10 @@ Before joining the Library, SSDA's collections lived on Harvard's hosted Dataver
 instance. In 2018, the DSC stood up a **local UCLA Dataverse** instance, extending
 the same repository model (DDI metadata support, tiered curation, license
 restriction) to the whole UCLA research community. Research groups can sponsor
-their own branded sub-collections within it.
+their own branded sub-collections within it. Jina "Jamie" Jamison, whose UCLA
+service traces back through the 2014 transfer, has led on UCLA Dataverse since:
+she represented UCLA at the Dataverse Community Meeting 2021 and authored the
+platform's preservation documentation.
 
 ## Staffing growth
 
@@ -76,7 +89,10 @@ roles in GIS (Spatial Data Science Librarian), computational/data-science
 facilitation, and machine learning. Most of that growth came from redesigning
 existing library positions rather than net-new hiring, supplemented by a
 Carpentries-trained instructor pool and a student program modeled on Carleton
-College's DataSquad.
+College's DataSquad. Doug Daniels joined the DSC team in 2020 as Emerging
+Technologies Librarian, folding the Lux Lab's 3D printing, scanning, and drone
+mapping/imaging services into the center's portfolio; he won UCLA's 2026
+Librarian of the Year Award for that work.
 
 ## A note on scope
 

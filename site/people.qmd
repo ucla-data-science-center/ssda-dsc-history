@@ -33,16 +33,37 @@ noted.
 | Matthew Futterman | Programming (CATI) | ~early 1980s | Moderate |
 | Jack Katola | Programming (CATI) | ~early 1980s | Moderate |
 | Tana Wong | Assistant director, ISSR | 2009 | High for 2009 |
-| Elizabeth "Libbie" Stephenson | SSDA head archivist, later director; ICPSR Official Representative | ~2000s–2014 | Very high |
+| Elizabeth "Libbie" Stephenson | SSDA archivist, later Director; ICPSR Official Representative for UCLA | Started ~1977–78 (per her own account and the 2007 ICPSR award citation), continuous through the 2014 Library transfer | Very high; see below |
+
+::: {.callout-note}
+## Libbie Stephenson: the single best-documented witness to this whole era
+Her UCLA tenure runs almost exactly the length of the ISSR era itself: started
+around 1977, the same year the archive was formally reconstituted as a named
+ISSR unit, and continued through the 2014 Library transfer and two more years,
+retiring in **2016**. BA Fine Arts (UC Riverside, 1975), MLS (UCLA, 1977).
+IASSIST President 1995–97. ICPSR Council 1996–2000. Won the 2007 William H.
+Flanigan Award for Distinguished Service as an ICPSR Official Representative,
+and a 2016 IASSIST achievement award shortly before retiring. See
+`evidence/stephenson-icpsr-sources.md`. **Correction**: an earlier note on this
+site said 2014; that was wrong. Two independent primary sources (the retirement
+article's own date stamp, and its reference to the 2016 IASSIST conference in
+Bergen, Norway, confirmed independently) put it at 2016. She's very likely the
+strongest oral-history candidate on this entire page: unlike Marvick or the
+ISSR-era directors, she retired only a decade ago.
+:::
 
 ## Library / DSC era (2014–present)
 
 | Name | Role | Period | Confidence |
 |---|---|---|---|
-| Elizabeth "Libbie" Stephenson | Librarian, continuous service through the 2014 transfer | 2014– | Very high |
-| Jina / Jamie Jamison | Programmer/Analyst, continuous service through the 2014 transfer | 2014– | Very high |
-| Tim Dennis | Director, Data Science Center | 2018– | Very high |
-| Zhiyuan Yao, Leigh Phan, Kristian Allen, Doug Daniels, Ibraheem Ali | DSC staff (book-chapter co-authors) | 2018–present era | High |
+| Elizabeth "Libbie" Stephenson | Librarian, continuous service through the 2014 transfer | 2014–2016 (retired) | Very high |
+| Jina / Jamie Jamison | Collection Manager, Data Science Center; UCLA Dataverse (spoke/chaired at Dataverse Community Meeting 2021; authored UCLA Dataverse preservation documentation) | Continuous service through the 2014 transfer; per Tim, UCLA tenure predates the transfer by decades, possibly back to the 1980s (not yet independently corroborated) | High for the Library/DSC-era role; the 1980s start is Tim's own recollection, not yet documented |
+| Tim Dennis | Director, Data Science Center; Carpentries Instructor since 2016 | 2018–. Won The Carpentries' 2018 Community Service Award (announced Dec 10, 2018), cited for 20+ workshops taught and establishing Library Carpentry as a Lesson Program | Very high |
+| Doug Daniels | Emerging Technologies Librarian; manages the Lux Lab (3D printing/scanning, laser cutting, VR/XR, drone mapping/imaging); joined UCLA Library as staff 2014, MLIS 2020, moved into the librarian track and onto the DSC team in 2020 | 2020– on DSC | High. Won the 2026 Librarian of the Year Award (LAUC-LA), June 4, 2026 |
+| Todd Grappone | AUL for Digital Initiatives and Information Technology, later interim AUL for Collections/DSC/Resource Acquisitions & Metadata Services (from 2023); per Tim, shepherded SSDA's 2014 transfer into the Library, coined the "Data Science Center" name, and helped design/reorient the 2018 service | At UCLA 2010–2025; now University Librarian, UC Santa Barbara (from July 2025) | High for the UCLA/UCSB career facts (public record); the SSDA/DSC-shepherding role is Tim's direct testimony, not yet independently documented |
+| Leigh Phan | Data Scientist, Data Science Center | 2018–present era | High |
+| Kristian Allen | DSC staff (book-chapter co-author) | 2018–present era | High |
+| Zhiyuan Yao | DSC staff (book-chapter co-author) | 2020–2024 | High |
 
 ## Notes
 
@@ -52,3 +73,8 @@ noted.
 - The distinction between "ISSR/SRC staff generally" and "SSDA-specific staff" is
   often unclear in the sourcing. Several names above may have served the parent
   institute broadly rather than the archive specifically.
+- Several 2014–present entries above rest partly on Tim's own direct recollection
+  as a participant, not yet cross-checked against a document. That's a different,
+  valid kind of source (oral testimony from someone who was there), not a lesser
+  one, but it's marked separately from publicly documented facts so the two don't
+  blur together.

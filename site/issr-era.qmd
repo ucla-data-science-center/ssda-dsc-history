@@ -67,12 +67,16 @@ collection, using its own website (`dataarchives.ss.ucla.edu`). No public source
 identifies a formal dissolution date or a single institutional successor for the
 parent institute.
 
-Elizabeth "Libbie" Stephenson is identified as SSDA's head archivist and later
-director through this period, overseeing collections and reference services. By
-the early 2010s the archive was moving toward modern research-data curation
+Elizabeth "Libbie" Stephenson, the archive's head archivist and later director,
+is the strongest through-line across this entire chapter. She started around
+1977, the same year the archive became a named ISSR unit, and stayed through
+the 2014 Library transfer, retiring in 2016. That means one person's tenure
+spans essentially the whole ISSR era end to end, plus two more years. By the
+early 2010s the archive was moving toward modern research-data curation
 practice: a 2013 conference paper documents SSDA experimenting with the
 DDI-Lifecycle metadata standard and Colectica curation software immediately
-before the Library transfer.
+before the Library transfer. See [People](people.qmd) for her full career
+profile and `evidence/stephenson-icpsr-sources.md` for sourcing.
 
 ## What's still unresolved
 
