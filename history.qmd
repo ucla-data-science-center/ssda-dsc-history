@@ -67,21 +67,21 @@ methodology, and open discrepancies not yet resolved — is at
 ## A note on the author's position
 
 Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
-through 2026. For that period this is participant history — written by someone who was in the
-events and is also their historian. Three things follow, and are applied throughout:
+through 2026. This is his account of the archive's history, written to leave a durable record of
+a function that ran continuously for six decades and is now being reorganized out of its
+standalone form. It is a perspective, not a neutral chronicle — no institutional history is. But
+the record it rests on is held to a plain standard:
 
-- Contemporary claims are tied to cited institutional records, not to memory or recollection.
-  Because the author took part in these events, the recent decades are held to a higher
-  documentation standard than the earlier ones, not a looser one.
-- Evaluative judgments — what worked, what mattered, what was lost — are marked as judgments, not
-  stated as fact.
-- Work done by a team is credited to the team. Individual attribution is used only where
-  authorship, formal authority, or accountability is historically material.
+- Contemporary claims are tied to cited institutional records, not to memory. Because the author
+  took part in the recent decades, those are held to a higher documentation standard than the
+  earlier ones, not a looser one.
+- Evaluative judgments — what worked, what mattered, what was lost — are marked as judgments.
+- Causal claims don't outrun the evidence.
+- Work done by a team is credited to the team; individual attribution only where authorship,
+  formal authority, or accountability is historically material.
 
-The evidence cutoff for this draft is **2026-08-31**. Before it is finalized the document will be
-read by at least one person outside the unit, for factual support, proportion, and treatment of
-contrary evidence; that reviewer will be named here. Corrections and version history live in the
-project repository. Fuller detail on sources and their limits is in
+Evidence cutoff: **2026-08-31**. Corrections and version history are in the project repository.
+Fuller detail on sources and their limits is in
 [Methods and limitations](#methods-and-limitations).
 
 ## Institutional timeline
@@ -597,9 +597,8 @@ advocacy. A repository boundary doesn't change that. What this project does inst
   cited. Where only the review document supports a claim, it's either omitted or explicitly
   attributed as a self-reported account — see [history-companion.qmd](history-companion.html)
   for what's been held to that standard.
-- The evidence cutoff is 2026-08-31. Before the draft is finalized it is reviewed by at least
-  one person outside the unit with relevant historical/archival expertise, for factual support,
-  proportion, and treatment of contrary evidence; that reviewer is named in "A note on the
+- The evidence cutoff is 2026-08-31. An outside read for factual support and proportion is
+  optional, at the author's discretion; if one happens, the reader is named in "A note on the
   author's position."
 
 ## Sources

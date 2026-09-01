@@ -2,8 +2,30 @@
 
 Prompt: `validation-prompt-genre-and-communication-2026-09-01.md`. External model responded with
 a genre verdict, a 7-point critique, recommended outlines for three artifacts, four named
-precedents, and a confidence score of 94/100. Tim reviewed the adjudication and approved
-implementing the craft-level fixes; the direction-setting items are filed as decisions.
+precedents, and a confidence score of 94/100. Tim reviewed the adjudication, adopted the
+craft-level fixes on accuracy grounds, and **rejected the two big structural recommendations**.
+
+## Tim's decision (2026-09-01, after adjudication)
+
+- **Rejected: the two-artifact split (G2/G3).** Tim's framing: "No history is neutral. This is a
+  history from my perspective of the archive, constructed for a purpose — now knowing it will be
+  dissolved, I want a record I can point to, a legacy. How else would we show that continuity?"
+  → **one perspectival institutional history, single document.** Continuity of the function is
+  the thesis. A shorter distillation for a specific audience can be derived later; it is not a
+  separate genre. The reviewer's "genre camouflage" worry is over-applied here — the document is
+  openly authored and openly purposive, which is a legitimate genre, not a disguise.
+- **Rejected: the archival coda (P7).** "Don't describe the dissolution itself." The narrative
+  stops at the DSC's pre-2026 state; one neutral dated line at most.
+- **Rejected as written: the named-outside-reviewer requirement (P2d).** Made optional, at
+  Tim's discretion.
+- **Corrected the Sloan framing further (P3b):** the Sloan $1.85M did not route through DSC. It
+  established the UC OSPO Network; DSC/UCLA is a participating campus that stood up a local OSPO
+  and draws network benefits. Tim is Co-PI. The only PI-directed grant money through UCLA is the
+  IMLS $237,839.
+
+What survived from the review: the accuracy fixes (no overclaimed causation, define
+denominators, "stored" vs "throughput", team-not-person attribution, evidence cutoff) — kept
+because they make the record harder to puncture, not because of any neutrality standard.
 
 ## Verdict (external): "documented institutional retrospective"
 

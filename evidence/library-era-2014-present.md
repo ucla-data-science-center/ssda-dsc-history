@@ -57,11 +57,16 @@ management and curation while modernizing its services to support current resear
 - Workshop attendance: **~1,676 attendees across 148 UCLA departments, 2020–2024** ✅ (dean update)
 - Service interactions: **1,175 documented, 2023–2025 review period** ◐ (peer-review evidence,
   verified against SOPA 2026-07-20)
-- Competitive funding associated with the unit: **IMLS $237,839** (Tim = Project Director;
-  independently verified via imls.gov) + **Sloan G-2024-22424, $1.85M** (Tim = Co-PI) ⚠️ — the
-  Sloan grant funds the **6-campus** UC OSPO Network; DSC's / UCLA's actual share of that $1.85M
-  is not established in the evidence on hand. Do **not** state "$2.09M routed through the unit"
-  without that breakdown — separate PI funding, subawards, and network totals.
+- Competitive grant funding **directed by Tim as PI/Co-PI**: **IMLS RE-252335-OLS-22, $237,839**
+  — Tim = Project Director, awarded to UCLA, funded a 15-lesson open-science curriculum;
+  independently verified via imls.gov. ✅
+- **Sloan G-2024-22424, $1.85M** — Tim = **Co-PI**. This grant **established the 6-campus UC OSPO
+  Network**; it is a network grant, not money routed through DSC. What DSC/UCLA got from it: a
+  **local UCLA OSPO** stood up, Tim leading the network's **Education Working Group**, and the
+  campus benefits that flow from network participation (shared curriculum, licensing/repository
+  guidance, the OSRE student program, UC Open Summit). Describe it as *"Co-PI on the $1.85M
+  Sloan grant that established the UC OSPO Network, through which DSC established UCLA's local
+  OSPO"* — never as "$1.85M in funding through DSC" or a summed "$2.09M through the unit." ✅
 
 ---
 
@@ -75,8 +80,9 @@ discount the whole document:
 - Figures without a denominator, a date, or a comparison point.
 - "Enabled" / "made possible" when the evidence only shows DSC infrastructure was *used*.
 - "100% placement" without the cohort size (10), the date range, and the definition of placement.
-- "$2.09M routed through the unit" — see above; don't conflate PI funding, subawards, and a
-  6-campus network grant total.
+- Funding: the IMLS grant ($237,839, Tim PI) is the one directed through UCLA. The Sloan $1.85M
+  established the **UC OSPO Network** — DSC/UCLA is a participating campus with a local OSPO, not
+  the recipient of that sum. Never sum the two into "$2.09M through the unit."
 - "4.8 PB processed" written as if it meant 4.8 PB preserved, stored, or uniquely analyzed — it
   is cumulative platform throughput, not holdings (holdings ≈ 20 TB).
 - "DSC enabled 2 of UCLA's 6 (33%) 2024 Public Impact Research Award winners" — true as stated,
@@ -258,12 +264,15 @@ practice. The Library era is the same instinct scaled up into a full open-scienc
 
 ### OSPO / UC OSPO Network
 
-- **Sloan Foundation grant G-2024-22424, $1.85M**, May 2024–, Co-PI with Todd Grappone ⚠️ — this
-  funds the **6-campus** UC OSPO Network; UCLA's / DSC's share of the $1.85M is not established
-  in evidence on hand. Needs its own claim + verification before any "funding routed through
-  DSC" total uses the full figure.
-- 6-campus network (Berkeley, Davis, LA, San Diego, Santa Barbara, Santa Cruz); Tim leads the
-  **Education Working Group** and sits on the Leadership Group ✅
+- **Sloan Foundation grant G-2024-22424, $1.85M**, May 2024–, Tim = **Co-PI** with Todd
+  Grappone. The grant **established the UC OSPO Network** — a 6-campus network grant, not funding
+  routed through DSC. Frame it as network participation + local capacity, not a dollar figure
+  through the unit. ✅
+- DSC's stake in it: **UCLA's local OSPO was established** through the network; Tim leads the
+  network's **Education Working Group** and sits on the Leadership Group; benefits flowing to
+  campus include shared curriculum, licensing/repository guidance, the OSRE student program, and
+  UC Open Summit ✅
+- 6-campus network (Berkeley, Davis, LA, San Diego, Santa Barbara, Santa Cruz) ✅
 - **UC Open Summit 2025** (Apr 23–24, UCSC Silicon Valley): ~125 participants, platinum sponsors
   RedHat + CZI, in-kind GitHub; 2026 UC Open tentatively at UCLA ✅
 - The need it addresses: a 2025 scan of ~81,000 UC-affiliated code repositories found **77.5%
