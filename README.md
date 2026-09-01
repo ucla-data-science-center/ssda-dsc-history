@@ -8,26 +8,39 @@ particular proposal or organizational argument (e.g. `ospo_datasquad_grant`, `ds
 
 ## Status
 Draft stage. `history.qmd` (six-era narrative) and `history-companion.qmd` (full evidence
-backing) both exist and render clean. Output form decided 2026-09-01: an internal UCLA Library
-record — completeness and citation to institutional records over narrative polish. Remaining
-work is finalization, not drafting (see Known gaps).
+backing) both exist and render clean; a 2014–present working evidence doc
+(`evidence/library-era-2014-present.md`) is built. Output form is back open pending the
+two-artifact question (see the genre note below and the hub note). The repo also has a parallel
+6-page Quarto site on a separate branch; the two are not yet reconciled.
 
-## Method / independence note
-Tim directs the unit this history is about and is simultaneously the author of documents
-(a grant proposal, reorg response material) that draw on the same facts for advocacy. A
-repo boundary alone doesn't make this history independent — so independence here is
-procedural, not just structural:
-- The author's position (director of the unit) and this project's relationship to
-  `ospo_datasquad_grant` are disclosed, not hidden.
-- Facts are sourced to a claim register (`dsc-evidence-registry`), not asserted from
-  memory — see `claims/ssda-*`, `claims/icpsr-*`, `claims/issr-*` there for what's
-  verified vs. unverified.
-- Documented facts are distinguished from institutional interpretation; discontinuities,
-  gaps, and contested points (see Known gaps below) are stated as such, not smoothed over.
-- `ospo_datasquad_grant` may cite this project's evidence but should not be treated as
-  independent corroboration of a claim that in fact traces back to the same author.
-- Before publication, the draft gets reviewed by at least one person outside the unit
-  with relevant historical/archival expertise.
+## Author position, sources, and limits
+Tim Dennis directed the Social Science Data Archive and Data Science Center from April 2017
+through 2026. For the recent decades this history covers, it is participant history — and he is
+separately the author of documents (a grant proposal, reorg-response material) that use some of
+the same facts for advocacy. A repository boundary doesn't change that. What the project does
+instead:
+- The author's role, and this project's relationship to `ospo_datasquad_grant`, are stated
+  plainly, not left for the reader to find.
+- Facts are sourced to a claim register (`dsc-evidence-registry`), not asserted from memory —
+  see `claims/ssda-*`, `claims/icpsr-*`, `claims/issr-*` there for what's verified vs. unverified.
+- Contemporary claims are held to a higher documentation standard than the earlier decades,
+  precisely because the author took part in them; evaluative judgments are marked as judgments.
+- Team work is credited to the team; individual attribution only where authorship, formal
+  authority, or accountability is historically material.
+- Documented facts are kept separate from interpretation; discontinuities, gaps, and contested
+  points (see Known gaps below) are stated as such, not smoothed over.
+- `ospo_datasquad_grant` may cite this project's evidence, but is not independent corroboration
+  of a claim that traces back to the same author.
+- Evidence cutoff: 2026-08-31. Before the draft is finalized it is read by at least one person
+  outside the unit, for factual support, proportion, and treatment of contrary evidence; that
+  reviewer will be named.
+
+Genre note (2026-09-01, external validation): the 1961–2018 material is institutional history;
+the 2017–2026 material is participant history plus retrospective assessment. An external review
+recommends splitting the output into two coordinated artifacts — a citable institutional history
+(1961–2026) and a shorter, openly-labeled DSC impact retrospective (2017–2026) — sharing one
+evidence base, with the website generated from the canonical text rather than written
+separately. Decision pending (see hub note).
 
 ## What's already gathered (carried over from `ospo_datasquad_grant`, not duplicated there)
 - `evidence/ucla-ssda-lineage-2017-deck.md` — transcript of a 2017 internal deck: 1961 Marvick founding → ICPSR 1962 → ISSR 1977 → Library 2014 → DSC 2018
@@ -88,11 +101,18 @@ Remaining real gaps:
 
 ## Decisions
 
-- **Output form (decided 2026-09-01)** — an internal archival/administrative history for UCLA
-  Library. Less narrative polish, more completeness and citation to institutional records.
+- **Output form** — provisionally "internal UCLA Library record" (2026-09-01), now reopened by
+  the external genre review: likely **two coordinated artifacts** (citable institutional history
+  1961–2026 + shorter DSC impact retrospective 2017–2026), website generated from the canonical
+  text. Not yet decided. See hub note.
 - **Oral history (decided 2026-09-01)** — no broad outreach to former SSDA/ISSR staff. Limited
   to the Jamie Jamison contact already underway (`ucla-data-science-center/dataverse-infrastructure#10`)
   for the 1977-1986 staffing gap.
+- **How the history ends** — the standing rule ("stop at the pre-2026 state, one neutral line on
+  the reorg at most") is challenged by the same review, which argues a closure history that
+  stops before the closure reads as evasive and recommends a ~400–700-word factual "archival
+  coda" (disposition of functions, not evaluation of the decision). Not yet decided; interacts
+  with the confidential labor process.
 
 ## Open questions for Tim
 1. **Registry key / repo name** — using `ssda_dsc_history` / `ssda-dsc-history` as a working name; rename if you want something else.

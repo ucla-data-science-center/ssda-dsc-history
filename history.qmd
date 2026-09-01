@@ -36,14 +36,14 @@ This traces one institutional function — the stewardship of research data at U
 decades and five different institutional homes. It is not a straight line. The unit's name,
 organizational home, and formal scope changed repeatedly; what stayed constant was a
 responsibility to make research evidence findable, usable, and preserved, extended again and
-again to new kinds of evidence as the objects of research changed. Read plainly, without
-imposing today's vocabulary backward: a 1961 archive of punch-card survey data and a 2024 platform
-processing petabytes of restricted voter records are doing the same job with different tools.
+again to new kinds of evidence as the objects of research changed. A 1961 archive of punch-card
+survey data and a 2024 platform processing petabytes of restricted voter records are
+recognizably continuous work — the same responsibility carried to new kinds of evidence — but
+the scale, the methods, and the institutional stakes changed enormously along the way, and this
+account tries not to read today's vocabulary backward onto earlier decades.
 
-This project is written by the current director of the unit it describes. That's disclosed
-here, not hidden — see Methods and limitations for how independence is handled procedurally
-given that fact. A full evidentiary companion — complete people roster, project inventories,
-visualization methodology, and open discrepancies not yet resolved — is at
+A full evidentiary companion — complete people roster, project inventories, visualization
+methodology, and open discrepancies not yet resolved — is at
 [history-companion.qmd](history-companion.html); this document is the narrative, not the full record.
 
 ## The history in 30 seconds
@@ -63,6 +63,26 @@ visualization methodology, and open discrepancies not yet resolved — is at
 - In **2018**, the archive's umbrella became the **Data Science Center**, which extended the same
   stewardship mission to new kinds of research data — 3D and spatial capture, restricted/sensitive
   datasets, and curriculum itself as a citable output.
+
+## A note on the author's position
+
+Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
+through 2026. For that period this is participant history — written by someone who was in the
+events and is also their historian. Three things follow, and are applied throughout:
+
+- Contemporary claims are tied to cited institutional records, not to memory or recollection.
+  Because the author took part in these events, the recent decades are held to a higher
+  documentation standard than the earlier ones, not a looser one.
+- Evaluative judgments — what worked, what mattered, what was lost — are marked as judgments, not
+  stated as fact.
+- Work done by a team is credited to the team. Individual attribution is used only where
+  authorship, formal authority, or accountability is historically material.
+
+The evidence cutoff for this draft is **2026-08-31**. Before it is finalized the document will be
+read by at least one person outside the unit, for factual support, proportion, and treatment of
+contrary evidence; that reviewer will be named here. Corrections and version history live in the
+project repository. Fuller detail on sources and their limits is in
+[Methods and limitations](#methods-and-limitations).
 
 ## Institutional timeline
 
@@ -555,29 +575,32 @@ grant — with their evidence and its limits. Summarized:
 
 ## Methods and limitations
 
-Tim directs the unit this history is about and is simultaneously the author of documents (a
-grant proposal, reorg response material) that draw on the same facts for advocacy. A repo
-boundary alone doesn't make this history independent — so independence here is procedural, not
-just structural:
+The author's position is stated up front, in "A note on the author's position." Tim Dennis
+directed the unit for the recent decades this history covers, and is separately the author of
+documents (a grant proposal, reorg-response material) that draw on some of the same facts for
+advocacy. A repository boundary doesn't change that. What this project does instead:
 
-- The author's position (director of the unit) and this project's relationship to
-  `ospo_datasquad_grant` are disclosed, not hidden.
+- The author's role, and this project's relationship to `ospo_datasquad_grant`, are stated
+  plainly rather than left for the reader to discover.
 - Facts are sourced to a claim register (`dsc-evidence-registry`), not asserted from memory —
   see `claims/ssda-*`, `claims/icpsr-*`, `claims/issr-*`, `claims/dennis-*`, `claims/dsc-*` there
   for what's verified vs. disputed vs. self-reported.
-- Documented facts are distinguished from institutional interpretation; discontinuities, gaps,
+- Documented facts are kept separate from institutional interpretation; discontinuities, gaps,
   and contested points are stated as such, not smoothed over — see README.md "Known gaps" and
   [history-companion.qmd](history-companion.html) "Open discrepancies."
-- `ospo_datasquad_grant` may cite this project's evidence but should not be treated as
-  independent corroboration of a claim that in fact traces back to the same author.
+- `ospo_datasquad_grant` may cite this project's evidence, but it is not independent
+  corroboration of a claim that traces back to the same author.
 - **Self-reported achievement claims** (much of the 2018-present detail comes from Tim's and
-  Doug's own internal personnel-review documents): treated as discovery sources, not sole public
-  evidence. Where independent corroboration exists (press coverage, award records, publication
-  venues, grant award pages), the claim is included and the corroboration is what's cited. Where
-  only the review document supports a claim, it's either omitted or explicitly attributed as a
-  self-reported account — see [history-companion.qmd](history-companion.html) for what's been held to that standard.
-- Before publication, the draft gets reviewed by at least one person outside the unit with
-  relevant historical/archival expertise.
+  Doug's own internal personnel-review documents) are treated as discovery sources, not sole
+  public evidence. Where independent corroboration exists (press coverage, award records,
+  publication venues, grant award pages), the claim is included and the corroboration is what's
+  cited. Where only the review document supports a claim, it's either omitted or explicitly
+  attributed as a self-reported account — see [history-companion.qmd](history-companion.html)
+  for what's been held to that standard.
+- The evidence cutoff is 2026-08-31. Before the draft is finalized it is reviewed by at least
+  one person outside the unit with relevant historical/archival expertise, for factual support,
+  proportion, and treatment of contrary evidence; that reviewer is named in "A note on the
+  author's position."
 
 ## Sources
 

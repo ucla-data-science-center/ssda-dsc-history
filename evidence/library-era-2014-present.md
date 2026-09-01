@@ -57,9 +57,39 @@ management and curation while modernizing its services to support current resear
 - Workshop attendance: **~1,676 attendees across 148 UCLA departments, 2020–2024** ✅ (dean update)
 - Service interactions: **1,175 documented, 2023–2025 review period** ◐ (peer-review evidence,
   verified against SOPA 2026-07-20)
-- Competitive funding routed through the unit: **$2,087,839** (IMLS $237,839 + Sloan $1.85M) ✅
+- Competitive funding associated with the unit: **IMLS $237,839** (Tim = Project Director;
+  independently verified via imls.gov) + **Sloan G-2024-22424, $1.85M** (Tim = Co-PI) ⚠️ — the
+  Sloan grant funds the **6-campus** UC OSPO Network; DSC's / UCLA's actual share of that $1.85M
+  is not established in the evidence on hand. Do **not** state "$2.09M routed through the unit"
+  without that breakdown — separate PI funding, subawards, and network totals.
 
 ---
+
+## 1a. Guardrails against overclaiming (apply to every number below)
+
+From the 2026-09-01 external genre/communication review. Tells that make an academic reader
+discount the whole document:
+
+- Evaluative adjectives ("real and fast", "transformative", "unprecedented", "leading") where
+  the numbers can carry it — cut them.
+- Figures without a denominator, a date, or a comparison point.
+- "Enabled" / "made possible" when the evidence only shows DSC infrastructure was *used*.
+- "100% placement" without the cohort size (10), the date range, and the definition of placement.
+- "$2.09M routed through the unit" — see above; don't conflate PI funding, subawards, and a
+  6-campus network grant total.
+- "4.8 PB processed" written as if it meant 4.8 PB preserved, stored, or uniquely analyzed — it
+  is cumulative platform throughput, not holdings (holdings ≈ 20 TB).
+- "DSC enabled 2 of UCLA's 6 (33%) 2024 Public Impact Research Award winners" — true as stated,
+  but must not slide into "DSC caused one-third of UCLA's award performance." Keep it as: DSC
+  infrastructure/services supported the work of two of the six.
+- Present-day categories (open science, FAIR, governed computation) projected backward onto
+  1970s–80s archival work.
+
+Sequence for each value claim: institutional need/barrier → DSC action and distinctive
+contribution → observable adoption/use → research or institutional outcome → third-party
+recognition → limits and attribution boundary. Make "DSC" the grammatical subject of coordinated
+work; name individuals only where authorship, formal authority, or accountability is
+historically material.
 
 ## 2. The transition itself (brief — full detail elsewhere)
 
@@ -113,7 +143,7 @@ net-new headcount:
 | Zhiyuan Yao | GIS / Spatial Data Science Librarian; IMLS Program Coordinator | ~2020–2024 (left for Assistant Professor, Appalachian State) | GIS librarian role; systemwide UC GIS Week; LARIAC management; specific GIS-analysis project work not independently found | ◐ / ✅ mixed |
 | Kristian Allen | Staff, 0.5 FTE | 2018–2024 | | ◐ |
 | "Gillian" | Staff (named in reorg service-impact record among lost capacity) | ended by ~2024 | ❓ full name, role, dates | ❓ |
-| DataSquad students | Student consultants | 2020/2021 – present | 12+ unique students in the 2023–25 review period; 100% placement (see §10) | ✅ |
+| DataSquad students | Student consultants | 2020/2021 – present | 12+ unique students in the 2023–25 review period; all 10 tracked students placed in data/technical roles (see §14) | ✅ |
 
 ⚠️ **Staffing losses are part of the growth story, honestly told.** The peer-review evidence
 notes DSC "maintained service despite losing 30–40% staff capacity (Zhiyuan Yao, Kristian Allen,
@@ -228,7 +258,10 @@ practice. The Library era is the same instinct scaled up into a full open-scienc
 
 ### OSPO / UC OSPO Network
 
-- **Sloan Foundation grant G-2024-22424, $1.85M**, May 2024–, Co-PI with Todd Grappone ✅
+- **Sloan Foundation grant G-2024-22424, $1.85M**, May 2024–, Co-PI with Todd Grappone ⚠️ — this
+  funds the **6-campus** UC OSPO Network; UCLA's / DSC's share of the $1.85M is not established
+  in evidence on hand. Needs its own claim + verification before any "funding routed through
+  DSC" total uses the full figure.
 - 6-campus network (Berkeley, Davis, LA, San Diego, Santa Barbara, Santa Cruz); Tim leads the
   **Education Working Group** and sits on the Leadership Group ✅
 - **UC Open Summit 2025** (Apr 23–24, UCSC Silicon Valley): ~125 participants, platinum sponsors
@@ -317,18 +350,28 @@ The point at which stewardship came to include **governed computation**, not jus
 describing files.
 
 - **What it closed:** before this, UCLA had no compliant environment for restricted,
-  multi-terabyte national datasets — no way to give a student voter-file access, no secure merge
-  environment for FERPA/PII/PHI/HIPAA-restricted data ✅
-- Tim selected and licensed Redivis, negotiated access to restricted national datasets,
-  navigated **UCLA Third-Party Risk Management (TPRM)** and P3/P4 compliance approval ◐/✅
+  multi-terabyte national datasets of this class — no way to give a student governed voter-file
+  access, no secure merge environment for FERPA/PII/PHI/HIPAA-restricted data at this scale ✅
+  (state the data class and scale — don't leave "UCLA had no compliant environment" unqualified)
+- **DSC** selected and licensed Redivis, coordinated the institutional compliance review (**UCLA
+  Third-Party Risk Management**, P3/P4 approval), and negotiated restricted-dataset access ◐/✅.
+  Draft phrasing for the narrative (per the 2026-09-01 review — DSC as subject, no applause
+  line): *"To support restricted national datasets at this scale, DSC selected and licensed
+  Redivis, coordinated institutional compliance review, negotiated dataset access, and launched
+  the service [date]. Recorded processing grew from 444 GB in the first year to 2.9 PB in 2024.
+  These figures measure platform activity, not unique holdings. DSC provided the access and
+  computational environment; responsibility for the resulting scholarship stayed with the
+  researchers."*
 - ⚠️ **Launch date discrepancy:** peer-review evidence says **launched July 2022**; Tim's SOPA
   says **launched January 2023**. Dean update says "launched in 2022." Plausible: piloted 2022,
   formal/governed launch Jan 2023 — confirm.
 - Governance: **50-seat cap** with data-use-agreement controls (DUA required for all users incl.
   derived datasets; L2 vendor template); primary approver = Data Collections Manager (Jamie),
   escalation = Director; Jira + email intake ✅
-- Scale: ~**20 TB** stored; **147–156 workflows** cumulative ⚠️ (figures vary); **~4.8 PB
-  processed cumulatively** since launch (2.9 PB in 2024, 1.5 PB in 2025) ✅
+- Scale: ~**20 TB stored** (this is the holdings figure); **147–156 workflows** cumulative ⚠️
+  (figures vary); **~4.8 PB cumulative platform throughput** since launch (2.9 PB in 2024, 1.5 PB
+  in 2025) ✅ — throughput is processing volume, not data preserved or uniquely analyzed; keep
+  the two numbers distinct
 - User mix: ~40% faculty, ~41% grad/postdoc, ~14% staff, ~5% IT ✅
 - Funded initially by **University Librarian discretionary funds**, now a sustained ~$47K/year
   subscription through Library central finance ✅ (dean update)
@@ -427,8 +470,10 @@ dates or two different things; current status / who holds it now.
 
 ## 10. Research spotlights
 
-DSC infrastructure/services enabled research by **2 of UCLA's 6 (33%) 2024 Public Impact
-Research Award winners** ✅ (UCLA Newsroom + testimonials).
+DSC infrastructure and services **supported the work of 2 of the 6 recipients** of UCLA's 2024
+Public Impact Research Awards (Shapiro, Keel) ✅ (UCLA Newsroom + testimonials). State it that
+way — not "DSC enabled one-third of UCLA's award winners," which implies DSC caused the award
+performance.
 
 ### Carceral Ecologies — helicopter surveillance
 
@@ -629,11 +674,14 @@ Per UCLA Library's retrospective (`evidence/powell-gifts-and-imls-grant.md`):
 - Reportable project work grew **6 tasks (2023) → 111 (2025)** — demand shifting from one-off
   consults to sustained project support ✅
 - 2023–25 review period: **190 consultations, 12+ unique students** ✅
-- **100% placement** (10/10 documented students) into data-science/analytics/technical roles:
-  Emily Gong → World Wide Technology; Tristan Dewing → Ekimetrics; **Shail Mirpuri → McKinsey**;
-  Vince Front → Five Acres; Lukas Hager → Beam Benefits; Aimee Xu → insurance consulting; Hyerin
-  Lee → AIG; Lawrence Lee → Amazon; Loretta Hu → Stanford (epidemiology); Aditya Bharath → CVS
-  Health ✅; plus Julia Wood → UCLA Library data specialist; Kate McInerny → Sciences Po
+- Placement: **all 10 students whose outcomes were tracked** (the 2023–25 review-period
+  contributors, 155 consultations between them) went into data-science / analytics / technical
+  roles — Emily Gong → World Wide Technology; Tristan Dewing → Ekimetrics; **Shail Mirpuri →
+  McKinsey**; Vince Front → Five Acres; Lukas Hager → Beam Benefits; Aimee Xu → insurance
+  consulting; Hyerin Lee → AIG; Lawrence Lee → Amazon; Loretta Hu → Stanford (epidemiology);
+  Aditya Bharath → CVS Health ✅; plus Julia Wood → UCLA Library data specialist; Kate McInerny →
+  Sciences Po. State it as "the 10 tracked students," with the date range — not a bare "100%
+  placement rate," which implies a measured cohort with a defined denominator.
 - Model adopted internationally via the **DataSquad International** network; DataSquad model
   documented in a co-authored chapter in ACRL's *Data Culture* ✅
 
