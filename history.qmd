@@ -247,22 +247,39 @@ documents. -->
 The 2014 (effective)/2015 (executed) MOU transferred SSDA from the Social Sciences Division to
 the UCLA Library — the first time the archive exited ISSR to become a standalone unit. It
 carried 2.0 FTE, ~$245K in permanent funds, and ~$29K in subscriptions (ICPSR, Roper, UC
-Berkeley/SDA, Colectica/Algenta); staff continuity included Elizabeth Stephenson and Jina
-"Jamie" Jamison [@uclaSsdaMou2014].
+Berkeley/SDA, Colectica/Algenta), plus a small foundation gift fund; staff continuity included
+Elizabeth Stephenson and Jina "Jamie" Jamison [@uclaSsdaMou2014]. The MOU's stated purpose was
+to *expand access to the archive's expertise while modernizing its services* — a mandate to
+grow the function, not just relocate it. It also carried a consultation clause: if the Library
+later made "substantial changes to the operations of Social Sciences Data Archives," it was to
+meet with the Social Sciences Division and ensure continuity of faculty access.
 
 **In April 2017, Tim Dennis was hired as Director of SSDA, succeeding Stephenson**, who had led
-the archive since at least 1986.[^tim-hire] This is the point this history's own author enters
-the institutional record — see Methods and limitations for how that's handled. That November,
-Dennis presented "Library Data Archive" to UCLA Library staff, already framing 1961-2017 as one
-continuous arc under the tagline "Providing archive and data services since 1961"
-[@dennis2017deck]. In 2018, the **Data Science Center (DSC)** formed as the umbrella program —
-the point the archive's function formally broadened beyond social science.
+the archive since at least 1986.[^tim-hire] That November, Dennis presented "Library Data
+Archive" to UCLA Library staff, already framing 1961-2017 as one continuous arc under the
+tagline "Providing archive and data services since 1961" [@dennis2017deck].
+
+In **Spring 2018** the unit was restructured and renamed the **Data Science Center (DSC)**, with
+a new mission statement, a new visual identity, and a scope that formally covered any discipline,
+not just the social sciences. SSDA became a named component of it. Per Tim, Todd Grappone — then
+the Library's AUL for Digital Initiatives and IT — shepherded the 2014 transfer, coined the
+"Data Science Center" name, and helped design the 2018 service model.[^grappone]
 
 [^tim-hire]: Tim Dennis, personal account, 2026-08-09.
 
-<!-- internal working notes: evidence/ssda-library-mou.md; evidence/ucla-ssda-lineage-2017-deck.md -->
+[^grappone]: Tim Dennis, personal account. Grappone's role in the 2014 transfer and the 2018
+naming is not documented in public sources; it rests on the author's account as a participant.
+Grappone became University Librarian at UC Santa Barbara in July 2025.
+
+<!-- internal working notes: evidence/ssda-library-mou.md; evidence/ucla-ssda-lineage-2017-deck.md; evidence/data-sci-libraries_chapter_edits.md; evidence/dsc-era-people-2026-07-31.md -->
 
 ## 2018-present: The Data Science Center
+
+This is the era with the widest gap between the unit's size and its reach, and the era this
+history's author directed — so it is documented against institutional records and cited sources,
+not recollection, and the judgments in it are marked as judgments. Working notes and the full
+evidence trail are in `evidence/library-era-2014-present.md` and
+[history-companion.qmd](history-companion.html).
 
 ### Continuity, not rupture
 
@@ -270,101 +287,209 @@ The 2018 rebrand changed the unit's name and broadened its scope; it didn't repl
 before. `ucla-data-archive_old`, a repository built around the "Data Archive" identity — its
 collections policies, terms, deposit and preservation practices — was created July 2017 and
 actively maintained through May 2020, two years past the point the org's formal name became
-"Data Science Center." The archive's core function (UCLA Dataverse hosting, the direct
-descendant of the LAMAS/SCSS/LACSS lineage) continued operating underneath the new name the
-whole time, and later broadened its own scope directly: DSC now hosts Dataverse collections for
-external UCLA research units spanning law (UCLA Law Behind Bars Data Project, 1,169 items),
-LGBT policy research reaching ICPSR nationally (the Williams Institute's TransPop and
-Generations studies), and archaeology at a scale (Cotsen Institute/DIG, 6,360 items) larger than
-the archive's entire historical corpus combined. Full detail: [history-companion.qmd](history-companion.html).
+"Data Science Center." The archive's core function — repository hosting, the direct descendant of
+the LAMAS/SCSS/LACSS lineage — ran underneath the new name the whole time. **Jina "Jamie"
+Jamison**, who transferred with the archive in 2014, still leads on that repository work today;
+she is the single human through-line across the entire Library era.
+
+Growth over the same span is easy to state and hard to overstate. Staff went from **2.0 FTE at
+the 2014 transfer** (a director and a data archivist) to **five** by roughly 2021 — most of it
+by redesigning existing library positions rather than net-new hiring: a geospatial librarian
+moved in from another department and rebuilt as a Spatial Data Science Librarian, a data manager
+from the Library's IT division rebuilt as a Data Science Facilitator, a Digital Library
+programmer with a machine-learning background recruited across divisions.[^staff-model] UCLA
+Dataverse went from **9 datasets and 229 downloads in January 2020** to roughly **1,600 datasets
+and over 143,000 downloads** by 2026 [^dataverse-count]. That growth was not matched by
+proportional staffing; part of how the unit absorbed it is the student program described below,
+and part is that some capacity was simply lost — a GIS position eliminated in 2024, other roles
+ended, with demand in those areas undiminished.
+
+[^staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
+model. The specific position histories rest partly on the author's account. The 5-FTE peak year
+and the current headcount are not precisely fixed here. [NEEDS TIM: the redesigned-position
+names and dates; whether the "Digital Library programmer" is Leigh Phan; the peak-FTE year.]
+
+[^dataverse-count]: The "~1,600" resolves an apparent discrepancy: UCLA Dataverse holds ~376
+datasets deposited directly at UCLA plus ~1,014 legacy Social Science Data Archive datasets
+harvested in and curated by Library staff (~1,390 released), and 1,603 counting drafts and
+restricted deposits. UCLA's live-dashboard figure of ~377 is the directly-deposited slice. See
+`evidence/library-era-2014-present.md` §4.
 
 ### What stayed constant, and what changed
 
 Across five institutional homes and 60-plus years, the constant has been a responsibility to
 make research evidence findable, usable, and preserved — extended, era by era, to whatever kind
 of evidence researchers were producing. What changed after 2018 is the *range* of objects that
-responsibility covers: not just survey datasets, but 3D and spatial capture, restricted and
-sensitive data requiring governed computational access, and curriculum itself treated as a
-citable research output. Read in sequence, that range traces something like data citation → open
-and FAIR data → open science → software curation → computationally-intensive research support —
-but that sequence is a retrospective way of describing what changed, not a plan any era was
-executing. Three concrete cases carry this era's evidence.
+responsibility covers: not just survey datasets, but restricted and sensitive data requiring
+governed computation, geospatial data and aerial imagery, 3D and spatial capture, research
+software, and curriculum treated as a citable output. Described after the fact, that range
+tracks the field's own sequence — data citation, then open and FAIR data, then open science,
+then software curation, then computationally-intensive research support — but that is a way of
+narrating what changed, not a plan any year was executing. The sections below take the main
+strands in turn.
 
-#### DataSquad: extending stewardship into direct research support
+### The repository: UCLA Dataverse
 
-Tim founded UCLA DataSquad, an undergraduate student consulting program, in 2021, seeded in part
-by Norman Powell's philanthropic gift (see People and stewardship). In the 2023-2025 review
-period alone, DSC and DataSquad together documented 1,175 service interactions, of which 190
-were direct student consultations — capacity that let senior staff take on more complex
-requests while giving students substantive research-support experience. DataSquad students
-worked on the two projects below; graduating students have gone on to McKinsey & Company,
-Amazon, AIG, and Stanford.[^dataSquad-source]
+The legacy SSDA collection had lived on Harvard's hosted Dataverse. In 2018 the DSC stood up a
+**local UCLA instance**, chosen for the same reasons the archive chose Dataverse originally —
+DDI metadata, license restriction, tiered curation from self-service deposit to fully mediated —
+and integrated it with UCLA single sign-on, DOI minting, and preservation alignment through the
+California Digital Library. Research groups sponsor their own branded sub-collections within it,
+self-administered with DSC training. A deliberate director-level choice was to **harvest** the
+legacy SSDA collection into the discovery layer rather than migrate it immediately: continuity
+first, migration later.
 
-[^dataSquad-source]: Tim Dennis, Statement of Professional Achievements, 2023-2025 review
-period, self-reported (see [history-companion.qmd](history-companion.html) on evidentiary treatment of review-document
-claims).
+The collections DSC hosts now run well past social science: the **UCLA Law Behind Bars Data
+Project** (COVID-19 in prisons, jails, and detention nationally; ~1,169 items), the **Williams
+Institute** (whose LGBT law-and-policy data DSC curation helped bring to ICPSR directly —
+TransPop, the first national probability sample of transgender people in the US, among them),
+and the **Cotsen Institute / DIG** archaeology collections (~6,360 items in DIG alone, larger
+than the entire historical SSDA/LAMAS/SCSS/LACSS corpus). DIG's own stated aim — "expand citation
+practices" in archaeology — is the archive's 1980s bibliographic-control instinct, in a
+different field, at a much larger scale.
 
-#### Redivis: from data possession to governed access
+Repository work also meant defending it: in early 2025, AI-driven bots mass-downloaded UCLA
+Dataverse content for apparent model training, rotating across thousands of addresses to evade
+blocking; DSC diagnosed the pattern and deployed an open-source filter that contained it by
+mid-year.[^bots]
 
-Before January 2023, UCLA had no compliant environment for restricted, multi-terabyte national
-datasets — no secure way to give a student voter-file access, no environment for merging
-FERPA/PII/PHI/HIPAA-restricted data. Tim selected and licensed Redivis, negotiated access to
-restricted national datasets, navigated P3/P4 compliance approval, and launched the platform in
-January 2023, designing its governance (a 50-seat model with data-use-agreement controls) so
-that routine access requests wouldn't bottleneck on him.
+[^bots]: Tim Dennis, self-reported (Statement of Professional Achievements, 2023–2025). The
+tool deployed was Anubis. [NEEDS TIM: a ticket or postmortem reference to anchor the dates.]
 
-Adoption was real and fast: the platform grew from 5 workflows and 444 GB processed in its first
-year to 2.9 petabytes in 2024. Working with a UCLA Political Science research group (Straus,
-Thompson, Ferrer, and Geyn), DSC provided both the platform and the data, and that group
-published in *American Political Science Review*, *PNAS*, *British Journal of Political
-Science*, and *AEJ: Applied Economics*.[^redivis-source] A related dataset carries its own DOI
-(UCLA Library, *L2 Voter History and Demographic Dataset*, 2023, doi:10.60603/D33W2T), and the
-work was presented at FORCE11 2024, where doctoral researcher Graham Straus put the
-institutional-continuity point directly: "What happens when I leave UCLA? Will people know how
-the dataset was constructed? Yes!"
+### Governed computation: Redivis and the L2 voter file
 
-The infrastructure enabled this work; it didn't produce the scholarship itself — DSC's
-documented role is selecting, implementing, and supporting the platform and data access, not
-authorship. Read against the throughline above, Redivis's significance isn't primarily an
-"ML/AI" story — it's the point stewardship came to include *governed computation*, not just
-acquiring and describing open files.
+Before this, UCLA had no compliant environment for restricted, multi-terabyte national datasets
+of this class — no governed way to give a student voter-file access, no secure environment for
+merging FERPA/PII/PHI-restricted data at scale. To support that class of data, **DSC selected
+and licensed Redivis, coordinated the institutional compliance review (Third-Party Risk
+Management, P3/P4 approval), negotiated restricted-dataset access, and launched the service**,
+designing a 50-seat, data-use-agreement-controlled governance model so routine requests wouldn't
+bottleneck on one person.[^redivis-source]
 
-[^redivis-source]: Tim Dennis, Statement of Professional Achievements and Data Summary,
-2023-2025 review period, self-reported; the publication venues and Straus quote are the
-independently-checkable part of this claim.
+The flagship case is the **L2 historic voter file** — over 10 TB of national voter history,
+purchased through the archive's gift fund, that arrived as thousands of fragmented state-level
+files too large to store locally and too inconsistent to analyze. DSC consolidated it into a
+single version-controlled national dataset, published with its own DOI (UCLA Library, *L2 Voter
+History and Demographic Dataset*, 2023, doi:10.60603/D33W2T) and presented at FORCE11 2024 by
+Redivis's CEO alongside the doctoral student who curated it, Graham Straus: *"What happens when I
+leave UCLA? Will people know how the dataset was constructed? Yes!"* Researchers use it directly
+across departments — election administration, gentrification, Latino voting, and a project
+merging the voter file with UCLA medical records to study health and voting. Recorded processing
+on the platform grew from 444 GB in its first year to 2.9 PB in 2024; those figures measure
+platform activity, not data held (holdings are ~20 TB). DSC provided the environment and the
+access; the scholarship stayed with the researchers. The significance isn't an "AI" story — it's
+the point stewardship came to include *governed computation*, not just acquiring and describing
+open files.
 
-#### The IMLS grant: curriculum as a citable research output
+[^redivis-source]: Platform and governance detail: Tim Dennis, Statement of Professional
+Achievements and Data Summary, 2023–2025, self-reported. The DOI, the FORCE11 presentation
+(Mathews & Straus 2024, doi:10.5281/zenodo.13181256), and the publication venues are the
+independently checkable parts. [NEEDS TIM: pilot vs. formal launch date — sources say both July
+2022 and January 2023.]
 
-As Project Director on a federal IMLS grant (RE-252335-OLS-22, $237,839, awarded FY2022,
-"Lessons for Librarians in Open Science Principles and Methods") [@imls-re252335], Tim delivered
-15 peer-reviewed open-science lessons against a proposed 14, treating curriculum as a first-class
-research output rather than just teaching material: DOI assignment through Zenodo, CRediT
-taxonomy for author contributions, ORCID integration, and Citation File Format metadata. Twenty-
-eight co-authors across 14 institutions took part; three lessons, including Data Management
-Plans 101, achieved formal adoption into the worldwide Library Carpentry curriculum through
-Tim's chairship of its Curriculum Advisory Committee.
+### Teaching at scale, and open science
 
-This is the era's clearest instance of the "software curation" and "open science" stages of the
-throughline above — and the one with the strongest independent evidence, since a federal grant
-award is verifiable independent of anyone's own account of it.
+Facing tens of thousands of potential learners with a staff of two, the unit joined **The
+Carpentries** in 2017 and used it to grow an instructor community rather than hire one. Tim
+founded **UCLA Carpentries** in 2018 and co-founded the systemwide **UC Carpentries** network in
+2020, when COVID made coordinated cross-campus training necessary; by the 2023–2025 period that
+network ran 37 workshops across six campuses. As chair of Library Carpentry's Curriculum
+Advisory Committee (since 2022), Tim moved several lessons into the official worldwide
+curriculum, including a Data Management Plans lesson aligned to the NIH data-sharing policy.
+
+The IMLS grant **RE-252335-OLS-22** ($237,839, Tim as Project Director) [@imls-re252335] treated
+curriculum itself as a citable research output: 15 peer-reviewed open-science lessons against 14
+proposed, each with a Zenodo DOI, CRediT contributor roles, ORCID identifiers, and Citation File
+Format metadata, built by 27 authors across 14 teams. It is the era's clearest instance of the
+"software curation" and "open science" strands, and — because a federal award is verifiable
+independent of anyone's account of it — the one with the firmest external evidence.
+
+Separately, Tim is **Co-PI on the $1.85M Sloan Foundation grant that established the UC OSPO
+Network**, a six-campus effort to treat open-source software as legitimate scholarly
+infrastructure. That grant funds the network, not DSC; what DSC drew from it is a **local UCLA
+open-source program office**, leadership of the network's education work, and shared services
+(licensing guidance, a repository browser, a summer student research program). The need is
+concrete: a 2025 scan of ~81,000 UC-affiliated code repositories found 77.5% carried no license
+at all.
+
+### Spatial data, 3D capture, and the Lux Lab
+
+Geography has consistently been the unit's single largest workshop audience. Before its GIS
+position was eliminated in 2024, DSC's geospatial librarian handled 70–80 booked consultations a
+year, established a systemwide **UC GIS Week**, ran UC GIS workshops that reached hundreds of
+participants, managed the **LARIAC** regional aerial-imagery holdings (bought through the
+archive's gift fund), and worked with UC San Diego and UC Santa Barbara on geospatial discovery
+for Dataverse. DSC also ran UCLA's campus **ArcGIS Online** platform — grown to over 7,000
+accounts and 3,000-plus active users a year, and, since the position was cut, running past its
+licensed storage with no designated administrator.[^gis]
+
+The clearest single case of the stewardship mission reaching a genuinely new object of research
+is **Doug Daniels** and the **Lux Lab**. Daniels joined the Library in 2013 and the DSC team in
+2020 as Emerging Technologies Librarian; he runs UCLA's point-cloud visualization service
+(pointcloud.ucla.edu, on Potree), is FAA-certified for drone work, and has built a body of
+3D-capture projects across archaeology, medicine, and cultural heritage — Easter Island Moai
+models feeding a Cotsen Institute atlas, cadaver-arm scans now taught in History of Medicine, a
+3D-printed surgical guide in use at the medical center, drone-LiDAR surveys in Cambodia and
+Iceland, and — with DataSquad students and the Vietnamese Heritage Museum — a public 3D
+narrative of a refugee family's maritime escape. He was named a UCLA Librarian of the Year for
+2026. His work also runs straight back to the donor relationship: he scanned Powell Library
+itself, and demonstrated the lab's work to the Powell Society donor circle.
+
+[^gis]: GIS consultation counts and the ArcGIS figures: DSC statistics and Tim Dennis's Data
+Summary, 2023–2025, cross-checked against an OARC governance report (Dec 2025) for the account
+totals. [NEEDS TIM: when and from whom DSC took over ArcGIS Online administration; LARIAC
+vintages and who serves that data now; and the OCR / text-corpus / digitized-document work,
+which is barely documented in what's been gathered.]
+
+### DataSquad: a student research workforce
+
+Modeled on Carleton College's program, **DataSquad** began in 2020 on a Powell gift that funded
+the first cohort's salaries and laptops, with the Library adding funds in 2023 to expand it. It
+pairs undergraduate and graduate consultants with staff on sustained project work; reportable
+project engagements grew from a handful in 2023 to over a hundred in 2025, as departments began
+planning research around its availability rather than calling it only when something broke. Of
+the ten students whose post-graduation outcomes were tracked in the 2023–2025 period, all went
+into data or technical roles — McKinsey, Amazon, AIG, Stanford, CVS Health among them — and the
+model has been picked up elsewhere through a DataSquad International network. Its research
+contributions are documented in the spotlights under [Research impact](#research-impact).
 
 ### People and funding
 
-Norman Powell's philanthropic gifts (a data scientist position, a deep learning machine and DSC
-space in the Charles E. Young Research Library, and DataSquad's seed funding — separately from
-his precisely-dated $5 million December 2016 gift endowing the University Librarian position)
-made much of this era's expansion possible. Doug Daniels, Emerging Technologies Librarian since
-2013 and UCLA's **Librarian of the Year 2026**, built the "Lux Lab" and its 3D/spatial data
-capability into exactly this kind of extended stewardship — including a direct link to Powell's
-patronage (Doug LiDAR-scanned Powell Library itself, and gave recurring demos to the Powell
-Society donor circle, 2017-2019). Leigh Phan's role evolved from programmer to data scientist
-over this period. Full detail on all of this era's people: [history-companion.qmd](history-companion.html).
+Much of this era's expansion ran on **Norman Powell**'s philanthropy — a data-scientist
+position, a deep-learning machine and DSC space in the Young Research Library, and DataSquad's
+seed funding (all separate from his dated $5M December 2016 gift endowing the University
+Librarian position). Just as important was a quieter piece of fiscal stewardship: DSC moved the
+archive's large recurring subscriptions (ICPSR, Roper) off its own gift fund and onto the
+Library's general membership budget — the way research libraries treat major database
+memberships — which freed the archive's original fund to cover the cloud-infrastructure costs of
+Dataverse and the point-cloud platform. That reallocation depended on one role having visibility
+across both the archive's budget and the infrastructure budget at once.[^funding]
 
-<!-- internal working notes: evidence/powell-gifts-and-imls-grant.md; evidence/doug-daniels-and-2018-continuity.md; evidence/sopa-research-enabled-and-intellectual-contributions.md; evidence/data-summaries-and-reconciliation.md -->
+The people who carried the work: Jamie Jamison (repository and curation), Doug Daniels (3D and
+emerging technology), Leigh Phan (programmer to data scientist over this period), a GIS/spatial
+librarian, a data-science facilitator, and the rotating DataSquad students. The full roster,
+with what is and isn't independently documented, is in
+[history-companion.qmd](history-companion.html).
+
+[^funding]: The subscription-to-general-fund move and the reinvestment into infrastructure are
+confirmed in direction by budget ledgers and AWS cost records; the full dollar trail (and the
+dates two other subscriptions were dropped) is partly reconstructed. See
+`evidence/library-era-2014-present.md` §13. [NEEDS TIM: the budget records for the
+infrastructure and dataset purchases funded from the freed line.]
+
+<!-- internal working notes: evidence/library-era-2014-present.md (the full evidence + gap list);
+evidence/powell-gifts-and-imls-grant.md; evidence/doug-daniels-and-2018-continuity.md;
+evidence/dsc-era-hosted-collections.md; evidence/sopa-research-enabled-and-intellectual-contributions.md;
+evidence/data-summaries-and-reconciliation.md -->
 
 <!-- TODO: read Tim's own "From a Data Archive to Data Science" (Dennis et al. 2021, in Herndon
-ed., Data science in the library, Facet Publishing, pp.99-109) [@dennisEtal2021] before finalizing
-this section -- likely already contains a considered account, predating this reconstruction. -->
+ed., Data science in the library, Facet Publishing, pp.99-109) [@dennisEtal2021] -- likely
+already contains a considered account, predating this reconstruction. -->
+<!-- TODO: 7-31 site branch has ISSR-era deep research (Freeman/Brewer/Sears, the Fielder
+conflict) not yet merged into this document. -->
+<!-- Per decision 2026-09-01: the narrative stops here, at the DSC's pre-2026 state. It does not
+describe the 2026 dissolution. -->
+
 
 ## People and stewardship
 
@@ -564,14 +689,18 @@ Publications behind the LACSS dots: [@gershonPantoja2011], [@zambranaEtal2021],
 
 ### Contemporary research enabled
 
-The 2018-present section above develops three cases in full — DataSquad, Redivis, and the IMLS
-grant — with their evidence and its limits. Summarized:
+The 2018-present section above covers the infrastructure — Dataverse, Redivis, the Carpentries
+and open-science work, the spatial and 3D services — and the funding behind it. What that
+infrastructure carried, with the independently checkable part called out:
 
 | Case | What's independently checkable |
 |---|---|
 | Redivis / L2 restricted data | Publication venues (APSR, PNAS, BJPolS, AEJ), a public dataset DOI, a public FORCE11 presentation |
 | IMLS open-science grant | A federal grant award record, public lesson repositories, Library Carpentry's own adoption record |
-| DataSquad | Student placement outcomes (self-reported); the two projects it contributed to (Carceral Ecologies, BioCritical Studies Lab) drew independent national media coverage |
+| Carceral Ecologies (Nicholas Shapiro) | DSC/DataSquad multi-year support on a helicopter-surveillance dataset; national media (*LA Times*, *The New Yorker*, *Bloomberg*); pilot data behind a $5M grant establishing the Dana Center |
+| BioCritical Studies Lab (Terence Keel) | Multi-year DataSquad work on a US deaths-in-custody dataset; a 2024 UCLA Public Impact Research Award; DSC's work credited in Keel's book *The Coroner's Silence* |
+| Refugee Material Culture Initiative (Kelly Nguyen) | Doug Daniels + DataSquad, with the Vietnamese Heritage Museum; a public 3D digital narrative |
+| DataSquad | Student outcomes for the ten tracked graduates (data/technical roles); the projects above drew independent national coverage |
 
 ## Methods and limitations
 
