@@ -14,13 +14,13 @@ link-citations: true
 ---
 
 <!--
-STATUS: 2026-08-09. Split off from history.qmd per the 2026-08-09 validate-external editorial-
-triage adjudication: the public narrative keeps one era-defining transition, one stewardship
-example, and one consequence per era; everything else -- full roster, rotating PIs, exhaustive
-project lists, achievements resting only on performance-review language, full chart methodology,
-open discrepancies -- lives here instead. This document is the "can this be checked" backing
-material; history.qmd is the "what happened and why it matters" narrative. Cross-reference, don't
-duplicate.
+STATUS: 2026-08-09, output form decided 2026-09-01 (internal UCLA Library record). Split off
+from history.qmd per the 2026-08-09 validate-external editorial-triage adjudication: the main
+narrative keeps one era-defining transition, one stewardship example, and one consequence per
+era; everything else -- full roster, rotating PIs, exhaustive project lists, achievements
+resting only on performance-review language, full chart methodology, open discrepancies -- lives
+here instead. This document is the "can this be checked" backing material; history.qmd is the
+"what happened and why it matters" narrative. Cross-reference, don't duplicate.
 -->
 
 ## Full people and stewardship roster

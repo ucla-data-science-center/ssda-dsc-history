@@ -7,7 +7,10 @@ edited under historical evidence standards, rather than organized around the nee
 particular proposal or organizational argument (e.g. `ospo_datasquad_grant`, `dsc_reorg_response`).
 
 ## Status
-Scoping stage. Not yet written.
+Draft stage. `history.qmd` (six-era narrative) and `history-companion.qmd` (full evidence
+backing) both exist and render clean. Output form decided 2026-09-01: an internal UCLA Library
+record — completeness and citation to institutional records over narrative polish. Remaining
+work is finalization, not drafting (see Known gaps).
 
 ## Method / independence note
 Tim directs the unit this history is about and is simultaneously the author of documents
@@ -83,7 +86,13 @@ Remaining real gaps:
 - **2026 reorg context** — whether/how to address the current DSC name change in a history piece
   is an open editorial call, not a research gap.
 
+## Decisions
+
+- **Output form (decided 2026-09-01)** — an internal archival/administrative history for UCLA
+  Library. Less narrative polish, more completeness and citation to institutional records.
+- **Oral history (decided 2026-09-01)** — no broad outreach to former SSDA/ISSR staff. Limited
+  to the Jamie Jamison contact already underway (`ucla-data-science-center/dataverse-infrastructure#10`)
+  for the 1977-1986 staffing gap.
+
 ## Open questions for Tim
-1. **Output form** — long-form written history, an annotated timeline, something meant for publication (IASSIST newsletter, personal site), or an internal archival record for UCLA Library? Determines structure and citation style.
-2. **Oral history** — worth reaching out to former SSDA/ISSR staff while the trail is warm?
-3. **Registry key / repo name** — using `ssda_dsc_history` / `ssda-dsc-history` as a working name; rename if you want something else.
+1. **Registry key / repo name** — using `ssda_dsc_history` / `ssda-dsc-history` as a working name; rename if you want something else.

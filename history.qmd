@@ -21,9 +21,10 @@ roster, rotating PIs, exhaustive project lists, achievements resting only on per
 language, full chart methodology, open discrepancies -- moved to [history-companion.qmd](history-companion.html). Cite the
 companion, don't duplicate it back in here.
 
-Narrative prose for the Introduction is still light -- venue (personal site / IASSIST / internal
-UCLA Library record) isn't decided -- but the analytical framing below doesn't depend on that
-decision, so it's written now. Per the same adjudication: avoid teleology. The
+Output form decided 2026-09-01: an internal UCLA Library archival/administrative record --
+completeness and citation to institutional records over narrative polish. Introduction prose is
+still light and gets a dedicated pass; the analytical framing below holds regardless. Per the
+2026-08-09 adjudication: avoid teleology. The
 data-citation-to-ML/AI sequence is a retrospective synthesis for the recent decades, not the
 historical intention of every era -- period-appropriate language within each era, present-day
 framing only at the transitions between them.
