@@ -1,0 +1,571 @@
+Census of Population and Housing, 1980 (U.S.): PUMS A Sample: 5% Sample, Los Angeles Metropolitan Area Extract Prepared by Donald Treiman (M299V1)
+Census of Population and Housing, 1980 (U.S.): PUMS A Sample: 5% Sample, Immigration Extract Prepared by Donald Treiman (M384V1)
+All About Codebooks
+About Bibliographic Citations
+Sharing Your Data
+Preparing Data for Sharing
+Data Management and Grant Proposals
+Using Restricted Access Data
+Tools for Exploring Data
+Survey Research Resources
+Instructional Support Resources
+Census of Population and Housing, 1980 (U.S.): PUMS A Sample: 5% Sample, New York Metropolitan Area Extract Prepared by Donald Treiman (M067V1)
+Attitudes to Inequality, 1991: A Swedish Survey
+Australian National Political Attitudes, 1967 (M344)
+All About Social Science Data
+Abgrenzung und Konstanz des Mittelstands, 1959 (M439)
+Adult Oral Health in New Zealand, 1976: Kelly Extract
+Annual Report of Long Term Care Facilities, 1994 (M620)
+California Hospital Discharge Survey, 1984 (M415Y84)
+California Hospital Discharge Survey, 1985 (M415Y85)
+California Hospital Discharge Survey, 1986 (M415Y86)
+California Hospital Discharge Survey, 1987 (M415Y87)
+California Hospital Discharge Survey, 1988 (M415Y88)
+California Merged Death File, 1960, 1970, 1980, 1990 (M558)
+Bureau of Economic Analysis Price Indices, 1963-1975
+Bureau of Health Professions Area Resource File (ARF), 1987
+Bureau of Health Professions Area Resource File (ARF), 1990
+California Hospital Discharge Survey, 1983 (M415Y83)
+Census Company Size Distribution Data, 1963 (M277)
+Census of Population and Housing, 1970 Public Use Sample: 5% and 15% Double Coded Industry/Occupation Codes Sample Prepared by Donald J. Treiman
+Census of Population and Housing, 1980 (U.S.): PUMS A Sample: 5% Sample, 40% Extract of Labor Force Persons, 11 Variables -- Prepared by Don Treiman (M224V1)
+Census of Population of China, 1982: 1% 1-in-100 Sample (M375V1)
+California Poll: 7501 -- February 15 - March 3, 1975
+California Poll: 6206 -- October 30 - November 1, 1962
+California Poll: 8502 -- April 30 - May 7, 1985
+California Poll: 8401 -- February 2-9, 1984
+California Poll: 8406 -- October 8-12, 1984
+California Poll: 6102 -- May 27 - June 2, 1961
+California Poll: 8104 -- October 26 - November 1, 1981
+California Poll: 8504 -- November 18 - December 2, 1985
+California Poll: 6204 -- September 13-19, 1962
+NORC  Occupational Prestige Study, 1964
+California Poll: 6602 -- March 29 - April 2, 1966
+California Poll: 8205 -- August 23-27, 1982
+California Poll: 7609 -- November 13-24, 1976
+National Personal Transportation Survey, 1969 (M080V1)
+California Poll: 6103 -- September 30 - October 6, 1961
+California Poll: 8501 -- January 28 - February 4, 1985
+California Poll: 6002 -- April 15-21, 1960
+California Poll: 73A4 -- May 19-23, 1973
+California Poll: 6101 -- February 15-22, 1961
+California Poll: 6804 -- July 1-15, 1968
+California Poll: 8102 -- April 2-11, 1981
+California Poll: 6604 -- June 16-20, 1966
+California Poll: 7504 -- November 1-12, 1975
+California Poll: 6501 -- January 7-12, 1965
+California Poll: 8207 -- October 24-31, 1982
+California Poll: 8302 -- June 14-22, 1983
+California Poll: 6701 -- January 24-29, 1967
+Socioeconomic role of Nicaraguan women, 1977-1978
+California Poll: 5805 -- October 4-8, 1958
+California Poll: 6205 -- October 9-14, 1962
+Los Angeles Metropolitan Area Surveys [LAMAS] 8, 1974
+California Poll: 5806 -- October 17-22, 1958
+California Poll: 7005 -- August 3-10, 1970
+California Poll: 5901-- January 31 - February 6, 1959
+California Poll: 8805 -- September 6-13, 1988
+Bavarian [Germany] State Election, 1973: Landtagswahl in Bayern (M116V1)
+California Poll: 7601 -- January 24 - February 1, 1976
+California Poll: 5701 -- February 2-8, 1957
+California Poll: 7204 -- August 10-14, 1972
+California Poll: 7901 -- February 10-19, 1979
+California Poll: 6902 -- May 1-4, 1969
+Los Angeles Metropolitan Area Surveys [LAMAS] 4, 1971-1972
+California Poll: 7603 -- May 6-8, 1976
+California Poll: 73A2 -- March 24-28, 1973
+Los Angeles Metropolitan Area Surveys [LAMAS] 7, 1973
+California Poll: 7206 -- October 30 - November 1, 1972
+California Poll: 7607 -- October 7-8, 1976
+California Poll: 6704 -- September 8-14, 1967
+California Poll: 8301 -- March 1-9, 1983
+California Poll: 7102 -- April 24 - May 2, 1971
+California Poll: 6003 -- July 2-8, 1960
+California Poll: 8101 -- January 16-23, 1981
+California Poll: 8206 -- October 1-4, 1982
+California Poll: 7104 -- August 2-8, 1971
+Census of Population and Housing, 1970 Public Use Sample: 15%, One-in-One-Hundred [With 1980 Imputations Prepared by Donald Treiman (1% sample from the SMSA/County Group 15% questionnaire)] (M298V1)
+California Poll: 8903 -- July 12-23, 1989
+California Poll: 7202 -- April 25-30, 1972
+California Poll: 7101 -- January 26 - February 8, 1971
+California Poll: 6803 -- May 15-18, 1968
+California Poll: 8201 -- January 15-20, 1982
+California Poll: 6402 -- March 23-28, 1964
+California Poll: 7403 -- April 29 - May 4, 1974
+California Poll: 6404 -- May 20-23, 1964
+California Poll: 7407 -- October 20-30, 1974
+California Poll: 6004 -- August 26 - September 1, 1960
+California Poll: 8204 -- May 29 - June 02, 1982
+California Poll: 8202 -- March 19-23, 1982
+California Poll: 7408 -- November 6-17, 1974
+California Poll: 6201 -- February 1-7, 1962
+California Poll: 7105 -- October 28 - November 6, 1971
+California Poll: 8601 -- March 17-26, 1986
+California Poll: 7602 -- March 19-31, 1976
+California Poll: 7203 -- May 30-31, 1972
+California Poll: 6203 -- July 12-19, 1962
+California Poll: 6303 -- September 26-30, 1963
+California Poll: 6406 -- October 2-7, 1964
+California Poll: 7207 -- November 7-18, 1972
+California Poll: 7704 -- September 23 - October 10, 1977
+California Poll: 8103 -- July 31 - August 8, 1981
+California Poll: 7003 -- May 23-25, 1970
+SEER Public Use Files, 1973-1986
+California Poll: 5605 -- August 27 - September 2, 1956
+California Poll: 6504 -- October 29 - November 3, 1965
+California Poll: 6405 -- August 31 - September 5, 1964
+California Poll: 6904 -- November 1-9, 1969
+California Poll: 6403 -- May 1-9, 1964
+California Poll: 8404 -- May 29 - June 2, 1984
+California Poll: 6304 -- November 15-21, 1963
+California Poll: 7502 -- May 3-14, 1975
+California Poll: 6407 -- October 23-28, 1964
+California Poll: 7004 -- May 26-27, 1970
+Census of Population and Housing, 1970 Public Use Sample: 5%, One-in-One-Hundred [Extract of M297, Labor Force, Persons, Selection of Variables -- Prepared by Don Treiman] (M348V1)
+California Poll: 7604 -- May 31 - June 5, 1976
+California Poll: 7807 -- August 12-28, 1978
+California Poll: 6202 -- March 23-30, 1962
+California Poll: 7503 -- August 6-13, 1975
+California Poll: 6805 -- September 12-16, 1968
+California Poll: 73A3 -- April 28 - May 2, 1973
+California Poll: 6607 -- October 27 - November 3, 1966
+California Poll: 6603 -- May 14-17, 1966
+California Poll: 7606 -- September 18-25, 1976
+California Poll: 7402 -- April 10, 1974
+California Poll: 7404 -- May 27-29, 1974
+California Poll: 6903 -- August 6-10, 1969
+California Poll: 7505 -- Noember 8-15, 1975
+California Poll: 6503 -- July 24-28, 1965
+California Poll: 7406 -- September 30 - october 2, 1974
+California Poll: 8603 -- May 27-31, 1986
+California Poll: 8402 -- April 11-18, 1984
+California Poll: 8403 -- May 9-14, 1984
+California Poll: 5803 -- July 4-10, 1958
+California Poll: 5804 -- September 6-11, 1958
+California Poll: 6703 -- June 24-30, 1967
+California Poll: 8203 -- April 30 - May 6, 1982
+California Poll: 6705 -- November 8-13
+California Poll: 8602 -- May 2-7, 1986
+California Poll: 7702 -- March 9-19, 1977
+National Fertility Study, 1965
+California Poll: 7007 -- October 24-27, 1970
+California Poll: 7001 -- February 2-8, 1970
+California Poll: 7002 -- May 4-11, 1970
+California Poll: 7703 -- June 17 - July 2, 1977
+California Poll: 7006 -- October 2-10, 1970
+Scandanavian Welfare Survey, 1972: Supplemented with Treiman Prestige Scores (M025V1)
+California Poll: 6702 -- April 27 - May 3, 1967
+California Poll: 8303 -- October 7-22, 1983
+Census of Population and Housing, 1970 Public Use Sample: 5%, One-in-One-Hundred [With 1980 Imputations Prepared by Donald Treiman (1% sample from the SMSA/County Group sample 5% Questionnaire)] (M297V1)
+California Poll: 6301 -- February 27 - March 3, 1963
+California Poll: 6806 -- October 18-21, 1968
+California Poll: 8407 -- October 27-30, 1984
+California Poll: 6006 -- October 22-26, 1960
+NORC  Occupational Prestige Study, 1965
+Crosswalk of OES Survey Occupations to Other Occupational Classification Systems, 1982
+Census Tract Equivalency File, 1980-1990 (M473V1)
+California Poll: 6001 -- February 18-25, 1960
+California Poll: 7205 -- September 25 - October 7, 1972
+California Poll: 7103 -- May 15-22, 1971
+California Poll: 7405 -- August 2-12, 1974
+California Poll:6605 -- August 20-25, 1966
+California Poll: 8704 -- October 28 - November 13, 1987
+California Poll: 6401 -- January 4-11, 1964
+California Poll: 7809 -- October 30 - Noember 1, 1978
+California Poll: 7605 -- July 24 - August 2, 1976
+Census of Population and Housing, 1970 Public Use Sample: 15%, One-in-One-Hundred [Extract of M298, Labor Force, Persons, Selection of Variables -- Prepared by Don Treiman] (M349V1)
+California Poll: 5604 -- May 7-13, 1956
+California Poll: 73A1 -- March 10-15, 1973
+California Poll: 7008 -- November 12-17
+California Poll: 7401 -- February 4-9, 1974
+California Poll: 7608 -- October 25-27, 1976
+California Poll: 6606 -- September 30 - October 4, 1966
+California Poll: 5902 -- March 9-14, 1959
+California Poll: 6801 -- January 15-23, 1968
+California Poll: 6302 -- July 19-24, 1963
+California Poll: 6901 -- February 10-17, 1969
+California Poll: 6502 -- March 26 - April 1, 1965
+California Poll: 6007 -- November 1-3, 1960
+California Poll: 7808 -- September 17-24, 1978
+California Poll: 7201 -- January 15 - February 5, 1972
+California Poll: 5905 -- October 22-27, 1959
+California Poll: 8503 -- July 31 - August 6, 1985
+California Poll: 6601 -- January 29 - February 5, 1966
+California Poll: 8405 -- September 4-9, 1984
+California Poll: 8604 -- July 24 - August 2, 1986
+California Poll: 6802 -- March 15-19, 1968
+California Poll: 6005 -- September 23-28, 1960
+California Poll: 8605 -- September 24 - October 2, 1986
+California Poll: 9005 -- October 4-10, 1990
+California Poll: 8801 -- February 17-21, 1988
+California Poll: 8804 -- July 22-29, 1988
+California Poll: 8905 -- December 4-7, 1989
+California Poll: 8702 --April 3-10, 1987
+Mexican-American Study Project: MASP I (1960-1968)  (M543V1)
+Nairobi [Kenya] Household Survey, April 1971: Supplemented with Treiman Prestige Scores
+Project TALENT: Consequences of Adolescent Childbearing for the Young Parents' Future life,1960-1974
+California Poll: 8802 -- April 6-10, 1988
+Attitudes Towards the Family in France, 1969 (M312V1)
+California Poll: 8902 -- April 13-22, 1989
+California Poll: 8607 -- November 4, 1986
+State Policy Determinants of Teenage Childbearing, 1979
+California Poll: 9402 -- January 27-31, 1994
+Philadelphia Collaborative Perinatal Project: Economic, Social and Psychological Consequences of Adolescent Childbearing, 1959-1965
+California Poll: 8901 -- January 23-31, 1989
+California Poll: 8904 -- October 23-28, 1989
+Monterrey [Mexico] Mobility Study, 1965: Supplemented with Treiman Prestige Scores (M027V1)
+California Poll: 8703 -- July 24 - August 1, 1987
+California Poll: 9401 -- January 9-15, 1994
+California Poll: 8806 -- October 10-16, 1988
+California Poll: 9002 -- May 1-8, 1990
+National Survey of Young Women (United States), 1976
+California Poll: 8606 -- October 27-30, 1986
+California Poll: 9001 -- February 2-10, 1990
+Project TALENT: Consequences of Adolescent Childbearing for the Young Parents' Future Life, 1960-1974
+California Poll: 8701 -- March 17-26, 1987
+California Poll: 9403 -- April 1, 1994
+California Poll: 9404 -- May 11-16, 1994
+California Poll: 9407 -- October 21-30, 1994
+California Poll: 8807 -- October 31 - November 2, 1988
+California Poll: 9006 -- October 26-30, 1990
+California Poll: 9003 -- May 29 - June 3, 1990
+California Poll: 2012-002 -- May 2012
+Population Census [South Africa], 1980 (M920V1)
+California Poll: 8803 -- May 16-22, 1988
+Nashville General Hospital Comprehensive Child Care Project, 1974-1976: Selected Variables
+California Poll: 9405 -- July 12-17, 1994
+National Survey of Young Women (U.S.), 1976
+Low Income Child Health Study, 1978 [Includes Chinese Child Supplement] (M020V1)
+California Poll: 2012-003 -- July 2012
+U.S. National Survey of Young Men, 1979
+National Survey of Young Women (U.S.), 1971: Selected Variables
+U.S. National Survey of Young Women, 1979
+California Poll: 2012-001 -- February 2012
+California Poll: 9406 -- September 13-18, 1994
+Capital Expenditures, 1955-1957 (M275)
+California Work Injuries and Illnesses, 1990 (M532)
+Canadian Prestige Study, 1965 (M424)
+Canadian Statistics of Immigration, 1970-1986 (M095)
+Detroit Metropolitan Area Traffic Study, 1953
+California Cancer registry (CCR), 1988-1993 (H8000)
+All-India Political Poll, 1961, September-November (M173)
+Australian National Social Survey, 1990 -- Lifestyle Extract
+Bureau of Health Professions Area Resource File (ARF), 1993
+Bureau of Labor Statistics Data, 1957-1976 (M274)
+British Household Panel Survey Combined Work-Life History Data, 1990-1999 (M863)
+Australian Election Study, 1987 (M218)
+Australian National Social Science Survey, 1984 (M171)
+Australian National Social Science Survey, 1984-1988 (M475)
+Export Concordance Master Tape, 1983-1989 (M360V1)
+Los Angeles Metropolitan Area Surveys [LAMAS] 6, 1973
+California Poll: 2000-05 -- October 4-8, 2000
+Southern California Social Survey, 1987
+California Poll: 9803 -- April 20-28, 1998
+Los Angeles Metropolitan Area Surveys [LAMAS] 1, 1970
+California Poll: 9807 -- October 22 - November 1, 1998
+Los Angeles Metropolitan Area Surveys [LAMAS] 2, 1970
+Oscar Marketing Advertisements from The Hollywood Reporter from the 1983-2007 Oscar Seasons
+Bay Area Project Organization Survey, 1992 (M1099B)
+California Poll: 2003-02 -- July 1-13, 2003
+Canadian National Mobility Study, 1973 (M101)
+Census of Concentration Ratios, 1947, 1954, 1958, 1970, 1972 (M278)
+California Public Patient Discharge Data, January - December, 1999 (M1309)
+Census Transportation Planning Package, 1990: Urban Elements--Parts 1, 2, and 3 (M619V1)
+China In-Depth Fertility Survey, 1985 -- Phase I (M376V1)
+Aid to Families with Dependent Children Characteristics Survey, 1984-1986
+California State Tumor Registry Public Use Tape, 1988-1991 (M573)
+California Tax Revolt Study, 1980 (M208)
+California Poll: 9903 -- October 8-17, 1999
+California Poll: 8002 -- April 2-8, 1980
+California Poll: 2008-01a -- January 14-20, 2008
+Los Angeles County Social Survey, 1999 (LACSS)
+California Poll: 8004 -- July 18-24, 1980
+Los Angeles County Social Survey, 2000 (LACSS)
+California Poll: 8003 -- May 9-15, 1980
+California Poll: 8001 -- February 9-14, 1980
+California Poll: 2008-05 -- September 5-14, 2008
+Los Angeles County Social Survey, 2002 (LACSS)
+National Survey of Disaster Experiences and Preparedness (NSDEP), 2007-2008
+California Poll: 2008-06 -- October 18-28, 2008
+Population Census [South Africa], 1970 (M908V1)
+National Personal Transportation Survey, 1983 (M081V1)
+California Poll: 7904 -- November 12-19, 1979
+Whittier Narrows Earthquake Study, 1988 (M890)
+Southern California Social Survey, 1986
+Los Angeles County Social Survey, 1994 (LACSS)
+California Poll: 2009-02 -- April 16-26, 2009
+Los Angeles County Social Survey, 1995 (LACSS)
+Income and Expenditure Survey [South Africa], 1995 (M911V1)
+October Household Survey [South Africa], 1993 (M876V1)
+California Public Patient Discharge Data, January - December, 1995 (M1304)
+California Public Patient Discharge Data, January - December, 1996 (M1305)
+California Public Patient Discharge Data, January - December, 1997 (M1306)
+California Public Patient Discharge Data, January - December, 1998 (M1307)
+Korean Fertility and Family Health Survey, 1997 (M1210)
+British Household Panel Survey, 1991-2001, Waves 1-10 (M839)
+Annual Utilization Report of Hospitals, 1988-1996 (M821)
+Annual Utilization Report of Primary Care Clinics, 1988-1996 (M820)
+Population Policies, 1975
+Los Angeles County Social Survey, 2001 (LACSS)
+California Poll: 2007-04 -- December 10-17, 2007
+California Poll: 2007-02 -- August 3-12, 2007
+Modeling Diffusion of Many Innovations via Multilevel Diffusion Curves: With an Application to Payola in Pop Music Radio (M1138V1)
+Los Angeles County Social Survey, 1998 (LACSS)
+Population Census [South Africa], 1985 (M921V1)
+Evaluation of OAPP Adolescent Pregancy Programs, 1982
+Philadelphia Study of Psychological Factors Associated With Adolescent Fertility Regulation, 1979-1981
+California Poll: 2009-03 --September 18 - October 5, 2009
+Study of Earthquake Effects: Los Angeles and Sylmar, 1971 (M174V1)
+California Poll: 2007-03 -- October 11-21, 2007
+Census and Input-Output Data, 1963 and 1972 (M276)
+Alien Address reports (U.S.), 1979-1980 (M109)
+Study of Rental Housing in the City of Los Angeles, 1980 (M013V1)
+Gerontology Community Study, June 1974 (M905V1)
+California Poll: 2005-01 -- February 8-17, 2004
+California Poll: 9502 -- May 16-22, 1995
+Indianapolis Fertility Study: Study of Social and Psychological Factors Affecting Fertility, 1941 (M086V1)
+California Poll: 9605 -- October 1-9, 1996
+California Poll: 2004-04 -- July 30 - August 8, 2004
+California Poll: 9702 -- May 9-18, 1997
+California Poll: 9604 -- August 29 - September 7, 1996
+California Poll: 2002-04 -- August 26 - September 3, 2002
+Los Angeles Metropolitan Area Surveys [LAMAS] 3, 1971
+Survey of Potential Early Warning System Users: A Study of the TriNet Seismic Computerized Alert Network (SCAN), February 2000 (M1373V1)
+Loma Prieta Earthquake Citizen Survey: San Francisco and Santa Cruz Combined File, 1990 (M1095C)
+California Poll: 9904 -- December 3-14, 1999
+National Heights and Weights Survey [Great Britain], 1980 (M113V1)
+California Poll: 9802 -- March 5-15, 1998
+California Poll: 2005-03 -- August 19-25, 2005
+California Poll: 9101 -- February 7-12, 1991
+U.S. Survey of Services Provided by Adolescent Pregnancy Programs, 1980
+California Poll: 2000-04 -- August 18-22, 2000
+California Poll: 9504 -- December 3-101, 1995
+California Poll: 9704 -- November 12-23, 1997
+California Poll: 2003-03 -- August 10-13, 2003
+California Poll: 9902 -- August 16-22, 1999
+California Poll: 9703 -- August 14-24, 1997
+California Poll: 9304 -- October 8-15, 1993
+California Poll: 9603 -- June 10-16, 1996
+New York Jewish Population Study, 1991 (M565V1)
+California Poll: 2002-02 -- February 22-25, 2002
+Labour Force Survey [South Africa], February 2000 (M915V1)
+California Poll: 9607 -- October 29 - November 3, 1996
+California Poll: 2001-03 -- September 7-19, 2001
+Population and Housing Census of Hong Kong, 1971: 1/100 Household Sample (M098V1)
+California Poll: 9102 -- May 30 - June 10, 1991
+California Poll: 2003-01 -- April 1-6, 2003
+California Poll: 2006-05 -- September 14-24, 2006
+California Poll: 2002-01 -- January 23-27, 2002
+California Poll: 2004-02 -- February 5-18, 2004
+California Poll: 9601 -- February 21-25, 1996
+California Poll: 2004-01 -- January 5-13, 2004
+California Poll: 2001-02 -- May 11-20, 2002
+California Poll: 9602 -- March 15-20, 1996
+California Poll: 9801 -- January 29 - February 2, 1998
+California Poll: 9701 -- February 11-17, 1997
+California Poll: 2006-03 -- May 22-31, 2006
+California Poll: 2002-03 -- April 19-25, 2002
+California Poll: 2004-05 -- September 24 - October 3, 2004
+California Poll: 2006-02 -- April 3-10, 2006
+California Poll: 7801 -- January 7-15, 1978
+California Poll: 9901 -- March 3-14, 1999
+California Poll: 9104 -- November 20-25, 1991
+California Poll: 9501 -- February 23 - March 1, 1995
+California Poll: 2005-02 -- June 13-19, 2005
+California Poll: 2003-04 -- September 3-7, 2003
+Census Manufacturing Statistics, 1958-1976 (M280)
+Census of Population and Housing, 1940-1980 (U.S.): Standardized File Prepared by Paul Ong
+Public Library Data 1989-1990 (M133V1)
+California Poll: 2000-03 -- June 8-18, 2000
+California Poll: 2006-06 -- October 23-30, 2006
+California Poll: 9103 -- September 19-25, 1991
+California Poll: 2006-04 -- July 10-23, 2006
+West Malaysian Family Survey, 1966-1967: Supplemented with Treiman Prestige Scores
+California Poll: 2004-06 -- October 21-27, 2004
+California Poll: 2001-04 -- December 3-11, 2001
+California Poll: 9503 -- August 24 - September 4, 1995
+Changing Rural Society: A Study of Communities in Bolivia, 1965: Supplemented with Treiman Prestige Scores (M241V1)
+California Poll: 2004-03 -- May 18-24, 2004
+California Poll: 9606 -- October 25-28, 1996
+California Poll: 2006-07 -- November 17 - December 12, 2006
+California Poll: 2006-01 -- February 13-17, 2006
+Population Census of Indonesia, 1971: .38% Sample File (3.8% for Jakarta and Jogjakarta) (M097V1)
+Programa de Encuestas de Fecundidad Para America Latina [PECFAL] - Urbano (M089V1)
+California Poll: 2005-04 -- October 18-30, 2005
+California Poll: 2002-05 -- October 24-30, 2002
+U.S. Survey of Title X Funded Family Planning Clinics, 1981
+British Household Panel Survey, 1991-2002, Waves 1-11 (M930)
+Business and Competition: Miscellaneous (M085)
+Census of Manufactures, 1972 ( M271)
+Los Angeles Metropolitan Area Surveys [LAMAS] 10, 1976
+Population Census of South Africa, 1996: 10% File (M902V1)
+California Poll: 2009-01 -- February 20 - March 5, 2009
+California Public Patient Discharge Data, January - December, 1997
+California Public Patient Discharge Data, January - December, 1996
+October Household Survey [South Africa], 1994 (M878V1)
+Health Behavior and Cancer Control, 1976 (M895 and M004)
+Community Response to the January 17, 1994 Northridge Earthquake (M967V1)
+Wisconsin Political Socialization Study, 1980 (M129)
+Labour Force Survey [South Africa], September 2003 (M1075V1)
+California Poll: 8006 -- October 15-18, 1980
+U.C.L.A. Undergraduate Study, 1970-1972 (M084V1)
+California Poll: 8005 -- August 30 - September 4, 1980
+Southern California Social Survey, 1988
+Bureau of Economic Analysis Economic Areas, 1995
+Census Establishment Size Distribution Data, 1963, 1967, 1972 (M279)
+Censo General de Poblacion y Vivenda, 2000 (M1153)
+Southern California Social Survey, 1991
+Income and Expenditure Survey [South Africa], 2000 (M1073V1)
+California Poll: 2008-01b -- January 25 - February 1, 2008
+Centro de Investigaciones Sobre la Realidad Social (CIRES) [Spain], 1990 (M468V1)
+Labour Force Survey [South Africa], September 2004 (M1074V1)
+Labour Force Survey [South Africa], February 2002 (M919V1)
+California Poll: 2007-01 -- March 23 - April 1, 2007
+Southern California Social Survey, 1984
+California Poll: 9805 -- August 18-24, 1998
+Labour Force Survey [South Africa], February 2001 (M917V1)
+California Poll: 7902 -- May 3-15, 1979
+California Poll: 9804 -- May 20-26, 1998
+California Poll: 7903 -- August 20-27, 1979
+Parkfield Earthquake Prediction, Spring 1989: Coalinga (M1096A)
+Omnibus February [South Africa], 1996 (M872V1)
+Parkfield Earthquake Prediction, Spring 1989: Taft (M1096C) 
+Determinants of Occupational Status and Mobility in Northern Ireland and the Irish Republic, 1971-1974: Phase I and Pilot I Data Files (M455V1)
+Los Angeles County Social Survey, 1993 (LACSS)
+Bay Area Project Citizen Survey, 1992 (1099AV1)
+California Poll: 9302 -- May 14-22, 1993
+California Poll: 9806 -- September 27 - October 5, 1998
+California Poll: 2000-06 -- October 27 - November 5, 2000
+Omnibus September [South Africa], 1995 (M874V1)
+Parkfield Earthquake Prediction, Spring 1989: Paso Robles (M1096B)
+Labour Force Survey [South Africa], September 2001 (M918V1)
+Labour Force Survey [South Africa], March 2003
+Labour Force Survey [South Africa], September 2000 (M916V1)
+Population Census of Brazil, 1980
+Parkfield Earthquake Prediction, Spring 1989: Coalinga, Paso Robles and Taft Combined File (M1096D)
+Comparative Study of Ethnic Minorities in California (M163V1)
+California Poll: 7806 -- May 29-31, 1978
+Los Angeles Metropolitan Area Surveys [LAMAS] 9, 1974
+Study of Tenants in Los Angeles, 1979, October
+California Poll: 9303 -- August 12-18, 1993
+California Poll: 7804 -- March 27 - April 3, 1978
+Jordan Fertility Survey, 1976 -- Standard Recode File (M496V1)
+Southern California Social Survey, 1989
+California Poll: 9301 -- February 1-8, 1993
+Southern California Social Survey, 1990
+Five County Surname Count, 1987 (M108V1)
+Electoral Study, Nachwahluntersuchung zur Bundestagswahl [Germany], 1972 (M115V1)
+San Jose, California Study of Adolescent Perinatal Risk Behavior, 1982
+Loma Prieta Earthquake Citizen Survey: Santa Cruz, 1990 (M1095B)
+Mental Health Demographic Profile System
+California Poll: 9203 -- May 6-9, 1992
+California Poll: 2001-01 -- January 12-16, 2001
+Detroit Mother-Daughter Communication Patterns, 1978
+U.S. Survey of Unmarried Women Under 18 in Family Planning Clinics, 1979-1980
+California Disability Survey, 1978
+Census of Population of Korea, 1970: 1/100 Sample (M099V1)
+Loma Prieta Earthquake Citizen Survey: San Francisco, 1990 (M1095A)
+Census of Population and Housing, 1970 Public Use Sample: 5% and 15% Combined File Prepared by Don Treiman (2% sample with subset of variables from Study M348 and M349) (M106V1)
+National Family Violence Survey, 1985
+Ventura County Survey of Unmarried Pregnant Women, Aged 13-20, 1972-1974
+County Boundary File, 1970 (DIMECO) (M149V1)
+California Poll: 9201 -- January 13-18, 1992
+Bay Area (Loma Prieta) Earthquake Study, 1990 (M887V1)
+California Poll: 9202 -- March 18-21, 1992
+Effects of Organized Family Planning Programs on U.S. Adolescent Fertility, 1970-1975
+California Poll: 7802 -- February 11-23, 1978
+Maricopa County, Arizona Study of Child Maltreatment Risk Among Adolescent Mothers, 1976-1978
+All-India Political Poll, 1964 (M225V1)
+Social Structure of Poland, 1988
+California Poll: 7805 -- May 1-8, 1978
+Internal Migration in South Africa, 1999 (M910V1)
+California Poll: 7803 -- February 17-20, 1978
+Politische Ideologie II (cross section) [Germany], 1980 (M148V1)
+Omnibus February [South Africa], 1995 (M881V1)
+Migration in South Africa: The 2001-02 HSRC Migration Survey (M1072V1)
+KwaZulu-Natal [South Africa] Development Indicators Household Survey, 1996  (M1066V1)
+National Demographic Survey [Philippines], 1973: Supplemented with Treiman Prestige Scores
+California Poll: 2000-01 -- February 1-6, 2000
+Youth Omnibus February [South Africa], 1993 (M873V1)
+Los Angeles Metropolitan Area Surveys [LAMAS] 5, 1972
+Stratification and Mobility in a Latin American City: Santiago, Chile, 1961: Supplemented with Treiman Prestige Scores (M026V1)
+California Poll: 2000-02 -- February 22 - March 4, 2000
+Omnibus February [South Africa], 1993 (M875V1)
+California Poll: 9004 -- August 17-27, 1990
+Omnibus October [South Africa], 1994 (M884V1)
+Johns Hopkins Study of Repeat Adolescent Pregnancy, 1976-1982
+Life Histories and Social Change in Contemporary China, 1996 (M889V1)
+Australian National Political Attitudes, 1967: Supplemented with Treiman Prestige Scores (M023V1)
+Study of Hispanic Veterans, 1978
+Study of Occupational Prestige, 1947
+Size and Lexical Diversity of Language Families (M861V1)
+Folk and Scientific Classifications of Animals and Plants (M790V1)
+Korean Fertility and Family Health Survey, 2000 (M1211)
+Korean Fertility and Family Health Survey, 2003 (M1212)
+African Family Project: Nigerian Segment, 1973
+California Public Patient Discharge Data, 2000 (M1310)
+Korean Fertility and Family Health Survey, 1994 (M1209)
+California Ambulatory Surgery Data, July-December, 2008
+Labour Force Survey [South Africa], September 2002  (M1067V1)
+October Household Survey [South Africa], 1995 (M877V1)
+California Ambulatory Surgery Data, January - June, 2008
+California Poll: 2008-04 -- July 8-14, 2008
+California Ambulatory Surgery Data, January - June 2009
+Centro de Investigaciones sobre la Realidad Social (CIRES) [Spain], 1996 (M608V1)
+California Public Patient Discharge Data, January - December, 2002
+Hungarian Social Mobility and Life History Survey, 1983
+Labour Force Survey [South Africa] Panel, 2001-2004 [EARLY RELEASE] (M1160V1)
+Korean Labor and Income Panel Study (KLIPS), 1998-2206: Wave 1-9 (M1194)
+Soviet Data Bank (M162V1)
+Social Stratification in Eastern Europe After 1989: General Population Survey (M653V1)
+October Household Survey [South Africa], 1998 (M882V1)
+California Health Facilities Commission Hospital Report Data (M102)
+KwaZulu-Natal [South Africa] Income Dynamics Study (KIDS), 1993-1998 (M1064V1)
+California Hospital Disclosure Data, July 1983 - June 1984 (M598)
+California Hospital Disclosure Data, July 1984 - June 1985 (M599)
+California Hospital Disclosure Data, July 1993 - June 1994 (M607)
+California Hospital Disclosure Data, July 1994 - June 1995 (M613)
+California Hospital Disclosure Data, July 1995 - June 1996 (M641)
+California Hospital Disclosure Data, July 1996 - June 1997 (M694)
+Korean Fertility and Family Health Survey, 1991 (M1207)
+California Hospital Disclosure Data, July 1992 - June 1993 (M589)
+Centro de Investigaciones sobre la Realidad Social (CIRES) [Spain], 1993 (M537V1)
+Centro de Investigaciones Sobre la realidad Social (CIRES) [Spain], 1994 (M564V1)
+China In-Depth Fertility Survey, 1987 -- Phase II (M463V1)
+Monitoring Evaluation Research On and About Children, 1975-1977
+October Household Survey [South Africa], 1997 (M880V1)
+October Household Survey [South Africa], 1996 (M879V1)
+Centre de Investigaciones sobre la Realidad Social (CIRES) [Spain], 1991 (M469V1)
+Centro de Investigaciones sobre la realidad Social (CIRES) [Spain], 1992 (M534V1)
+October Household Survey [South Africa], 1999 (M883V1)
+California Ambulatory Surgery Data, July - December 2010
+Los Angeles County Social Survey, 1997 (LACSS)
+California Ambulatory Surgery Data, January - June 2010
+California Ambulatory Surgery Data, July - December 2009
+California Poll: 2008-03 -- May 17-26, 2008
+California Public Patient Discharge Data, January - December, 2001
+Turkish Fertility Survey, 1978 (M144V1)
+Census of Population and Housing, 1980 [United States]: Summary Tape File 4A.
+General Household Survey [South Africa], 2002
+California Public Patient Discharge Data, January - December, 2003
+Los Angeles County Social Survey, 1996 (LACSS)
+Labour Force Survey [South Africa], March 2004 (M1071V1)
+Earthquake Watch in California, 1977-1979 (M892V1)
+Centro de Investigaciones sobre la Realidad Social (CIRES), 1995 M601
+California Hospital Disclosure Data, July 1989 - June 1990 (M517)
+California Hospital Disclosure Data, July 1986 - June 1987 (M266)
+California Hospital Disclosure Data, July 1987 - June 1988 (M265)
+California Hospital Disclosure Data, July 1988 - June 1989 (M586)
+California Hospital Disclosure Data, July 1990 - June 1991 (M587)
+California Hospital Disclosure Data, July 1991 - June 1992 (M588)
+ZUMA - Standarddemographie (Zeitreihe) [Germany], 1976-1980 (M125V1)
+California Public Patient Discharge Data, January - December, 2006
+California Public Patient Discharge Data, January - December, 2004
+Los Angeles County Social Survey, 1992 (LACSS)
+California Public Patient Discharge Data, January - December, 2007
+California Public Patient Discharge Data, January - December, 2005
+Elementary and Secondary Schools Civil Rights Survey, 1968-1984,1986, 1988 (Binary EBCDIC) (M131V1)
+INCAP-RAND Guatemalan Family Life Survey, 1974-1976 (M090V1)
+Loma Prieta Earthquake Citizen Survey, 1990 (M1095V1)
+General Household Survey [South Africa], 2003
+Napa Project, 1978-1981

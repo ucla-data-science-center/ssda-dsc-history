@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Quarto render output (regenerable from the .qmd sources)
+/history.html
+/history-companion.html
+/history_files/
+/history-companion_files/
+/.quarto/
+/_site/
+
+# Downloaded archives (extract locally; keep the extracted source docs, not the zips)
+*.zip

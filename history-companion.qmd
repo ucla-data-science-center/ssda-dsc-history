@@ -1,0 +1,209 @@
+---
+title: "Research companion: full evidence for the SSDA/DSC institutional history"
+subtitle: "Expanded chronology, complete roster, project inventory, methods, and open questions"
+author: "Tim Dennis"
+date: last-modified
+format:
+  html:
+    toc: true
+    number-sections: false
+    citations-hover: true
+bibliography: references.bib
+csl: chicago-notes-bibliography.csl
+link-citations: true
+---
+
+<!--
+STATUS: 2026-08-09. Split off from history.qmd per the 2026-08-09 validate-external editorial-
+triage adjudication: the public narrative keeps one era-defining transition, one stewardship
+example, and one consequence per era; everything else -- full roster, rotating PIs, exhaustive
+project lists, achievements resting only on performance-review language, full chart methodology,
+open discrepancies -- lives here instead. This document is the "can this be checked" backing
+material; history.qmd is the "what happened and why it matters" narrative. Cross-reference, don't
+duplicate.
+-->
+
+## Full people and stewardship roster
+
+The public history keeps only people who founded, formally led, reorganized, or sustained the
+operation across a substantial period. Full roster:
+
+| Name | Role | Documented span | Note |
+|---|---|---|---|
+| Dwaine Marvick | Founder, Political Behavior Archive | 1954 (joined UCLA) – 1999 (d.) | Led UCLA's effort to become an ICPSR founding member, 1962 |
+| Howard Freeman | Founding Director, ISSR | from 1974 | Medical sociologist |
+| Donald Treiman | ISSR Associate Director; formalized SSDA | 1975–1977 (Assoc. Director); UCLA Professor 1977–2004 | Later co-built the ISMF with Ganzeboom and Stephenson |
+| Mary Ryan | Director, UCLA Library Public Affairs Service | 1970s–1980s | Ran the library's first numeric-data service, the 1970 census tapes |
+| Elizabeth "Libbie" Stephenson | Archive staff, later Director | 1986–2016+ | Longest documented tenure; led the 2012–2014 ICPSR curation project |
+| Diane Bisom | Archive staff | 1986 (documented) | Co-authored the ORION online-catalog paper with Stephenson |
+| Martin Pawlocki | Archive staff | 1987–1988 (documented) | Co-built the tape information system with Stephenson |
+| Harry Ganzeboom | Collaborator, Free University Amsterdam | — | Co-built the ISMF, NWO-funded |
+| Lawrence Bobo | Rotating PI, LACSS 1992 | 1992 | Then UCLA Assoc. Professor of Sociology |
+| Jina "Jamie" Jamison | Staff — tape/mainframe management through DSC | ? – present | Named in the 2014 MOU as continuing staff; co-taught IS262A with Dennis, Oct 2025, doi:10.5281/zenodo.17360885 |
+| Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 – present | Succeeded Stephenson |
+| Doug Daniels | Helpdesk Specialist → Technical Projects Specialist → Coordinator of Scholarly Innovation Technologies → Emerging Technologies Librarian | 2013 – present | UCLA Librarian of the Year 2026; see full project list below |
+| Leigh Phan | Programmer, later Data Scientist | 2018-present era | Role evolution per Tim; deep learning work with Dennis; verified open-data/mapping and data-ethics-instruction work |
+| Zhiyuan Yao | GIS data work | 2018-present era (has since moved on) | Now Assistant Professor, Appalachian State University |
+| Kristian Allen | Staff, 0.5 FTE | 2018–2024 | |
+| Norman Powell | Philanthropic donor | gifts across multiple years, mostly undated | See Powell gifts detail below |
+
+## Full 1977-2014 detail cut from the main narrative
+
+- **Southern California Social Survey (SCSS)**, confirmed running 1984-1991 in the Harvard
+  Dataverse SSDA collection (true start year not pinned down — likely closer to 1977-1980, never
+  deposited in ICPSR at all).
+- 1988 technical infrastructure detail: mainframe (IBM 3090, MVS/VM-CMS), tape management
+  (DTA/DTB numbering system), UCLA's ORION catalog, ICPSR's SPIRES search facility, a
+  microcomputer-based (dBase III) tape-tracking system Pawlocki and Stephenson built
+  [@pawlockiStephenson1988].
+- Rotating annual LACSS PIs: Lawrence Bobo (1992, then UCLA Assoc. Professor of Sociology).
+- Cross-national work in more depth: the Intergenerational Stratification and Mobility File
+  (ISMF), built with Harry Ganzeboom (Free University, Amsterdam) and Donald Treiman, funded by
+  the Netherlands Organisation for Scientific Research (NWO), Project H50.293
+  [@stilesStephenson2008].
+
+See `evidence/pawlocki-stephenson-1988-iassist.md`, `evidence/lamas-scss-lacss-series.md`,
+`evidence/stiles-stephenson-2008-ifla.md`.
+
+## Full Doug Daniels project inventory
+
+See `evidence/doug-daniels-and-2018-continuity.md` and `evidence/data-summaries-and-reconciliation.md`
+for complete detail. Highlights not in the main narrative:
+
+- Easter Island Moai statuette scanning (Jan-March 2022) with Jo Anne Van Tilburg (Director,
+  Rock Art Archive, Cotsen Institute) — accepted as Chapter 9, "Moai Anatomy and Ahu Sequence,"
+  in *Te Moai Rapa Nui: The Statues of Easter Island: An Illustrated Atlas* (Cotsen Institute of
+  Archaeology Press, ~500pp, expected ~early 2025).
+- Stein Eye Institute conjunctiva-tissue scanning (Spring 2022); Anatomy Lab cadaver-arm scanning
+  with Dr. Anthony Friscia and Prof. Chien-Ling Liu Zeleny (Fall 2022), now used in History of
+  Medicine coursework.
+- Drone/LiDAR mapping kit acquired late spring/early summer 2023; FAA Part 107 UAS Remote Pilot
+  certification. Used on an ongoing Angkor Wat temple-mapping project (Cambodia/Philippines) and
+  the Mosfell Valley, Iceland survey — dated "summer 2023" in the 2023 SOPA and "Summer–Fall
+  2024" in the 2025 Data Summary; **not confirmed whether these are one trip or two separate
+  ones** — ask before stating a single date anywhere public-facing.
+- LiDAR-scanned Powell Library **twice**: terrestrial LiDAR, Nov-Dec 2021 ("for preservation,
+  documentation, and exhibition of 3D data tools"), and drone-based photogrammetry/aerial
+  mapping, Summer 2024.
+- Vietnamese Heritage Museum cultural-heritage scanning (Spring-Summer 2024), alongside the
+  separately-documented "Little Saigon @ UCLA: International Digital Archaeology Day" (with UCLA
+  classics professor Kelly Nguyen, 50+ high school students, 30 community members).
+- Department of Medicine (Endocrinology/Pathology) biological-specimen scanning for thyroid
+  research, Nov-Dec 2025.
+- A 3D-printed surgical probe holder (with an undergraduate student), now used at Ronald Reagan
+  UCLA Medical Center.
+- Recurring **Powell Society donor open-house demos**, March 2017/2018/2019 — direct link
+  between Doug's work and Norman Powell's ongoing patronage relationship.
+- Professional service: Liberal Technology Group (founding member, 2020-present); CS3DP,
+  Community Standards for 3D Preservation (member, 2018-present, IMLS-funded); UC 3D Data Common
+  Knowledge Group (**member since 2020, chair since 2024** — the 2023 SOPA's looser "Chair"
+  framing since 2020 is superseded by this more precise, more recent dating); IIIF 3D Community
+  Group (member since 2022, co-chair since 2024, not 2023 as an earlier note in this project
+  stated — correct on next full pass); UC Love Data Week (UCLA campus liaison, 2024).
+
+## Norman Powell's gifts — full detail
+
+Per UCLA Library's own retrospective, at least five distinct gifts, only one precisely dated:
+
+1. December 15, 2016 — $5 million, endowed the University Librarian position itself (named the
+   "Norman and Armena Powell University Librarian"). Confirmed via UCLA Newsroom press release.
+2. A data scientist position, funded as part of early support for UCLA's Sustainable LA Grand
+   Challenge — undated in every source checked.
+3. A deep learning machine and Data Science Center space enhancements in the Charles E. Young
+   Research Library — undated.
+4. DataSquad seed funding — undated. (DataSquad itself: "Founder and Lead, UCLA DataSquad
+   student consulting program, 2021 – present," per Tim's Data Summary — so the seed funding
+   predates or coincides with 2021, narrowing the undated range somewhat.)
+5. Support for the Library's acquisition of the Barbara and Willard Morgan Photographs and
+   Papers, matching other donors' gifts toward the same acquisition — undated.
+
+See `evidence/powell-gifts-and-imls-grant.md`.
+
+## Data hosted, 2018-present: full detail
+
+- **UCLA Law Behind Bars Data Project** (COVID-19 in prisons, jails, youth facilities,
+  immigration detention) — Dataverse collection created 2022-01-28, 1,169 items. Project itself
+  run by UCLA Law; no explicit DSC credit on the project's own homepage, though the Dataverse
+  collection is real and dated.
+- **Williams Institute** (LGBT law and policy research) — Dataverse collection created
+  2021-05-27, small footprint (3 items) but DSC's curation/consulting work supported Williams
+  Institute data reaching ICPSR directly: TransPop (ICPSR 37938, first national probability
+  sample of transgender individuals in the US; co-investigators Walter Bockting, Columbia; Jody
+  Herman, UCLA; Sari Reisner, Harvard/Fenway), Generations (ICPSR 37166, five-year longitudinal
+  LGB health study), the combined Generations/TransPop dataset (ICPSR 38421), and Mapping LGBTQ
+  Equality: 2010 to 2020 (ICPSR 37877).
+- **Cotsen Institute of Archaeology** (108 items) and **DIG**, Digital Information Gateway
+  (6,360 items) — both Dataverse collections created 2020-09-16. DIG's stated mission: "expand
+  citation practices" in archaeology.
+
+See `evidence/dsc-era-hosted-collections.md`.
+
+## Full visualization methodology
+
+**Holdings-activity bar chart**: 571 datasets in the Harvard Dataverse SSDA collection
+(`dataverse.harvard.edu/dataverse/ssda_ucla`), pulled via the collection's search API 2026-08-09,
+bucketed by the survey year embedded in each dataset's title (regex-matched, last 4-digit year
+1930-2026 in the title string), not the Dataverse "published" date (uniformly 2015-2018, a
+migration artifact). This is a distinct, smaller number from the "1,014 legacy Social Science
+Data Archive datasets" Tim's own Data Summary says were harvested into UCLA's own live Dataverse
+instance — different scope (Harvard-hosted historical sub-collection vs. UCLA's current live
+instance) — don't conflate the two counts.
+
+**Citation event plot**: queried live via browser automation against ICPSR's per-study
+"Data-related Publications" search (`icpsr.umich.edu/sites/icpsr/search/publications?q=STUDY_NO:{n}`),
+2026-08-09 — this endpoint is Cloudflare-blocked to scripted/curl access (confirmed, HTTP 403),
+which is why browser automation was needed. Checked: all 5 confirmed LACSS study records
+(36599, 36600, 36598, 36563, 36749) and all 8 confirmed LAMAS waves (36631, 36612, 36611, 36624,
+36615, 36614, 36607, 36617). SCSS was searched separately for its own ICPSR presence and found
+to have none — it was never deposited there, confirmed via a direct ICPSR search for "Southern
+California Social Survey" (only the 5 LACSS records matched, as background-text mentions, not
+actual SCSS deposits).
+
+See `evidence/icpsr-citation-count-lamas-lacss.md` and `evidence/lamas-scss-lacss-series.md`.
+
+## Open discrepancies not yet resolved
+
+- **UC Carpentries workshop/learner counts**: Tim's SOPA states "28 workshops... 2,896 learners"
+  for the 2023-2025 review period; his Data Summary states "37 workshops (2022–2025)... 1,495
+  attendees (2024–2025)" for what may be a different scope (UC Carpentries alone vs. UCLA
+  Carpentries + UC Carpentries combined) and a different date window. The founding/co-founding
+  distinction (UCLA Carpentries 2018, UC Carpentries co-founded 2020) is resolved per Tim
+  2026-08-09; the workshop counts are not. Use the SOPA's explicitly-scoped figure if one number
+  is needed publicly.
+- **Doug's Iceland trip(s)**: one trip (2023) or two (2023 exploratory + 2024 large-scale
+  survey)? Not confirmed — see Doug Daniels project inventory above.
+- **Exact dates for three of Norman Powell's four gifts** (data scientist position, deep
+  learning machine/DSC space, DataSquad seed funding) — all undated in every source checked.
+- **"The first reorg"**: Tim mentioned a first reorganization during the 2018-present span that
+  reduced data-science support capacity. Recorded as a bare fact per the Method/independence
+  note's discipline; not dated or elaborated — deliberately kept out of the public narrative
+  entirely, not just trimmed, since this project's whole premise is staying independent of any
+  reorg argument (see `history.qmd` Methods and limitations).
+- **Jamie Jamison's DB dump / staff dates for 1977-1986** — tracked in
+  `ucla-data-science-center/dataverse-infrastructure#10`, not yet received.
+- **The Marvick Papers** (UCLA Special Collections, 63 boxes, 1955-1998) — not yet consulted for
+  primary founding documents, including Marvick's own 1967 proposal.
+- **Tim's own 2021 book chapter**, "From a Data Archive to Data Science" (Dennis et al., in
+  Herndon ed., *Data Science in the Library*, Facet, pp.99-109) — not yet read; likely already
+  contains a considered account of the 2014-2018 transition that predates and could sharpen
+  everything reconstructed here piecemeal.
+
+## Achievements resting only on performance-review language (not independently corroborated)
+
+Per the 2026-08-09 validate-external adjudication's evidence-tier rule (performance-review
+documents are discovery sources, not sole public evidence): the following are real per Tim's or
+Doug's self-authored review documents but have no independent corroboration found yet, and
+should stay out of the public narrative until/unless corroborated:
+
+- Leigh Phan's "deep learning work with Dennis" specifically (her independently-verified work is
+  open-data/mapping and data-ethics instruction — real, but distinct from "deep learning").
+- Zhiyuan Yao's GIS-analysis work specifically (independently verified: Carpentries workshop
+  development; GIS-analysis project work itself not yet found under his name).
+- The precise causal claim that Redivis/Carceral Ecologies/BioCritical Studies Lab outcomes
+  constitute "impact" in the strongest sense (vs. documented activity/adoption/outcome) — see
+  `history.qmd` Research Impact for how this is handled with tiered language.
+
+Full detail: `evidence/sopa-research-enabled-and-intellectual-contributions.md` and
+`evidence/data-summaries-and-reconciliation.md`. Note: source documents for this section include
+confidential peer-review letters, reference letters, and salary information not read for this
+project and not summarized anywhere in this repository.
