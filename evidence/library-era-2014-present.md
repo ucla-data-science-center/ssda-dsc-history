@@ -371,9 +371,8 @@ describing files.
   These figures measure platform activity, not unique holdings. DSC provided the access and
   computational environment; responsibility for the resulting scholarship stayed with the
   researchers."*
-- ⚠️ **Launch date discrepancy:** peer-review evidence says **launched July 2022**; Tim's SOPA
-  says **launched January 2023**. Dean update says "launched in 2022." Plausible: piloted 2022,
-  formal/governed launch Jan 2023 — confirm.
+- **Launch:** piloted 2022, governed 50-seat service launched **January 2023** (confirmed by Tim
+  2026-09-02; reconciles the July-2022 vs January-2023 sources). ✅
 - Governance: **50-seat cap** with data-use-agreement controls (DUA required for all users incl.
   derived datasets; L2 vendor template); primary approver = Data Collections Manager (Jamie),
   escalation = Director; Jira + email intake ✅

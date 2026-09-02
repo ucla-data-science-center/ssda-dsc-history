@@ -108,8 +108,12 @@ Remaining real gaps:
 - **Oral history (decided 2026-09-01)** — no broad outreach to former SSDA/ISSR staff. Limited
   to the Jamie Jamison contact already underway (`ucla-data-science-center/dataverse-infrastructure#10`)
   for the 1977-1986 staffing gap.
-- **Venue** — a citable UCLA record (eScholarship deposit path to be checked); an IASSIST
-  Quarterly piece, if any, is a separate later pass. Not blocking.
+- **Venue (2026-09-02)** — delivered as **both a website and a PDF**, both generated from the
+  single `history.qmd`. (Not the 7-31 multi-page site — that stays live separately for now.)
+  eScholarship deposit path to be checked so the PDF is citable. An IASSIST Quarterly piece, if
+  any, is a separate later pass.
+- **The 7-31 public site (2026-09-02)** — kept live as-is for now; revisit once the single
+  history is further along.
 
 ## Open questions for Tim
 1. **Registry key / repo name** — using `ssda_dsc_history` / `ssda-dsc-history` as a working name; rename if you want something else.

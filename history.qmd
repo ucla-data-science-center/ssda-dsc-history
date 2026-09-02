@@ -453,9 +453,9 @@ Before this, UCLA had no compliant environment for restricted, multi-terabyte na
 of this class — no governed way to give a student voter-file access, no secure environment for
 merging FERPA/PII/PHI-restricted data at scale. To support that class of data, **DSC selected
 and licensed Redivis, coordinated the institutional compliance review (Third-Party Risk
-Management, P3/P4 approval), negotiated restricted-dataset access, and launched the service**,
-designing a 50-seat, data-use-agreement-controlled governance model so routine requests wouldn't
-bottleneck on one person.[^redivis-source]
+Management, P3/P4 approval), negotiated restricted-dataset access, piloted the platform in 2022,
+and launched the governed service in January 2023** — a 50-seat, data-use-agreement-controlled
+model so routine requests wouldn't bottleneck on one person.[^redivis-source]
 
 The flagship case is the **L2 historic voter file** — over 10 TB of national voter history,
 purchased through the archive's gift fund, that arrived as thousands of fragmented state-level
@@ -475,8 +475,8 @@ open files.
 [^redivis-source]: Platform and governance detail: Tim Dennis, Statement of Professional
 Achievements and Data Summary, 2023–2025, self-reported. The DOI, the FORCE11 presentation
 (Mathews & Straus 2024, doi:10.5281/zenodo.13181256), and the publication venues are the
-independently checkable parts. [NEEDS TIM: pilot vs. formal launch date — sources say both July
-2022 and January 2023.]
+independently checkable parts. Launch: piloted 2022, governed service launched January 2023
+(confirmed by Tim 2026-09-02; reconciles the July-2022 / January-2023 sources).
 
 ### Teaching at scale, and open science
 
