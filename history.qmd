@@ -242,7 +242,7 @@ members" / "through his efforts" phrasing is from `evidence/ssda-harvard-dataver
 [^eulau]: Heinz Eulau, "Good-bye to Two Dear Friends: Warren Miller and Dwaine Marvick — A
 Personal Memoir," 1999 (`evidence/eulau-1999-miller-marvick-memoir.md`).
 
-<!-- internal working notes: evidence/marvick-biography-and-papers.md; evidence/stiles-stephenson-2008-ifla.md; evidence/icpsr-history.md; evidence/rice-southall-2016-ch1.md; evidence/miller-1962-considerations.md; evidence/icpsr-founding-members-austin.md; evidence/eulau-1999-miller-marvick-memoir.md; evidence/umich-bhl-9938-finding-aid.md. ISSR-era research from the 7-31 site branch (deep-research-report.md) merged in 2026-09-02, still flagged as not verified claim-by-claim. -->
+<!-- internal working notes: evidence/marvick-biography-and-papers.md; evidence/stiles-stephenson-2008-ifla.md; evidence/icpsr-history.md; evidence/rice-southall-2016-ch1.md; evidence/miller-1962-considerations.md; evidence/icpsr-founding-members-austin.md; evidence/eulau-1999-miller-marvick-memoir.md; evidence/umich-bhl-9938-finding-aid.md. ISSR-era research from the 7-31 site branch (deep-research-report.md) merged 2026-09-02; spot-verified 2026-09-02 (Sears's ISSR dates confirmed; three-subperiod structure is catalog-grounded); Freeman/Brewer terms and the Fielder 1964/1976 question still open. -->
 
 ## 1964-1974: The Survey Research Center years
 
@@ -315,9 +315,11 @@ instead, along with all associated support and storage — numeric-data stewards
 Library to the Archive [@stilesStephenson2008], the reverse of the direction it would move in
 2014.
 
-[^issr-1977]: OECD international directory of social science data archives, cited in
-`evidence/deep-research-report.md`; the four-way framing conflict and the catalog evidence are
-in the same pass and `site/issr-era.qmd`.
+[^issr-1977]: *Social Sciences for a Digital World* (OECD, 2000), an international directory that
+dates the ISSR Data Archive at UCLA to December 1977; cited in
+`evidence/deep-research-report.md`. The research pass also separates a **1976** step (the SRC
+incorporated into ISSR) from the **December 1977** step (SSDA formally established as a named
+unit) — a two-step transition rather than one 1977 event.
 
 <!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md (most precise account); dsc-evidence-registry/claims/issr-transfer-1977.yaml (4 independent corroborations); evidence/deep-research-report.md (OECD directory, catalog evidence, four-way conflict) -->
 
@@ -327,16 +329,18 @@ The archive's 37 years under this umbrella were not one continuous arrangement. 
 three subperiods:[^three-subperiods]
 
 - **ISSR proper (1977 – late 2000s).** The archive as a service unit of the Institute for Social
-  Science Research. Directors identified for ISSR across this span: **Howard E. Freeman**
-  (founding, into roughly 1980), **Marilynn B. Brewer** (documented in 1983), and **David O.
-  Sears** (1993–2008, per his own CV).
+  Science Research. Its directors: **Howard E. Freeman** (the early years, into roughly 1980),
+  **Marilynn B. Brewer** (by 1983; exact term not pinned), and **David O. Sears** (1993–2008).
+  UCLA's own General Catalogs list SSDA as an ISSR component through at least 2005–07.
 - **Institute for Social Research (~2009–2011).** By the 2009–10 UCLA General Catalog the parent
-  institute had been renamed ISR — same phone number, same components including the Data
-  Archive, a new website. No director has been identified under this name.
+  institute had been renamed ISR — same components, including the Data Archive, a new website;
+  the Survey Research Center is no longer listed among them (it had moved to a Health Services
+  Research division in 2004). No director is identified under the ISR name.
 - **Standalone SSDA (~2011–2014).** By the 2011–12 catalog neither ISSR nor ISR appears; the
-  Social Science Data Archive is listed independently as a Social Sciences collection with its
-  own site. No public source names a formal dissolution of the parent institute or a single
-  successor. The exact reporting line from here to the 2014 Library transfer is unresolved.
+  Social Science Data Archive is listed on its own, as a Social Sciences collection with its own
+  site (`dataarchives.ss.ucla.edu`), and stays that way through 2013–14. No source names a formal
+  dissolution of the parent institute or a single successor. The reporting line from here to the
+  2014 Library transfer is unresolved.
 
 SSDA's recurring survey work continued under the LAMAS model throughout, renamed and reshaped:
 the **Southern California Social Survey (SCSS)**, then the **Los Angeles County Social Survey
@@ -363,12 +367,15 @@ Intergenerational Stratification and Mobility File (ISMF), built with Harry Ganz
 University, Amsterdam) and Donald Treiman, funded by the Netherlands Organisation for Scientific
 Research [@stilesStephenson2008].
 
-[^three-subperiods]: The three-subperiod structure and the director list come from the 7-31
-deep-research pass (`evidence/deep-research-report.md`, `site/issr-era.qmd`), which is heavily
-cited but not yet verified claim-by-claim against the primary documents (UCLA General Catalogs,
-Sears's CV, an OECD directory). Treat names and dates here as well-sourced leads. Operational
-staff named in that pass but not archive-confirmed: Eve Fielder, Rita Engelhardt, Donald Witzke,
-Michael Greenwell, Madeleine De Maria, Tana Wong, among others — see
+[^three-subperiods]: The three-subperiod structure is grounded in the digitized UCLA General
+Catalogs (2003–05, 2005–07, 2009–10, 2010–11, 2011–12, 2013–14), read in the 7-31 research pass
+(`evidence/deep-research-report.md`, `site/issr-era.qmd`); Sears's 1993–2008 ISSR directorship
+is independently confirmed (his Wikipedia biography and UCLA psychology page). Still soft:
+Freeman's and Brewer's exact terms, and whether the ISSR→ISR rename had a formal date or
+authority (none found). Operational staff named in that pass but not archive-confirmed — Eve
+Fielder, Rita Engelhardt, Donald Witzke, Michael Greenwell, Madeleine De Maria, Tana Wong,
+among others — appear in an early-1980s UCLA earthquake-research report and the front matter of
+Citrin and Sears's *American Identity and the Politics of Multiculturalism*; see
 [history-companion.qmd](history-companion.html).
 
 [^newsletter]: `evidence/newsletter-images-2017-deck.md` — photographed excerpts of a ~1979 SSDA
@@ -658,9 +665,10 @@ Founders, formal leaders, and people who sustained the operation across a substa
 full roster including rotating collaborators and shorter-tenure staff is in
 [history-companion.qmd](history-companion.html).
 
-Names, dates, and titles for the ISSR era are drawn from a research pass that is heavily cited
-but not yet checked against the primary documents (see the 1977–2014 section); treat them as
-well-sourced leads.
+ISSR-era entries are grounded in the digitized UCLA General Catalogs and corroborating published
+sources (see the 1977–2014 section); Sears's directorship dates are independently confirmed.
+Freeman's and Brewer's exact terms, and the operational staff below the director line, are still
+soft.
 
 | Name | Role | Documented span | Note |
 |---|---|---|---|

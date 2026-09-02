@@ -29,9 +29,10 @@ The public history keeps only people who founded, formally led, reorganized, or 
 operation across a substantial period. Full roster:
 
 ISSR-era names, dates, and titles below the Marvick/Treiman/Stephenson core come from a
-deep-research pass (`evidence/deep-research-report.md`, merged from the 7-31 site branch) that is
-heavily cited but **not yet verified claim-by-claim** against the primary documents. Treat as
-leads.
+deep-research pass (`evidence/deep-research-report.md`, merged from the 7-31 site branch),
+grounded in the digitized UCLA General Catalogs and corroborating published sources. **Sears's
+ISSR dates are independently confirmed** (2026-09-02). Freeman's and Brewer's exact terms, and
+the operational-staff entries, are still soft — treat those as leads.
 
 | Name | Role | Documented span | Note |
 |---|---|---|---|
@@ -59,7 +60,8 @@ leads.
 
 ## Full 1977-2014 detail cut from the main narrative
 
-**The three subperiods** (per `evidence/deep-research-report.md`, not yet primary-verified):
+**The three subperiods** (grounded in the digitized UCLA General Catalogs 2003–05 through
+2013–14, per `evidence/deep-research-report.md`; Sears's dates independently confirmed):
 - **ISSR proper, 1977 – late 2000s.** An OECD international directory dates the "ISSR Data Archive
   at UCLA" to December 1977, for quantitative research "primarily secondary analysis," drawing on
   UCLA's ICPSR membership plus federal statistical agencies (Census, NCHS, NCES, BLS) and local
@@ -198,12 +200,16 @@ See `evidence/icpsr-citation-count-lamas-lacss.md` and `evidence/lamas-scss-lacs
   UCLA General Catalog.
 - **The 1964 SRC arrangement and Eve Fielder**: Stephenson's Dataverse-page text says the SRC
   formed in 1964 "under the direction of Eve Fielder" and the PBA merged into its planned Archive
-  Data Library. A published obituary says Fielder became SRC's *first* director only in 1976.
-  Either SRC ran from 1964 under someone else, or the account compresses two events. Not resolved
-  against SRC's own records.
-- **The ISSR era director list and three-subperiod structure** rest on `evidence/deep-research-report.md`,
-  heavily cited but not primary-verified. Verify Freeman/Brewer/Sears and the ISSR→ISR→standalone
-  sequence against the UCLA General Catalogs, Sears's CV, and the OECD directory it cites.
+  Data Library. A published obituary (LA Times, via legacy.com) says Fielder became SRC's *first*
+  director only in **1976**, that SRC moved in **2004** to a Health Services Research division in
+  UCLA General Internal Medicine, and that she was associate director there until retiring in
+  **2006**. Either SRC ran from 1964 under someone else, or the account compresses two events.
+  Not resolved against SRC's own records.
+- **The ISSR-era director list and three-subperiod structure** (spot-verified 2026-09-02):
+  **Sears's ISSR directorship 1993–2008** is independently confirmed (Wikipedia, UCLA psychology
+  page). The three subperiods are grounded in the digitized UCLA General Catalogs
+  (`evidence/deep-research-report.md` cites 2003–05 through 2013–14). **Still open:** Freeman's
+  and Brewer's exact terms; whether the ISSR→ISR rename had a formal date/authority (none found).
 - **ISSR→ISR rename and ISR dissolution**: no date or authority found for either; no director
   identified for the institute under the ISR name (~2009–2011).
 - **The "8 founding members" of ICPSR, and "through his efforts"**: both phrasings are from
