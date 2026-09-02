@@ -1,16 +1,32 @@
 ---
 title: "From the Political Behavior Archive to the Data Science Center"
-subtitle: "An institutional history of UCLA's social science data archive, 1961-present"
+subtitle: "An institutional history of UCLA's social science data archive, 1961–present"
 author: "Tim Dennis"
 date: last-modified
-format:
-  html:
-    toc: true
-    number-sections: false
-    citations-hover: true
+date-format: "D MMMM YYYY"
 bibliography: references.bib
 csl: chicago-notes-bibliography.csl
 link-citations: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    citations-hover: true
+    theme: cosmo
+    max-width: 46em
+    fig-cap-location: bottom
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    documentclass: scrartcl
+    papersize: letter
+    geometry: "margin=1in"
+    fontsize: 11pt
+    linkcolor: "RoyalBlue"
+    urlcolor: "RoyalBlue"
+    citecolor: "black"
 ---
 
 <!--
@@ -88,6 +104,22 @@ Fuller detail on sources and their limits is in
 
 ## Institutional timeline
 
+::: {.content-visible when-format="pdf"}
+| Year | Milestone |
+|------|-----------|
+| 1961 | Political Behavior Archive founded (Marvick) |
+| 1964 | Survey Research Center formed; PBA merges into its Archive Data Library |
+| 1974 | Institute for Social Science Research (ISSR) established, incorporating the SRC |
+| 1977 | The archive is named the Social Science Data Archive; Treiman designs its research-support framework |
+| 2014 | MOU transfers SSDA from the Social Sciences Division to the UCLA Library |
+| 2018 | The Data Science Center is formed as the umbrella program |
+
+*1974 and 1977 are shown as separate events: ISSR (the parent institute) and the naming of the
+archive unit within it are four years apart, not one founding date. Dated by the sources in
+`dsc-evidence-registry/claims/`.*
+:::
+
+::: {.content-visible when-format="html"}
 ```{=html}
 <div class="viz-root ssda-timeline">
 <style>
@@ -168,6 +200,7 @@ Fuller detail on sources and their limits is in
 <figcaption>Institutional milestones only — dated by the sources in <code>dsc-evidence-registry/claims/</code>. 1974 and 1977 are deliberately shown as separate points: ISSR (the parent institute) and SSDA (the named archive unit within it) are different events, four years apart, not one founding date.</figcaption>
 </div>
 ```
+:::
 
 ## 1961-1964: The Political Behavior Archive
 
@@ -661,6 +694,22 @@ value, not for the archive's own activity. They don't share an axis, and shouldn
 against each other directly: a decade with heavy collecting activity doesn't necessarily produce
 more citations, and citations can (and here, do) arrive decades after collection.
 
+::: {.content-visible when-format="pdf"}
+| Decade | Datasets collected |
+|--------|-------------------:|
+| 1960s | 69 |
+| 1970s | 124 |
+| 1980s | 120 |
+| 1990s | 130 (peak) |
+| 2000s | 87 |
+| 2010s | 5 |
+
+*571 datasets in the Harvard Dataverse SSDA collection, bucketed by the survey year embedded in
+each title (not the Dataverse "published" date, a uniform 2015–2018 migration artifact — full
+methodology in the companion). Measures holdings activity, not usage or citation.*
+:::
+
+::: {.content-visible when-format="html"}
 ```{=html}
 <div class="viz-root ssda-bar-chart">
 <style>
@@ -736,7 +785,24 @@ more citations, and citations can (and here, do) arrive decades after collection
 <figcaption>571 datasets in the Harvard Dataverse SSDA collection, bucketed by the survey year embedded in each title (not the Dataverse "published" date, which is a uniform 2015–2018 migration artifact — full methodology in <a href="history-companion.html">history-companion.qmd</a>). This measures holdings activity, not usage or citation.</figcaption>
 </div>
 ```
+:::
 
+::: {.content-visible when-format="pdf"}
+**Citation evidence, by survey series** (citing publications in ICPSR's Bibliography of
+Data-related Literature, searched by study number, 2026-08-09):
+
+| Series | Citing publications found |
+|--------|---------------------------|
+| LACSS | 2011, 2021, 2025 |
+| LAMAS | none in the queried index |
+| SCSS | not measurable — never deposited in the queried index |
+
+*Evidence of indexed citation, not a complete estimate of use — absence from the index does not
+establish that a series was unused, especially for LAMAS (1970s) and SCSS, which predate modern
+data-citation norms by decades.*
+:::
+
+::: {.content-visible when-format="html"}
 ```{=html}
 <div class="viz-root ssda-event-plot">
 <style>
@@ -819,8 +885,9 @@ more citations, and citations can (and here, do) arrive decades after collection
 <figcaption>Every citing publication documented in ICPSR's Bibliography of Data-related Literature, searched by study number, 2026-08-09. This is evidence of <em>indexed</em> citation, not a complete estimate of use — absence from the index does not establish that a series was unused, especially for LAMAS (1970s) and SCSS, which predate modern data-citation norms by decades. Full methodology in <a href="history-companion.html">history-companion.qmd</a>.</figcaption>
 </div>
 ```
+:::
 
-Publications behind the LACSS dots: [@gershonPantoja2011], [@zambranaEtal2021],
+Publications behind the LACSS citations: [@gershonPantoja2011], [@zambranaEtal2021],
 [@gutierrez2025].
 
 ### Contemporary research enabled

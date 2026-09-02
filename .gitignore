@@ -4,6 +4,8 @@
 # Quarto render output (regenerable from the .qmd sources)
 /history.html
 /history-companion.html
+/history.pdf
+/history-companion.pdf
 /history_files/
 /history-companion_files/
 /.quarto/
@@ -11,3 +13,5 @@
 
 # Downloaded archives (extract locally; keep the extracted source docs, not the zips)
 *.zip
+
+**/*.quarto_ipynb

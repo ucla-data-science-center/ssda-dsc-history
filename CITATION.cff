@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  From the Political Behavior Archive to the Data Science Center:
+  An institutional history of UCLA's social science data archive, 1961-present
+message: "If you cite this work, please use the metadata in this file."
+type: report
+authors:
+  - family-names: Dennis
+    given-names: Tim
+    affiliation: "UCLA Library, Data Science Center"
+    # TODO: add Tim's ORCID (orcid: "https://orcid.org/0000-0000-0000-0000")
+abstract: >-
+  An institutional history of one continuous function at UCLA - the stewardship
+  of research data - traced across six decades and five institutional homes:
+  from the Political Behavior Archive (founded 1961 by Dwaine Marvick), through
+  the Survey Research Center and the Institute for Social Science Research, the
+  1977 naming of the Social Science Data Archive, the 2014 transfer to the UCLA
+  Library, and the 2018 formation of the Data Science Center. Written by the
+  unit's director as a legacy record, emphasizing the continuity of the function
+  across changes of name, home, and scope.
+keywords:
+  - institutional history
+  - social science data archives
+  - research data management
+  - data curation
+  - UCLA
+  - Data Science Center
+# TODO: confirm license. Repo default is BSD-3-Clause (code); a history document
+# is more naturally CC-BY-4.0. Set `license:` and the LICENSE file to match.
+# license: CC-BY-4.0
+# TODO on release: set version, date-released, and (after the first Zenodo
+# deposit) the concept DOI here so future releases carry it forward.
+# version: "1.0.0"
+# date-released: "2026-00-00"
+# doi: "10.5281/zenodo.xxxxxxx"

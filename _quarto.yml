@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - history.qmd
+    - history-companion.qmd
+
+website:
+  title: "UCLA's Social Science Data Archive — an institutional history"
+  reader-mode: true
+  navbar:
+    left:
+      - text: "The history"
+        href: history.html
+      - text: "Evidence companion"
+        href: history-companion.html
+  page-footer:
+    left: "Tim Dennis"
+    right: "Evidence cutoff 2026-08-31 · source in the project repository"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    citations-hover: true
+  pdf:
+    documentclass: scrartcl
+    papersize: letter
+    geometry: "margin=1in"
+    fontsize: 11pt
+    toc: true
+    toc-depth: 3
+    number-sections: false

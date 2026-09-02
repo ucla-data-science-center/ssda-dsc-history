@@ -108,12 +108,27 @@ Remaining real gaps:
 - **Oral history (decided 2026-09-01)** — no broad outreach to former SSDA/ISSR staff. Limited
   to the Jamie Jamison contact already underway (`ucla-data-science-center/dataverse-infrastructure#10`)
   for the 1977-1986 staffing gap.
-- **Venue (2026-09-02)** — delivered as **both a website and a PDF**, both generated from the
-  single `history.qmd`. (Not the 7-31 multi-page site — that stays live separately for now.)
-  eScholarship deposit path to be checked so the PDF is citable. An IASSIST Quarterly piece, if
-  any, is a separate later pass.
+- **Venue (2026-09-02)** — delivered as **both a website and a PDF**, generated from
+  `history.qmd` (+ `history-companion.qmd`). Citable DOI via **Zenodo's GitHub integration**: cut
+  a GitHub release, Zenodo mints a DOI. (Not the 7-31 multi-page site — that stays live
+  separately for now.) An IASSIST Quarterly piece, if any, is a separate later pass.
 - **The 7-31 public site (2026-09-02)** — kept live as-is for now; revisit once the single
   history is further along.
 
+## Building and publishing
+
+- `quarto render` builds the 2-page website into `_site/` and the reading PDF as `history.pdf`.
+  Config is in `_quarto.yml`; `history.pdf` renders via `quarto render history.qmd --to pdf`.
+- Publishing target: **website + PDF**, with a **Zenodo DOI via GitHub releases**. Steps (Tim):
+  1. Connect the repo in Zenodo (github.com/settings → Zenodo, flip the toggle for this repo).
+     Note: Zenodo's GitHub integration needs a **public** repo — this one is private and has
+     personnel-adjacent files under `evidence/`, so the release should bundle only the rendered
+     history + `references.bib` + the CSL, not the whole tree (or move the deliverable to a
+     clean public repo).
+  2. Fill the TODOs in `CITATION.cff` (Tim's ORCID; confirm license — CC-BY-4.0 for a document
+     vs. the repo's BSD-3-Clause default; version; date).
+  3. Cut a GitHub release → Zenodo mints the DOI → add the concept DOI back to `CITATION.cff`.
+
 ## Open questions for Tim
 1. **Registry key / repo name** — using `ssda_dsc_history` / `ssda-dsc-history` as a working name; rename if you want something else.
+2. **License** for the history document — CC-BY-4.0, or keep the repo's BSD-3-Clause?
