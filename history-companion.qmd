@@ -54,7 +54,7 @@ leads.
 | Doug Daniels | Helpdesk Specialist → Technical Projects Specialist → Coordinator of Scholarly Innovation Technologies → Emerging Technologies Librarian | 2013 – present (DSC team 2020) | UCLA Librarian of the Year 2026; see full project list below |
 | Leigh Phan | Programmer, later Data Scientist | 2018-present era | Role evolution per Tim; deep learning work with Dennis; verified open-data/mapping and data-ethics-instruction work |
 | Zhiyuan Yao | GIS / Spatial Data Science Librarian; IMLS Program Coordinator | ~2020–2024 (now Assistant Professor, Appalachian State) | GIS librarian role; UC GIS Week; LARIAC management |
-| Kristian Allen | Staff, 0.5 FTE | 2018–2024 | |
+| Kristian Allen | Digital Library programmer, data-science/ML background, recruited cross-divisionally to DSC; 0.5 FTE | 2018–2024 | The "Digital Library programmer" in the book chapter's redesign-not-hire passage (per Tim) |
 | Norman Powell | Philanthropic donor | gifts across multiple years, mostly undated | See Powell gifts detail below |
 
 ## Full 1977-2014 detail cut from the main narrative
@@ -103,9 +103,8 @@ for complete detail. Highlights not in the main narrative:
   Medicine coursework.
 - Drone/LiDAR mapping kit acquired late spring/early summer 2023; FAA Part 107 UAS Remote Pilot
   certification. Used on an ongoing Angkor Wat temple-mapping project (Cambodia/Philippines) and
-  the Mosfell Valley, Iceland survey — dated "summer 2023" in the 2023 SOPA and "Summer–Fall
-  2024" in the 2025 Data Summary; **not confirmed whether these are one trip or two separate
-  ones** — ask before stating a single date anywhere public-facing.
+  the Mosfell Valley, Iceland survey — **one trip, Summer–Fall 2024** (per Tim 2026-09-02; the
+  "summer 2023" mention in the 2023 SOPA was planning/prep).
 - LiDAR-scanned Powell Library **twice**: terrestrial LiDAR, Nov-Dec 2021 ("for preservation,
   documentation, and exhibition of 3D data tools"), and drone-based photogrammetry/aerial
   mapping, Summer 2024.
@@ -213,8 +212,6 @@ See `evidence/icpsr-citation-count-lamas-lacss.md` and `evidence/lamas-scss-lacs
   distinction (UCLA Carpentries 2018, UC Carpentries co-founded 2020) is resolved per Tim
   2026-08-09; the workshop counts are not. Use the SOPA's explicitly-scoped figure if one number
   is needed publicly.
-- **Doug's Iceland trip(s)**: one trip (2023) or two (2023 exploratory + 2024 large-scale
-  survey)? Not confirmed — see Doug Daniels project inventory above.
 - **Exact dates for three of Norman Powell's four gifts** (data scientist position, deep
   learning machine/DSC space, DataSquad seed funding) — all undated in every source checked.
 - **"The first reorg"**: Tim mentioned a first reorganization during the 2018-present span that

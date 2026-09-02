@@ -146,8 +146,8 @@ net-new headcount:
 | Tim Dennis | Director, SSDA (Apr 2017) → Director, DSC | 2017 – present | Founded UCLA Carpentries (2018), co-founded UC Carpentries (2020), founded UCLA DataSquad (2020/2021) | ◐ / ✅ mixed |
 | Leigh Phan | Programmer → Data Scientist | 2018-present era | Role evolution per Tim; committed webmap/Leaflet content to `ucla-data-archive_old` Oct 2018; verified open-data/mapping + data-ethics-instruction work (Phan et al. 2021, IASSIST); "deep learning work with Dennis" is ◐ only | ◐ / ✅ mixed |
 | Doug Daniels | Emerging Technologies Librarian, DSC | Joined DSC 2020 (UCLA Library since 2013) | Lux Lab, 3D/drone/Potree; 2026 LAUC-LA Librarian of the Year. Full detail §11 | ✅ |
-| Zhiyuan Yao | GIS / Spatial Data Science Librarian; IMLS Program Coordinator | ~2020–2024 (left for Assistant Professor, Appalachian State) | GIS librarian role; systemwide UC GIS Week; LARIAC management; specific GIS-analysis project work not independently found | ◐ / ✅ mixed |
-| Kristian Allen | Staff, 0.5 FTE | 2018–2024 | | ◐ |
+| Zhiyuan Yao | GIS / Spatial Data Science Librarian; IMLS Program Coordinator | ~2020–2024 (left for Assistant Professor, Appalachian State) | GIS librarian role; **established the systemwide UC GIS Week** (confirmed by Tim 2026-09-02); LARIAC management | ◐ / ✅ mixed |
+| Kristian Allen | Digital Library programmer with a data-science/ML background, recruited cross-divisionally to DSC; 0.5 FTE | 2018–2024 | This is the "Digital Library programmer" the book chapter's redesign-not-hire passage refers to (confirmed by Tim 2026-09-02) | ◐ |
 | "Gillian" | Staff (named in reorg service-impact record among lost capacity) | ended by ~2024 | ❓ full name, role, dates | ❓ |
 | DataSquad students | Student consultants | 2020/2021 – present | 12+ unique students in the 2023–25 review period; all 10 tracked students placed in data/technical roles (see §14) | ✅ |
 
@@ -495,10 +495,12 @@ performance.
 - **Kate McInerny** pipeline: entered via Prof. Kelly Lytle Hernández's African American 188
   course → hired into the Carceral Ecologies lab → kept skilling up through DSC workshops →
   graduated to Sciences Po (Paris) ✅
-- Outcomes: pilot data behind a **$5M grant establishing the Dana Center for Neuroscience and
-  Society**; national media — **LA Times, The New Yorker, Bloomberg** (and ABC7 per one source);
-  meetings with city officials; a dedicated sub-dataverse with **5 published datasets on carceral
-  infrastructure** ✅/◐
+- Outcomes: pilot data behind the **$5,074,750 Dana Foundation grant (2023)** that established
+  the **UCLA–Charles R. Drew Dana Center for Neuroscience & Society**, where Shapiro is Director
+  of Research ✅ (UCLA Newsroom / UCLA Health / dana.org — public sources, confirmed 2026-09-02;
+  the helicopter-noise work → LA City Hall is described in the Center's own materials); national
+  media — **LA Times, The New Yorker, Bloomberg** (and ABC7 per one source); a dedicated
+  sub-dataverse with **5 published datasets on carceral infrastructure** ◐
 - Shapiro: *"This work wouldn't have happened without your team!"* and DSC "turned my need to
   pivot into something more valuable to the city and the university" ✅
 
@@ -582,9 +584,9 @@ Medicine** (Endocrinology/Pathology) biological-specimen scanning for thyroid re
 UCLA Medical Center.
 
 Drone / LiDAR field surveys: ongoing **Angkor Wat** temple-mapping (Cambodia/Philippines);
-**Mosfell Valley, Iceland** archaeological survey with a Cotsen doctoral student — ⚠️ **one trip
-(summer 2023) or two (2023 exploratory + 2024 large-scale)?** Not confirmed — ask before
-publishing a date.
+**Mosfell Valley, Iceland** large-scale drone LiDAR/photogrammetry survey with a Cotsen doctoral
+student, **Summer–Fall 2024** — one trip (confirmed by Tim 2026-09-02; the 2023 SOPA mention was
+planning/prep).
 
 Other: UCSD Scripps **FLIP research vessel** LiDAR/structured-light scan (Aug 2021); UCSD Birch
 Aquarium marine specimens (Jun 2021); advised **Zelin Deng** (Materials Science) on
@@ -697,9 +699,14 @@ Per UCLA Library's retrospective (`evidence/powell-gifts-and-imls-grant.md`):
 
 ## 15. What only Tim can fill — consolidated gap list
 
-**People:** Leigh Phan's title/start and confirmation she's the "Digital Library programmer"
-hire; "Gillian" full name/role/dates; Data Science Facilitator holder; redesigned-position names
-+ dates; the 5-FTE peak year; headcount at dissolution.
+Resolved 2026-09-02: Redivis launch (piloted 2022, launched Jan 2023); the "Digital Library
+programmer" = Kristian Allen; UC GIS Week established by Zhiyuan Yao; Doug's Iceland = one trip,
+Summer–Fall 2024; the $5.07M Dana Foundation grant (2023) has public sources; genre = single
+perspectival history; ending = stops at the pre-2026 state.
+
+**People:** Leigh Phan's exact title and start (and when "programmer → data scientist"
+happened); "Gillian" full name/role/dates; the Data Science Facilitator's name and dates; the
+5-FTE peak year; headcount at dissolution.
 
 **OCR / text corpora (§12):** essentially the whole thread — collections, researchers, tooling,
 outputs; the "corpuses" bought with SSDA funds.
@@ -707,10 +714,10 @@ outputs; the "corpuses" bought with SSDA funds.
 **LARIAC (§8):** vintages; user base; the Google Drive move date/rationale; the
 `lariac-data-cleanup` repo; who serves it now.
 
-**ArcGIS Online (§9):** when/how DSC took it over; license cost + payer; reconcile the
-"3,614 org accounts" vs "7,100+ accounts" metrics; current custodian.
+**ArcGIS Online (§9):** when/how DSC took it over and from whom; license cost + payer; reconcile
+the "3,614 org accounts" vs "7,100+ accounts" metrics; current custodian.
 
-**Redivis (§7):** the July 2022 vs January 2023 launch date; reconcile workflow counts (147/156).
+**Redivis (§7):** reconcile the cumulative workflow counts (147/156).
 
 **Open science (§5):** the BITSS relationship specifically; COS/OSF membership status + tier;
 any DSC contribution to those bodies.
@@ -719,13 +726,10 @@ any DSC contribution to those bodies.
 SDA + Colectica cancellation dates; campus AWS "flattening" date; Powell-infrastructure-funds
 exhaustion date.
 
-**Spotlights (§10):** which additional consults to feature; independent confirmation of the $5M
-Dana Center figure; exact Public Impact Award citation language.
+**Spotlights (§10):** which additional consults to feature; exact Public Impact Award citation
+language.
 
-**Doug (§11):** which projects to foreground; the Iceland one-trip-or-two question; LuxLab
-student program details; guest-lecture count.
+**Doug (§11):** which projects to foreground; LuxLab student program details; guest-lecture count.
 
 **General:** current-year (post-Dec 2025 / 2026) numbers for anything that should be brought
-forward to the dissolution date; the exact effective dates and framing for how this section
-*ends* (the project's standing rule: the narrative stops at the DSC's pre-2026 state; the 2026
-reorg is out of scope beyond, at most, one neutral dated line).
+forward; the exact wording of the single neutral dated line, if any, at the end.

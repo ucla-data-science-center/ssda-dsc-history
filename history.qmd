@@ -386,19 +386,20 @@ she is the single human through-line across the entire Library era.
 Growth over the same span is easy to state and hard to overstate. Staff went from **2.0 FTE at
 the 2014 transfer** (a director and a data archivist) to **five** by roughly 2021 — most of it
 by redesigning existing library positions rather than net-new hiring: a geospatial librarian
-moved in from another department and rebuilt as a Spatial Data Science Librarian, a data manager
-from the Library's IT division rebuilt as a Data Science Facilitator, a Digital Library
-programmer with a machine-learning background recruited across divisions.[^staff-model] UCLA
-Dataverse went from **9 datasets and 229 downloads in January 2020** to roughly **1,600 datasets
-and over 143,000 downloads** by 2026 [^dataverse-count]. That growth was not matched by
-proportional staffing; part of how the unit absorbed it is the student program described below,
-and part is that some capacity was simply lost — a GIS position eliminated in 2024, other roles
-ended, with demand in those areas undiminished.
+moved in from another department and rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao),
+a data manager from the Library's IT division rebuilt as a Data Science Facilitator, and a
+Digital Library programmer with a machine-learning background recruited across divisions
+(Kristian Allen, a 0.5-FTE role, 2018–2024).[^staff-model] UCLA Dataverse went from **9 datasets
+and 229 downloads in January 2020** to roughly **1,600 datasets and over 143,000 downloads** by
+2026 [^dataverse-count]. That growth was not matched by proportional staffing; part of how the
+unit absorbed it is the student program described below, and part is that some capacity was
+simply lost — a GIS position eliminated in 2024, other roles ended, with demand in those areas
+undiminished.
 
 [^staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
-model. The specific position histories rest partly on the author's account. The 5-FTE peak year
-and the current headcount are not precisely fixed here. [NEEDS TIM: the redesigned-position
-names and dates; whether the "Digital Library programmer" is Leigh Phan; the peak-FTE year.]
+model. The specific position histories rest partly on the author's account. [NEEDS TIM: the
+Data Science Facilitator's name and dates; Leigh Phan's exact title and start; the 5-FTE peak
+year and the headcount at dissolution.]
 
 [^dataverse-count]: The "~1,600" resolves an apparent discrepancy: UCLA Dataverse holds ~376
 datasets deposited directly at UCLA plus ~1,014 legacy Social Science Data Archive datasets
@@ -796,7 +797,7 @@ infrastructure carried, with the independently checkable part called out:
 |---|---|
 | Redivis / L2 restricted data | Publication venues (APSR, PNAS, BJPolS, AEJ), a public dataset DOI, a public FORCE11 presentation |
 | IMLS open-science grant | A federal grant award record, public lesson repositories, Library Carpentry's own adoption record |
-| Carceral Ecologies (Nicholas Shapiro) | DSC/DataSquad multi-year support on a helicopter-surveillance dataset; national media (*LA Times*, *The New Yorker*, *Bloomberg*); pilot data behind a $5M grant establishing the Dana Center |
+| Carceral Ecologies (Nicholas Shapiro) | DSC/DataSquad multi-year support on a helicopter-surveillance dataset; national media (*LA Times*, *The New Yorker*, *Bloomberg*); pilot data behind the $5.07M Dana Foundation grant (2023) that established the UCLA–Charles R. Drew Dana Center for Neuroscience & Society, where Shapiro is Director of Research |
 | BioCritical Studies Lab (Terence Keel) | Multi-year DataSquad work on a US deaths-in-custody dataset; a 2024 UCLA Public Impact Research Award; DSC's work credited in Keel's book *The Coroner's Silence* |
 | Refugee Material Culture Initiative (Kelly Nguyen) | Doug Daniels + DataSquad, with the Vietnamese Heritage Museum; a public 3D digital narrative |
 | DataSquad | Student outcomes for the ten tracked graduates (data/technical roles); the projects above drew independent national coverage |
