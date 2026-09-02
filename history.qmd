@@ -30,77 +30,68 @@ format:
 ---
 
 <!--
-STATUS: 2026-08-09. Restructured per that day's validate-external editorial-triage adjudication:
-each era keeps only what fills one of four slots (institutional transition; one stewardship
-example; one observable consequence; continuity/discontinuity). Everything else -- full people
-roster, rotating PIs, exhaustive project lists, achievements resting only on performance-review
-language, full chart methodology, open discrepancies -- moved to [history-companion.qmd](history-companion.html). Cite the
-companion, don't duplicate it back in here.
-
-Output form decided 2026-09-01: an internal UCLA Library archival/administrative record --
-completeness and citation to institutional records over narrative polish. Introduction prose is
-still light and gets a dedicated pass; the analytical framing below holds regardless. Per the
-2026-08-09 adjudication: avoid teleology. The
-data-citation-to-ML/AI sequence is a retrospective synthesis for the recent decades, not the
-historical intention of every era -- period-appropriate language within each era, present-day
-framing only at the transitions between them.
+STATUS: one perspectival institutional history, single document (decided 2026-09-01). Each era
+keeps one institutional transition, one stewardship example, one observable consequence, and a
+continuity/discontinuity note; the full roster, project lists, chart methodology, and open
+discrepancies live in history-companion.qmd. Narrative stops at the DSC's pre-2026 state; it
+does not describe the 2026 dissolution. Prose ran through the humanizer 2026-09-02 (no em
+dashes, plain register). Avoid teleology: the data-citation-to-AI sequence is a retrospective
+way of narrating the recent decades, not the intention of every era.
 -->
 
 ## Introduction
 
-This traces one institutional function — the stewardship of research data at UCLA — across six
-decades and five different institutional homes. It is not a straight line. The unit's name,
-organizational home, and formal scope changed repeatedly; what stayed constant was a
-responsibility to make research evidence findable, usable, and preserved, extended again and
-again to new kinds of evidence as the objects of research changed. A 1961 archive of punch-card
-survey data and a 2024 platform processing petabytes of restricted voter records are
-recognizably continuous work — the same responsibility carried to new kinds of evidence — but
-the scale, the methods, and the institutional stakes changed enormously along the way, and this
-account tries not to read today's vocabulary backward onto earlier decades.
+This is the history of one job at UCLA: keeping research data so that people can find it, use it,
+and still rely on it years later. That job has been done here since 1961, under five different
+institutional homes and at least as many names. It is not a straight line. The unit's name,
+reporting line, and formal scope changed again and again. The work did not. A 1961 archive of
+punch-card survey data and a 2024 platform running petabytes of restricted voter records are
+recognizably the same work, done now for a much larger campus and with much larger stakes. This
+account tries to describe each era in its own terms rather than reading today's vocabulary
+backward onto it.
 
-A full evidentiary companion — complete people roster, project inventories, visualization
-methodology, and open discrepancies not yet resolved — is at
-[history-companion.qmd](history-companion.html); this document is the narrative, not the full record.
+A companion document holds the full evidence: the people roster, project inventories, how the
+charts were built, and the discrepancies that are still open. It is at
+[history-companion.qmd](history-companion.html). This document is the narrative.
 
 ## The history in 30 seconds
 
-- UCLA's data archive traces to **1961**, when political scientist Dwaine Marvick founded the
-  **Political Behavior Archive**.
-- It moved through several institutional homes over six decades — never a single continuous
-  organization, but a continuous *function*, re-housed as the campus around it changed: a survey
-  center (1964), a research institute (1974), a formally-named archive within that institute
-  (1977), the same institute renamed (~2009) and then gone (~2011), and finally its own unit
-  inside the UCLA Library (2014).
-- Two long-running recurring survey series — **LAMAS** (1970-1976) and its successor **LACSS**
-  (1992-2002+) — are the closest thing to a continuous data product across that span, with
-  **SCSS** bridging the gap between them.
-- One person, **Elizabeth "Libbie" Stephenson**, is documented staffing or directing the archive
-  from the late 1970s (ICPSR's own retirement profile dates her UCLA start to ~1977; other
-  sources document her from 1986) to her retirement in **2016** — the clearest human through-line
-  across the institutional changes.
-- In **2018**, the archive's umbrella became the **Data Science Center**, which extended the same
-  stewardship mission to new kinds of research data — 3D and spatial capture, restricted/sensitive
-  datasets, and curriculum itself as a citable output.
+- UCLA's data archive goes back to **1961**, when political scientist Dwaine Marvick founded the
+  Political Behavior Archive.
+- It moved through several institutional homes over six decades. It was never one continuous
+  organization, but the work continued as the campus around it changed: a survey center (1964),
+  a research institute (1974), a formally-named archive within that institute (1977), the same
+  institute renamed (about 2009) and then gone (about 2011), and finally its own unit inside the
+  UCLA Library (2014).
+- Two long-running survey series, **LAMAS** (1970–1976) and its successor **LACSS** (1992–2002+),
+  are the closest thing to a continuous data product across that span, with **SCSS** covering the
+  years between them.
+- One person, **Elizabeth "Libbie" Stephenson**, is documented on the archive's staff or running
+  it from the late 1970s (ICPSR's retirement profile dates her UCLA start to about 1977; other
+  sources document her from 1986) until she retired in 2016. She is the clearest human
+  through-line across the institutional changes.
+- In **2018** the archive's umbrella became the **Data Science Center**, which carried the same
+  work to new kinds of research data: 3D and spatial capture, restricted and sensitive datasets,
+  and course material treated as a citable output.
 
 ## A note on the author's position
 
 Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
-through 2026. This is his account of the archive's history, written to leave a durable record of
-a function that ran continuously for six decades and is now being reorganized out of its
-standalone form. It is a perspective, not a neutral chronicle — no institutional history is. But
-the record it rests on is held to a plain standard:
+through 2026. This is his account of the archive's history, written to leave a record of work
+that ran for six decades and is now being reorganized out of its standalone form. It is a point
+of view. No institutional history is written from nowhere. The record it rests on is held to a
+plain standard:
 
-- Contemporary claims are tied to cited institutional records, not to memory. Because the author
-  took part in the recent decades, those are held to a higher documentation standard than the
-  earlier ones, not a looser one.
-- Evaluative judgments — what worked, what mattered, what was lost — are marked as judgments.
-- Causal claims don't outrun the evidence.
-- Work done by a team is credited to the team; individual attribution only where authorship,
-  formal authority, or accountability is historically material.
+- Claims about the recent decades are tied to cited institutional records, not to memory.
+  Because the author took part in those years, they are held to a higher documentation standard
+  than the earlier ones, not a looser one.
+- Judgments about what worked and what was lost are marked as judgments.
+- Claims about cause are kept within what the evidence supports.
+- Work done by a team is credited to the team. Individuals are named where authorship, formal
+  authority, or accountability makes it matter.
 
-Evidence cutoff: **2026-08-31**. Corrections and version history are in the project repository.
-Fuller detail on sources and their limits is in
-[Methods and limitations](#methods-and-limitations).
+Evidence cutoff: 2026-08-31. Corrections and version history are in the project repository. More
+on the sources and their limits is in [Methods and limitations](#methods-and-limitations).
 
 ## Institutional timeline
 
@@ -114,7 +105,7 @@ Fuller detail on sources and their limits is in
 | 2014 | MOU transfers SSDA from the Social Sciences Division to the UCLA Library |
 | 2018 | The Data Science Center is formed as the umbrella program |
 
-*1974 and 1977 are shown as separate events: ISSR (the parent institute) and the naming of the
+*1974 and 1977 are shown as separate events. ISSR (the parent institute) and the naming of the
 archive unit within it are four years apart, not one founding date. Dated by the sources in
 `dsc-evidence-registry/claims/`.*
 :::
@@ -197,89 +188,87 @@ archive unit within it are four years apart, not one founding date. Dated by the
   <text x="637.2" y="135" class="tl-year" text-anchor="middle">2018</text>
   <text x="637.2" y="150" class="tl-label" text-anchor="middle">DSC formed</text>
 </svg>
-<figcaption>Institutional milestones only — dated by the sources in <code>dsc-evidence-registry/claims/</code>. 1974 and 1977 are deliberately shown as separate points: ISSR (the parent institute) and SSDA (the named archive unit within it) are different events, four years apart, not one founding date.</figcaption>
+<figcaption>Institutional milestones only, dated by the sources in <code>dsc-evidence-registry/claims/</code>. 1974 and 1977 are shown as separate points: ISSR (the parent institute) and SSDA (the named archive unit within it) are four years apart, not one founding date.</figcaption>
 </div>
 ```
 :::
 
 ## 1961-1964: The Political Behavior Archive
 
-Political scientist Dwaine Marvick, who had joined UCLA's faculty in 1954, founded the
-**Political Behavior Archive (PBA)** in 1961 [@marvickInMemoriam]. Rice and Southall situate it
-in the field's founding cohort: UCLA's data service ranks as the fourth-oldest social-science
-data library in their sample, after the Roper Center (1957), Berkeley (1958), and GESIS (1960),
-and ahead of ICPSR itself (1962) [@riceSouthall2016]. The PBA's stewardship object was
-straightforward for its moment: distributing survey and behavioral data from ICPR, the Roper
-Public Opinion Research Center, and local holdings to UCLA researchers [@stilesStephenson2008].
-Marvick was, per a UC memorial, "an early advocate and practitioner of computer applications to
-political data" — which makes founding an archive a well-contextualized move for him, though no
-source found so far states his own reason for doing it in 1961 specifically. That gap is
-notable: Heinz Eulau's detailed 1999 memorial covers Marvick's career at length and never
-mentions the archive at all.[^eulau]
+Political scientist Dwaine Marvick, who had joined UCLA's faculty in 1954, founded the Political
+Behavior Archive (PBA) in 1961 [@marvickInMemoriam]. Rice and Southall place it in the field's
+founding cohort: UCLA's data service is the fourth-oldest social-science data library in their
+sample, after the Roper Center (1957), Berkeley (1958), and GESIS (1960), and ahead of ICPSR
+itself (1962) [@riceSouthall2016]. What the PBA did was straightforward for its moment: it
+distributed survey and behavioral data from ICPR, the Roper Public Opinion Research Center, and
+local holdings to UCLA researchers [@stilesStephenson2008]. A UC memorial calls Marvick "an
+early advocate and practitioner of computer applications to political data," which makes
+founding an archive a reasonable move for him, though no source found so far says why he did it
+in 1961 in particular. That silence is worth noting. Heinz Eulau's detailed 1999 memorial covers
+Marvick's career closely and never mentions the archive at all.[^eulau]
 
-The following year, **UCLA was among the founding member institutions of ICPSR**. This is
-confirmed against the primary document — Warren Miller's August 1962 memo to Rensis Likert
-making the case for the consortium names the members "as of July 30, 1962," and "University of
+The following year, UCLA was among the founding member institutions of ICPSR. This one is
+confirmed against the primary document: Warren Miller's August 1962 memo to Rensis Likert making
+the case for the consortium names the members "as of July 30, 1962," and "University of
 California at Los Angeles" is on the list.[^miller-memo] Two things often attached to that fact
-are shakier, and both trace to the same place: the text Libbie Stephenson wrote for the
-archive's Dataverse page, which says there were **eight** founding members and that UCLA joined
-"through [Marvick's] efforts." That is the archive's institutional memory, not an independent
-record. A longtime ICPSR staff member's membership-records list has **22** original institutions
-(Miller's memo lists 21), and the "8" may instead refer to a "Committee of Eight" whose 1962–63
-correspondence sits in ICPSR's own archive — a founding committee, not the dues-paying roster. And no document found so far,
-Miller's memo included, gives Marvick a formal role in the 1962 founding; his documented ICPSR
-involvement is governing-board service from **1964**, rising to chair of the ICPR Council in
-**1966–67**. What *is* documented is that Marvick and Miller were close friends and
-collaborators from the early 1950s at Michigan's Survey Research Center — a plausible channel
-for "through his efforts," but not proof of it.[^eulau]
+are shakier, and both come from the same place, the text Libbie Stephenson wrote for the
+archive's Dataverse page. It says there were eight founding members and that UCLA joined
+"through [Marvick's] efforts." That is the archive's own memory, not an independent record. A
+longtime ICPSR staff member's list from membership records has 22 original institutions;
+Miller's memo lists 21; and the "8" may instead be a "Committee of Eight" whose 1962–63
+correspondence sits in ICPSR's own archive, a founding committee rather than the dues-paying
+roster. No document found so far, Miller's memo included, gives Marvick a formal role in the
+1962 founding. His documented ICPSR involvement is governing-board service from 1964, then chair
+of the ICPR Council in 1966–67. What is documented is that Marvick and Miller were close friends
+and collaborators from the early 1950s at Michigan's Survey Research Center. That is a plausible
+route for "through his efforts," not proof of it.[^eulau]
 
-[^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962 (`evidence/miller-1962-considerations.md`)
-— the actual founding document, not a later description of it. Cross-checked against Erik
-Austin's ICPSR founding-members list (`evidence/icpsr-founding-members-austin.md`). The "8
-members" / "through his efforts" phrasing is from `evidence/ssda-harvard-dataverse-about.md`
-(written by Stephenson).
+[^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962
+(`evidence/miller-1962-considerations.md`), the actual founding document rather than a later
+description of it. Cross-checked against Erik Austin's ICPSR founding-members list
+(`evidence/icpsr-founding-members-austin.md`). The "8 members" and "through his efforts"
+phrasing is from `evidence/ssda-harvard-dataverse-about.md` (written by Stephenson).
 
-[^eulau]: Heinz Eulau, "Good-bye to Two Dear Friends: Warren Miller and Dwaine Marvick — A
+[^eulau]: Heinz Eulau, "Good-bye to Two Dear Friends: Warren Miller and Dwaine Marvick, A
 Personal Memoir," 1999 (`evidence/eulau-1999-miller-marvick-memoir.md`).
 
 <!-- internal working notes: evidence/marvick-biography-and-papers.md; evidence/stiles-stephenson-2008-ifla.md; evidence/icpsr-history.md; evidence/rice-southall-2016-ch1.md; evidence/miller-1962-considerations.md; evidence/icpsr-founding-members-austin.md; evidence/eulau-1999-miller-marvick-memoir.md; evidence/umich-bhl-9938-finding-aid.md. ISSR-era research from the 7-31 site branch (deep-research-report.md) merged 2026-09-02; spot-verified 2026-09-02 (Sears's ISSR dates confirmed; three-subperiod structure is catalog-grounded); Freeman/Brewer terms and the Fielder 1964/1976 question still open. -->
 
 ## 1964-1974: The Survey Research Center years
 
-The archive's next home was UCLA's **Survey Research Center (SRC)**, formed in 1964, which
-housed an **"Archival Data Library"** into which the PBA merged [@stilesStephenson2008].
-Marvick's own August 1964 proposal — *"Plans for the Development of a Social Science Archival
-Data Library in the UCLA Survey Research Center"* [@marvick1967proposal] — set out the concept
-directly, though the document itself hasn't been located yet (see
-[history-companion.qmd](history-companion.html)).
+The archive's next home was UCLA's Survey Research Center (SRC), formed in 1964, which housed an
+"Archival Data Library" into which the PBA merged [@stilesStephenson2008]. Marvick's own August
+1964 proposal, *"Plans for the Development of a Social Science Archival Data Library in the UCLA
+Survey Research Center"* [@marvick1967proposal], set out the concept directly, though the
+document itself has not turned up yet (see [history-companion.qmd](history-companion.html)).
 
-This is the point worth being precise about, because the archive's *founding date* is told
-several ways and the confusion is avoidable. The archive *function* — accessioning the datasets
-of the tape-sharing and mainframe era, keeping their codebooks, documenting them, and running a
-reference room where researchers could work out how to use machine-readable data — was a formal
-part of the SRC from 1964, and of the PBA before it. What it was not yet was a *named unit* with
-its own staff line or consultative services: per Stiles and Stephenson, the SRC's Archival Data
-Library operated "on a reference-room basis only." The name and the formal unit come in 1977;
-the work is older.
+It is worth being precise here, because the archive's founding date gets told several ways and
+the confusion is avoidable. The archive work itself, taking in the datasets of the tape-sharing
+and mainframe era, keeping their codebooks, documenting them, and running a reference room where
+researchers could work out how to use machine-readable data, was a formal part of the SRC from
+1964, and of the PBA before that. What did not exist yet was a named unit with its own staff
+line and consultative services. Stiles and Stephenson say the SRC's Archival Data Library ran
+"on a reference-room basis only." The name and the formal unit come in 1977. The work is older
+than the name.
 
-(One internal detail remains unresolved: the archive's own account — the text Libbie Stephenson
-wrote for its Dataverse page — places the 1964 SRC arrangement "under the direction of Eve
-Fielder," but a published obituary says Fielder became SRC's first director only in 1976. Either
-SRC ran from 1964 under someone else, or the account compresses two events — see
-[history-companion.qmd](history-companion.html).[^fielder])
+One detail here is unresolved. The archive's own account, the text Libbie Stephenson wrote for
+its Dataverse page, puts the 1964 SRC arrangement "under the direction of Eve Fielder." A
+published obituary says Fielder became SRC's first director only in 1976. So either SRC ran from
+1964 under someone else, or the account compresses two events (see
+[history-companion.qmd](history-companion.html)).[^fielder]
 
-The SRC's stewardship object during this decade was the **Los Angeles Metropolitan Area Surveys
-(LAMAS)**: ten waves, 1970-1976, a shared omnibus survey repeated roughly twice yearly with
-rotating researcher-submitted questions [@stilesStephenson2008; @pawlockiStephenson1988].
+The SRC's main data product during this decade was the Los Angeles Metropolitan Area Surveys
+(LAMAS): ten waves, 1970–1976, a shared omnibus survey run about twice a year with questions
+submitted by different researchers [@stilesStephenson2008; @pawlockiStephenson1988].
 
-The decade's clearest external consequence came from outside the archive itself: around 1970,
-UCLA Library's Public Affairs Service, under Mary Ryan, purchased 1970 census tapes from
-DUALabs — the library's first foray into numeric data, and one cited nationally as an
-early/paradigm case for library involvement in machine-readable data [@roweRyan1974; @dodd1982].
+The decade's clearest mark came from outside the archive. Around 1970 the UCLA Library's Public
+Affairs Service, under Mary Ryan, bought 1970 census tapes from DUALabs. It was the library's
+first move into numeric data, and it was cited nationally as an early case of a library taking
+on machine-readable data [@roweRyan1974; @dodd1982].
 
-[^fielder]: The "1964, under Eve Fielder" claim originates in the archive's own Dataverse-page
-text (`evidence/ssda-harvard-dataverse-about.md`, written by Stephenson) and is repeated in the
-2017 internal decks. The conflicting obituary date is in the 7-31 research pass
+[^fielder]: The "1964, under Eve Fielder" claim comes from the archive's own Dataverse-page text
+(`evidence/ssda-harvard-dataverse-about.md`, written by Stephenson) and is repeated in the 2017
+internal decks. The conflicting obituary date is in the 2026-07-31 research pass
 (`evidence/deep-research-report.md`). Not yet resolved against SRC's own records or the relevant
 UCLA General Catalog.
 
@@ -287,103 +276,104 @@ UCLA General Catalog.
 
 ## 1974-1977: ISSR, and the archive gets a name
 
-The **Institute for Social Science Research (ISSR)** was established in 1974, incorporating the
-SRC and its archival data library, under founding director **Howard E. Freeman**, a medical
-sociologist [@stilesStephenson2008]. Three years later, then-Associate Director **Donald
-Treiman** did what several sources describe in different words: he took the archival data
-library that had run "on a reference-room basis only" and **designed its research-support
-framework** — the partnership-across-the-research-lifecycle model the archive still describes as
-its mission — formalizing it into a named service unit, the **Social Science Data Archive
-(SSDA)**, with its own Data Archivist line [@stilesStephenson2008; @pawlockiStephenson1988]. An
-OECD international directory dates the "ISSR Data Archive at UCLA" to **December 1977**, for
-quantitative research "primarily secondary analysis."[^issr-1977]
+The Institute for Social Science Research (ISSR) was established in 1974, taking in the SRC and
+its archival data library, under founding director Howard E. Freeman, a medical sociologist
+[@stilesStephenson2008]. Three years later, Associate Director Donald Treiman did what several
+sources describe in different words. He took the archival data library that had run "on a
+reference-room basis only," designed its research-support framework (the model of working
+alongside a project across its whole life cycle that the archive still gives as its mission),
+and formalized it into a named service unit, the Social Science Data Archive (SSDA), with its
+own Data Archivist line [@stilesStephenson2008; @pawlockiStephenson1988]. An OECD international
+directory dates the "ISSR Data Archive at UCLA" to December 1977, for quantitative research and
+"primarily secondary analysis."[^issr-1977]
 
-So "1977" is not the archive's founding — the archive dates itself to 1961, and the function ran
-continuously through the PBA and the SRC's Archive Data Library. 1977 is when it was named,
-given a staff line, and built out from a reference room into a consultative service. The sources
-that seem to disagree are mostly describing different facets of that one event: the archive's
-own account (Stephenson) credits **Treiman** with the framework and doesn't mention ISSR; the
-2017 decks and the OECD directory name **ISSR** as the home; the team's published book chapter
-[@dennisEtal2021] says "as part of the **Survey Research Center**," which by 1977 was a component
-of ISSR. What still needs a documentary check is the precise reporting line — whether Treiman's
-1977 framework sat directly under ISSR or under SRC-within-ISSR — not the year or the continuity.
-(1974 and 1977 are, in any case, separate events, not one date told two ways.)
+So 1977 is not the archive's founding. The archive dates itself to 1961, and the work ran
+without a break through the PBA and the SRC's Archive Data Library. 1977 is when it was named,
+given a staff line, and built out from a reference room into a service that consulted. The
+sources that look like they disagree are describing different parts of that one change. The
+archive's own account (Stephenson) credits Treiman with the framework and does not mention ISSR.
+The 2017 decks and the OECD directory name ISSR as the home. The team's published book chapter
+[@dennisEtal2021] says "as part of the Survey Research Center," which by 1977 was a component of
+ISSR. What still needs a documentary check is the exact reporting line, whether Treiman's 1977
+framework sat directly under ISSR or under the SRC within ISSR. The year and the continuity are
+not in question.
 
-The consequence worth noting here runs against the direction most of this history moves in:
-around 1980, when UCLA Library declined to purchase 1980 census tapes, ISSR/SSDA took them on
-instead, along with all associated support and storage — numeric-data stewardship moved from the
-Library to the Archive [@stilesStephenson2008], the reverse of the direction it would move in
-2014.
+One episode from around 1980 runs against the direction most of this history moves in. When the
+UCLA Library decided not to buy 1980 census tapes, ISSR and SSDA took them on instead, with all
+the support and storage that came with them [@stilesStephenson2008]. Numeric-data stewardship
+moved from the Library to the Archive, the reverse of what would happen in 2014.
 
 [^issr-1977]: *Social Sciences for a Digital World* (OECD, 2000), an international directory that
 dates the ISSR Data Archive at UCLA to December 1977; cited in
-`evidence/deep-research-report.md`. The research pass also separates a **1976** step (the SRC
-incorporated into ISSR) from the **December 1977** step (SSDA formally established as a named
-unit) — a two-step transition rather than one 1977 event.
+`evidence/deep-research-report.md`. The research pass also separates a 1976 step, the SRC being
+taken into ISSR, from the December 1977 step, SSDA being formally established as a named unit. A
+two-step transition rather than one 1977 event.
 
 <!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md (most precise account); dsc-evidence-registry/claims/issr-transfer-1977.yaml (4 independent corroborations); evidence/deep-research-report.md (OECD directory, catalog evidence, four-way conflict) -->
 
 ## 1977-2014: SSDA under ISSR, then ISR, then on its own
 
-The archive's 37 years under this umbrella were not one continuous arrangement. They break into
-three subperiods:[^three-subperiods]
+The archive's 37 years under this umbrella were not one arrangement. They fall into three
+subperiods.[^three-subperiods]
 
-- **ISSR proper (1977 – late 2000s).** The archive as a service unit of the Institute for Social
-  Science Research. Its directors: **Howard E. Freeman** (the early years, into roughly 1980),
-  **Marilynn B. Brewer** (by 1983; exact term not pinned), and **David O. Sears** (1993–2008).
-  UCLA's own General Catalogs list SSDA as an ISSR component through at least 2005–07.
-- **Institute for Social Research (~2009–2011).** By the 2009–10 UCLA General Catalog the parent
-  institute had been renamed ISR — same components, including the Data Archive, a new website;
-  the Survey Research Center is no longer listed among them (it had moved to a Health Services
-  Research division in 2004). No director is identified under the ISR name.
-- **Standalone SSDA (~2011–2014).** By the 2011–12 catalog neither ISSR nor ISR appears; the
-  Social Science Data Archive is listed on its own, as a Social Sciences collection with its own
-  site (`dataarchives.ss.ucla.edu`), and stays that way through 2013–14. No source names a formal
-  dissolution of the parent institute or a single successor. The reporting line from here to the
-  2014 Library transfer is unresolved.
+- **ISSR proper (1977 to the late 2000s).** The archive was a service unit of the Institute for
+  Social Science Research. Its directors were Howard E. Freeman (founding director, 1974–1981),
+  Marilynn B. Brewer (from about 1983 until she left UCLA for Ohio State in 1993), and David O.
+  Sears (1993–2008). UCLA's General Catalogs list SSDA as an ISSR component through at least
+  2005–07.
+- **Institute for Social Research (about 2009 to 2011).** By the 2009–10 UCLA General Catalog the
+  parent institute had been renamed ISR, with the same components (including the Data Archive)
+  and a new website. The Survey Research Center is no longer listed among them; it had moved to a
+  Health Services Research division in 2004. No director is named under ISR.
+- **Standalone SSDA (about 2011 to 2014).** By the 2011–12 catalog neither ISSR nor ISR appears.
+  The Social Science Data Archive is listed on its own, as a Social Sciences collection with its
+  own site (`dataarchives.ss.ucla.edu`), and stays that way through 2013–14. No source records a
+  formal dissolution of the parent institute or a single successor. The reporting line from here
+  to the 2014 Library transfer is unresolved.
 
-SSDA's recurring survey work continued under the LAMAS model throughout, renamed and reshaped:
-the **Southern California Social Survey (SCSS)**, then the **Los Angeles County Social Survey
-(LACSS)**, confirmed running through 1992-2002 (see [history-companion.qmd](history-companion.html)
-for the full series detail). By the 1990s the archive had become, in its own staff's words, "the
-de facto campus-wide data service unit," serving public health, education, policy studies, law,
-and management, not just social science departments [@stilesStephenson2008]. Early staff visible
-in a surviving ~1979 SSDA newsletter include **Martin Pawlocki** (programmer), **Gina Jamison** —
-the same person as today's DSC staff member Jina "Jamie" Jamison — and **Shirley Lane**, who came
-from the UCLA Research Library's machine-readable 1970 Census project; the newsletter places the
-archive in the Gayley Center Building by 1979, after an earlier stint in Franz Hall.[^newsletter]
+The recurring survey work carried on throughout, renamed and reshaped: the Southern California
+Social Survey (SCSS), then the Los Angeles County Social Survey (LACSS), which ran at least
+1992–2002 (the full series detail is in [history-companion.qmd](history-companion.html)). By the
+1990s the archive had become, in its own staff's words, "the de facto campus-wide data service
+unit," serving public health, education, policy studies, law, and management, not only social
+science departments [@stilesStephenson2008]. A surviving SSDA newsletter from about 1979 names
+Martin Pawlocki (programmer), Gina Jamison (the same person as today's DSC staff member Jina
+"Jamie" Jamison), and Shirley Lane, who had come from the UCLA Research Library's machine-readable
+1970 Census project. The newsletter puts the archive in the Gayley Center Building by 1979, after
+an earlier stint in Franz Hall.[^newsletter]
 
-The clearest human through-line for the whole era is **Elizabeth "Libbie" Stephenson**. ICPSR's
-own retirement profile puts her UCLA start around **1977** — the year the archive became a named
-ISSR unit — and she is documented as staff and later Director through the 2014 transfer,
-retiring in **2016** [@pawlockiStephenson1988; @stephenson2013dodd; @dotyEtal2014].[^stephenson]
-Read in hindsight, her career-long work on bibliographic control (with Sue Dodd's scholarship,
-IASSIST, and ICPSR) is early data-citation practice, in the vocabulary a much later era would use
-for the same underlying task: making data properly identified and findable. By 2013, immediately
-before the Library transfer, SSDA was experimenting with the DDI-Lifecycle metadata standard and
-Colectica curation software — the archive was already moving toward modern research-data
-practice on its own. The era's clearest external consequence was cross-national: the
-Intergenerational Stratification and Mobility File (ISMF), built with Harry Ganzeboom (Free
-University, Amsterdam) and Donald Treiman, funded by the Netherlands Organisation for Scientific
-Research [@stilesStephenson2008].
+The clearest human through-line for the whole era is Elizabeth "Libbie" Stephenson. ICPSR's
+retirement profile dates her UCLA start to about 1977, the year the archive became a named ISSR
+unit, and she is documented as staff and later Director through the 2014 transfer, retiring in
+2016 [@pawlockiStephenson1988; @stephenson2013dodd; @dotyEtal2014].[^stephenson] Her long run of
+work on bibliographic control, with Sue Dodd's scholarship, IASSIST, and ICPSR, is early
+data-citation practice under an older name: making data properly identified and findable. By
+2013, right before the Library transfer, SSDA was already testing the DDI-Lifecycle metadata
+standard and Colectica curation software. It was moving toward modern research-data practice on
+its own. The era's clearest outside connection was across borders: the Intergenerational
+Stratification and Mobility File (ISMF), built with Harry Ganzeboom of the Free University in
+Amsterdam and Donald Treiman, and funded by the Netherlands Organisation for Scientific Research
+[@stilesStephenson2008].
 
-[^three-subperiods]: The three-subperiod structure is grounded in the digitized UCLA General
-Catalogs (2003–05, 2005–07, 2009–10, 2010–11, 2011–12, 2013–14), read in the 7-31 research pass
-(`evidence/deep-research-report.md`, `site/issr-era.qmd`); Sears's 1993–2008 ISSR directorship
+[^three-subperiods]: The three-subperiod structure rests on the digitized UCLA General Catalogs
+(2003–05, 2005–07, 2009–10, 2010–11, 2011–12, 2013–14), read in the 2026-07-31 research pass
+(`evidence/deep-research-report.md`, `site/issr-era.qmd`). Sears's 1993–2008 ISSR directorship
 is independently confirmed (his Wikipedia biography and UCLA psychology page). Still soft:
-Freeman's and Brewer's exact terms, and whether the ISSR→ISR rename had a formal date or
-authority (none found). Operational staff named in that pass but not archive-confirmed — Eve
-Fielder, Rita Engelhardt, Donald Witzke, Michael Greenwell, Madeleine De Maria, Tana Wong,
-among others — appear in an early-1980s UCLA earthquake-research report and the front matter of
-Citrin and Sears's *American Identity and the Politics of Multiculturalism*; see
+Freeman's and Brewer's exact terms, and whether the ISSR-to-ISR rename had a formal date or
+authority (none found); Brewer's ISSR term is bounded at the end (she left UCLA for Ohio State
+in 1993, when Sears took over) but her start year is soft. Operational staff named in that pass
+but not archive-confirmed (Eve
+Fielder, Rita Engelhardt, Donald Witzke, Michael Greenwell, Madeleine De Maria, Tana Wong, and
+others) appear in an early-1980s UCLA earthquake-research report and the front matter of Citrin
+and Sears's *American Identity and the Politics of Multiculturalism*. See
 [history-companion.qmd](history-companion.html).
 
-[^newsletter]: `evidence/newsletter-images-2017-deck.md` — photographed excerpts of a ~1979 SSDA
-newsletter embedded in a 2017 internal deck. Jamie Jamison's identity as "Gina Jamison"
-confirmed by Tim directly.
+[^newsletter]: `evidence/newsletter-images-2017-deck.md`, photographed excerpts of an SSDA
+newsletter from about 1979 embedded in a 2017 internal deck. Jamie Jamison confirmed to Tim
+directly that "Gina Jamison" is her.
 
-[^stephenson]: `evidence/stephenson-icpsr-sources.md` (on the site branch) corrects her
-retirement from 2014 to 2016 and dates her UCLA start to ~1977 via ICPSR's own materials;
+[^stephenson]: `evidence/stephenson-icpsr-sources.md` corrects her retirement from 2014 to 2016
+and dates her UCLA start to about 1977 from ICPSR's own materials;
 `evidence/pawlocki-stephenson-1988-iassist.md` independently documents her as staff by 1986.
 
 <!-- internal working notes: evidence/pawlocki-stephenson-1988-iassist.md; evidence/lamas-scss-lacss-series.md; evidence/icpsr-bibliography-lacss-example.md; evidence/deep-research-report.md; evidence/stephenson-icpsr-sources.md; evidence/newsletter-images-2017-deck.md; full SCSS/technical/rotating-PI detail in history-companion.qmd -->
@@ -391,134 +381,132 @@ retirement from 2014 to 2016 and dates her UCLA start to ~1977 via ICPSR's own m
 <!-- TODO before finalizing this section: verify the deep-research director list / three-subperiod
 structure against the cited primary docs; Jamie Jamison's DB dump / staff dates for 1977-1986
 (tracked in ucla-data-science-center/dataverse-infrastructure#10); Marvick Papers (UCLA Special
-Collections, 63 boxes) not yet consulted; the ISSR→ISR rename date/authority and ISR's
+Collections, 63 boxes) not yet consulted; the ISSR-to-ISR rename date/authority and ISR's
 dissolution date still unknown. -->
 
 ## 2014-2018: The Library MOU, and a change of director
 
-The 2014 (effective)/2015 (executed) MOU transferred SSDA from the Social Sciences Division to
-the UCLA Library — the first time the archive exited ISSR to become a standalone unit. It
-carried 2.0 FTE, ~$245K in permanent funds, and ~$29K in subscriptions (ICPSR, Roper, UC
-Berkeley/SDA, Colectica/Algenta), plus a small foundation gift fund; staff continuity included
-Elizabeth Stephenson and Jina "Jamie" Jamison [@uclaSsdaMou2014]. The MOU's stated purpose was
-to *expand access to the archive's expertise while modernizing its services* — a mandate to
-grow the function, not just relocate it. It also carried a consultation clause: if the Library
-later made "substantial changes to the operations of Social Sciences Data Archives," it was to
-meet with the Social Sciences Division and ensure continuity of faculty access.
+The MOU, effective 2014 and executed 2015, moved SSDA from the Social Sciences Division to the
+UCLA Library. It was the first time the archive left ISSR to stand on its own. It carried 2.0
+FTE, about $245K in permanent funds, and about $29K in subscriptions (ICPSR, Roper, UC
+Berkeley/SDA, Colectica/Algenta), plus a small foundation gift fund; staff who came across
+included Elizabeth Stephenson and Jina "Jamie" Jamison [@uclaSsdaMou2014]. The stated purpose was
+to "expand access to the archive's expertise while modernizing its services," which reads as a
+mandate to grow the work, not just move it. The MOU also carried a consultation clause: if the
+Library later made "substantial changes to the operations of Social Sciences Data Archives," it
+was to meet with the Social Sciences Division and keep faculty access intact.
 
-**In April 2017, Tim Dennis was hired as Director of SSDA, succeeding Stephenson**, whose own
-tenure reached back to the late 1970s.[^tim-hire] That November, Dennis presented "Library Data
-Archive" to UCLA Library staff, already framing 1961-2017 as one continuous arc under the
-tagline "Providing archive and data services since 1961" [@dennis2017deck].
+In April 2017 Tim Dennis was hired as Director of SSDA, succeeding Stephenson, whose own tenure
+reached back to the late 1970s.[^tim-hire] That November he presented "Library Data Archive" to
+UCLA Library staff, already framing 1961 to 2017 as one continuous arc under the tagline
+"Providing archive and data services since 1961" [@dennis2017deck].
 
-The team then ran a **design-thinking redesign** of the unit's goals and services, centering
-"the user as the scholar in need of research support" [@dennisEtal2021]. In **Spring 2018** the
-result was formalized: the unit was restructured and renamed the **Data Science Center (DSC)**,
-with a new visual identity and a mission written to cover any discipline —
+The team then reworked the unit's goals and services using design thinking, with "the user as
+the scholar in need of research support" at the center [@dennisEtal2021]. In Spring 2018 the
+result became official: the unit was restructured and renamed the Data Science Center (DSC),
+with a new visual identity and a mission written to cover any discipline,
 
 > to foster a welcoming research community by developing data literacy and foundational coding
 > skills through consulting and education … supporting researchers throughout the full data life
 > cycle: planning and data management plans; acquisition, storage, cleaning and usage; analysis;
 > publication; curation; and preservation [@dennisEtal2021].
 
-SSDA became a named component of it. Per Tim, Todd Grappone — then the Library's AUL for Digital
-Initiatives and IT — shepherded the 2014 transfer, coined the "Data Science Center" name, and
-helped design the 2018 service model.[^grappone]
+SSDA became a named component of it. Per Tim, Todd Grappone, then the Library's AUL for Digital
+Initiatives and IT, handled the 2014 transfer, coined the "Data Science Center" name, and helped
+design the 2018 service model.[^grappone]
 
 [^tim-hire]: Tim Dennis, personal account, 2026-08-09.
 
 [^grappone]: Tim Dennis, personal account. Grappone's role in the 2014 transfer and the 2018
-naming is not documented in public sources; it rests on the author's account as a participant.
-Grappone became University Librarian at UC Santa Barbara in July 2025.
+naming is not in any public source; it rests on the author's account as a participant. Grappone
+became University Librarian at UC Santa Barbara in July 2025.
 
 <!-- internal working notes: evidence/ssda-library-mou.md; evidence/ucla-ssda-lineage-2017-deck.md; evidence/data-sci-libraries_chapter_edits.md; evidence/dsc-era-people-2026-07-31.md -->
 
 ## 2018-present: The Data Science Center
 
 This is the era with the widest gap between the unit's size and its reach, and the era this
-history's author directed — so it is documented against institutional records and cited sources,
-not recollection, and the judgments in it are marked as judgments. Working notes and the full
+history's author directed. It is written against institutional records and cited sources rather
+than recollection, and the judgments in it are marked as judgments. Working notes and the full
 evidence trail are in `evidence/library-era-2014-present.md` and
 [history-companion.qmd](history-companion.html).
 
 ### Continuity, not rupture
 
-The 2018 rebrand changed the unit's name and broadened its scope; it didn't replace what came
-before. `ucla-data-archive_old`, a repository built around the "Data Archive" identity — its
-collections policies, terms, deposit and preservation practices — was created July 2017 and
-actively maintained through May 2020, two years past the point the org's formal name became
-"Data Science Center." The archive's core function — repository hosting, the direct descendant of
-the LAMAS/SCSS/LACSS lineage — ran underneath the new name the whole time. **Jina "Jamie"
-Jamison**, who transferred with the archive in 2014, still leads on that repository work today;
-she is the single human through-line across the entire Library era.
+The 2018 rebrand changed the unit's name and widened its scope. It did not replace what came
+before. `ucla-data-archive_old`, a repository built around the "Data Archive" identity, holding
+its collections policies, terms, and deposit and preservation practices, was created in July
+2017 and actively maintained through May 2020, two years after the unit's formal name became
+"Data Science Center." The archive's core work, repository hosting, which descends directly from
+the LAMAS, SCSS, and LACSS series, ran under the new name the whole time. Jina "Jamie" Jamison,
+who came across with the archive in 2014, still leads that repository work today. She is the one
+human through-line across the whole Library era.
 
-Growth over the same span is easy to state and hard to overstate. Staff went from **2.0 FTE at
-the 2014 transfer** (a director and a data archivist) to **five** by roughly 2021 — most of it
-by redesigning existing library positions rather than net-new hiring: a geospatial librarian
-moved in from another department and rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao),
-a data manager from the Library's IT division rebuilt as a Data Science Facilitator, and a
-Digital Library programmer with a machine-learning background recruited across divisions
-(Kristian Allen, a 0.5-FTE role, 2018–2024).[^staff-model] UCLA Dataverse went from **9 datasets
-and 229 downloads in January 2020** to roughly **1,600 datasets and over 143,000 downloads** by
-2026 [^dataverse-count]. That growth was not matched by proportional staffing; part of how the
-unit absorbed it is the student program described below, and part is that some capacity was
-simply lost — a GIS position eliminated in 2024, other roles ended, with demand in those areas
-undiminished.
+The growth over that span is easy to state. Staff went from 2.0 FTE at the 2014 transfer (a
+director and a data archivist) to five by about 2021, mostly by redesigning existing library
+positions rather than hiring new ones: a geospatial librarian moved in from another department
+and was rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao), a data manager from the
+Library's IT division was rebuilt as a Data Science Facilitator, and a Digital Library programmer
+with a machine-learning background was recruited across divisions (Kristian Allen, a 0.5-FTE
+role, 2018–2024).[^staff-model] UCLA Dataverse went from 9 datasets and 229 downloads in January
+2020 to roughly 1,600 datasets and more than 143,000 downloads by 2026.[^dataverse-count] The
+staffing did not grow in proportion. Part of how the unit absorbed the load is the student
+program described below; part is that some capacity was simply lost, a GIS position cut in 2024
+and other roles ended, with the demand in those areas still there.
 
 [^staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
 model. The specific position histories rest partly on the author's account. [NEEDS TIM: the
 Data Science Facilitator's name and dates; Leigh Phan's exact title and start; the 5-FTE peak
 year and the headcount at dissolution.]
 
-[^dataverse-count]: The "~1,600" resolves an apparent discrepancy: UCLA Dataverse holds ~376
-datasets deposited directly at UCLA plus ~1,014 legacy Social Science Data Archive datasets
-harvested in and curated by Library staff (~1,390 released), and 1,603 counting drafts and
-restricted deposits. UCLA's live-dashboard figure of ~377 is the directly-deposited slice. See
-`evidence/library-era-2014-present.md` §4.
+[^dataverse-count]: The "~1,600" resolves an apparent discrepancy. UCLA Dataverse holds about
+376 datasets deposited directly at UCLA plus about 1,014 legacy Social Science Data Archive
+datasets harvested in and curated by Library staff, which is roughly 1,390 released, or 1,603
+counting drafts and restricted deposits. UCLA's live-dashboard figure of about 377 is the
+directly-deposited slice. See `evidence/library-era-2014-present.md` §4.
 
 ### What stayed constant, and what changed
 
-Across five institutional homes and 60-plus years, the constant has been a responsibility to
-make research evidence findable, usable, and preserved — extended, era by era, to whatever kind
-of evidence researchers were producing. What changed after 2018 is the *range* of objects that
-responsibility covers: not just survey datasets, but restricted and sensitive data requiring
-governed computation, geospatial data and aerial imagery, 3D and spatial capture, text corpora
-and computational text analysis, research software, and curriculum treated as a citable
-output.[^text] Described after the fact, that range
-tracks the field's own sequence — data citation, then open and FAIR data, then open science,
-then software curation, then computationally-intensive research support — but that is a way of
-narrating what changed, not a plan any year was executing. The sections below take the main
-strands in turn.
+For six decades and five institutional homes the constant has been the same: keep research
+evidence findable, usable, and preserved, and extend that to whatever kind of evidence
+researchers happened to be producing. What changed after 2018 is the range of things that
+covers. Not only survey datasets now, but restricted and sensitive data that needs governed
+computation, geospatial data and aerial imagery, 3D and spatial capture, text corpora and
+computational text analysis, research software, and course material treated as a citable
+output.[^text] Look back at that list and it tracks the field's own sequence, from data citation
+to open and FAIR data to open science to software curation to computationally intensive research
+support. That is a way of narrating what changed after the fact, not a plan anyone was working
+to. The sections below take the main strands one at a time.
 
 [^text]: The text-analysis strand is the least documented. The DSC team's 2021 chapter
-[@dennisEtal2021] cites one worked example — a consultation helping a graduate student analyze
-ancient Buddhist texts with natural-language-processing techniques — and the "corpuses"
-purchased with archive funds are referenced elsewhere without detail. [NEEDS TIM: the OCR /
-manuscript / historical-statistical-series work and the purchased text corpora.]
+[@dennisEtal2021] gives one worked example, a consultation helping a graduate student analyze
+ancient Buddhist texts with natural-language-processing techniques, and the "corpuses" bought
+with archive funds are mentioned elsewhere without detail. [NEEDS TIM: the OCR, manuscript, and
+historical-statistical-series work, and the purchased text corpora.]
 
 ### The repository: UCLA Dataverse
 
 The legacy SSDA collection had lived on Harvard's hosted Dataverse. In 2018 the DSC stood up a
-**local UCLA instance**, chosen for the same reasons the archive chose Dataverse originally —
-DDI metadata, license restriction, tiered curation from self-service deposit to fully mediated —
-and integrated it with UCLA single sign-on, DOI minting, and preservation alignment through the
-California Digital Library. Research groups sponsor their own branded sub-collections within it,
-self-administered with DSC training. A deliberate director-level choice was to **harvest** the
-legacy SSDA collection into the discovery layer rather than migrate it immediately: continuity
-first, migration later.
+local UCLA instance, chosen for the same reasons the archive had chosen Dataverse in the first
+place: DDI metadata, the ability to restrict licensed data, and a curation ladder from
+self-service deposit to fully mediated. The DSC wired it to UCLA single sign-on, DOI minting,
+and preservation through the California Digital Library. Research groups run their own branded
+sub-collections inside it with DSC training. One deliberate choice was to harvest the legacy
+SSDA collection into the discovery layer rather than migrate it right away: keep it working
+first, move it later.
 
-The collections DSC hosts now run well past social science: the **UCLA Law Behind Bars Data
-Project** (COVID-19 in prisons, jails, and detention nationally; ~1,169 items), the **Williams
-Institute** (whose LGBT law-and-policy data DSC curation helped bring to ICPSR directly —
-TransPop, the first national probability sample of transgender people in the US, among them),
-and the **Cotsen Institute / DIG** archaeology collections (~6,360 items in DIG alone, larger
-than the entire historical SSDA/LAMAS/SCSS/LACSS corpus). DIG's own stated aim — "expand citation
-practices" in archaeology — is the archive's 1980s bibliographic-control instinct, in a
-different field, at a much larger scale.
+The collections DSC hosts now run well past social science. The UCLA Law Behind Bars Data
+Project covers COVID-19 in prisons, jails, and detention nationally, about 1,169 items. The
+Williams Institute's LGBT law-and-policy data, which DSC curation helped bring to ICPSR
+directly, includes TransPop, the first national probability sample of transgender people in the
+US. The Cotsen Institute and DIG archaeology collections hold about 6,360 items in DIG alone,
+more than the whole historical SSDA, LAMAS, SCSS, and LACSS corpus put together. DIG's own stated
+aim, to "expand citation practices" in archaeology, is the same bibliographic-control instinct
+Stephenson brought to the 1980s, applied to a different field at a much larger scale.
 
-Repository work also meant defending it: in early 2025, AI-driven bots mass-downloaded UCLA
-Dataverse content for apparent model training, rotating across thousands of addresses to evade
-blocking; DSC diagnosed the pattern and deployed an open-source filter that contained it by
+Running a repository also meant defending it. In early 2025, bots mass-downloaded UCLA Dataverse
+content, apparently to train a model, rotating across thousands of addresses to get around IP
+blocking. DSC identified the pattern and deployed an open-source filter that had it contained by
 mid-year.[^bots]
 
 [^bots]: Tim Dennis, self-reported (Statement of Professional Achievements, 2023–2025). The
@@ -526,28 +514,28 @@ tool deployed was Anubis. [NEEDS TIM: a ticket or postmortem reference to anchor
 
 ### Governed computation: Redivis and the L2 voter file
 
-Before this, UCLA had no compliant environment for restricted, multi-terabyte national datasets
-of this class — no governed way to give a student voter-file access, no secure environment for
-merging FERPA/PII/PHI-restricted data at scale. To support that class of data, **DSC selected
-and licensed Redivis, coordinated the institutional compliance review (Third-Party Risk
-Management, P3/P4 approval), negotiated restricted-dataset access, piloted the platform in 2022,
-and launched the governed service in January 2023** — a 50-seat, data-use-agreement-controlled
-model so routine requests wouldn't bottleneck on one person.[^redivis-source]
+Before this, UCLA had no compliant environment for restricted national datasets of this class,
+the multi-terabyte kind. There was no governed way to give a student access to a voter file, and
+no secure place to merge FERPA-, PII-, or PHI-restricted data at scale. To support that class of
+data, DSC selected and licensed Redivis, ran the institutional compliance review (Third-Party
+Risk Management, P3/P4 approval), negotiated access to the restricted datasets, piloted the
+platform in 2022, and launched the governed service in January 2023. It set up a 50-seat model
+with data-use-agreement controls so that routine requests would not pile up on one person.[^redivis-source]
 
-The flagship case is the **L2 historic voter file** — over 10 TB of national voter history,
-purchased through the archive's gift fund, that arrived as thousands of fragmented state-level
-files too large to store locally and too inconsistent to analyze. DSC consolidated it into a
-single version-controlled national dataset, published with its own DOI (UCLA Library, *L2 Voter
-History and Demographic Dataset*, 2023, doi:10.60603/D33W2T) and presented at FORCE11 2024 by
-Redivis's CEO alongside the doctoral student who curated it, Graham Straus: *"What happens when I
-leave UCLA? Will people know how the dataset was constructed? Yes!"* Researchers use it directly
-across departments — election administration, gentrification, Latino voting, and a project
-merging the voter file with UCLA medical records to study health and voting. Recorded processing
-on the platform grew from 444 GB in its first year to 2.9 PB in 2024; those figures measure
-platform activity, not data held (holdings are ~20 TB). DSC provided the environment and the
-access; the scholarship stayed with the researchers. The significance isn't an "AI" story — it's
-the point stewardship came to include *governed computation*, not just acquiring and describing
-open files.
+The main case is the L2 historic voter file, more than 10 TB of national voter history bought
+through the archive's gift fund. It arrived as thousands of fragmented state-level files, too
+large to store locally and too inconsistent to analyze. DSC pulled it into a single
+version-controlled national dataset, published with its own DOI (UCLA Library, *L2 Voter History
+and Demographic Dataset*, 2023, doi:10.60603/D33W2T) and presented at FORCE11 2024 by Redivis's
+CEO alongside the doctoral student who curated it, Graham Straus. Straus put the institutional
+point plainly: "What happens when I leave UCLA? Will people know how the dataset was constructed?
+Yes!" Researchers use it directly across departments, in election administration, gentrification,
+Latino voting, and a project merging the voter file with UCLA medical records to study health
+and voting. Recorded processing on the platform grew from 444 GB in its first year to 2.9 PB in
+2024; those figures measure platform activity, not data held (holdings are about 20 TB). DSC
+provided the environment and the access. The scholarship stayed with the researchers. The point
+of it is not an "AI" story. It is that stewardship came to include governed computation, not
+only acquiring and describing open files.
 
 [^redivis-source]: Platform and governance detail: Tim Dennis, Statement of Professional
 Achievements and Data Summary, 2023–2025, self-reported. The DOI, the FORCE11 presentation
@@ -557,51 +545,50 @@ independently checkable parts. Launch: piloted 2022, governed service launched J
 
 ### Teaching at scale, and open science
 
-Facing tens of thousands of potential learners with a staff of two, the unit joined **The
-Carpentries** in 2017 and used it to grow an instructor community rather than hire one. Tim
-founded **UCLA Carpentries** in 2018 and co-founded the systemwide **UC Carpentries** network in
-2020, when COVID made coordinated cross-campus training necessary; by the 2023–2025 period that
-network ran 37 workshops across six campuses. As chair of Library Carpentry's Curriculum
-Advisory Committee (since 2022), Tim moved several lessons into the official worldwide
-curriculum, including a Data Management Plans lesson aligned to the NIH data-sharing policy.
+With two staff and tens of thousands of potential learners, the unit joined The Carpentries in
+2017 and used the membership to build an instructor community rather than hire one. Tim founded
+UCLA Carpentries in 2018 and co-founded the systemwide UC Carpentries network in 2020, when
+COVID made coordinated cross-campus training necessary. By the 2023–2025 period that network ran
+37 workshops across six campuses. As chair of Library Carpentry's Curriculum Advisory Committee
+since 2022, Tim moved several lessons into the official worldwide curriculum, among them a Data
+Management Plans lesson aligned to the NIH data-sharing policy.
 
-The IMLS grant **RE-252335-OLS-22** ($237,839, Tim as Project Director) [@imls-re252335] treated
-curriculum itself as a citable research output: 15 peer-reviewed open-science lessons against 14
-proposed, each with a Zenodo DOI, CRediT contributor roles, ORCID identifiers, and Citation File
-Format metadata, built by 27 authors across 14 teams. It is the era's clearest instance of the
-"software curation" and "open science" strands, and — because a federal award is verifiable
-independent of anyone's account of it — the one with the firmest external evidence.
+The IMLS grant RE-252335-OLS-22 ($237,839, Tim as Project Director) [@imls-re252335] treated
+course material itself as a citable research output: 15 peer-reviewed open-science lessons
+against 14 proposed, each with a Zenodo DOI, CRediT contributor roles, ORCID identifiers, and
+Citation File Format metadata, built by 27 authors across 14 teams. It is the clearest case of
+the software-curation and open-science strands in this era, and, because a federal award can be
+checked without anyone's account of it, the one with the firmest outside evidence.
 
-Separately, Tim is **Co-PI on the $1.85M Sloan Foundation grant that established the UC OSPO
-Network**, a six-campus effort to treat open-source software as legitimate scholarly
-infrastructure. That grant funds the network, not DSC; what DSC drew from it is a **local UCLA
-open-source program office**, leadership of the network's education work, and shared services
-(licensing guidance, a repository browser, a summer student research program). The need is
-concrete: a 2025 scan of ~81,000 UC-affiliated code repositories found 77.5% carried no license
-at all.
+Tim is also Co-PI on the $1.85M Sloan Foundation grant that established the UC OSPO Network, a
+six-campus effort to treat open-source software as real scholarly infrastructure. That grant
+funds the network, not DSC. What DSC got out of it is a local UCLA open-source program office,
+the lead on the network's education work, and shared services (licensing guidance, a repository
+browser, a summer student research program). The need is concrete: a 2025 scan of about 81,000
+UC-affiliated code repositories found that 77.5% carried no license at all.
 
 ### Spatial data, 3D capture, and the Lux Lab
 
-Geography has consistently been the unit's single largest workshop audience. Before its GIS
-position was eliminated in 2024, DSC's geospatial librarian handled 70–80 booked consultations a
-year, established a systemwide **UC GIS Week**, ran UC GIS workshops that reached hundreds of
-participants, managed the **LARIAC** regional aerial-imagery holdings (bought through the
-archive's gift fund), and worked with UC San Diego and UC Santa Barbara on geospatial discovery
-for Dataverse. DSC also ran UCLA's campus **ArcGIS Online** platform — grown to over 7,000
-accounts and 3,000-plus active users a year, and, since the position was cut, running past its
-licensed storage with no designated administrator.[^gis]
+Geography has consistently been the unit's largest single workshop audience. Before the GIS
+position was cut in 2024, DSC's geospatial librarian handled 70 to 80 booked consultations a
+year, started the systemwide UC GIS Week, ran UC GIS workshops that reached hundreds of people,
+managed the LARIAC regional aerial-imagery holdings (bought through the archive's gift fund),
+and worked with UC San Diego and UC Santa Barbara on geospatial discovery for Dataverse. DSC
+also ran UCLA's campus ArcGIS Online platform. It grew to more than 7,000 accounts and over
+3,000 active users a year, and since the position was cut it has run past its licensed storage
+with no assigned administrator.[^gis]
 
-The clearest single case of the stewardship mission reaching a genuinely new object of research
-is **Doug Daniels** and the **Lux Lab**. Daniels joined the Library in 2013 and the DSC team in
-2020 as Emerging Technologies Librarian; he runs UCLA's point-cloud visualization service
-(pointcloud.ucla.edu, on Potree), is FAA-certified for drone work, and has built a body of
-3D-capture projects across archaeology, medicine, and cultural heritage — Easter Island Moai
-models feeding a Cotsen Institute atlas, cadaver-arm scans now taught in History of Medicine, a
-3D-printed surgical guide in use at the medical center, drone-LiDAR surveys in Cambodia and
-Iceland, and — with DataSquad students and the Vietnamese Heritage Museum — a public 3D
-narrative of a refugee family's maritime escape. He was named a UCLA Librarian of the Year for
-2026. His work also runs straight back to the donor relationship: he scanned Powell Library
-itself, and demonstrated the lab's work to the Powell Society donor circle.
+The clearest case of the archive's work reaching a genuinely new kind of research object is Doug
+Daniels and the Lux Lab. Daniels joined the Library in 2013 and the DSC team in 2020 as Emerging
+Technologies Librarian. He runs UCLA's point-cloud visualization service (pointcloud.ucla.edu,
+built on Potree), is FAA-certified for drone work, and has built up a run of 3D-capture projects
+across archaeology, medicine, and cultural heritage: Easter Island Moai models feeding a Cotsen
+Institute atlas, cadaver-arm scans now taught in History of Medicine, a 3D-printed surgical
+guide in use at the medical center, drone-LiDAR surveys in Cambodia and Iceland, and, with
+DataSquad students and the Vietnamese Heritage Museum, a public 3D narrative of a refugee
+family's escape by sea. He was named a UCLA Librarian of the Year for 2026. His work also runs
+straight back to the donor relationship: he scanned Powell Library itself and showed the lab's
+work to the Powell Society donor circle.
 
 [^gis]: GIS consultation counts and the ArcGIS figures: DSC statistics and Tim Dennis's Data
 Summary, 2023–2025, cross-checked against an OARC governance report (Dec 2025) for the account
@@ -611,39 +598,39 @@ which is barely documented in what's been gathered.]
 
 ### DataSquad: a student research workforce
 
-Modeled on Carleton College's program, **DataSquad** began in 2020 on a Powell gift that funded
+DataSquad, modeled on a program at Carleton College, began in 2020 on a Powell gift that paid
 the first cohort's salaries and laptops, with the Library adding funds in 2023 to expand it. It
-pairs undergraduate and graduate consultants with staff on sustained project work; reportable
-project engagements grew from a handful in 2023 to over a hundred in 2025, as departments began
-planning research around its availability rather than calling it only when something broke. Of
-the ten students whose post-graduation outcomes were tracked in the 2023–2025 period, all went
-into data or technical roles — McKinsey, Amazon, AIG, Stanford, CVS Health among them — and the
-model has been picked up elsewhere through a DataSquad International network. Its research
-contributions are documented in the spotlights under [Research impact](#research-impact).
+pairs undergraduate and graduate consultants with staff on sustained project work. Reportable
+project engagements grew from a handful in 2023 to more than a hundred in 2025, as departments
+started planning research around its availability rather than calling it only when something
+broke. Of the ten students whose outcomes after graduation were tracked in the 2023–2025 period,
+all went into data or technical roles, with McKinsey, Amazon, AIG, Stanford, and CVS Health
+among the destinations. The model has been picked up elsewhere through a DataSquad International
+network. Its research contributions are in the spotlights under [Research impact](#research-impact).
 
 ### People and funding
 
-Much of this era's expansion ran on **Norman Powell**'s philanthropy — a data-scientist
-position, a deep-learning machine and DSC space in the Young Research Library, and DataSquad's
-seed funding (all separate from his dated $5M December 2016 gift endowing the University
-Librarian position). Just as important was a quieter piece of fiscal stewardship: DSC moved the
-archive's large recurring subscriptions (ICPSR, Roper) off its own gift fund and onto the
-Library's general membership budget — the way research libraries treat major database
-memberships — which freed the archive's original fund to cover the cloud-infrastructure costs of
-Dataverse and the point-cloud platform. That reallocation depended on one role having visibility
-across both the archive's budget and the infrastructure budget at once.[^funding]
+Much of this era's expansion ran on Norman Powell's philanthropy: a data-scientist position, a
+deep-learning machine and DSC space in the Young Research Library, and DataSquad's seed funding,
+all separate from his dated $5M December 2016 gift that endowed the University Librarian
+position. A quieter piece of budget work mattered nearly as much. DSC moved the archive's large
+recurring subscriptions, ICPSR and Roper, off its own gift fund and onto the Library's general
+membership budget, the way research libraries usually treat major database memberships. That
+freed the archive's original fund to cover the cloud costs of Dataverse and the point-cloud
+platform. The move was possible because one role could see the archive's budget and the
+infrastructure budget at the same time.[^funding]
 
-The people who carried the work: Jamie Jamison (repository and curation), Doug Daniels (3D and
-emerging technology), Leigh Phan (programmer to data scientist over this period), a GIS/spatial
-librarian, a data-science facilitator, and the rotating DataSquad students. The full roster,
-with what is and isn't independently documented, is in
+The people who carried the work were Jamie Jamison (repository and curation), Doug Daniels (3D
+and emerging technology), Leigh Phan (programmer to data scientist over this period), a
+GIS/spatial librarian, a data-science facilitator, and the rotating DataSquad students. The full
+roster, with what is and is not independently documented, is in
 [history-companion.qmd](history-companion.html).
 
-[^funding]: The subscription-to-general-fund move and the reinvestment into infrastructure are
-confirmed in direction by budget ledgers and AWS cost records; the full dollar trail (and the
-dates two other subscriptions were dropped) is partly reconstructed. See
-`evidence/library-era-2014-present.md` §13. [NEEDS TIM: the budget records for the
-infrastructure and dataset purchases funded from the freed line.]
+[^funding]: The direction of the subscription move and the reinvestment into infrastructure is
+confirmed by budget ledgers and AWS cost records; the full dollar trail, and the dates two other
+subscriptions were dropped, is only partly reconstructed. See `evidence/library-era-2014-present.md`
+§13. [NEEDS TIM: the budget records for the infrastructure and dataset purchases funded from the
+freed line.]
 
 <!-- internal working notes: evidence/library-era-2014-present.md (the full evidence + gap list);
 evidence/powell-gifts-and-imls-grant.md; evidence/doug-daniels-and-2018-continuity.md;
@@ -661,31 +648,31 @@ describe the 2026 dissolution. -->
 
 ## People and stewardship
 
-Founders, formal leaders, and people who sustained the operation across a substantial period —
-full roster including rotating collaborators and shorter-tenure staff is in
+This lists the founders, the formal leaders, and the people who kept the operation running over a
+long stretch. The full roster, including shorter-tenure staff and rotating collaborators, is in
 [history-companion.qmd](history-companion.html).
 
-ISSR-era entries are grounded in the digitized UCLA General Catalogs and corroborating published
-sources (see the 1977–2014 section); Sears's directorship dates are independently confirmed.
-Freeman's and Brewer's exact terms, and the operational staff below the director line, are still
-soft.
+The ISSR-era entries rest on the digitized UCLA General Catalogs and corroborating published
+sources (see the 1977–2014 section). Sears's directorship dates are independently confirmed;
+Freeman's term and Brewer's end date are firm; Brewer's start year and the operational staff
+below the director line are still soft.
 
 | Name | Role | Documented span | Note |
 |---|---|---|---|
-| Dwaine Marvick | Founder, Political Behavior Archive | 1954 (joined UCLA) – 1999 (d.) | ICPSR governing board from 1964, Council chair 1966–67; personal role in the 1962 founding not documented |
-| Howard E. Freeman | Founding Director, ISSR | 1974 – ~1980 | Medical sociologist |
-| Marilynn B. Brewer | Director, ISSR | documented 1983 (full term unknown) | Social psychologist |
-| David O. Sears | Director, ISSR | 1993–2008 (per his CV) | Political psychologist |
+| Dwaine Marvick | Founder, Political Behavior Archive | 1954 (joined UCLA) to 1999 (d.) | ICPSR governing board from 1964, Council chair 1966–67; personal role in the 1962 founding not documented |
+| Howard E. Freeman | Founding Director, ISSR | 1974–1981 | Medical sociologist; co-author of *Evaluation: A Systematic Approach*; d. 1992 |
+| Marilynn B. Brewer | Professor of Psychology and Director, ISSR | ~1983 to 1993 | Social psychologist; left UCLA for Ohio State in 1993 |
+| David O. Sears | Director, ISSR | 1993–2008 | Political psychologist; UCLA Dean of Social Sciences 1983–1992 |
 | Donald Treiman | ISSR Associate Director; formalized SSDA | 1975–1977 (Assoc. Director); UCLA Professor 1977–2004 | Later co-built the ISMF with Ganzeboom and Stephenson |
 | Mary Ryan | Director, UCLA Library Public Affairs Service | 1970s–1980s | Ran the library's first numeric-data service, the 1970 census tapes |
-| Elizabeth "Libbie" Stephenson | Archive staff, later Director | ~1977 (per ICPSR) / 1986 (other sources) – 2016 (retired) | Longest tenure; MLS UCLA 1977; IASSIST President 1995–97; led the 2012–2014 ICPSR curation project |
+| Elizabeth "Libbie" Stephenson | Archive staff, later Director | ~1977 (per ICPSR), or 1986 (other sources), to 2016 (retired) | Longest tenure; MLS UCLA 1977; IASSIST President 1995–97; led the 2012–2014 ICPSR curation project |
 | Martin Pawlocki | Programmer | in the ~1979 newsletter; 1987–88 (tape information system) | Co-authored the 1988 IASSIST Quarterly paper with Stephenson |
 | Shirley Lane | Programmer / technical consultant | ~1979 | Came from the Research Library's machine-readable 1970 Census project |
-| Jina "Jamie" Jamison | "Gina Jamison" in the ~1979 newsletter; tape/mainframe management → Collection Manager, DSC | ~1979, then continuous from before the 2014 MOU – present | Left ~1979 for an MFA, returned; leads UCLA Dataverse |
-| Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 – present | Succeeded Stephenson; founded UCLA Carpentries (2018), co-founded UC Carpentries (2020), founded UCLA DataSquad (2020) |
-| Doug Daniels | Helpdesk Specialist → … → Emerging Technologies Librarian, DSC | 2013 – present (DSC team 2020) | UCLA Librarian of the Year 2026; runs the "Lux Lab" |
+| Jina "Jamie" Jamison | "Gina Jamison" in the ~1979 newsletter; tape/mainframe management, later Collection Manager, DSC | ~1979, then continuous from before the 2014 MOU to the present | Left ~1979 for an MFA, returned; leads UCLA Dataverse |
+| Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 to present | Succeeded Stephenson; founded UCLA Carpentries (2018), co-founded UC Carpentries (2020), founded UCLA DataSquad (2020) |
+| Doug Daniels | Helpdesk Specialist, then Emerging Technologies Librarian, DSC | 2013 to present (DSC team 2020) | UCLA Librarian of the Year 2026; runs the "Lux Lab" |
 | Leigh Phan | Programmer, later Data Scientist | 2018-present era | Role evolution per Tim |
-| Norman Powell | Philanthropic donor | gifts across multiple years, mostly undated | Funded a data scientist position, a deep learning machine + DSC space, DataSquad seed funding; separately, $5M (Dec 2016) endowing the University Librarian position |
+| Norman Powell | Philanthropic donor | gifts across several years, mostly undated | Funded a data scientist position, a deep-learning machine and DSC space, and DataSquad seed funding; separately, $5M (Dec 2016) endowing the University Librarian position |
 
 <!-- internal working notes: full roster and rationale for trimming in history-companion.qmd -->
 
@@ -695,12 +682,12 @@ Two different things get measured here, and they answer different questions.
 
 ### Historical traces of reuse
 
-**Holdings activity** shows when the archive's deposited datasets were originally collected, by
-decade — a proxy for how active the archive itself was. **Citation evidence** shows which of
-that data is documented as having been used in later published research — a proxy for downstream
-value, not for the archive's own activity. They don't share an axis, and shouldn't be read
-against each other directly: a decade with heavy collecting activity doesn't necessarily produce
-more citations, and citations can (and here, do) arrive decades after collection.
+Holdings activity shows when the archive's deposited datasets were originally collected, by
+decade. It stands in for how busy the archive was. Citation evidence shows which of that data is
+documented as having been used in later published research. It stands in for downstream value,
+not for the archive's own activity. The two do not share a scale and should not be read against
+each other: a decade of heavy collecting does not have to produce more citations, and citations
+can arrive, and here do arrive, decades after collection.
 
 ::: {.content-visible when-format="pdf"}
 | Decade | Datasets collected |
@@ -712,9 +699,9 @@ more citations, and citations can (and here, do) arrive decades after collection
 | 2000s | 87 |
 | 2010s | 5 |
 
-*571 datasets in the Harvard Dataverse SSDA collection, bucketed by the survey year embedded in
-each title (not the Dataverse "published" date, a uniform 2015–2018 migration artifact — full
-methodology in the companion). Measures holdings activity, not usage or citation.*
+*571 datasets in the Harvard Dataverse SSDA collection, bucketed by the survey year in each
+title, not the Dataverse "published" date (a uniform 2015–2018 migration artifact; full method
+in the companion). Measures holdings activity, not usage or citation.*
 :::
 
 ::: {.content-visible when-format="html"}
@@ -790,7 +777,7 @@ methodology in the companion). Measures holdings activity, not usage or citation
   <text x="474" y="216" class="bc-value" text-anchor="middle">5</text>
   <text x="474" y="252" class="bc-cat" text-anchor="middle">2010s</text>
 </svg>
-<figcaption>571 datasets in the Harvard Dataverse SSDA collection, bucketed by the survey year embedded in each title (not the Dataverse "published" date, which is a uniform 2015–2018 migration artifact — full methodology in <a href="history-companion.html">history-companion.qmd</a>). This measures holdings activity, not usage or citation.</figcaption>
+<figcaption>571 datasets in the Harvard Dataverse SSDA collection, bucketed by the survey year in each title, not the Dataverse "published" date (a uniform 2015–2018 migration artifact; full method in <a href="history-companion.html">history-companion.qmd</a>). Measures holdings activity, not usage or citation.</figcaption>
 </div>
 ```
 :::
@@ -803,11 +790,11 @@ Data-related Literature, searched by study number, 2026-08-09):
 |--------|---------------------------|
 | LACSS | 2011, 2021, 2025 |
 | LAMAS | none in the queried index |
-| SCSS | not measurable — never deposited in the queried index |
+| SCSS | not measurable; never deposited in the queried index |
 
-*Evidence of indexed citation, not a complete estimate of use — absence from the index does not
-establish that a series was unused, especially for LAMAS (1970s) and SCSS, which predate modern
-data-citation norms by decades.*
+*Evidence of indexed citation, not a full estimate of use. Absence from the index does not mean
+a series went unused, especially for LAMAS (1970s) and SCSS, which predate modern data-citation
+norms by decades.*
 :::
 
 ::: {.content-visible when-format="html"}
@@ -888,9 +875,9 @@ data-citation norms by decades.*
   <!-- Row 3: SCSS, y=150, not measurable -->
   <text x="50" y="154" class="ep-row-label" text-anchor="end">SCSS</text>
   <line x1="60" y1="150" x2="570" y2="150" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="1,4"/>
-  <text x="315" y="168" class="ep-note" text-anchor="middle">not measurable — never deposited in the queried index</text>
+  <text x="315" y="168" class="ep-note" text-anchor="middle">not measurable; never deposited in the queried index</text>
 </svg>
-<figcaption>Every citing publication documented in ICPSR's Bibliography of Data-related Literature, searched by study number, 2026-08-09. This is evidence of <em>indexed</em> citation, not a complete estimate of use — absence from the index does not establish that a series was unused, especially for LAMAS (1970s) and SCSS, which predate modern data-citation norms by decades. Full methodology in <a href="history-companion.html">history-companion.qmd</a>.</figcaption>
+<figcaption>Every citing publication documented in ICPSR's Bibliography of Data-related Literature, searched by study number, 2026-08-09. Evidence of <em>indexed</em> citation, not a full estimate of use. Absence from the index does not mean a series went unused, especially for LAMAS (1970s) and SCSS, which predate modern data-citation norms by decades. Full method in <a href="history-companion.html">history-companion.qmd</a>.</figcaption>
 </div>
 ```
 :::
@@ -900,15 +887,15 @@ Publications behind the LACSS citations: [@gershonPantoja2011], [@zambranaEtal20
 
 ### Contemporary research enabled
 
-The 2018-present section above covers the infrastructure — Dataverse, Redivis, the Carpentries
-and open-science work, the spatial and 3D services — and the funding behind it. What that
+The 2018-present section above covers the infrastructure (Dataverse, Redivis, the Carpentries
+and open-science work, the spatial and 3D services) and the funding behind it. What that
 infrastructure carried, with the independently checkable part called out:
 
 | Case | What's independently checkable |
 |---|---|
 | Redivis / L2 restricted data | Publication venues (APSR, PNAS, BJPolS, AEJ), a public dataset DOI, a public FORCE11 presentation |
 | IMLS open-science grant | A federal grant award record, public lesson repositories, Library Carpentry's own adoption record |
-| Carceral Ecologies (Nicholas Shapiro) | DSC/DataSquad multi-year support on a helicopter-surveillance dataset; national media (*LA Times*, *The New Yorker*, *Bloomberg*); pilot data behind the $5.07M Dana Foundation grant (2023) that established the UCLA–Charles R. Drew Dana Center for Neuroscience & Society, where Shapiro is Director of Research |
+| Carceral Ecologies (Nicholas Shapiro) | DSC/DataSquad multi-year support on a helicopter-surveillance dataset; national media (*LA Times*, *The New Yorker*, *Bloomberg*); pilot data behind the $5.07M Dana Foundation grant (2023) that established the UCLA and Charles R. Drew Dana Center for Neuroscience & Society, where Shapiro is Director of Research |
 | BioCritical Studies Lab (Terence Keel) | Multi-year DataSquad work on a US deaths-in-custody dataset; a 2024 UCLA Public Impact Research Award; DSC's work credited in Keel's book *The Coroner's Silence* |
 | Refugee Material Culture Initiative (Kelly Nguyen) | Doug Daniels + DataSquad, with the Vietnamese Heritage Museum; a public 3D digital narrative |
 | DataSquad | Student outcomes for the ten tracked graduates (data/technical roles); the projects above drew independent national coverage |
@@ -917,38 +904,38 @@ infrastructure carried, with the independently checkable part called out:
 
 The author's position is stated up front, in "A note on the author's position." Tim Dennis
 directed the unit for the recent decades this history covers, and is separately the author of
-documents (a grant proposal, reorg-response material) that draw on some of the same facts for
-advocacy. A repository boundary doesn't change that. What this project does instead:
+documents (a grant proposal, reorg-response material) that use some of the same facts for
+advocacy. A repository boundary does not change that. What this project does instead:
 
 - The author's role, and this project's relationship to `ospo_datasquad_grant`, are stated
-  plainly rather than left for the reader to discover.
-- Facts are sourced to a claim register (`dsc-evidence-registry`), not asserted from memory —
-  see `claims/ssda-*`, `claims/icpsr-*`, `claims/issr-*`, `claims/dennis-*`, `claims/dsc-*` there
-  for what's verified vs. disputed vs. self-reported.
-- Documented facts are kept separate from institutional interpretation; discontinuities, gaps,
-  and contested points are stated as such, not smoothed over — see README.md "Known gaps" and
+  plainly rather than left for the reader to find.
+- Facts are sourced to a claim register (`dsc-evidence-registry`), not asserted from memory. See
+  `claims/ssda-*`, `claims/icpsr-*`, `claims/issr-*`, `claims/dennis-*`, and `claims/dsc-*` there
+  for what is verified, disputed, or self-reported.
+- Documented facts are kept separate from interpretation. Discontinuities, gaps, and contested
+  points are stated as such rather than smoothed over. See README.md "Known gaps" and
   [history-companion.qmd](history-companion.html) "Open discrepancies."
 - `ospo_datasquad_grant` may cite this project's evidence, but it is not independent
   corroboration of a claim that traces back to the same author.
-- **Self-reported achievement claims** (much of the 2018-present detail comes from Tim's and
-  Doug's own internal personnel-review documents) are treated as discovery sources, not sole
+- Self-reported achievement claims: much of the 2018-present detail comes from Tim's and Doug's
+  own internal personnel-review documents. These are treated as discovery sources, not as sole
   public evidence. Where independent corroboration exists (press coverage, award records,
-  publication venues, grant award pages), the claim is included and the corroboration is what's
-  cited. Where only the review document supports a claim, it's either omitted or explicitly
-  attributed as a self-reported account — see [history-companion.qmd](history-companion.html)
-  for what's been held to that standard.
+  publication venues, grant award pages), the claim is included and the corroboration is what is
+  cited. Where only the review document supports a claim, it is either left out or explicitly
+  attributed as a self-reported account. See [history-companion.qmd](history-companion.html) for
+  what has been held to that standard.
 - The evidence cutoff is 2026-08-31. An outside read for factual support and proportion is
   optional, at the author's discretion; if one happens, the reader is named in "A note on the
   author's position."
 
 ## Sources
 
-Numbered notes appear at first citation throughout; full bibliography below is generated from
-`references.bib` via `chicago-notes-bibliography.csl`.
+Numbered notes appear at the first citation of each source. The bibliography below is generated
+from `references.bib` via `chicago-notes-bibliography.csl`.
 
 ::: {#refs}
 :::
 
-Full evidence base with per-claim detail and verification status: `evidence/` and
-`dsc-evidence-registry/claims/` in this repository. Full evidentiary companion (roster, project
-inventories, methodology, open discrepancies): [history-companion.qmd](history-companion.html).
+The full evidence base, with per-claim detail and verification status, is in `evidence/` and
+`dsc-evidence-registry/claims/` in this repository. The full companion (roster, project
+inventories, methods, open discrepancies) is at [history-companion.qmd](history-companion.html).

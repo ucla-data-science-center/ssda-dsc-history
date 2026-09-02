@@ -6,7 +6,7 @@ project:
     - history-companion.qmd
 
 website:
-  title: "UCLA's Social Science Data Archive — an institutional history"
+  title: "UCLA's Social Science Data Archive: an institutional history"
   reader-mode: true
   navbar:
     left:
