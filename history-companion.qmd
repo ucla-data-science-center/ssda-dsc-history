@@ -28,27 +28,51 @@ here instead. This document is the "can this be checked" backing material; histo
 The public history keeps only people who founded, formally led, reorganized, or sustained the
 operation across a substantial period. Full roster:
 
+ISSR-era names, dates, and titles below the Marvick/Treiman/Stephenson core come from a
+deep-research pass (`evidence/deep-research-report.md`, merged from the 7-31 site branch) that is
+heavily cited but **not yet verified claim-by-claim** against the primary documents. Treat as
+leads.
+
 | Name | Role | Documented span | Note |
 |---|---|---|---|
-| Dwaine Marvick | Founder, Political Behavior Archive | 1954 (joined UCLA) – 1999 (d.) | Led UCLA's effort to become an ICPSR founding member, 1962 |
-| Howard Freeman | Founding Director, ISSR | from 1974 | Medical sociologist |
+| Dwaine Marvick | Founder, Political Behavior Archive | 1954 (joined UCLA) – 1999 (d.) | ICPSR governing board from 1964, ICPR Council chair 1966–67; personal role in the 1962 founding undocumented |
+| Howard E. Freeman | Founding Director, ISSR | 1974 – ~1980 | Medical sociologist |
+| Marilynn B. Brewer | Director, ISSR | documented 1983 (full term unknown) | Social psychologist |
+| David O. Sears | Director, ISSR | 1993–2008 (per his CV) | Political psychologist |
 | Donald Treiman | ISSR Associate Director; formalized SSDA | 1975–1977 (Assoc. Director); UCLA Professor 1977–2004 | Later co-built the ISMF with Ganzeboom and Stephenson |
 | Mary Ryan | Director, UCLA Library Public Affairs Service | 1970s–1980s | Ran the library's first numeric-data service, the 1970 census tapes |
-| Elizabeth "Libbie" Stephenson | Archive staff, later Director | 1986–2016+ | Longest documented tenure; led the 2012–2014 ICPSR curation project |
+| Elizabeth "Libbie" Stephenson | Archive staff, later Director | ~1977 (per ICPSR retirement profile) / 1986 (other sources) – 2016 (retired) | Longest tenure; MLS UCLA 1977; IASSIST President 1995–97; ICPSR Council 1996–2000; 2007 Flanigan Award; led the 2012–2014 ICPSR curation project |
 | Diane Bisom | Archive staff | 1986 (documented) | Co-authored the ORION online-catalog paper with Stephenson |
-| Martin Pawlocki | Archive staff | 1987–1988 (documented) | Co-built the tape information system with Stephenson |
+| Martin Pawlocki | Programmer | ~1979 newsletter; 1987–88 (tape information system) | Co-built the tape information system with Stephenson |
+| Shirley Lane | Programmer / technical consultant | ~1979 | Came from the UCLA Research Library's machine-readable 1970 Census project |
+| Eve Fielder | SRC director | first director 1976 per obituary (conflicts with "1964, under Fielder" in internal decks) | See Open discrepancies |
+| Rita Engelhardt, Donald Witzke, Michael Greenwell, Madeleine/Madelyn De Maria, Ann Cinderella, Cheryl Groves, Kathleen O'Kane, Matthew Futterman, Jack Katola, Tana Wong (asst. director, 2009) | ISSR/SRC operational staff (statistical services, sampling, CATI, coding, programming, assistant directors) | various, 1980s–2000s | Roles tied to ISSR/SRC broadly, not all confirmed as archive-specific |
 | Harry Ganzeboom | Collaborator, Free University Amsterdam | — | Co-built the ISMF, NWO-funded |
 | Lawrence Bobo | Rotating PI, LACSS 1992 | 1992 | Then UCLA Assoc. Professor of Sociology |
-| Jina "Jamie" Jamison | Staff — tape/mainframe management through DSC | ? – present | Named in the 2014 MOU as continuing staff; co-taught IS262A with Dennis, Oct 2025, doi:10.5281/zenodo.17360885 |
+| Jina "Jamie" Jamison | "Gina Jamison" in the ~1979 newsletter (left ~1979 for an MFA, returned); tape/mainframe management → Collection Manager, DSC | ~1979, then continuous from before the 2014 MOU – present | Leads UCLA Dataverse; co-taught IS262A with Dennis, Oct 2025, doi:10.5281/zenodo.17360885 |
 | Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 – present | Succeeded Stephenson |
-| Doug Daniels | Helpdesk Specialist → Technical Projects Specialist → Coordinator of Scholarly Innovation Technologies → Emerging Technologies Librarian | 2013 – present | UCLA Librarian of the Year 2026; see full project list below |
+| Doug Daniels | Helpdesk Specialist → Technical Projects Specialist → Coordinator of Scholarly Innovation Technologies → Emerging Technologies Librarian | 2013 – present (DSC team 2020) | UCLA Librarian of the Year 2026; see full project list below |
 | Leigh Phan | Programmer, later Data Scientist | 2018-present era | Role evolution per Tim; deep learning work with Dennis; verified open-data/mapping and data-ethics-instruction work |
-| Zhiyuan Yao | GIS data work | 2018-present era (has since moved on) | Now Assistant Professor, Appalachian State University |
+| Zhiyuan Yao | GIS / Spatial Data Science Librarian; IMLS Program Coordinator | ~2020–2024 (now Assistant Professor, Appalachian State) | GIS librarian role; UC GIS Week; LARIAC management |
 | Kristian Allen | Staff, 0.5 FTE | 2018–2024 | |
 | Norman Powell | Philanthropic donor | gifts across multiple years, mostly undated | See Powell gifts detail below |
 
 ## Full 1977-2014 detail cut from the main narrative
 
+**The three subperiods** (per `evidence/deep-research-report.md`, not yet primary-verified):
+- **ISSR proper, 1977 – late 2000s.** An OECD international directory dates the "ISSR Data Archive
+  at UCLA" to December 1977, for quantitative research "primarily secondary analysis," drawing on
+  UCLA's ICPSR membership plus federal statistical agencies (Census, NCHS, NCES, BLS) and local
+  studies like LACSS.
+- **Institute for Social Research (ISR), ~2009–2011.** Parent institute renamed by the 2009–10
+  UCLA General Catalog — same phone, same components including the Data Archive, new website
+  (`isr.ucla.edu`). Still in the 2010–11 catalog. No director identified under this name.
+- **Standalone SSDA, ~2011–2014.** By the 2011–12 catalog neither ISSR nor ISR appears; SSDA is
+  listed independently as a Social Sciences collection with its own site (`dataarchives.ss.ucla.edu`).
+  No public source names a formal dissolution of the parent or a single successor. The reporting
+  line from here to the 2014 Library transfer is unresolved.
+- Immediately pre-transfer (2013), SSDA was piloting the DDI-Lifecycle metadata standard and
+  Colectica curation software.
 - **Southern California Social Survey (SCSS)**, confirmed running 1984-1991 in the Harvard
   Dataverse SSDA collection (true start year not pinned down — likely closer to 1977-1980, never
   deposited in ICPSR at all).
@@ -163,6 +187,25 @@ See `evidence/icpsr-citation-count-lamas-lacss.md` and `evidence/lamas-scss-lacs
 
 ## Open discrepancies not yet resolved
 
+- **The 1964 SRC merger and Eve Fielder**: three internal sources (two 2017 decks, the Dataverse
+  page) say the PBA merged into the Survey Research Center in 1964 "under Eve Fielder." A
+  published obituary says Fielder became SRC's *first* director in 1976 — the same year external
+  catalog evidence places SRC's incorporation into ISSR. Either SRC ran from 1964 under a
+  different founding director, or the internal decks compress two events. Not resolved against
+  SRC's own records.
+- **1977's institutional home — four framings**: the 2017 decks say ISSR; the Dataverse page
+  names Treiman with no home; a book-chapter draft says "part of the Survey Research Center";
+  external catalog evidence supports ISSR as the named parent with SRC as a component. The
+  SRC-only framing is the likeliest to need correcting; confirm against the 1977–78 UCLA General
+  Catalog directly.
+- **The ISSR era director list and three-subperiod structure** rest on `evidence/deep-research-report.md`,
+  heavily cited but not primary-verified. Verify Freeman/Brewer/Sears and the ISSR→ISR→standalone
+  sequence against the UCLA General Catalogs, Sears's CV, and the OECD directory it cites.
+- **ISSR→ISR rename and ISR dissolution**: no date or authority found for either; no director
+  identified for the institute under the ISR name (~2009–2011).
+- **The "8 founding members" of ICPSR**: UCLA's founding-member status is primary-verified
+  (Miller's 1962 memo). The "8" is not — Austin's list has 22, Miller's 21; "8" may be the
+  "Committee of Eight" (1962–63 correspondence in ICPSR's Bentley archive), unread.
 - **UC Carpentries workshop/learner counts**: Tim's SOPA states "28 workshops... 2,896 learners"
   for the 2023-2025 review period; his Data Summary states "37 workshops (2022–2025)... 1,495
   attendees (2024–2025)" for what may be a different scope (UC Carpentries alone vs. UCLA
