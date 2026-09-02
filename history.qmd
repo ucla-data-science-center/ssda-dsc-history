@@ -188,11 +188,12 @@ The following year, **UCLA was among the founding member institutions of ICPSR**
 confirmed against the primary document — Warren Miller's August 1962 memo to Rensis Likert
 making the case for the consortium names the members "as of July 30, 1962," and "University of
 California at Los Angeles" is on the list.[^miller-memo] Two things often attached to that fact
-are shakier. UCLA's own current Dataverse page says there were **eight** founding members and
-credits UCLA's inclusion "through [Marvick's] efforts"; a longtime ICPSR staff member's
-membership-records list has **22** original institutions (Miller's memo lists 21), and the "8"
-may instead refer to a "Committee of Eight" whose 1962–63 correspondence sits in ICPSR's own
-archive — a founding committee, not the dues-paying roster. And no document found so far,
+are shakier, and both trace to the same place: the text Libbie Stephenson wrote for the
+archive's Dataverse page, which says there were **eight** founding members and that UCLA joined
+"through [Marvick's] efforts." That is the archive's institutional memory, not an independent
+record. A longtime ICPSR staff member's membership-records list has **22** original institutions
+(Miller's memo lists 21), and the "8" may instead refer to a "Committee of Eight" whose 1962–63
+correspondence sits in ICPSR's own archive — a founding committee, not the dues-paying roster. And no document found so far,
 Miller's memo included, gives Marvick a formal role in the 1962 founding; his documented ICPSR
 involvement is governing-board service from **1964**, rising to chair of the ICPR Council in
 **1966–67**. What *is* documented is that Marvick and Miller were close friends and
@@ -201,7 +202,9 @@ for "through his efforts," but not proof of it.[^eulau]
 
 [^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962 (`evidence/miller-1962-considerations.md`)
 — the actual founding document, not a later description of it. Cross-checked against Erik
-Austin's ICPSR founding-members list (`evidence/icpsr-founding-members-austin.md`).
+Austin's ICPSR founding-members list (`evidence/icpsr-founding-members-austin.md`). The "8
+members" / "through his efforts" phrasing is from `evidence/ssda-harvard-dataverse-about.md`
+(written by Stephenson).
 
 [^eulau]: Heinz Eulau, "Good-bye to Two Dear Friends: Warren Miller and Dwaine Marvick — A
 Personal Memoir," 1999 (`evidence/eulau-1999-miller-marvick-memoir.md`).
@@ -210,16 +213,27 @@ Personal Memoir," 1999 (`evidence/eulau-1999-miller-marvick-memoir.md`).
 
 ## 1964-1974: The Survey Research Center years
 
-The archive's next home was UCLA's **Survey Research Center (SRC)**, which the PBA merged into
-[@stilesStephenson2008]. Three internal sources (two 2017 decks and the current Dataverse page)
-date that merger to **1964** and place it "under Eve Fielder." That framing is in tension with a
-published obituary that says Fielder became SRC's *first* director in **1976** — the same year
-external catalog evidence puts SRC's absorption into ISSR. Either SRC ran from 1964 under a
-different, unidentified founding director and Fielder took over later, or the internal decks
-compress two events into one. Unresolved.[^fielder] Marvick's own August 1964 proposal — *"Plans
-for the Development of a Social Science Archival Data Library in the UCLA Survey Research
-Center"* [@marvick1967proposal] — set out the archival concept that would eventually become SSDA,
-though the document itself hasn't been located yet (see [history-companion.qmd](history-companion.html)).
+The archive's next home was UCLA's **Survey Research Center (SRC)**, formed in 1964, which
+housed an **"Archival Data Library"** into which the PBA merged [@stilesStephenson2008].
+Marvick's own August 1964 proposal — *"Plans for the Development of a Social Science Archival
+Data Library in the UCLA Survey Research Center"* [@marvick1967proposal] — set out the concept
+directly, though the document itself hasn't been located yet (see
+[history-companion.qmd](history-companion.html)).
+
+This is the point worth being precise about, because the archive's *founding date* is told
+several ways and the confusion is avoidable. The archive *function* — accessioning the datasets
+of the tape-sharing and mainframe era, keeping their codebooks, documenting them, and running a
+reference room where researchers could work out how to use machine-readable data — was a formal
+part of the SRC from 1964, and of the PBA before it. What it was not yet was a *named unit* with
+its own staff line or consultative services: per Stiles and Stephenson, the SRC's Archival Data
+Library operated "on a reference-room basis only." The name and the formal unit come in 1977;
+the work is older.
+
+(One internal detail remains unresolved: the archive's own account — the text Libbie Stephenson
+wrote for its Dataverse page — places the 1964 SRC arrangement "under the direction of Eve
+Fielder," but a published obituary says Fielder became SRC's first director only in 1976. Either
+SRC ran from 1964 under someone else, or the account compresses two events — see
+[history-companion.qmd](history-companion.html).[^fielder])
 
 The SRC's stewardship object during this decade was the **Los Angeles Metropolitan Area Surveys
 (LAMAS)**: ten waves, 1970-1976, a shared omnibus survey repeated roughly twice yearly with
@@ -230,9 +244,11 @@ UCLA Library's Public Affairs Service, under Mary Ryan, purchased 1970 census ta
 DUALabs — the library's first foray into numeric data, and one cited nationally as an
 early/paradigm case for library involvement in machine-readable data [@roweRyan1974; @dodd1982].
 
-[^fielder]: The 1964-vs-1976 Fielder conflict is documented in the 7-31 research pass
-(`evidence/deep-research-report.md`) and the site branch's `site/origins.qmd`. Not yet resolved
-against SRC's own records or the relevant UCLA General Catalog.
+[^fielder]: The "1964, under Eve Fielder" claim originates in the archive's own Dataverse-page
+text (`evidence/ssda-harvard-dataverse-about.md`, written by Stephenson) and is repeated in the
+2017 internal decks. The conflicting obituary date is in the 7-31 research pass
+(`evidence/deep-research-report.md`). Not yet resolved against SRC's own records or the relevant
+UCLA General Catalog.
 
 <!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md; evidence/lamas-scss-lacss-series.md; evidence/dodd-1982-library-trends-mrdf.md; evidence/deep-research-report.md (Fielder conflict) -->
 
@@ -241,21 +257,24 @@ against SRC's own records or the relevant UCLA General Catalog.
 The **Institute for Social Science Research (ISSR)** was established in 1974, incorporating the
 SRC and its archival data library, under founding director **Howard E. Freeman**, a medical
 sociologist [@stilesStephenson2008]. Three years later, then-Associate Director **Donald
-Treiman** formalized that archival data library into a newly-named service unit — the **Social
-Science Data Archive (SSDA)** — and ISSR posted its first Data Archivist job opening
-[@stilesStephenson2008; @pawlockiStephenson1988]. An international directory published through
-the OECD dates the "ISSR Data Archive at UCLA" to **December 1977**, established to support
-quantitative research, "primarily secondary analysis," drawing on UCLA's ICPSR membership plus
-federal statistical agencies and locally produced studies.[^issr-1977]
+Treiman** did what several sources describe in different words: he took the archival data
+library that had run "on a reference-room basis only" and **designed its research-support
+framework** — the partnership-across-the-research-lifecycle model the archive still describes as
+its mission — formalizing it into a named service unit, the **Social Science Data Archive
+(SSDA)**, with its own Data Archivist line [@stilesStephenson2008; @pawlockiStephenson1988]. An
+OECD international directory dates the "ISSR Data Archive at UCLA" to **December 1977**, for
+quantitative research "primarily secondary analysis."[^issr-1977]
 
-Where the archive sat institutionally in 1977 is told four different ways across the internal
-record: the 2017 decks say ISSR; the Dataverse page names Treiman with no institutional home;
-a later book-chapter draft says "as part of the Survey Research Center." External catalog
-evidence points to ISSR as the actual named parent, with SRC as a component under it — which
-makes the SRC-only framing the one most likely to need correcting — though it is the framing in
-the DSC team's own published account [@dennisEtal2021], which says the archive was "created in
-1977 as part of the UCLA Survey Research Center." (1974 and 1977 are, in any case, genuinely
-separate events, not one founding date told two ways — see the timeline above.)
+So "1977" is not the archive's founding — the archive dates itself to 1961, and the function ran
+continuously through the PBA and the SRC's Archive Data Library. 1977 is when it was named,
+given a staff line, and built out from a reference room into a consultative service. The sources
+that seem to disagree are mostly describing different facets of that one event: the archive's
+own account (Stephenson) credits **Treiman** with the framework and doesn't mention ISSR; the
+2017 decks and the OECD directory name **ISSR** as the home; the team's published book chapter
+[@dennisEtal2021] says "as part of the **Survey Research Center**," which by 1977 was a component
+of ISSR. What still needs a documentary check is the precise reporting line — whether Treiman's
+1977 framework sat directly under ISSR or under SRC-within-ISSR — not the year or the continuity.
+(1974 and 1977 are, in any case, separate events, not one date told two ways.)
 
 The consequence worth noting here runs against the direction most of this history moves in:
 around 1980, when UCLA Library declined to purchase 1980 census tapes, ISSR/SSDA took them on

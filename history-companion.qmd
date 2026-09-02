@@ -186,25 +186,32 @@ See `evidence/icpsr-citation-count-lamas-lacss.md` and `evidence/lamas-scss-lacs
 
 ## Open discrepancies not yet resolved
 
-- **The 1964 SRC merger and Eve Fielder**: three internal sources (two 2017 decks, the Dataverse
-  page) say the PBA merged into the Survey Research Center in 1964 "under Eve Fielder." A
-  published obituary says Fielder became SRC's *first* director in 1976 — the same year external
-  catalog evidence places SRC's incorporation into ISSR. Either SRC ran from 1964 under a
-  different founding director, or the internal decks compress two events. Not resolved against
-  SRC's own records.
-- **1977's institutional home — four framings**: the 2017 decks say ISSR; the Dataverse page
-  names Treiman with no home; a book-chapter draft says "part of the Survey Research Center";
-  external catalog evidence supports ISSR as the named parent with SRC as a component. The
-  SRC-only framing is the likeliest to need correcting; confirm against the 1977–78 UCLA General
-  Catalog directly.
+- **1977 is not a founding — framing, mostly settled.** Tim, Stephenson's own Dataverse-page
+  text, and Stiles & Stephenson 2008 all agree: the archive *function* ran continuously from the
+  1960s (PBA → the SRC's Archive Data Library, "reference-room basis only"); **1977 is when
+  Treiman designed the research-support framework, the unit was named SSDA, and a Data Archivist
+  line and consultative services were added.** The sources that "disagree" describe different
+  facets: Stephenson credits Treiman and omits ISSR; the 2017 decks and the OECD directory name
+  ISSR; the published book chapter [@dennisEtal2021] says "part of the Survey Research Center"
+  (which by 1977 was a component of ISSR). **Still to check documentarily:** whether Treiman's
+  1977 framework reported directly to ISSR or to SRC-within-ISSR. Confirm against the 1977–78
+  UCLA General Catalog.
+- **The 1964 SRC arrangement and Eve Fielder**: Stephenson's Dataverse-page text says the SRC
+  formed in 1964 "under the direction of Eve Fielder" and the PBA merged into its planned Archive
+  Data Library. A published obituary says Fielder became SRC's *first* director only in 1976.
+  Either SRC ran from 1964 under someone else, or the account compresses two events. Not resolved
+  against SRC's own records.
 - **The ISSR era director list and three-subperiod structure** rest on `evidence/deep-research-report.md`,
   heavily cited but not primary-verified. Verify Freeman/Brewer/Sears and the ISSR→ISR→standalone
   sequence against the UCLA General Catalogs, Sears's CV, and the OECD directory it cites.
 - **ISSR→ISR rename and ISR dissolution**: no date or authority found for either; no director
   identified for the institute under the ISR name (~2009–2011).
-- **The "8 founding members" of ICPSR**: UCLA's founding-member status is primary-verified
-  (Miller's 1962 memo). The "8" is not — Austin's list has 22, Miller's 21; "8" may be the
-  "Committee of Eight" (1962–63 correspondence in ICPSR's Bentley archive), unread.
+- **The "8 founding members" of ICPSR, and "through his efforts"**: both phrasings are from
+  Stephenson's Dataverse-page text — the archive's institutional memory, not an independent
+  record. UCLA's founding-member status *is* primary-verified (Miller's 1962 memo). The "8" is
+  not — Austin's list has 22, Miller's 21; "8" may be the "Committee of Eight" (1962–63
+  correspondence in ICPSR's Bentley archive), unread. Marvick's personal founding role is
+  undocumented (see the 1961–1964 section).
 - **UC Carpentries workshop/learner counts**: Tim's SOPA states "28 workshops... 2,896 learners"
   for the 2023-2025 review period; his Data Summary states "37 workshops (2022–2025)... 1,495
   attendees (2024–2025)" for what may be a different scope (UC Carpentries alone vs. UCLA

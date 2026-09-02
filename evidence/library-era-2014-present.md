@@ -137,9 +137,12 @@ source for that window. Against this evidence doc and `history.qmd`:
   as intended methods; the ancient-Buddhist-texts NLP consult; Tidy Tuesday (weekly data-cleaning
   lab); a Spring 2020 Business School datathon; the Sustainable LA Grand Challenge and Mellon
   Mays undergraduate programs; grad/professional partnerships (MSS, MURP, MAS, Anderson).
-- **Conflicts:** the chapter says the archive was "created in 1977 as part of the UCLA Survey
-  Research Center" — the SRC-only framing of 1977, now confirmed as a *published* claim, not just
-  a draft. Noted in `history.qmd` and the companion's Open discrepancies.
+- **On 1977:** the chapter says the archive was "created in 1977 as part of the UCLA Survey
+  Research Center." Per Tim + Stephenson's Dataverse-page text + Stiles & Stephenson 2008, 1977
+  is not a founding — it is when Treiman designed the research-support framework and the existing
+  archive function (running since the 1960s) was named SSDA and given a staff line. The SRC/ISSR
+  wording differences are facets of one event, not a contradiction. See `history.qmd` 1974–1977
+  section and `evidence/ssda-harvard-dataverse-about.md`.
 - **Doesn't touch (predates):** Redivis, L2, Carceral Ecologies, BioCritical Studies, the IMLS
   grant's delivery, OSPO/Sloan, most of Doug's projects, the 2024 GIS cut. Ibraheem Ali is a
   chapter co-author but per Tim was "never part of the unit."
