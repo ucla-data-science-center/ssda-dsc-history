@@ -21,7 +21,10 @@ branch if needed.
 - ⚠️ discrepancy across sources — flagged, not silently resolved
 - ❓ gap — needs Tim, or a document not yet in hand
 
-Primary sources drawn on: the 2020–21 book chapter `evidence/data-sci-libraries_chapter_edits.md`;
+Primary sources drawn on: the published 2021 book chapter `evidence/dsc_book_chapter.md` (Dennis
+et al., "From a Data Archive to Data Science," in Herndon ed., *Data Science in the Library*,
+Facet — the full published version; the older `evidence/data-sci-libraries_chapter_edits.md` is a
+pre-publication draft with near-identical content);
 the 2014 MOU `evidence/ssda-library-mou.md`; Tim's peer-review evidence
 (`~/Documents/peer-review-2025/evidence/Evidence_Collection_Guide_UPDATED.md`, verified
 2026-07-20); the DSC "dean update" (`~/projects/dsc-stats/dsc-stats-reports/dean-update-social-sciences-2026.qmd`);
@@ -117,6 +120,29 @@ Covered in `history.qmd` "2014–2018" section, `site/library-dsc.qmd`, and
   UL at UC Santa Barbara from July 2025): per Tim, shepherded the 2014 transfer, coined the
   "Data Science Center" name, helped design the 2018 service model. ◐ (Tim's account; not in
   public sources — an oral-history item, but oral history is now scoped to Jamie only)
+
+### Reconciliation with the published 2021 chapter (`evidence/dsc_book_chapter.md`, read 2026-09-02)
+
+The published chapter is the DSC team's own account of ~2018–2020 and is now the citable primary
+source for that window. Against this evidence doc and `history.qmd`:
+
+- **Confirms:** the two-FTE-to-five growth; the two redesigned roles (Data Science Facilitator,
+  Spatial Data Science Librarian) from a Geospatial Resources Librarian and a DIIT data manager;
+  "a programmer in our Digital Library with a background in data science and machine learning"
+  (= Kristian Allen, per Tim); the design-thinking redesign centering "the user as the scholar";
+  the full mission statement (now quoted in `history.qmd`); Carpentries membership 2017, 13
+  active instructors added (6 from Library technical roles); UCLA Dataverse local instance 2018;
+  the geospatial-discovery collaboration with UC San Diego and UC Santa Barbara.
+- **Adds (usable):** the mission statement verbatim; "text and cluster analysis" / "text mining"
+  as intended methods; the ancient-Buddhist-texts NLP consult; Tidy Tuesday (weekly data-cleaning
+  lab); a Spring 2020 Business School datathon; the Sustainable LA Grand Challenge and Mellon
+  Mays undergraduate programs; grad/professional partnerships (MSS, MURP, MAS, Anderson).
+- **Conflicts:** the chapter says the archive was "created in 1977 as part of the UCLA Survey
+  Research Center" — the SRC-only framing of 1977, now confirmed as a *published* claim, not just
+  a draft. Noted in `history.qmd` and the companion's Open discrepancies.
+- **Doesn't touch (predates):** Redivis, L2, Carceral Ecologies, BioCritical Studies, the IMLS
+  grant's delivery, OSPO/Sloan, most of Doug's projects, the 2024 GIS cut. Ibraheem Ali is a
+  chapter co-author but per Tim was "never part of the unit."
 
 ---
 
@@ -622,8 +648,12 @@ what they did; guest-lecture count / departments; whether there's a public Lux L
 ## 12. OCR / text corpora / digitized historical documents
 
 ⚠️ **Thinnest thread — needs Tim.** What's in hand:
-- Book chapter: a consult "with a graduate student to analyze **ancient Buddhist texts with
-  natural language processing**"
+- **Published chapter** (`evidence/dsc_book_chapter.md`, Dennis et al. 2021, the full published
+  version — supersedes the earlier `data-sci-libraries_chapter_edits.md` draft): one worked
+  example — "the team recently worked with a graduate student to analyze ancient Buddhist texts
+  with natural language processing techniques" — offered as the kind of consultation the DSC
+  wanted to capture and share. Also lists "text and cluster analysis" and "text mining" among
+  the methods DSC set out to support. No other text/OCR detail in the chapter.
 - Service-impact record: "**LARIAC data, the Redivis platform, L2 historic voter data, and
   unspecified 'corpuses'** were also purchased with freed SSDA money" — the "corpuses" are
   undefined

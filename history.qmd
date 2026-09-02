@@ -252,8 +252,10 @@ Where the archive sat institutionally in 1977 is told four different ways across
 record: the 2017 decks say ISSR; the Dataverse page names Treiman with no institutional home;
 a later book-chapter draft says "as part of the Survey Research Center." External catalog
 evidence points to ISSR as the actual named parent, with SRC as a component under it — which
-makes the SRC-only framing the one most likely to need correcting. (1974 and 1977 are, in any
-case, genuinely separate events, not one founding date told two ways — see the timeline above.)
+makes the SRC-only framing the one most likely to need correcting — though it is the framing in
+the DSC team's own published account [@dennisEtal2021], which says the archive was "created in
+1977 as part of the UCLA Survey Research Center." (1974 and 1977 are, in any case, genuinely
+separate events, not one founding date told two ways — see the timeline above.)
 
 The consequence worth noting here runs against the direction most of this history moves in:
 around 1980, when UCLA Library declined to purchase 1980 census tapes, ISSR/SSDA took them on
@@ -345,16 +347,24 @@ grow the function, not just relocate it. It also carried a consultation clause: 
 later made "substantial changes to the operations of Social Sciences Data Archives," it was to
 meet with the Social Sciences Division and ensure continuity of faculty access.
 
-**In April 2017, Tim Dennis was hired as Director of SSDA, succeeding Stephenson**, who had led
-the archive since at least 1986.[^tim-hire] That November, Dennis presented "Library Data
+**In April 2017, Tim Dennis was hired as Director of SSDA, succeeding Stephenson**, whose own
+tenure reached back to the late 1970s.[^tim-hire] That November, Dennis presented "Library Data
 Archive" to UCLA Library staff, already framing 1961-2017 as one continuous arc under the
 tagline "Providing archive and data services since 1961" [@dennis2017deck].
 
-In **Spring 2018** the unit was restructured and renamed the **Data Science Center (DSC)**, with
-a new mission statement, a new visual identity, and a scope that formally covered any discipline,
-not just the social sciences. SSDA became a named component of it. Per Tim, Todd Grappone — then
-the Library's AUL for Digital Initiatives and IT — shepherded the 2014 transfer, coined the
-"Data Science Center" name, and helped design the 2018 service model.[^grappone]
+The team then ran a **design-thinking redesign** of the unit's goals and services, centering
+"the user as the scholar in need of research support" [@dennisEtal2021]. In **Spring 2018** the
+result was formalized: the unit was restructured and renamed the **Data Science Center (DSC)**,
+with a new visual identity and a mission written to cover any discipline —
+
+> to foster a welcoming research community by developing data literacy and foundational coding
+> skills through consulting and education … supporting researchers throughout the full data life
+> cycle: planning and data management plans; acquisition, storage, cleaning and usage; analysis;
+> publication; curation; and preservation [@dennisEtal2021].
+
+SSDA became a named component of it. Per Tim, Todd Grappone — then the Library's AUL for Digital
+Initiatives and IT — shepherded the 2014 transfer, coined the "Data Science Center" name, and
+helped design the 2018 service model.[^grappone]
 
 [^tim-hire]: Tim Dennis, personal account, 2026-08-09.
 
@@ -413,12 +423,19 @@ Across five institutional homes and 60-plus years, the constant has been a respo
 make research evidence findable, usable, and preserved — extended, era by era, to whatever kind
 of evidence researchers were producing. What changed after 2018 is the *range* of objects that
 responsibility covers: not just survey datasets, but restricted and sensitive data requiring
-governed computation, geospatial data and aerial imagery, 3D and spatial capture, research
-software, and curriculum treated as a citable output. Described after the fact, that range
+governed computation, geospatial data and aerial imagery, 3D and spatial capture, text corpora
+and computational text analysis, research software, and curriculum treated as a citable
+output.[^text] Described after the fact, that range
 tracks the field's own sequence — data citation, then open and FAIR data, then open science,
 then software curation, then computationally-intensive research support — but that is a way of
 narrating what changed, not a plan any year was executing. The sections below take the main
 strands in turn.
+
+[^text]: The text-analysis strand is the least documented. The DSC team's 2021 chapter
+[@dennisEtal2021] cites one worked example — a consultation helping a graduate student analyze
+ancient Buddhist texts with natural-language-processing techniques — and the "corpuses"
+purchased with archive funds are referenced elsewhere without detail. [NEEDS TIM: the OCR /
+manuscript / historical-statistical-series work and the purchased text corpora.]
 
 ### The repository: UCLA Dataverse
 
