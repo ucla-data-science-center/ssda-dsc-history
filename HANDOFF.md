@@ -1,19 +1,36 @@
-# Session Handoff — 2026-08-13
+# Session Handoff — 2026-09-02
 
 ## Accomplished
-- Nothing this session — pure state review (pickup), no edits made
+- `history.qmd` is a complete 1961 to pre-2026 draft. Renders to a 2-page website (`_site/`) and a 17pp PDF (`_site/history.pdf`) via `_quarto.yml` + `quarto render`.
+- Humanizer pass on `history.qmd` + `history-companion.qmd`: zero em dashes, plain register, substance and citations unchanged.
+- Merged the 7-31 branch's ISSR-era research into the pre-2018 sections; reframed 1977 as a naming/formalization, not a founding (per Tim + Libbie's Dataverse text + Stiles & Stephenson 2008).
+- Reconciled the published 2021 book chapter (`evidence/dsc_book_chapter.md`).
+- Spot-verified ISSR claims: Sears 1993-2008 confirmed; Freeman 1974-1981; Brewer ~1983-1993.
+- Read the DSC instruction-stats integration (`~/Documents/dsc-stats-integration`): text/qualitative-analysis is a real teaching line; GIS dominates every year.
+- `CITATION.cff` added for the Zenodo-via-GitHub DOI path.
+- All on branch `single-doc-draft`, pushed (HEAD `7ac2ed0`). `main` tracks the 7-31 public site.
 
 ## Pending — pick up here next session
-- Decide what belongs in git vs. `.gitignore`: rendered `_files/` output, `.DS_Store`, zip archives (`2025-review-*.zip`, `doug_daniels-*.zip`) look like exclude candidates; commit the rest (`history.qmd`, `history-companion.qmd`, `references.bib`, `evidence/` source docs)
-- Close two open decisions from 2026-07-30: output form (long-form/timeline/publication/archival record) and whether to pursue oral-history outreach to former SSDA/ISSR staff
-- v1 draft due 2026-08-17 (4 days out) — `history.qmd` (591 lines) and `history-companion.qmd` (209 lines) exist but are uncommitted and unreviewed this session
-- Remaining hub-note tasks: Jamie Jamison 1977-1986 DB dump/staff-dates follow-up (tracked in `ucla-data-science-center/dataverse-infrastructure#10`), Special Collections outreach on Marvick Papers, pull Tim's own 2021 book chapter, assemble 2018-present DSC era narrative
+- Tim's brain-dump on the `[NEEDS TIM]` gaps in `history.qmd`: Data Science Facilitator name/dates, Leigh Phan title/start, "Gillian", LARIAC vintages + custodian, ArcGIS Online takeover story, OCR/manuscript/corpus specifics, budget records, bot-attack ticket.
+- Tim: read-through of `_site/history.pdf` and sign off or mark up.
+- Set up the Zenodo DOI (fill `CITATION.cff` TODOs: ORCID, license CC-BY vs BSD; private-repo caveat noted in README).
+- Verify Brewer's start year / any 1981-1983 gap; the Fielder 1964-vs-1976 question; the ISSR-to-ISR rename authority.
+- Final editorial pass once the gaps are filled (keep it de-em-dashed).
 
 ## Decisions made
-- None this session
+- Genre: one perspectival single-document history, continuity of the function as the thesis. Not split into history + impact artifacts.
+- Narrative stops at the DSC's pre-2026 state; does not describe the 2026 dissolution.
+- Delivery: website + PDF from `history.qmd`; citable DOI via Zenodo + GitHub releases.
+- 7-31 public Quarto site kept live as-is for now.
+- Oral history limited to the Jamie Jamison contact.
 
 ## Files modified
-- None this session (README.md modification and all untracked evidence/draft files predate this session, from 2026-08-09)
+- `history.qmd`, `history-companion.qmd` — full draft + humanizer pass
+- `evidence/library-era-2014-present.md` — 2014-present evidence + instruction-stats note
+- `evidence/ssda-harvard-dataverse-about.md`, `evidence/dsc_book_chapter.md` — added
+- `_quarto.yml`, `CITATION.cff` — new; `README.md` — rewritten sections
+- `~/projects/dsc-evidence-registry/claims/dataverse-dataset-count.yaml` — reconciled (commit `130ed31`, not pushed)
 
 ## Blockers / waiting on
-- None
+- The `[NEEDS TIM]` gaps are all waiting on Tim.
+- Instruction-stats figures cannot go in the history until that integration is validated and authorized.
