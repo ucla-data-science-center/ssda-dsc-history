@@ -478,11 +478,14 @@ to open and FAIR data to open science to software curation to computationally in
 support. That is a way of narrating what changed after the fact, not a plan anyone was working
 to. The sections below take the main strands one at a time.
 
-[^text]: The text-analysis strand is the least documented. The DSC team's 2021 chapter
-[@dennisEtal2021] gives one worked example, a consultation helping a graduate student analyze
-ancient Buddhist texts with natural-language-processing techniques, and the "corpuses" bought
-with archive funds are mentioned elsewhere without detail. [NEEDS TIM: the OCR, manuscript, and
-historical-statistical-series work, and the purchased text corpora.]
+[^text]: The text strand shows up two ways. As teaching, DSC ran a well-attended line of
+workshops on qualitative and text data ("What do I do with all of this text? Cleaning and coding
+data for qualitative analysis," "Getting started with qualitative data analysis"), visible in
+the in-progress DSC instruction-stats integration. As consulting, the DSC team's 2021 chapter
+[@dennisEtal2021] gives a worked example, helping a graduate student analyze ancient Buddhist
+texts with natural-language-processing techniques. Still thin: OCR of manuscripts and historical
+statistical series, and the text corpora bought with archive funds. [NEEDS TIM: those, plus the
+validated instruction figures once the integration is authorized.]
 
 ### The repository: UCLA Dataverse
 

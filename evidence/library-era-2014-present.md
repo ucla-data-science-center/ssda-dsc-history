@@ -245,8 +245,24 @@ Attendees by year (dean update, records through spring 2024):
 - Geography is consistently the **single largest workshop constituency** (64 attendees since
   2020) ✅
 
-⚠️ Multiple attendee totals float across documents (1,676 / ~1,575 / 1,495) — different scopes
+⚠️ Multiple attendee totals float across documents (1,676 / ~1,575 / 1,495), different scopes
 (all UCLA workshops vs. UC Carpentries only) and windows. Pin one scoped figure per claim.
+
+**Instruction-stats integration (`~/Documents/dsc-stats-integration`, in progress, not yet
+authorized for publication).** Tim is building a privacy-safe reconciliation of the historical
+DSC instruction data. The canonical raw file already has 14,828 rows; a first loaded workbook
+(`dsc-workshop-stats.xlsx`, ~9,557 attendee-events, ~29 recurring workshop types, Oct 2021 to
+Apr 2024) shows the shape clearly:
+- Attendee-events by reporting year in that workbook: 971 (2021), 3,420 (2022), 2,690 (2023),
+  2,475 (2024). Seat counts, DSC + UC-wide events combined, not unique people.
+- **GIS is the dominant teaching category** every year, overwhelmingly so in 2021 (892 of 971
+  attendee-events). "UC GIS Week 2021" alone is ~414. This is strong corroboration for the
+  "Geography/GIS is the largest workshop audience" claim.
+- Also large: qualitative/text-data analysis (~676), DMP/NIH data-sharing (~420 across three
+  titles), HPC (~245), Tableau/data viz, "3D Data & Visualization" (~142). AI/ML grew from ~17
+  (2023) to ~84 (2024).
+- Once validated and authorized, this replaces the dean-update estimates as the instruction
+  source. Do not cite the raw figures above as published numbers yet.
 
 ### Consultations
 
@@ -648,23 +664,33 @@ what they did; guest-lecture count / departments; whether there's a public Lux L
 
 ---
 
-## 12. OCR / text corpora / digitized historical documents
+## 12. Text and qualitative-data analysis; OCR; text corpora
 
-⚠️ **Thinnest thread — needs Tim.** What's in hand:
-- **Published chapter** (`evidence/dsc_book_chapter.md`, Dennis et al. 2021, the full published
-  version — supersedes the earlier `data-sci-libraries_chapter_edits.md` draft): one worked
-  example — "the team recently worked with a graduate student to analyze ancient Buddhist texts
-  with natural language processing techniques" — offered as the kind of consultation the DSC
-  wanted to capture and share. Also lists "text and cluster analysis" and "text mining" among
-  the methods DSC set out to support. No other text/OCR detail in the chapter.
-- Service-impact record: "**LARIAC data, the Redivis platform, L2 historic voter data, and
-  unspecified 'corpuses'** were also purchased with freed SSDA money" — the "corpuses" are
-  undefined
-- Doug's OCR/manuscript work isn't separately documented in what's been gathered
+Not as thin as first thought. Two kinds of evidence:
 
-❓ **Gaps for Tim (all of it):** the OCR work on manuscripts and historical statistical annuals —
-which collections, whose research, what tooling, what outputs; the "corpuses" purchased with SSDA
-funds — names, cost, who uses them; any DSC text-mining / NLP service line beyond one-off
+**Teaching (from the DSC instruction-stats integration, `~/Documents/dsc-stats-integration`,
+duckdb `restricted/historical_instruction.duckdb`; pre-validation, v0.1.0, one workbook loaded).**
+DSC ran a well-attended, recurring qualitative-and-text-data teaching line, 2021–2024. Top
+workshop titles by attendee-events in that dataset include "What do I do with all of this text?
+Cleaning and coding data for qualitative analysis" (~272), "Getting started with qualitative
+data analysis: methods and open tools" (~208 + ~196 across two title variants). A "Digital
+Archives and Text Analysis" topic category also runs ~76–78 attendee-events a year in 2022–2023.
+These numbers are **not authorized for publication** and are still being reconciled, but the
+*shape* is solid: text and qualitative-data analysis was a real DSC teaching area, not a
+one-off.
+
+**Consulting.** The published 2021 chapter (`evidence/dsc_book_chapter.md`) gives one worked
+example, helping a graduate student analyze ancient Buddhist texts with NLP techniques, and
+lists "text and cluster analysis" and "text mining" among the methods DSC set out to support.
+
+**Still thin:** OCR of manuscripts and historical statistical series specifically; Doug's
+scanned-document work; the "corpuses" bought with freed archive funds (named in the reorg
+service-impact record, undefined).
+
+❓ **Gaps for Tim:** the OCR work on manuscripts and historical statistical annuals, which
+collections, whose research, what tooling, what outputs; the "corpuses" purchased with SSDA
+funds, names, cost, who uses them; any dedicated DSC text-mining / NLP service line beyond
+one-off
 consults; scanned-document projects (Doug's, or others').
 
 ---
@@ -735,14 +761,19 @@ Per UCLA Library's retrospective (`evidence/powell-gifts-and-imls-grant.md`):
 Resolved 2026-09-02: Redivis launch (piloted 2022, launched Jan 2023); the "Digital Library
 programmer" = Kristian Allen; UC GIS Week established by Zhiyuan Yao; Doug's Iceland = one trip,
 Summer–Fall 2024; the $5.07M Dana Foundation grant (2023) has public sources; genre = single
-perspectival history; ending = stops at the pre-2026 state.
+perspectival history; ending = stops at the pre-2026 state. The text/qualitative-analysis strand
+is no longer "thinnest" (the instruction-stats integration shows a real teaching line, §12).
 
-**People:** Leigh Phan's exact title and start (and when "programmer → data scientist"
+**People:** Leigh Phan's exact title and start (and when "programmer to data scientist"
 happened); "Gillian" full name/role/dates; the Data Science Facilitator's name and dates; the
 5-FTE peak year; headcount at dissolution.
 
-**OCR / text corpora (§12):** essentially the whole thread — collections, researchers, tooling,
-outputs; the "corpuses" bought with SSDA funds.
+**Instruction stats (§4):** the `~/Documents/dsc-stats-integration` reconciliation needs to be
+validated and authorized before its figures can go in the history. Once it is, it replaces the
+dean-update estimates (and reconciles the 1,676 / 1,575 / 1,495 float).
+
+**OCR / text corpora (§12):** the OCR-of-manuscripts / historical-statistical-annuals work
+specifically, collections, researchers, tooling, outputs; the "corpuses" bought with SSDA funds.
 
 **LARIAC (§8):** vintages; user base; the Google Drive move date/rationale; the
 `lariac-data-cleanup` repo; who serves it now.
