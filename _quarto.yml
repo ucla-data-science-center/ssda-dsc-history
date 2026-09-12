@@ -14,6 +14,8 @@ website:
         href: history.html
       - text: "Evidence companion"
         href: history-companion.html
+      - text: "DSC Statistics"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/
   page-footer:
     left: "Tim Dennis"
     right: "Evidence cutoff 2026-08-31 · source in the project repository"
