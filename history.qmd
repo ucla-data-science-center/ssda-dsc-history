@@ -45,8 +45,9 @@ This is the history of one job at UCLA: keeping research data so that people can
 and still rely on it years later. That job has been done here since 1961, sixty-five years now,
 under five different institutional homes and at least as many names. It is not a straight line. The unit's name,
 reporting line, and formal scope changed again and again. The work did not. A 1961 archive of
-punch-card survey data and a 2024 platform running petabytes of restricted voter records are
-recognizably the same work, done now for a much larger campus and with much larger stakes. This
+punch-card survey data and a 2024 platform that processed 2.9 petabytes against about 20
+terabytes of restricted voter data are recognizably the same work, done now for a much larger
+campus and with much larger stakes. This
 account tries to describe each era in its own terms rather than reading today's vocabulary
 backward onto it.
 
@@ -182,7 +183,7 @@ archive unit within it are four years apart, not one founding date. Dated by the
   <circle cx="583.5" cy="95" r="6" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
   <text x="583.5" y="70" class="tl-year" text-anchor="middle">2014</text>
   <text x="583.5" y="55" class="tl-label" text-anchor="middle">Library MOU</text>
-  <text x="583.5" y="40" class="tl-detail" text-anchor="middle">(exits ISSR, own unit)</text>
+  <text x="583.5" y="40" class="tl-detail" text-anchor="middle">(moves to a library)</text>
   <!-- 2018 DSC -->
   <circle cx="637.2" cy="95" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
   <text x="637.2" y="135" class="tl-year" text-anchor="middle">2018</text>
@@ -387,7 +388,8 @@ dissolution date still unknown. -->
 ## 2014-2018: The Library MOU, and a change of director
 
 The MOU, effective 2014 and executed 2015, moved SSDA from the Social Sciences Division to the
-UCLA Library. It was the first time the archive left ISSR to stand on its own. It carried 2.0
+UCLA Library. The archive had already been standalone since about 2011; what changed in 2014 was
+the kind of home, from an academic division to a library. It carried 2.0
 FTE, about $245K in permanent funds, and about $29K in subscriptions (ICPSR, Roper, UC
 Berkeley/SDA, Colectica/Algenta), plus a small foundation gift fund; staff who came across
 included Elizabeth Stephenson and Jina "Jamie" Jamison [@uclaSsdaMou2014]. The stated purpose was
@@ -548,13 +550,21 @@ independently checkable parts. Launch: piloted 2022, governed service launched J
 
 ### Teaching at scale, and open science
 
-With two staff and tens of thousands of potential learners, the unit joined The Carpentries in
-2017 and used the membership to build an instructor community rather than hire one. Tim founded
-UCLA Carpentries in 2018 and co-founded the systemwide UC Carpentries network in 2020, when
-COVID made coordinated cross-campus training necessary. By the 2023–2025 period that network ran
-37 workshops across six campuses. As chair of Library Carpentry's Curriculum Advisory Committee
-since 2022, Tim moved several lessons into the official worldwide curriculum, among them a Data
-Management Plans lesson aligned to the NIH data-sharing policy.
+Instruction went through three distinct eras, and the shift between them was reactive, not
+planned. With two staff and tens of thousands of potential learners, the unit joined The
+Carpentries in 2017 and used the membership to build an instructor community rather than hire
+one; Tim founded UCLA Carpentries in 2018 and spent its first two years teaching locally, one
+campus, in person. COVID changed the economics of that model overnight: travel-based cross-campus
+training became impossible, but virtual delivery made cross-campus *coordination* suddenly
+cheap. Tim co-founded the systemwide UC Carpentries network in 2020 in direct response to that
+constraint, not as a planned expansion. What followed was sustained, not temporary: nine
+workshops in September 2024 alone drew 937 attendances across UCLA and partner UC campuses, and
+the 2025 series drew 558 attendees (139 from UCLA) across another nine sessions. The unit had
+gone from teaching its own campus to running system-scale infrastructure other campuses
+scheduled their own programming around, a change in kind, not just volume. As chair of Library
+Carpentry's Curriculum Advisory Committee since 2022, Tim moved several lessons into the
+official worldwide curriculum, among them a Data Management Plans lesson aligned to the NIH
+data-sharing policy.
 
 The IMLS grant RE-252335-OLS-22 ($237,839, Tim as Project Director) [@imls-re252335] treated
 course material itself as a citable research output: 15 peer-reviewed open-science lessons
