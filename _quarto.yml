@@ -8,6 +8,7 @@ project:
 website:
   title: "UCLA's Social Science Data Archive: an institutional history"
   reader-mode: true
+  draft-mode: visible
   navbar:
     left:
       - text: "The history"
