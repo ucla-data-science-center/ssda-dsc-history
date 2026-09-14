@@ -72,10 +72,9 @@ charts were built, and the discrepancies that are still open. It is at
 - Two long-running survey series, **LAMAS** (1970–1976) and its successor **LACSS** (1992–2002+),
   are the closest thing to a continuous data product across that span, with **SCSS** covering the
   years between them.
-- One person, **Elizabeth "Libbie" Stephenson**, is documented on the archive's staff or running
-  it from the late 1970s (ICPSR's retirement profile dates her UCLA start to about 1977; other
-  sources document her from 1986) until she retired in 2016. She is the clearest human
-  through-line across the institutional changes.
+- One person carried the whole span: **Elizabeth "Libbie" Stephenson** ran the archive from the
+  late 1970s until her retirement in 2016, the clearest human through-line across five
+  institutional homes.
 - In **2018** the archive's umbrella became the **Data Science Center**, which carried the same
   work to new kinds of research data: 3D and spatial capture, restricted and sensitive datasets,
   and course material treated as a citable output.
