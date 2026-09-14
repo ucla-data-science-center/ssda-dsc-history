@@ -40,8 +40,8 @@ dashes, plain register). Avoid teleology: the data-citation-to-AI sequence is a 
 way of narrating the recent decades, not the intention of every era.
 -->
 
-::: {.callout-note}
-This page is being actively revised by the DSC team. Contents may change before it's finalized -- feel free to share, but don't treat it as final yet.
+::: {.callout-warning}
+The DSC team is revising this page. Details may change. Share it freely, but don't treat it as final yet.
 :::
 
 ## Introduction
