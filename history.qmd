@@ -486,9 +486,8 @@ workshops on qualitative and text data ("What do I do with all of this text? Cle
 data for qualitative analysis," "Getting started with qualitative data analysis"), visible in
 the in-progress DSC instruction-stats integration. As consulting, the DSC team's 2021 chapter
 [@dennisEtal2021] gives a worked example, helping a graduate student analyze ancient Buddhist
-texts with natural-language-processing techniques. Still thin: OCR of manuscripts and historical
-statistical series, and the text corpora bought with archive funds. [NEEDS TIM: those, plus the
-validated instruction figures once the integration is authorized.]
+texts with natural-language-processing techniques. The OCR and machine-learning work that grew
+out of it is under "Text, OCR, and machine learning" below.
 
 ### The repository: UCLA Dataverse
 
@@ -497,9 +496,22 @@ local UCLA instance, chosen for the same reasons the archive had chosen Datavers
 place: DDI metadata, the ability to restrict licensed data, and a curation ladder from
 self-service deposit to fully mediated. The DSC wired it to UCLA single sign-on, DOI minting,
 and preservation through the California Digital Library. Research groups run their own branded
-sub-collections inside it with DSC training. One deliberate choice was to harvest the legacy
-SSDA collection into the discovery layer rather than migrate it right away: keep it working
-first, move it later.
+sub-collections inside it with DSC training, and the Library uses it to manage discovery and
+access for data it buys.[@dennisEtal2021] One deliberate choice was to harvest the legacy SSDA
+collection into the discovery layer rather than migrate it right away: keep it working first,
+move it later.
+
+Growth came in three steps. Late 2021 was the institutional scale-up, when schools and centers
+began running their own collections. Mid to late 2022 brought the legacy SSDA holdings into the
+local discovery layer, along with wider campus adoption. From 2023 on the growth was steady. By
+January 2026 the repository had 135 collections (92 published), 312 user accounts, and about
+54,700 released files. The day-to-day work was Jamie Jamison's. She wrote the preservation
+documentation, represented UCLA at the 2021 Dataverse Community Meeting, and kept the
+continuity guarantees working: automated nightly database dumps to cloud storage, consolidated
+storage buckets, current certificates, and a tested scripted install so the system could be
+rebuilt if it had to be. She walked depositors through sub-collections, DOIs, and archiving,
+handled access to the LARIAC imagery, and when Redivis arrived became the first approver for
+restricted-data requests. She is named as data manager on the published L2 voter dataset.
 
 The collections DSC hosts now run well past social science. The UCLA Law Behind Bars Data
 Project covers COVID-19 in prisons, jails, and detention nationally, about 1,169 items. The
@@ -510,13 +522,53 @@ more than the whole historical SSDA, LAMAS, SCSS, and LACSS corpus put together.
 aim, to "expand citation practices" in archaeology, is the same bibliographic-control instinct
 Stephenson brought to the 1980s, applied to a different field at a much larger scale.
 
+Reuse is harder to count than deposits. Of about 959 indexed datasets, 180 carry a link to a
+publication, and 13 of those papers can be traced in OpenAlex, with 258 citations between them.
+That is a floor, not an estimate. A DataCite export bug drops links, restricted and draft
+datasets are left out, archaeology datasets tied to books have no DOI to follow, and about 200
+public datasets have no publication link on file. The traceable depositors include a
+radiation-belt modeling group in Earth, Planetary, and Space Sciences led by Yuri Shprits that
+deposits again and again (four linked papers, 95 citations).
+
 Running a repository also meant defending it. In early 2025, bots mass-downloaded UCLA Dataverse
 content, apparently to train a model, rotating across thousands of addresses to get around IP
-blocking. DSC identified the pattern and deployed an open-source filter that had it contained by
-mid-year.[^bots]
+blocking, from about April to July. Tim identified an open-source bot filter, Anubis, as the fix,
+and Jamison put it into production and tuned it, with host-level blocking alongside, so that
+abusive traffic was stopped without locking out researchers. The attack was contained by
+summer with no loss to the collection.[^bots]
 
-[^bots]: Tim Dennis, self-reported (Statement of Professional Achievements, 2023–2025). The
-tool deployed was Anubis. [NEEDS TIM: a ticket or postmortem reference to anchor the dates.]
+[^bots]: Tim Dennis, Statement of Professional Achievements, 2023–2025, and DSC internal
+records for 2025–26. [NEEDS TIM: a ticket or postmortem reference to anchor the dates.]
+
+### Consulting: from reference desk to research partner
+
+The archive had always answered questions: data discovery, codebook lookups, help with SPSS,
+SAS, and Stata. The 2018 redesign kept that and widened it. The DSC's new mission statement,
+written through a design-thinking exercise that put the scholar at the center, named the whole
+research life cycle: planning and data management plans, acquisition, storage, cleaning,
+analysis, publication, curation, and preservation.[@dennisEtal2021] In practice that meant
+consultations on data cleaning, visualization, coding, and methods such as text and cluster
+analysis. As the team's skills grew it added GIS, 3D and drone capture, machine learning,
+research software, reproducible workflows, and open-source licensing.
+
+Not all of it happened one-on-one. The team ran Tidy Tuesday, a weekly social data-cleaning
+lab; judged an inaugural datathon with an Anderson student group in spring 2020; and helped
+program a UC-wide Love Data Week of more than 25 workshops and events. It taught inside degree
+programs too: the Sustainable LA Grand Challenge undergraduate scholars, the Mellon Mays fellows,
+and graduate programs in social science, urban planning, applied statistics, and
+management.[@dennisEtal2021]
+
+The volume is documented for the later years. From 2023 to 2025 the unit logged at least 1,175
+service interactions: 785 scheduled consultations, 156 service-desk tickets, and 234 tracked
+project collaborations. The School of Public Affairs, the Social Sciences division, and Life
+Sciences brought the most consultations. Over the same years the work changed shape, from single
+appointments toward project support that ran for months, and the longest of those engagements
+are in [Research impact](#research-impact).[^consults]
+
+[^consults]: Counts from LibInsight, Jira, and Trello exports compiled for a 2025–26 review; the
+total is conservative, since not every interaction was logged. Other audits give 604 and 741
+direct consultations for different windows, and these are not yet reconciled. [NEEDS TIM: which
+consultation figure, if any, to treat as the public number.]
 
 ### Governed computation: Redivis and the L2 voter file
 
@@ -549,29 +601,95 @@ Achievements and Data Summary, 2023–2025, self-reported. The DOI, the FORCE11 
 independently checkable parts. Launch: piloted 2022, governed service launched January 2023
 (confirmed by Tim 2026-09-02; reconciles the July-2022 / January-2023 sources).
 
-### Teaching at scale, and open science
+### Infrastructure: running it in the cloud
+
+Almost none of this ran on hardware DSC owned. UCLA Dataverse runs on Amazon Web Services, with
+its files in S3, about 5.4 TiB counting replication as of May 2025. The point-cloud service
+described below runs on its own AWS server with about 4.5 TiB of storage, shared with the LARIAC
+imagery. Redivis is a licensed platform, not a local system. The exceptions were a
+deep-learning workstation in the Young Research Library, bought with a Powell gift; the 3D
+workstation and drone kit; and an R server DSC hosted for research groups whose data outgrew
+their own machines, Carceral Ecologies among them.
+
+Paying for it took a sequence of moves. Dataverse first ran under an AWS account belonging to
+the Library's IT division. When campus consolidated its AWS accounts, the cost landed on DSC.
+Powell infrastructure funds covered it until they ran out, and then the archive's own gift fund
+took over. That last step depended on a budget change made earlier. DSC moved the archive's
+large recurring subscriptions, ICPSR and Roper, off its own gift fund and onto the Library's
+general membership budget, the way research libraries usually treat major database
+memberships. That freed the archive's original fund to cover the cloud costs of Dataverse and
+the point-cloud platform. The move was possible because one role could see the archive's budget
+and the infrastructure budget at the same time.[^funding]
+
+Keeping the systems current was its own work. By 2025 production ran Dataverse 5.14, a release
+line upstream no longer patches, and DSC had begun rebuilding the service as code: Terraform for
+the AWS resources, an Ansible playbook forked from the Dataverse community's, and a managed
+Postgres database, with the 6.x series as the target. That rebuild was not finished where this
+history stops.
+
+[^funding]: The direction of the subscription move and the reinvestment into infrastructure is
+confirmed by budget ledgers and AWS cost records; the full dollar trail, and the dates two other
+subscriptions were dropped, is only partly reconstructed. See `evidence/library-era-2014-present.md`
+§13. [NEEDS TIM: the budget records for the infrastructure and dataset purchases funded from the
+freed line; when campus consolidated the AWS accounts; when the Powell infrastructure funds ran
+out.]
+
+### Teaching: The Carpentries and an instructor network
 
 Instruction went through three distinct eras, and the shift between them was reactive, not
 planned. With two staff and tens of thousands of potential learners, the unit joined The
 Carpentries in 2017 and used the membership to build an instructor community rather than hire
 one; Tim founded UCLA Carpentries in 2018 and spent its first two years teaching locally, one
-campus, in person. COVID changed the economics of that model overnight: travel-based cross-campus
+campus, in person. Between October 2017 and January 2020 the program ran six Software and Data
+Carpentry workshops on campus, in R and Python, at the Young Research Library, Powell Library,
+the IDRE Portal, the Mathematical Sciences building, and the LA Kretz Garden Pavilion for
+Ecology and Evolutionary Biology, alongside Library Carpentry workshops for librarians and
+information-studies students in 2017, 2018, and 2019. The instructor rosters show the model
+working: by the two January 2020 workshops, campus volunteers trained through the program were
+leading the teaching and DSC staff were mostly helping. COVID changed the economics of that model overnight: travel-based cross-campus
 training became impossible, but virtual delivery made cross-campus *coordination* suddenly
 cheap. Tim co-founded the systemwide UC Carpentries network in 2020 in direct response to that
-constraint, not as a planned expansion. What followed was sustained, not temporary: nine
-workshops in September 2024 alone drew 937 attendances across UCLA and partner UC campuses, and
-the 2025 series drew 558 attendees (139 from UCLA) across another nine sessions. The unit had
-gone from teaching its own campus to running system-scale infrastructure other campuses
-scheduled their own programming around, a change in kind, not just volume. As chair of Library
-Carpentry's Curriculum Advisory Committee since 2022, Tim moved several lessons into the
-official worldwide curriculum, among them a Data Management Plans lesson aligned to the NIH
-data-sharing policy.
+constraint, not as a planned expansion, with Berkeley, San Diego, Santa Barbara, Merced, and
+Riverside as partner campuses. What followed was sustained, not temporary: nine workshops in
+September 2024 alone drew 937 attendances across UCLA and partner UC campuses, and the 2025
+series drew 558 attendees (139 from UCLA) across another nine sessions. The unit had gone from
+teaching its own campus to running system-scale infrastructure other campuses scheduled their
+own programming around, a change in kind, not just volume.
+
+The Carpentries model mattered as much for who taught as for what was taught. The DSC adopted a
+Code of Conduct adapted from the Carpentries' own. Every member of the DSC team trained as a
+Carpentries instructor, and by 2021 the program had added 13 active instructors, six of them
+from technical roles elsewhere in the Library: programmers, a digital asset coordinator, a
+technical product owner. Jamison became a regular lead instructor for the Unix shell in the
+UC-wide series and wrote a new lesson on Rclone for moving research data. Teaching gave those staff a reason to share what they knew, and gave
+DSC instructors it could never have hired. Library Carpentry lessons taught librarians and
+library-school students the same data and coding skills, which made the Library's public-facing
+staff better partners on data-heavy research.[@dennisEtal2021]
+
+What was taught followed demand. GIS was the largest single category every year, and Geography
+the largest single departmental audience. Qualitative and text-data analysis was a steady line,
+as were data management plans for the NIH data-sharing policy, high-performance computing,
+visualization, and 3D data. Machine learning and AI grew from a handful of sessions in 2023.
+[NEEDS TIM: the validated DSC-wide instruction totals, once the instruction-stats integration is
+cleared for publication.]
+
+Tim's own Carpentries work went past UCLA. An Instructor Trainer since 2016, he received the
+Carpentries' Community Service Award in 2018, served on the inaugural Trainers Leadership
+Committee and co-wrote its bylaws, and edited a full revision of the Instructor Training
+curriculum. As chair of Library Carpentry's Curriculum Advisory Committee from 2022 he moved six
+lessons into the official worldwide curriculum, among them DMP 101, a data management plans
+lesson aligned to the NIH data-sharing policy. He later co-chaired the Library Carpentry
+Governance Group, which sets lesson-adoption standards for the global program.
+
+### Open science and software curation
 
 The IMLS grant RE-252335-OLS-22 ($237,839, Tim as Project Director) [@imls-re252335] treated
 course material itself as a citable research output: 15 peer-reviewed open-science lessons
 against 14 proposed, each with a Zenodo DOI, CRediT contributor roles, ORCID identifiers, and
-Citation File Format metadata, built by 27 authors across 14 teams. It is the clearest case of
-the software-curation and open-science strands in this era, and, because a federal award can be
+Citation File Format metadata, built by 27 authors across 14 teams. Todd Grappone was Co-PI and
+Zhiyuan Yao, DSC's spatial data science librarian, coordinated the program; Tim wrote the
+computational thinking and R lessons and rewrote the Python one. It is the clearest case of the
+software-curation and open-science strands in this era, and, because a federal award can be
 checked without anyone's account of it, the one with the firmest outside evidence.
 
 Tim is also Co-PI on the $1.85M Sloan Foundation grant that established the UC OSPO Network, a
@@ -581,7 +699,16 @@ the lead on the network's education work, and shared services (licensing guidanc
 browser, a summer student research program). The need is concrete: a 2025 scan of about 81,000
 UC-affiliated code repositories found that 77.5% carried no license at all.
 
-### Spatial data, 3D capture, and the Lux Lab
+The open-science work also ran through the field's own organizations. Tim has been a Center for
+Open Science ambassador since 2016 and taught in the Berkeley Initiative for Transparency in the
+Social Sciences' Research Transparency and Reproducibility Training, and the Library held a
+Center for Open Science institutional membership in 2019–20. DSC staff maintain or co-maintain
+Carpentries lessons taught worldwide, from the Unix shell and R to newer lessons on qualitative
+data, Wikidata, and using AI coding agents in research without giving up validation and
+reproducibility. [NEEDS TIM: the nature of the BITSS relationship, and whether the COS
+membership continued past 2020.]
+
+### Spatial data and GIS
 
 Geography has consistently been the unit's largest single workshop audience. Before the GIS
 position was cut in 2024, DSC's geospatial librarian handled 70 to 80 booked consultations a
@@ -592,59 +719,161 @@ also ran UCLA's campus ArcGIS Online platform. It grew to more than 7,000 accoun
 3,000 active users a year, and since the position was cut it has run past its licensed storage
 with no assigned administrator.[^gis]
 
-The clearest case of the archive's work reaching a genuinely new kind of research object is Doug
-Daniels and the Lux Lab. Daniels joined the Library in 2013 and the DSC team in 2020 as Emerging
-Technologies Librarian. He runs UCLA's point-cloud visualization service (pointcloud.ucla.edu,
-built on Potree), is FAA-certified for drone work, and has built up a run of 3D-capture projects
-across archaeology, medicine, and cultural heritage: Easter Island Moai models feeding a Cotsen
-Institute atlas, cadaver-arm scans now taught in History of Medicine, a 3D-printed surgical
-guide in use at the medical center, drone-LiDAR surveys in Cambodia and Iceland, and, with
-DataSquad students and the Vietnamese Heritage Museum, a public 3D narrative of a refugee
-family's escape by sea. He was named a UCLA Librarian of the Year for 2026. His work also runs
-straight back to the donor relationship: he scanned Powell Library itself and showed the lab's
-work to the Powell Society donor circle.
-
 [^gis]: GIS consultation counts and the ArcGIS figures: DSC statistics and Tim Dennis's Data
 Summary, 2023–2025, cross-checked against an OARC governance report (Dec 2025) for the account
 totals. [NEEDS TIM: when and from whom DSC took over ArcGIS Online administration; LARIAC
 vintages and who serves that data now; and the OCR / text-corpus / digitized-document work,
 which is barely documented in what's been gathered.]
 
+### Emerging technology: 3D capture, drones, and Potree
+
+When the DSC planned its growth in 2018, it named three areas to build toward as it added
+staff: GIS, augmented and virtual reality, and machine learning.[@dennisEtal2021] The second
+came through Doug Daniels, whose own career crosses the 2018 line. He joined the Library in 2013
+on the help desk, built its first 3D printing service as a technical projects specialist, and
+from 2016 ran the Lux Lab, the Library's emerging-technology space for 3D printing and scanning,
+laser cutting, large-format printing, and VR. In April 2020, after finishing his MLIS, he joined
+DSC as Emerging Technologies Librarian.[@ucla-library-doug-daniels-bio] His first months in the
+role were the pandemic's, and the lab's printers went to producing protective equipment.
+
+The capture work came first. Daniels scanned objects for partners across campus and beyond:
+Egyptian artifacts at the Getty and the Museo Egizio in Turin with the Cotsen Institute (2018),
+cuneiform tablets in Library Special Collections, Fowler Museum objects, sarcophagus lids at
+LACMA, and Scripps's research vessel FLIP (2021). Medicine became a steady partner: cadaver-arm
+scans across dissection stages with the Anatomy Lab (2022), now taught in History of Medicine;
+eye tissue scanned for machine-learning measurement at the Stein Eye Institute; thyroid
+specimens for Endocrinology (2025); and a 3D-printed surgical probe holder, built with an
+undergraduate, now in clinical use at Ronald Reagan UCLA Medical Center. The Easter Island Moai
+scans with Jo Anne Van Tilburg (2022) became a chapter in the Cotsen Institute's illustrated
+atlas of the statues.
+
+In 2023 DSC added a field kit: a drone with LiDAR and photogrammetry payloads, an RTK base
+station for survey-grade positioning, and a dedicated 3D workstation, flown by Daniels under an
+FAA remote-pilot certificate. It went to Iceland's Mosfell Valley in 2024 with a Cotsen doctoral
+student for a valley-scale survey, and to ongoing temple mapping at Angkor. It also went, twice,
+to Powell Library: a terrestrial LiDAR scan in 2021 and a drone survey in 2024, of the building
+named for the family whose gifts funded much of DSC's growth.
+
+Capture raised the archive's oldest question in a new form: once the object is recorded, how
+does anyone else use it? A point cloud from a survey is usually too large to open as a single
+file in a browser or to hand out from a download page. DSC's answer was pointcloud.ucla.edu, a
+service built on the open-source Potree viewer, which streams large point clouds so they can be
+explored interactively on the web. Lighter models went to the Lux Lab's Sketchfab collection.
+The work stayed tied to standards. Daniels chairs the UC 3D Data Common Knowledge Group (a
+member from 2020, chair from 2024), which built the ALA-funded 3D Atlas; co-chairs the
+international IIIF 3D Community Group; and belongs to the IMLS-funded Community Standards for
+3D Preservation effort.
+
+Students carried a share of it. The Lux Lab had its own student line until 2024, when its
+funding became restricted and it merged into DataSquad. The best-known result is the Refugee
+Material Culture Initiative: with Professor Kelly Nguyen and the Vietnamese Heritage Museum,
+Daniels and DataSquad students Bianca Badajos and Connor Lim scanned a refugee boat and related
+objects and built a public seven-day narrative of one family's escape across the Pacific.
+Daniels was named a UCLA Librarian of the Year for 2026, one of two given university-wide by
+LAUC-LA.[@ucla-newsroom-librarians-2026] His work also ran back to the donor relationship: he
+showed the lab to the Powell Society donor circle at open houses in 2017, 2018, and 2019.
+
+### Text, OCR, and machine learning
+
+Machine learning was one of the three areas the DSC planned to grow into in 2018, and it arrived
+the way most of the unit's capacity did, through people rather than a new department. Kristian
+Allen, a Digital Library programmer with a machine-learning background, joined at half time in
+2018. Leigh Phan, on the team from 2017, started as a programmer; her early traces in the record
+are web maps for the archive's site in 2018. In 2021 her job was rewritten around computational
+research, with machine learning and AI as its main line, and she became the DSC's data
+scientist. A Powell gift paid for a deep-learning workstation in the Young Research Library, the
+unit's first local GPU capacity. Phan ran it, loaded it with open-source models researchers
+could use locally, and when water damage ended the first machine, led the choice of its
+replacement.[^ml-people]
+
+Text came first as teaching. A line of workshops on qualitative and text data, on cleaning and
+coding text for qualitative analysis and on open tools for qualitative methods, drew steadily
+from 2021 on. In consulting it showed up as individual projects: comparing Ming dynasty Buddhist
+texts with natural-language-processing methods for a graduate student in Asian Languages, or
+building machine-learning models in R to classify animal behavior from accelerometer data for a
+doctoral student in Ecology and Evolutionary Biology.[@dennisEtal2021] Ethics came along with
+the methods. Phan and Ibraheem Ali, a sciences data librarian elsewhere in the
+Library who also taught in the Carpentries program, organized cross-UC data ethics workshops for UC Love Data Week in 2021 and 2022 with colleagues at UC San Diego and UC
+Berkeley, and published the model.[@phanEtal2021]
+
+OCR is where the archive's old job met the new tools most directly. A great deal of research
+evidence sits in scanned images no one can search or count: handwritten tables, printed
+statistical series, text in scripts ordinary OCR software reads badly. In the unit's later years
+Phan led DSC's work on getting computable text out of them, printed and handwritten alike,
+and on transcribing recorded speech across languages. The projects came from researchers. For scanned Japanese documents about atomic-bomb survivors, the team compared six
+tools to find one that could read dense historical Japanese. Handwritten nineteenth-century
+German tables for a History professor, and handwritten German memoirs for a Sociology professor,
+defeated standard OCR and needed a different route. The 1976 Iranian National Census sat locked
+in scanned PDFs. A DataSquad student, Lukas Hager, built the core OCR pipeline those projects
+shared, and other students containerized a layout-analysis workflow for medieval canon-law
+texts. By 2026 the team had a triage tool that runs a fast baseline engine and a stronger AI
+model side by side and recommends the cheapest defensible path to usable text for a given
+collection.[^ocr] The same methods reached audio: transcribing interviews with dance scholars
+for World Arts and Cultures, and processing recorded conversations for a dissertation in speech
+research.
+
+The team's approach to AI followed the archive's older instincts about stewardship. Where it
+could, DSC ran open models on its own hardware, so sensitive research material did not leave
+UCLA and researchers were not tied to a commercial service to read their own sources. AI and
+machine learning also became a teaching line of its own, growing from a handful of sessions in
+2023, and DSC staff published a Carpentries-style lesson on using AI coding agents in research
+while keeping the work validated and reproducible.
+
+Phan's later work carried the same habits into research software. After training at the
+INTERSECT research-software-engineering bootcamp in 2025, she helped write a lesson on building
+better research software, co-taught a UC Love Data Week 2026 workshop on making research
+software citable and discoverable (doi:10.5281/zenodo.18615247), and became co-lead of UCLA's
+open source program office.
+
+[^ml-people]: Staffing per Dennis et al. 2021 [@dennisEtal2021] and the author's account.
+[NEEDS TIM: Leigh Phan's exact start date and titles before 2021; what the
+deep-learning workstation was used for; the text corpora bought with archive funds.]
+
+[^ocr]: Project descriptions from DSC's own materials (the DataSquad project portfolio and a
+2026 Powell Society presentation) and the `dsc-ocr-triage` repository (2026). [NEEDS TIM: when
+the OCR work started, whether the researchers can be named, and what each project produced.]
+
 ### DataSquad: a student research workforce
 
-DataSquad, modeled on a program at Carleton College, began in 2020 on a Powell gift that paid
-the first cohort's salaries and laptops, with the Library adding funds in 2023 to expand it. It
-pairs undergraduate and graduate consultants with staff on sustained project work. Reportable
-project engagements grew from a handful in 2023 to more than a hundred in 2025, as departments
-started planning research around its availability rather than calling it only when something
-broke. Of the ten students whose outcomes after graduation were tracked in the 2023–2025 period,
-all went into data or technical roles, with McKinsey, Amazon, AIG, Stanford, and CVS Health
-among the destinations. The model has been picked up elsewhere through a DataSquad International
-network. Its research contributions are in the spotlights under [Research impact](#research-impact).
+DataSquad borrowed its model from Carleton College, where a student-staffed data consulting
+program had been given its own identity and structure.[@lackie2019] UCLA's version began in 2020
+on a Norman Powell gift that paid the first cohort's salaries and laptops, and became a formal
+program in 2021 under Tim; Leigh Phan became co-director in 2025. The Library added funds in 2023 to expand the
+team and add in-person hours. In 2024 it absorbed the Lux Lab student line, and from 2025 a single
+cohort of six was cross-trained to cover data consulting and 3D work alike.
+
+Students worked with staff, not in front of them, and senior students ran project management.
+Their share grew as staff capacity shrank. DataSquad students handled 190 of the unit's
+scheduled consultations from 2023 to 2025, about a quarter, most of them in 2023. After that
+their work moved toward sustained project support, where tracked tasks grew from 6 in 2023 to 111
+in 2025, as departments started planning research around the team's availability rather than
+calling only when something broke. Two long engagements show the kind of work. Lawrence Lee and
+Madeline Kim rebuilt the pipeline for Carceral Ecologies' helicopter-surveillance data so that a
+load that took about 318 minutes ran in about two. Julia Wood, Ethan Allavarpu, Tristan Dewing,
+and Lee cleaned and restructured the BioCritical Studies Lab's national deaths-in-custody data,
+cutting 41,466 records to 29,208 without losing what the lab needed, and built tools the lab
+could maintain on its own.
+
+It was also a pipeline. Of the ten students whose outcomes after graduation were tracked for
+2023 to 2025, all went into data or technical roles, with McKinsey, Amazon, AIG, Stanford, and
+CVS Health among the destinations; Julia Wood joined the Library as a data specialist. The model
+has been picked up elsewhere through a DataSquad International network and written up in a
+co-authored chapter in ACRL's *Data Culture*. Its research contributions are in the spotlights
+under [Research impact](#research-impact).
 
 ### People and funding
 
 Much of this era's expansion ran on Norman Powell's philanthropy: a data-scientist position, a
-deep-learning machine and DSC space in the Young Research Library, and DataSquad's seed funding,
-all separate from his dated $5M December 2016 gift that endowed the University Librarian
-position. A quieter piece of budget work mattered nearly as much. DSC moved the archive's large
-recurring subscriptions, ICPSR and Roper, off its own gift fund and onto the Library's general
-membership budget, the way research libraries usually treat major database memberships. That
-freed the archive's original fund to cover the cloud costs of Dataverse and the point-cloud
-platform. The move was possible because one role could see the archive's budget and the
-infrastructure budget at the same time.[^funding]
+deep-learning machine and DSC space in the Young Research Library, infrastructure funds that
+carried Dataverse's cloud costs for a time, and DataSquad's seed funding, all separate from his
+dated $5M December 2016 gift that endowed the University Librarian position.
 
 The people who carried the work were Jamie Jamison (repository and curation), Doug Daniels (3D
-and emerging technology), Leigh Phan (programmer to data scientist over this period), a
-GIS/spatial librarian, a data-science facilitator, and the rotating DataSquad students. The full
-roster, with what is and is not independently documented, is in
+and emerging technology), Leigh Phan (programmer to data scientist, computational
+research and AI), Zhiyuan Yao (spatial data science, until 2024), Kristian Allen (software
+and machine learning, 2018–2024), a data-science facilitator, and the rotating DataSquad
+students. The full roster, with what is and is not independently documented, is in
 [history-companion.qmd](history-companion.html).
-
-[^funding]: The direction of the subscription move and the reinvestment into infrastructure is
-confirmed by budget ledgers and AWS cost records; the full dollar trail, and the dates two other
-subscriptions were dropped, is only partly reconstructed. See `evidence/library-era-2014-present.md`
-§13. [NEEDS TIM: the budget records for the infrastructure and dataset purchases funded from the
-freed line.]
 
 <!-- internal working notes: evidence/library-era-2014-present.md (the full evidence + gap list);
 evidence/powell-gifts-and-imls-grant.md; evidence/doug-daniels-and-2018-continuity.md;

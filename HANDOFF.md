@@ -7,6 +7,7 @@
 - 2026-09-24: removed the Libbie Stephenson bullet from "The history in 30 seconds" (its last wording, "carried the whole span", overclaimed for a 1961-2026 history). Her through-line paragraph and footnote in the body are unchanged.
 
 ## Pending — pick up here next session
+- UNCOMMITTED as of 2026-09-24: DSC era expanded in `history.qmd` (~2,600 words): Dataverse, consulting, infrastructure/cloud, Carpentries, open science, GIS, emerging tech (3D/drone/Potree), text/OCR/ML (Leigh), DataSquad. Some facts come from `~/Documents/dsc-personnel` duty/performance files (Jamie's Dataverse ops + Anubis, Leigh's DLM/OCR/RSE); Tim to approve before pushing, since push = public. Renders clean.
 - Timeline SVG still stops at 2018 (`history.qmd` ~line 167, `domain 1961-2018`). Extend to 2026 (issue #2 of the 9/14 validation prompt, never fixed).
 - DSC-wide instruction totals (819 sessions, ~18,712 attendee-events, from `dsc-stats-integration`) are not in `history.qmd` or the companion. Add once Tim confirms the figure is cleared for public use.
 - The 2026 ending question from `validation-prompt-scale-and-2026-endpoint-2026-09-14.md` has no recorded answer. House rule stands until Tim says otherwise: no dissolution narrative, one neutral dated line at most.

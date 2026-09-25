@@ -6,6 +6,10 @@ for Non-Experts." *IASSIST Quarterly* 46(4), 2021, pp. 1-15. DOI: 10.29173/iq102
 
 Added by Tim, 2026-08-09 — Leigh (Phan) co-authored.
 
+> Correction (Tim, 2026-09-25): Ibraheem Ali was never on the DSC staff. He was a sciences data
+> librarian in another part of the Library who became a Carpentries instructor; the paper's
+> "UCLA Library DSC" affiliation for him is wrong.
+
 ## What it documents (2018-present DSC era)
 
 Leigh Phan (Data Scientist, UCLA Library DSC) and Ibraheem Ali (Sciences Data Librarian, UCLA
