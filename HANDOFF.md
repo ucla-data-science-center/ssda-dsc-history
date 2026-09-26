@@ -1,5 +1,7 @@
 # Session Handoff — 2026-09-24
 
+> Part of the DSC evidence family. Cross-project tasks and the rules for moving facts between repos: `~/obsidian/projects/DSC Evidence Ecosystem.md`.
+
 ## Where things stand
 - `history.qmd` on `main` is the live document (GitHub Pages, deploys on push). The old multi-page site is archived as `main-legacy-multipage`; `single-doc-draft` is fully merged and no longer the working branch.
 - PR #4 (2026-09-14) fixed three of the four issues from the 9/14 external validation: the 2014/ISSR contradiction, the petabytes-vs-holdings conflation in the intro, and the 37-workshop figure. The instruction section is now three eras.
