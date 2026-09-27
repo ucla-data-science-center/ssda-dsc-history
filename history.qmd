@@ -346,6 +346,16 @@ health, education, policy studies, law, and management as well as the social sci
 (programmer), Gina Jamison (the same person as today's DSC staff member Jina "Jamie" Jamison), and
 Shirley Lane, who had come from the UCLA Research Library's machine-readable 1970 Census project.[^newsletter]
 
+![Masthead of the archive's newsletter, about 1979.](images/newsletter/masthead-ssda-machine-readable-data.png){fig-alt="Newsletter masthead reading: The Social Science Data Archive: Access to Machine-Readable Data."}
+
+::: {layout-ncol=2}
+![Elizabeth Stephenson, then Data Archivist, in the archive's tape collection. Newsletter caption: "It must be here somewhere."](images/newsletter/stephenson-data-tapes.png){fig-alt="Black-and-white photo of Elizabeth Stephenson holding a reel of magnetic tape beside racks of data tapes, with the newsletter's typed caption below."}
+
+![Gina (Jamie) Jamison, then Technical Assistant in the Archive. She left for an MFA and later returned; she runs the repository today.](images/newsletter/jamison-mfa-leaving.png){fig-alt="Black-and-white portrait photo of Gina Jamison with the newsletter's typed caption saying she will receive her Master of Fine Arts and leave ISSR in June."}
+:::
+
+*From the archive's own newsletter, about 1979, as photographed for a 2017 Library staff presentation.*
+
 Elizabeth "Libbie" Stephenson is the era's through-line. ICPSR's retirement profile dates her UCLA
 start to about 1977, and she is documented as staff and later Director through the 2014 transfer,
 retiring in 2016 [@pawlockiStephenson1988; @stephenson2013dodd; @dotyEtal2014].[^stephenson] Her

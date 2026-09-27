@@ -110,7 +110,10 @@ opening and headings again.
 
 ## Deferred
 
-- Archival images (newsletter, MOU, repository or governed-data artifact, boat model): needs
-  reuse-permission checks; separate pass.
+- Archival images: the archive's own ~1979 newsletter needs no outside permission (Tim,
+  2026-09-27); masthead, Stephenson, and Jamison clips added to the 1977-2014 section, restored
+  from `main-legacy-multipage` (`evidence/newsletter-images/`, which the footnote already cited
+  but was missing on main). Still deferred: the boat model (the museum's and the initiative's),
+  and whether to show the MOU.
 - Evidence-file cleanup: `evidence/library-era-2014-present.md` Keel ✅ and the Badajos/Lim scan
   credit.
