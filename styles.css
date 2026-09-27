@@ -1,0 +1,259 @@
+/* Shared DSC theme, copied from dsc-stats-reports/styles.css (2026-09-27).
+   Dashboard-only rules (KPI cards, pathways, testimony blockquotes) dropped;
+   keep the rest in sync with the stats site by hand. */
+
+:root {
+  /* Brand colors (--ucla-blue, --ucla-blue-deep, --ucla-gold, --library-surface)
+     come from the active theme profile: dsc-*.scss or ucla-*.scss. */
+  --ucla-gold-ink: #7b6200;
+  --library-paper: #fbfaf6;
+  --library-border: #d8e4ef;
+  --ink-strong: #122534;
+  --ink-soft: #4a6072;
+}
+
+body {
+  color: var(--ink-strong);
+  background:
+    var(--library-paper);
+}
+
+.navbar {
+  border-bottom: 3px solid var(--ucla-gold);
+  box-shadow: 0 1px 0 rgba(0, 59, 92, 0.08);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: linear-gradient(180deg, rgba(0, 85, 135, 0.08), rgba(0, 85, 135, 0.02));
+  border-bottom: 1px solid rgba(0, 85, 135, 0.14);
+}
+
+h1, h2, h3 {
+  color: var(--ucla-blue-deep);
+  text-wrap: balance;
+}
+
+/* Prevent headings from scrolling under the sticky navbar */
+h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
+  scroll-margin-top: 4.5rem;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(0, 85, 135, 0.14);
+  padding-bottom: 0.25rem;
+}
+
+a {
+  color: var(--ucla-blue);
+}
+
+a:hover {
+  color: var(--ucla-blue-deep);
+}
+
+.card {
+  background: #fff;
+  border: 1px solid var(--library-border);
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 24px rgba(18, 37, 52, 0.04);
+}
+
+.grid .card {
+  position: relative;
+  overflow: hidden;
+}
+
+.grid .card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, var(--ucla-blue), var(--ucla-gold));
+}
+
+.grid .card h2,
+.grid .card h3 {
+  color: var(--ucla-blue-deep);
+  margin-bottom: 0.2rem;
+}
+
+.grid .card p,
+.grid .card em {
+  color: var(--ink-soft);
+}
+
+.metric-note {
+  background: linear-gradient(180deg, #eef5fb, #f8fbfe);
+  border: 1px solid var(--library-border);
+  border-left: 5px solid var(--ucla-blue);
+  border-radius: 0.45rem;
+  padding: 0.9rem 1rem 0.7rem 1rem;
+  margin: 1rem 0 1.25rem 0;
+}
+
+.metric-note h2,
+.metric-note h3 {
+  margin-top: 0.15rem;
+  color: var(--ucla-blue-deep);
+}
+
+.metric-note ul {
+  margin-bottom: 0.35rem;
+}
+
+table {
+  font-size: 0.95rem;
+  background: #fff;
+  border: 1px solid var(--library-border);
+}
+
+table td {
+  font-variant-numeric: tabular-nums;
+}
+
+table thead th {
+  color: var(--ucla-blue-deep);
+  background: rgba(0, 85, 135, 0.05);
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  background-color: rgba(0, 85, 135, 0.02);
+}
+
+.callout-note,
+.callout-important {
+  border-radius: 0.45rem;
+}
+
+.callout-note .callout-header {
+  background: rgba(0, 85, 135, 0.06);
+}
+
+.callout-important .callout-header {
+  background: rgba(255, 199, 44, 0.12);
+}
+
+/* Make plot captions and helper text easier to read */
+.figure-caption,
+figcaption,
+.caption {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+/* ── Data notes callout: tighter body text ───────────────────── */
+.callout-note.data-notes .callout-body > p {
+  margin-bottom: 0.3rem;
+  font-size: 0.88rem;
+}
+
+/* ── Dark theme (darkly): redefine tokens instead of inheriting light paper ── */
+body.quarto-dark {
+  --library-paper: #14202b;
+  --library-border: #3a434d;
+  --ink-strong: #eef2f5;
+  --ink-soft: #b9c4ce;
+  background: var(--library-paper);
+}
+body.quarto-dark .card,
+body.quarto-dark table,
+body.quarto-dark table.dataTable tbody tr {
+  background: var(--library-surface);
+  color: var(--ink-strong);
+}
+body.quarto-dark table th,
+body.quarto-dark table td,
+body.quarto-dark table strong {
+  color: var(--ink-strong);
+}
+body.quarto-dark caption,
+body.quarto-dark .figure-caption,
+body.quarto-dark figcaption,
+body.quarto-dark .caption {
+  color: var(--ink-soft);
+}
+body.quarto-dark :not(pre) > code {
+  color: #f4c7d8;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* ── Print: captions, caveats, and source links must survive ── */
+@media print {
+  .navbar, #quarto-sidebar, #TOC, .quarto-back-to-top, .nav-footer { display: none !important; }
+  body { background: #fff !important; color: #000; }
+  .callout { break-inside: avoid; }
+  .callout.callout-titled .callout-collapse { display: block !important; height: auto !important; }
+  figure, .figure, table { break-inside: avoid; }
+  figcaption, .figure-caption { color: #000; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.8em; word-break: break-all; }
+  .grid { display: block; }
+}
+
+/* ── DSC logo in the navbar (2019 identity package) ── */
+.navbar-brand .navbar-logo,
+.navbar-logo {
+  /* The SVG has no intrinsic size, so give it an explicit height (a max-height
+     alone lets it collapse to zero inside the flex navbar). */
+  height: 56px;
+  max-height: none;
+  width: auto;
+}
+.navbar-brand .navbar-title {
+  border-left: 1px solid rgba(255, 255, 255, 0.55);
+  padding-left: 0.75rem;
+  margin-left: 0.25rem;
+}
+.navbar-logo { flex-shrink: 0; }
+@media (max-width: 575.98px) {
+  /* Phone: smaller logo, and the page heading carries the site name */
+  .navbar-brand .navbar-logo,
+  .navbar-logo { height: 40px; }
+  .navbar-brand .navbar-title { display: none; }
+}
+
+/* ── DSC identity elements (2019 package), decorative only ──
+   Drawn as CSS masks so they take the theme's blue (--ucla-blue): DSC blue or
+   UCLA Darker Blue in light mode, a lighter blue in dark mode. Kept away from
+   charts and figures so they cannot be read as data; hidden in print. */
+.brand-el {
+  display: inline-block;
+  background-color: var(--ucla-blue);
+  -webkit-mask: var(--mask) no-repeat center / contain;
+  mask: var(--mask) no-repeat center / contain;
+}
+.brand-node1      { --mask: url("images/brand/elements/node1.svg");      width: 56px; height: 50px; }
+.brand-node2      { --mask: url("images/brand/elements/node2.svg");      width: 52px; height: 43px; }
+.brand-linechart1 { --mask: url("images/brand/elements/linechart1.svg"); width: 72px; height: 40px; }
+.brand-linechart2 { --mask: url("images/brand/elements/linechart2.svg"); width: 64px; height: 44px; }
+.brand-circular   { --mask: url("images/brand/elements/circular.svg");   width: 50px; height: 50px; }
+.brand-lineflat   { --mask: url("images/brand/elements/lineflat.svg");   width: 48px; height: 24px; }
+.brand-smallcircle{ --mask: url("images/brand/elements/smallcircle.svg"); width: 12px; height: 12px; }
+.brand-bigcircle  { --mask: url("images/brand/elements/bigcircle.svg");  width: 20px; height: 20px; }
+
+.brand-wave {
+  height: 22px;
+  margin: -0.6rem 0 1.4rem;
+  background-color: var(--ucla-blue);
+  -webkit-mask: url("images/brand/elements/wave.svg") repeat-x left center / auto 100%;
+  mask: url("images/brand/elements/wave.svg") repeat-x left center / auto 100%;
+  opacity: 0.55;
+}
+
+.brand-strip {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.2rem;
+  padding: 1.6rem 1rem 1.2rem;
+  opacity: 0.6;
+}
+
+@media print {
+  .brand-el, .brand-wave, .brand-strip { display: none !important; }
+}

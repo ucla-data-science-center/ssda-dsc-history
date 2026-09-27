@@ -14,7 +14,6 @@ format:
     toc-depth: 3
     number-sections: false
     citations-hover: true
-    theme: cosmo
     max-width: 46em
     fig-cap-location: bottom
   pdf:

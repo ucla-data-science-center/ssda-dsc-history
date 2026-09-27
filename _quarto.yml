@@ -1,15 +1,25 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - images/brand/**   # DSC logo and identity elements (some referenced only from CSS)
   render:
     - history.qmd
     - history-companion.qmd
 
 website:
   title: "UCLA's Social Science Data Archive: an institutional history"
+  favicon: images/brand/dsc-cube.svg
   reader-mode: true
   draft-mode: visible
+  # Theme and navbar mirror dsc-stats-reports (DSC 2019 identity) so the two
+  # sites read as one; each links to the other.
   navbar:
+    background: primary
+    logo: images/brand/dsc-logo-white.svg
+    logo-alt: "UCLA Library Data Science Center"
+    logo-href: history.html
+    title: "History"
     left:
       - text: "The history"
         href: history.html
@@ -17,13 +27,23 @@ website:
         href: history-companion.html
       - text: "DSC Statistics"
         href: https://ucla-data-science-center.github.io/dsc-stats-reports/
+    right:
+      - icon: github
+        href: https://github.com/ucla-data-science-center/ssda-dsc-history
+        aria-label: GitHub repository
   page-footer:
     left: "Tim Dennis"
     right: "Evidence cutoff 2026-08-31 · source in the project repository"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [flatly, dsc-light.scss]
+      dark: [darkly, dsc-dark.scss]
+    css: styles.css
+    include-in-header: _head.html
+    include-after-body: _brand-strip.html
+    smooth-scroll: true
     toc: true
     toc-depth: 3
     number-sections: false
