@@ -257,3 +257,9 @@ body.quarto-dark :not(pre) > code {
 @media print {
   .brand-el, .brand-wave, .brand-strip { display: none !important; }
 }
+
+/* History site: wide tables scroll inside their own box on phones instead of
+   pushing past the page edge (the impact table has three wordy columns). */
+@media (max-width: 575.98px) {
+  main table { display: block; overflow-x: auto; }
+}
