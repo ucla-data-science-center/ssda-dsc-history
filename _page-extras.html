@@ -1,0 +1,28 @@
+<script>
+// Acronym tooltips (tags added by acronyms.lua) and "Edit this page" links at the top and
+// bottom of each page. The edit URL comes from Quarto's own repo-actions link, so it stays
+// right per page. The repo is private: the link works for DSC team members only.
+document.addEventListener("DOMContentLoaded", function () {
+  // Navbar and footer text also passes through acronyms.lua; keep tags only in the page body.
+  document.querySelectorAll("abbr[title]").forEach(function (el) {
+    if (!el.closest("main")) el.replaceWith(document.createTextNode(el.textContent));
+  });
+  if (window.bootstrap && bootstrap.Tooltip) {
+    document.querySelectorAll("main abbr[title]").forEach(function (el) {
+      new bootstrap.Tooltip(el, { trigger: "hover focus", placement: "top" });
+    });
+  }
+  var src = document.querySelector('.toc-actions a[href*="/edit/"]');
+  if (!src) return;
+  function editLink(cls) {
+    var p = document.createElement("p");
+    p.className = "page-edit-link " + cls;
+    p.innerHTML = '<a href="' + src.href + '"><i class="bi bi-pencil" aria-hidden="true"></i> Edit this page</a> <span class="page-edit-note">(DSC team; repository access required)</span>';
+    return p;
+  }
+  var header = document.querySelector("#title-block-header");
+  if (header) header.insertAdjacentElement("afterend", editLink("page-edit-top"));
+  var main = document.querySelector("main");
+  if (main) main.appendChild(editLink("page-edit-bottom"));
+});
+</script>

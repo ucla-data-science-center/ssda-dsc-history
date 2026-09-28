@@ -10,6 +10,9 @@ project:
 website:
   title: "UCLA's Social Science Data Archive: an institutional history"
   favicon: images/brand/dsc-cube.svg
+  repo-url: https://github.com/ucla-data-science-center/ssda-dsc-history
+  repo-branch: main
+  repo-actions: [edit]
   reader-mode: true
   draft-mode: visible
   # Theme and navbar mirror dsc-stats-reports (DSC 2019 identity) so the two
@@ -54,7 +57,8 @@ format:
       dark: [darkly, dsc-dark.scss]
     css: styles.css
     include-in-header: _head.html
-    include-after-body: _brand-strip.html
+    include-after-body: [_brand-strip.html, _page-extras.html]
+    filters: [acronyms.lua]
     smooth-scroll: true
     toc: true
     toc-depth: 3
