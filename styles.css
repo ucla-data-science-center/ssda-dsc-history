@@ -330,3 +330,26 @@ footer.footer .footer-repo-actions .bi.empty { display: none; }
 @media (max-width: 767.98px) {
   footer.footer .nav-footer { grid-template-columns: 1fr; gap: 1rem; padding: 1.5rem 1rem 1rem; }
 }
+
+/* ── Functional icons (same as the research site): off-site arrows, correction flag ── */
+.navbar a.nav-link[href*="dsc-stats-reports"] .menu-text::after,
+footer .nav-footer a[href^="http"]:not([href^="https://ucla-data-science-center.github.io/ssda-dsc-history"]):not([href*="template=correction"])::after {
+  font-family: "bootstrap-icons";
+  content: "\f1c5";
+  content: "\f1c5" / "";
+  font-size: 0.7em;
+  margin-left: 0.3em;
+  vertical-align: 0.1em;
+  opacity: 0.8;
+  display: inline-block;
+  text-decoration: none;
+}
+footer .nav-footer a[href*="template=correction"]::before {
+  font-family: "bootstrap-icons";
+  content: "\f3cc";
+  content: "\f3cc" / "";
+  margin-right: 0.4em;
+  display: inline-block;
+  text-decoration: none;
+  color: #FFD100;
+}
