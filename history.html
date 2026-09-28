@@ -1011,6 +1011,17 @@ Zambrana, Ruth E., Gabriel Amaro, Courtney Butler, Melissa DuPont-Reyes, and Deb
   <span class="brand-el brand-bigcircle"></span>
   <span class="brand-el brand-linechart2"></span>
 </div>
+<script>
+  // Quiet final footer line: authorship and evidence cutoff, apart from the link groups.
+  document.addEventListener("DOMContentLoaded", function () {
+    var footer = document.querySelector("footer .nav-footer");
+    if (!footer) return;
+    var note = document.createElement("p");
+    note.className = "footer-note";
+    note.textContent = "Draft by Tim Dennis, director of the Data Science Center. Evidence cutoff: August 31, 2026.";
+    footer.appendChild(note);
+  });
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -1428,13 +1439,21 @@ Zambrana, Ruth E., Gabriel Amaro, Courtney Butler, Melissa DuPont-Reyes, and Deb
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="https://ucla-data-science-center.github.io/dsc-stats-reports/">Research Enabled by DSC</a> · <a href="https://ucla-data-science-center.github.io/ssda-dsc-history/history.html">History of the archive since 1961</a> · <a href="https://ucla-data-science-center.github.io/dsc-stats-reports/about.html">How figures are counted</a> · Draft by Tim Dennis, evidence cutoff 2026-08-31</p>
+<p><span class="footer-heading">Explore</span></p>
+<p><a href="https://ucla-data-science-center.github.io/dsc-stats-reports/">Research Enabled by DSC</a><br>
+<a href="https://ucla-data-science-center.github.io/ssda-dsc-history/history.html">Archive history since 1961</a><br>
+<a href="https://ucla-data-science-center.github.io/dsc-stats-reports/about.html">How figures are counted</a></p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="https://dataverse.ucla.edu/">UCLA Dataverse</a> · <a href="https://ucla-datasquad.github.io/">DataSquad student projects</a> · <a href="https://www.library.ucla.edu/visit/locations/data-science-center/">Data Science Center at UCLA Library</a></p>
+<p><span class="footer-heading">Use the services</span></p>
+<p><a href="https://dataverse.ucla.edu/">UCLA Dataverse</a><br>
+<a href="https://ucla-datasquad.github.io/">DataSquad student projects</a><br>
+<a href="https://www.library.ucla.edu/visit/locations/data-science-center/">Data Science Center at UCLA Library</a><br>
+<a href="https://uclalibrary.atlassian.net/servicedesk/customer/portal/5">Request a research consultation</a></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="https://uclalibrary.atlassian.net/servicedesk/customer/portal/5">Request a research consultation</a> · <a href="https://github.com/ucla-data-science-center/dsc-stats-reports/issues/new?template=correction.yml">Report a correction</a></p>
+<p><span class="footer-heading">Help improve this record</span></p>
+<p><a href="https://github.com/ucla-data-science-center/dsc-stats-reports/issues/new?template=correction.yml">Report a correction</a></p>
 </div>
   </div>
 </footer>
