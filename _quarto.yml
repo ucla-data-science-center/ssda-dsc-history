@@ -27,19 +27,24 @@ website:
         href: history-companion.html
       - text: "Research Enabled by DSC"
         href: https://ucla-data-science-center.github.io/dsc-stats-reports/
-  # Same link groups as the research site's footer (dsc-stats-reports _quarto.yml)
+  # Same link groups and styling as the research site's footer (dsc-stats-reports)
   page-footer:
     left: |
-      [Research Enabled by DSC](https://ucla-data-science-center.github.io/dsc-stats-reports/) ·
-      [History of the archive since 1961](https://ucla-data-science-center.github.io/ssda-dsc-history/history.html) ·
-      [How figures are counted](https://ucla-data-science-center.github.io/dsc-stats-reports/about.html) ·
-      Draft by Tim Dennis, evidence cutoff 2026-08-31
+      [Explore]{.footer-heading}
+
+      [Research Enabled by DSC](https://ucla-data-science-center.github.io/dsc-stats-reports/)\
+      [Archive history since 1961](https://ucla-data-science-center.github.io/ssda-dsc-history/history.html)\
+      [How figures are counted](https://ucla-data-science-center.github.io/dsc-stats-reports/about.html)
     center: |
-      [UCLA Dataverse](https://dataverse.ucla.edu/) ·
-      [DataSquad student projects](https://ucla-datasquad.github.io/) ·
-      [Data Science Center at UCLA Library](https://www.library.ucla.edu/visit/locations/data-science-center/)
+      [Use the services]{.footer-heading}
+
+      [UCLA Dataverse](https://dataverse.ucla.edu/)\
+      [DataSquad student projects](https://ucla-datasquad.github.io/)\
+      [Data Science Center at UCLA Library](https://www.library.ucla.edu/visit/locations/data-science-center/)\
+      [Request a research consultation](https://uclalibrary.atlassian.net/servicedesk/customer/portal/5)
     right: |
-      [Request a research consultation](https://uclalibrary.atlassian.net/servicedesk/customer/portal/5) ·
+      [Help improve this record]{.footer-heading}
+
       [Report a correction](https://github.com/ucla-data-science-center/dsc-stats-reports/issues/new?template=correction.yml)
 
 format:
