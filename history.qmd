@@ -509,10 +509,12 @@ The main case is the L2 historic voter file, more than 10 TB of national voter h
 through the archive's gift fund. It arrived as thousands of fragmented state-level files, too
 large to store locally and too inconsistent to analyze. DSC assembled it into one
 version-controlled national dataset, published with its own DOI (UCLA Library, *L2 Voter History
-and Demographic Dataset*, 2023, doi:10.60603/D33W2T) and presented at FORCE11 2024 by Redivis's
+and Demographic Dataset*, 2023, doi:10.60603/D37P4R) and presented at FORCE11 2024 by Redivis's
 CEO and Graham Straus, the doctoral student who curated it. Straus put the stewardship point
 plainly: "What happens when I leave UCLA? Will people know how the dataset was constructed?
 Yes!"
+
+![The L2 Voter File's overview page on UCLA's Redivis platform, 2024. Description, provenance, and column documentation are open to anyone; the data itself requires an approved access application.](images/dsc/redivis-l2-voter-file.png){fig-alt="Screenshot of a Redivis dataset page titled L2 Voter File, version 1.1, owned by UCLA Library, listing Graham Straus as data curator, with an Apply for access button and a methodology section describing the voter file's columns." width="85%"}
 
 Researchers in several departments use it, on election administration, gentrification,
 Latino voting, and health and voting. Processing recorded on UCLA's Redivis platform as a whole
@@ -577,7 +579,11 @@ The best-known result is the Refugee Material Culture Initiative. With Classics 
 Nguyen and the Vietnamese Heritage Museum, Daniels 3D scanned the "Boat of Hope," a six-meter
 river sampan that carried nine refugees out of Vietnam in 1984, and prepared the models for the
 museum's digital exhibit, a public seven-day narrative of one family's escape by sea.
-DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it. Daniels was named
+DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it.
+
+![The "Boat of Hope" seven-day narrative in DSC's Potree viewer on pointcloud.ucla.edu. Model, story, and the survivors' photograph (inset): Refugee Material Culture Initiative and the Vietnamese Heritage Museum. [Explore it in 3D](https://www.pointcloud.ucla.edu/VHM/narrative_all.html).](images/dsc/boat-of-hope-potree.png){fig-alt="3D model of a wooden river boat on a dark background in a web viewer, with a timeline marked Day 1 through Day 7 along the bottom and an inset archival photo of the survivors."}
+
+ Daniels was named
 a UCLA Librarian of the Year for 2026, one of two given university-wide by
 LAUC-LA.[@ucla-newsroom-librarians-2026] His standards work, chairing the UC 3D Data Common
 Knowledge Group and co-chairing the international IIIF 3D Community Group, tied the service to
@@ -636,6 +642,8 @@ BioCritical Studies Lab, Julia Wood, Ethan Allavarpu, Tristan Dewing, and Lee cl
 restructured a national deaths-in-custody dataset and built tools the lab could maintain on its
 own.
 
+![The 2024–25 DataSquad cohort at the Data Science Center, from the DataSquad site's November 2024 introduction.](images/dsc/datasquad-2024-25.jpg){fig-alt="Four students in navy UCLA DataSquad T-shirts standing in a meeting room beside a screen that reads DSC DataSquad."}
+
 All ten students whose outcomes after graduation were tracked for 2023 to 2025 went into data
 or technical roles.
 
@@ -647,6 +655,8 @@ Doug Daniels (3D and emerging technology), Leigh Phan (programmer, then data sci
 Yao (spatial data science, until 2024), Kristian Allen (software and machine learning,
 2018–2024), a data-science facilitator, and the rotating DataSquad students. The full
 [roster](history-companion.html#roster) is in the companion.
+
+![Data Science Center staff, 2024, from the DataSquad site's November 2024 introduction.](images/dsc/dsc-staff-2024.jpg){fig-alt="Three people standing beside a large screen with DSC STAFF written on it, in a room with tall vertical window slats."}
 
 [^staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
 model. The specific position histories rest partly on the author's account; exact titles and
@@ -887,7 +897,7 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 
 | DSC contribution | Research or public output | Basis for the connection |
 |---|---|---|
-| Licensed Redivis, ran the compliance review, and curated the L2 national voter file | Research in APSR, PNAS, BJPolS, and AEJ using the dataset | Public dataset DOI (doi:10.60603/D33W2T) and FORCE11 2024 presentation; the publication list comes from DSC records |
+| Licensed Redivis, ran the compliance review, and curated the L2 national voter file | Research in APSR, PNAS, BJPolS, and AEJ using the dataset | Public dataset DOI (doi:10.60603/D37P4R) and FORCE11 2024 presentation; the publication list comes from DSC records |
 | Led an IMLS open-science grant (Tim as Project Director) | 15 peer-reviewed open-science lessons, each with a DOI | Federal award record (RE-252335-OLS-22) and the public lesson repositories |
 | DataSquad and DSC support for Carceral Ecologies (Nicholas Shapiro): a rebuilt processing pipeline for helicopter-surveillance data and a hosted R server | The lab's research on police helicopter surveillance, covered by the *LA Times*, *The New Yorker*, and *Bloomberg* | Shapiro's own account of DSC's role and DSC project records; the press covered the lab's research, not DSC |
 | DataSquad data integration, analysis, and visualization for the BioCritical Studies Lab (Terence Keel) | The lab's national deaths-in-custody dataset; the lab's research was recognized in UCLA's 2024 Public Impact Research Awards | DSC project records; the award recognizes the lab's research |

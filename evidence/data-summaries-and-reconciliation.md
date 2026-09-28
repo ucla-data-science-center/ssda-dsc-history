@@ -20,7 +20,7 @@ material; peer letters/salary scales deliberately not read).
 - **Redivis detail**: 50-seat governance model with DUA (data use agreement) controls; 156
   workflows; 20TB sensitive data; peak 47 active users; 2.9 PB processed 2024, 1.5 PB in 2025.
   Real dataset with a DOI: "UCLA Library (2023), L2 Voter History and Demographic Dataset,
-  doi:10.60603/D33W2T." FORCE11 2024 presentation: doi:10.5281/zenodo.13181256.
+  doi:10.60603/D37P4R [corrected 2026-09-27: the D33W2T given in Tim's Data Summary does not resolve and is not in DataCite; D37P4R is the DataCite record with this title, 2023, contributors Jamison (contact), Straus (curator), Thompson (researcher), Dennis (supervisor)]." FORCE11 2024 presentation: doi:10.5281/zenodo.13181256.
 - **Real DOI'd teaching output**: Dennis, T. & Jamison, J., "Data Management Plans (DMP) and the
   Role of Libraries," UCLA IS262A, Oct 15 2025, doi:10.5281/zenodo.17360885 — confirms Jamie
   Jamison's continued active DSC role and direct co-teaching with Tim, with a real citable DOI.

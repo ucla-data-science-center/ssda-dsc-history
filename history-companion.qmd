@@ -347,7 +347,7 @@ The main case is the L2 historic voter file, more than 10 TB of national voter h
 through the archive's gift fund. It arrived as thousands of fragmented state-level files, too
 large to store locally and too inconsistent to analyze. DSC pulled it into a single
 version-controlled national dataset, published with its own DOI (UCLA Library, *L2 Voter History
-and Demographic Dataset*, 2023, doi:10.60603/D33W2T) and presented at FORCE11 2024 by Redivis's
+and Demographic Dataset*, 2023, doi:10.60603/D37P4R) and presented at FORCE11 2024 by Redivis's
 CEO alongside the doctoral student who curated it, Graham Straus. Straus put the institutional
 point plainly: "What happens when I leave UCLA? Will people know how the dataset was constructed?
 Yes!" Researchers use it directly across departments, in election administration, gentrification,
@@ -658,7 +658,12 @@ named; the history's public wording already reflects the uncertainty.
   register (§20) credits Daniels with the scan and Bianca Badajos with setting up the Potree
   viewer, and does not approve saying the student who processed the Iceland data joined the boat
   scan. `evidence/library-era-2014-present.md` (older) credits Badajos and Connor Lim with the
-  scan; the register is newer and governs until the project record is checked.
+  scan; the register is newer and governs until the project record is checked. The public DataSquad
+  portfolio page (`_portfolio/02-refugee-artifacts.md` on ucla-datasquad.github.io) also says the
+  team was led by Daniels "with DataSquad members Bianca Badajos and Connor Lim," so three public
+  accounts need to agree.
+- DSC staff photo (2024, from the DataSquad site): captioned without names. Confirm who is
+  pictured if names should be added.
 - Iceland survey year: the companion's Daniels inventory has one trip in 2024 (per Tim
   2026-09-02); the claim register does not approve a year and notes the public pointcloud Iceland
   folder covers northern sites, not Mosfell Valley. Kept out of the main narrative until

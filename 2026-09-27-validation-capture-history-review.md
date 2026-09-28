@@ -114,6 +114,12 @@ opening and headings again.
   2026-09-27); masthead, Stephenson, and Jamison clips added to the 1977-2014 section, restored
   from `main-legacy-multipage` (`evidence/newsletter-images/`, which the footnote already cited
   but was missing on main). Still deferred: the boat model (the museum's and the initiative's),
-  and whether to show the MOU.
+  and whether to show the MOU. Update: Tim pointed to DSC-era images; added from the DataSquad
+  site the Redivis L2 overview page, the Boat of Hope viewer frame (credited to the initiative
+  and museum), the 2024-25 DataSquad photo, and a 2024 staff photo. Not used: the portfolio's
+  boat photo, which is the 1984 U.S. Navy photo of refugees at sea, not the Boat of Hope.
+- L2 DOI corrected: doi:10.60603/D33W2T (from Tim's Data Summary) does not resolve and is not in
+  DataCite; the DataCite record for "L2 Voter History and Demographic Dataset" (UCLA Library,
+  2023) is doi:10.60603/D37P4R. Fixed in the history, companion, and both evidence notes.
 - Evidence-file cleanup: `evidence/library-era-2014-present.md` Keel ✅ and the Badajos/Lim scan
   credit.
