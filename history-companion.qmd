@@ -674,6 +674,13 @@ named; the history's public wording already reflects the uncertainty.
   curate for publication in UCLA Dataverse, the SSDA collection, Redivis, or ICPSR (Tim,
   2026-09-27). The history names three cases (Behind Bars, Williams Institute, BioCritical
   Studies Lab); add from the list once it arrives.
+- Dataverse-then-ICPSR pattern (Tim, 2026-09-27: learned by trial and error, not planned). One
+  case confirmed from public records: the Behind Bars COVID Prison Policy Index (UCLA Dataverse,
+  Jan 2022; ICPSR 38730, 2023). Tim said it happened with two datasets; the second is not yet
+  identified. The Williams Institute's UCLA Dataverse dataset (LGBT health services, 2021) has no
+  ICPSR counterpart found, and TransPop and Generations went to ICPSR without a UCLA Dataverse
+  stage. Keel's lab data is a candidate for the ICPSR stage, complicated by being compiled from
+  multiple sources.
 - Keel and *The Coroner's Silence*: "DSC's work credited in the book" stays out (no documented
   credit). New documented link, 2026-09-27: the lab's UCLA Dataverse collection holds
   *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI), so the history now says

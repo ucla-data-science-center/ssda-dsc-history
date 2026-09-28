@@ -479,20 +479,26 @@ from the legacy SSDA collection. Counting drafts and restricted deposits, the to
 link to a publication, a floor rather than an estimate.
 
 The curation continued too, though no longer under the SSDA name. DSC did not publish new studies
-as the archive; it helped researchers prepare their own data for publication in whichever home
-fit, whether UCLA Dataverse, the SSDA collection, Redivis, or ICPSR.[^curation] The UCLA Law
-Behind Bars Data Project, which tracked COVID-19 in prisons, jails, and immigration detention
-nationally, has kept a UCLA Dataverse collection since January 2022, now about 1,169 items. The
-Williams Institute brought its national surveys of LGBT people, among them TransPop, the first
-national probability sample of transgender adults in the United States, which reached ICPSR with
-DSC curation support. Terence Keel's BioCritical Studies Lab publishes its deaths-in-custody data
-in UCLA Dataverse, including the autopsy data behind Keel's book *The Coroner's Silence*. The
-work had moved well past social science surveys, but it was the same work: getting research data
-into a condition and a place where someone else could find, cite, and reuse it.
+as the archive; it helped researchers prepare their own data for publication. Through trial and
+error rather than any plan, a two-stage pattern settled in. A research group first worked its
+dataset out and published it in UCLA Dataverse, with DSC helping shape it along the way. Once the data was stable, it could go to ICPSR, which has the staff to curate a
+dataset down to the level of individual variables and document it for long-term reuse.[^curation]
+The UCLA Law Behind Bars Data Project, which tracked COVID-19 in prisons, jails, and immigration
+detention nationally, followed that path: its COVID Prison Policy Index went into UCLA Dataverse in
+January 2022, and ICPSR released a curated version as study 38730 in 2023. The Williams Institute
+brought its national surveys of LGBT people, among them TransPop, the first national probability
+sample of transgender adults in the United States, which reached ICPSR with DSC curation support.
+Terence Keel's BioCritical Studies Lab publishes its deaths-in-custody data in UCLA Dataverse,
+including the autopsy data behind Keel's book *The Coroner's Silence*. It is a candidate for the
+second stage, made harder because the lab's data is compiled from many sources.
 
 [^curation]: Author's account, 2026-09-27; a full list of curated deposits is being compiled
-with Jamie Jamison (companion, [open questions](history-companion.html#open-questions)). Public
-records: the Behind Bars collection on UCLA Dataverse (created 2022-01-28); the BioCritical
+with Jamie Jamison (companion, [open questions](history-companion.html#open-questions)). The two-stage
+pattern and the reason for it (ICPSR's variable-level curation) are the author's account. Public
+records: the Behind Bars collection on UCLA Dataverse (created 2022-01-28), including the *COVID
+Prison Policy Index* (doi:10.25346/S6/B5GOLX), and ICPSR's curated release, *COVID Behind Bars:
+COVID Prison Policy Index, United States, 2020–2021* (ICPSR 38730, 2023,
+doi:10.3886/ICPSR38730.v1); the BioCritical
 Studies Lab collection, with *Autopsy Analysis of Deaths in LA County Jail, 2009–2018* (2023,
 doi:10.25346/S6/JOOUYM), *LA County In-Custody Death Data, 2008–2019* (2025,
 doi:10.25346/S627C42Q), and *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI);
