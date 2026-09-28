@@ -437,7 +437,7 @@ describing files.
   inconsistent to analyze ✅
 - DSC consolidated it into a single version-controlled analysis-ready national table ✅
 - Public DOI: **UCLA Library (2023), *L2 Voter History and Demographic Dataset*,
-  doi:10.60603/D33W2T** ✅
+  doi:10.60603/D37P4R [corrected 2026-09-27: the D33W2T given in Tim's Data Summary does not resolve and is not in DataCite; D37P4R is the DataCite record with this title, 2023, contributors Jamison (contact), Straus (curator), Thompson (researcher), Dennis (supervisor)]** ✅
 - **FORCE11 2024**: presented by Redivis CEO **Ian Mathews** + PhD student **Graham Straus** —
   *Simplifying sharing of national voting data with Redivis*, doi:10.5281/zenodo.13181256 ✅
 - Straus quote: *"What happens when I leave UCLA? Will people know how the dataset was
