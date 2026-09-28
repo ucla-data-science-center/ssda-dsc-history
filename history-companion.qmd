@@ -670,9 +670,17 @@ named; the history's public wording already reflects the uncertainty.
   reconciled.
 - Redivis processing volume: the history reads the 444 GB to 2.9 PB figures as platform-wide
   UCLA activity. Confirm the scope in the source (Tim's 2023–2025 Data Summary).
-- Stale evidence note: `evidence/library-era-2014-present.md` still marks "DSC's work featured in
-  Keel's book *The Coroner's Silence*" as verified; the claim register (2026-09-27) found no
-  documented link, and the history no longer makes the claim. Update the evidence note.
+- Curated deposits after 2017: Jamie Jamison is compiling the list of research data DSC helped
+  curate for publication in UCLA Dataverse, the SSDA collection, Redivis, or ICPSR (Tim,
+  2026-09-27). The history names three cases (Behind Bars, Williams Institute, BioCritical
+  Studies Lab); add from the list once it arrives.
+- Keel and *The Coroner's Silence*: "DSC's work credited in the book" stays out (no documented
+  credit). New documented link, 2026-09-27: the lab's UCLA Dataverse collection holds
+  *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI), so the history now says
+  the book's autopsy data is published on UCLA Dataverse. The DSC Statistics claim register
+  (§2, "Not approved: any mention of the book next to this dataset") may want updating in
+  light of that record. `evidence/library-era-2014-present.md` still marks the book credit as
+  verified; update it.
 - Dana Center grant: removed from the history's impact table 2026-09-27. The public announcement
   (UCLA and the Dana Foundation, April 2024) is a $5 million grant within a roughly $9.8 million
   matched partnership; the pilot-data link to Carceral Ecologies rests on Shapiro's account. The

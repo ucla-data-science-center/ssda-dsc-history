@@ -453,7 +453,7 @@ Tim Dennis's Data Summary, 2023–2025, cross-checked against an OARC governance
 The fuller spatial-data account is in the companion's
 [2018–present detail](history-companion.html#dsc-era-detail).
 
-### The old collections kept working through the change of name
+### The collections kept working, and the curation kept going, under a new name
 
 The legacy SSDA collection lived on Harvard's hosted Dataverse, a widely used open-source
 repository for research data, and the archive's policies, terms, and deposit practice were
@@ -475,10 +475,30 @@ script in place, and walked depositors through collections and DOIs.
 By 2026 UCLA Dataverse held
 about 1,390 released datasets: about 376 deposited directly at UCLA and about 1,014 harvested
 from the legacy SSDA collection. Counting drafts and restricted deposits, the total is about
-1,600.[^dataverse-count] It also held collections well outside social science, among them the
-UCLA Law Behind Bars Data Project on COVID-19 in prisons and the archaeology collections of the
-Cotsen Institute. Reuse is harder to count: 180 of about 959 indexed datasets carry a link to a
-publication, a floor rather than an estimate.
+1,600.[^dataverse-count] Reuse is harder to count: 180 of about 959 indexed datasets carry a
+link to a publication, a floor rather than an estimate.
+
+The curation continued too, though no longer under the SSDA name. DSC did not publish new studies
+as the archive; it helped researchers prepare their own data for publication in whichever home
+fit, whether UCLA Dataverse, the SSDA collection, Redivis, or ICPSR.[^curation] The UCLA Law
+Behind Bars Data Project, which tracked COVID-19 in prisons, jails, and immigration detention
+nationally, has kept a UCLA Dataverse collection since January 2022, now about 1,169 items. The
+Williams Institute brought its national surveys of LGBT people, among them TransPop, the first
+national probability sample of transgender adults in the United States, which reached ICPSR with
+DSC curation support. Terence Keel's BioCritical Studies Lab publishes its deaths-in-custody data
+in UCLA Dataverse, including the autopsy data behind Keel's book *The Coroner's Silence*. The
+work had moved well past social science surveys, but it was the same work: getting research data
+into a condition and a place where someone else could find, cite, and reuse it.
+
+[^curation]: Author's account, 2026-09-27; a full list of curated deposits is being compiled
+with Jamie Jamison (companion, [open questions](history-companion.html#open-questions)). Public
+records: the Behind Bars collection on UCLA Dataverse (created 2022-01-28); the BioCritical
+Studies Lab collection, with *Autopsy Analysis of Deaths in LA County Jail, 2009–2018* (2023,
+doi:10.25346/S6/JOOUYM), *LA County In-Custody Death Data, 2008–2019* (2025,
+doi:10.25346/S627C42Q), and *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI);
+the Williams Institute studies at ICPSR (37938, 37166, 38421, 37877). The ICPSR deposits are the
+Williams Institute's; DSC's curation role there rests on the author's account. Hosted-collection
+detail is in the companion's [data hosted](history-companion.html#hosted-data) section.
 
 [^dataverse-count]: The two totals answer different questions. About 376 datasets were deposited
 directly at UCLA and about 1,014 legacy SSDA datasets were harvested in and curated by Library
@@ -900,7 +920,7 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 | Licensed Redivis, ran the compliance review, and curated the L2 national voter file | Research in APSR, PNAS, BJPolS, and AEJ using the dataset | Public dataset DOI (doi:10.60603/D37P4R) and FORCE11 2024 presentation; the publication list comes from DSC records |
 | Led an IMLS open-science grant (Tim as Project Director) | 15 peer-reviewed open-science lessons, each with a DOI | Federal award record (RE-252335-OLS-22) and the public lesson repositories |
 | DataSquad and DSC support for Carceral Ecologies (Nicholas Shapiro): a rebuilt processing pipeline for helicopter-surveillance data and a hosted R server | The lab's research on police helicopter surveillance, covered by the *LA Times*, *The New Yorker*, and *Bloomberg* | Shapiro's own account of DSC's role and DSC project records; the press covered the lab's research, not DSC |
-| DataSquad data integration, analysis, and visualization for the BioCritical Studies Lab (Terence Keel) | The lab's national deaths-in-custody dataset; the lab's research was recognized in UCLA's 2024 Public Impact Research Awards | DSC project records; the award recognizes the lab's research |
+| DataSquad data integration, analysis, and visualization for the BioCritical Studies Lab (Terence Keel), and a lab collection on UCLA Dataverse | The lab's deaths-in-custody datasets, published on UCLA Dataverse (2023, 2025), including the autopsy data behind *The Coroner's Silence*; the lab's research was recognized in UCLA's 2024 Public Impact Research Awards | Public Dataverse DOIs (e.g., doi:10.25346/S6R7CHCI) and DSC project records; the award recognizes the lab's research |
 | Daniels's 3D scan of the "Boat of Hope" for the Refugee Material Culture Initiative (Kelly Nguyen) | The Vietnamese Heritage Museum's public 3D narrative, hosted on pointcloud.ucla.edu | The public narrative on DSC's server; the initiative's page on Daniels |
 | DataSquad student program | Ten tracked graduates, 2023–2025, all in data or technical roles | DSC's own tracking of graduate outcomes |
 
