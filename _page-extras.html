@@ -1,7 +1,7 @@
-<!-- Acronym tooltips (tags added by acronyms.lua) and "Edit this page" links at the top and
-     bottom of each page. The edit URL comes from Quarto's own repo-actions link, so it stays
-     right per page. The repo is private: the link works for DSC team members only. -->
 <script>
+// Acronym tooltips (tags added by acronyms.lua) and "Edit this page" links at the top and
+// bottom of each page. The edit URL comes from Quarto's own repo-actions link, so it stays
+// right per page. The repo is private: the link works for DSC team members only.
 document.addEventListener("DOMContentLoaded", function () {
   // Navbar and footer text also passes through acronyms.lua; keep tags only in the page body.
   document.querySelectorAll("abbr[title]").forEach(function (el) {

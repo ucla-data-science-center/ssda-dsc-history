@@ -29,17 +29,6 @@ format:
     citecolor: "black"
 ---
 
-<!--
-STATUS: one perspectival institutional history, single document (decided 2026-09-01). Layered
-revision 2026-09-27 (two external reviews, adjudicated in
-2026-09-27-validation-capture-history-review.md): a 30-second summary, a short "what persisted,
-what changed" path, then the chronology; the 2018-present chapter is organized around the
-material researchers brought, what DSC built, and who kept it running. Inventories, career and
-service detail, and disputed minutiae live in history-companion.qmd, linked by section. The
-narrative stops at the DSC's pre-2026 state; it does not describe the 2026 dissolution. Avoid
-teleology: the data-citation-to-AI sequence is a retrospective way of narrating the recent
-decades, not the intention of every era.
--->
 
 ::: {.callout-warning}
 The DSC team is revising this page. Details may change. Share it freely, but don't treat it as final yet.
@@ -172,9 +161,7 @@ body.quarto-dark .ssda-timeline {
 <svg viewBox="0 0 700 300" role="img" aria-labelledby="tl-title tl-desc">
   <title id="tl-title">Two tracks, 1961 to 2026: institutional home, and dated material or services</title>
   <desc id="tl-desc">Top track: Political Behavior Archive (PBA) 1961 to 1964; Survey Research Center (SRC) 1964 to 1974; Institute for Social Science Research 1974 to about 2009, with the archive named SSDA in 1977; Institute for Social Research about 2009 to 2011; standalone SSDA about 2011 to 2014; UCLA Library from 2014, as the Data Science Center from 2018. Bottom track: 1961 survey data distributed on campus; LAMAS surveys 1970 to 1976; 1977 staffed consulting service; LACSS surveys 1992 to 2002; 2013 DDI-Lifecycle metadata tests; 2018 UCLA Dataverse; 2022 web 3D viewer; 2023 governed restricted-data service.</desc>
-  <!-- x(year) = 40 + (year-1961) * 9.538, domain 1961-2026 -> [40, 660] -->
   <text x="40" y="18" class="tl-track">Institutional home</text>
-  <!-- home bands, y 44-72 -->
   <rect x="40"    y="44" width="28.6"  height="28" fill="#cfe0f0"/>
   <rect x="68.6"  y="44" width="95.4"  height="28" fill="#2774AE"/>
   <rect x="164"   y="44" width="333.8" height="28" fill="#cfe0f0"/>
@@ -183,7 +170,6 @@ body.quarto-dark .ssda-timeline {
   <rect x="545.5" y="44" width="114.5" height="28" fill="#2774AE"/>
   <line x1="583.7" y1="44" x2="583.7" y2="72" stroke="var(--surface-1)" stroke-width="2"/>
   <line x1="192.6" y1="44" x2="192.6" y2="72" stroke="var(--surface-1)" stroke-width="2"/>
-  <!-- band labels -->
   <text x="54"    y="38" class="tl-home" text-anchor="middle">PBA</text>
   <text x="116"   y="62" class="tl-home-inv" text-anchor="middle">SRC</text>
   <text x="345"   y="62" class="tl-home-on-light" text-anchor="middle">Institute for Social Science Research</text>
@@ -191,7 +177,6 @@ body.quarto-dark .ssda-timeline {
   <text x="507"   y="38" class="tl-home" text-anchor="end">ISR, then standalone SSDA</text>
   <text x="552"   y="38" class="tl-home" text-anchor="start">UCLA Library</text>
   <text x="587"   y="88" class="tl-year" text-anchor="start">2018: DSC</text>
-  <!-- year axis -->
   <line x1="40" y1="150" x2="660" y2="150" stroke="var(--baseline)" stroke-width="1"/>
   <text x="40"    y="140" class="tl-year" text-anchor="middle">1961</text>
   <text x="164"   y="140" class="tl-year" text-anchor="middle">1974</text>
@@ -200,7 +185,6 @@ body.quarto-dark .ssda-timeline {
   <text x="545.5" y="140" class="tl-year" text-anchor="middle">2014</text>
   <text x="660"   y="140" class="tl-year" text-anchor="middle">2026</text>
   <text x="40" y="178" class="tl-track">Dated material or service</text>
-  <!-- items -->
   <circle cx="40" cy="200" r="5" fill="var(--series-1)"/>
   <text x="40" y="222" class="tl-item" text-anchor="start">1961 survey data</text>
   <text x="40" y="236" class="tl-item" text-anchor="start">shared on campus</text>
@@ -258,7 +242,6 @@ phrasing is from `evidence/ssda-harvard-dataverse-about.md` (written by Stephens
 [^eulau]: Heinz Eulau, "Good-bye to Two Dear Friends: Warren Miller and Dwaine Marvick, A
 Personal Memoir," 1999 (`evidence/eulau-1999-miller-marvick-memoir.md`).
 
-<!-- internal working notes: evidence/marvick-biography-and-papers.md; evidence/stiles-stephenson-2008-ifla.md; evidence/icpsr-history.md; evidence/rice-southall-2016-ch1.md; evidence/miller-1962-considerations.md; evidence/icpsr-founding-members-austin.md; evidence/eulau-1999-miller-marvick-memoir.md; evidence/umich-bhl-9938-finding-aid.md. ISSR-era research from the 7-31 site branch (deep-research-report.md) merged 2026-09-02; spot-verified 2026-09-02 (Sears's ISSR dates confirmed; three-subperiod structure is catalog-grounded); Freeman/Brewer terms and the Fielder 1964/1976 question still open. -->
 
 ## 1964-1974: The archive becomes a reference room in a survey center
 
@@ -292,7 +275,6 @@ internal decks. The conflicting obituary date is in the 2026-07-31 research pass
 (`evidence/deep-research-report.md`). See the companion's
 [open discrepancies](history-companion.html#open-discrepancies).
 
-<!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md; evidence/lamas-scss-lacss-series.md; evidence/dodd-1982-library-trends-mrdf.md; evidence/deep-research-report.md (Fielder conflict) -->
 
 ## 1974-1977: ISSR names the archive and gives it staff
 
@@ -321,7 +303,6 @@ dates the ISSR Data Archive at UCLA to December 1977; cited in
 `evidence/deep-research-report.md`. The research pass also separates a 1976 step, the SRC being
 taken into ISSR, from the December 1977 step, SSDA being formally established as a named unit.
 
-<!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md (most precise account); dsc-evidence-registry/claims/issr-transfer-1977.yaml (4 independent corroborations); evidence/deep-research-report.md (OECD directory, catalog evidence, four-way conflict) -->
 
 ## 1977-2014: The archive becomes a campus data service
 
@@ -382,12 +363,7 @@ directly that "Gina Jamison" is her.
 and dates her UCLA start to about 1977 from ICPSR's own materials;
 `evidence/pawlocki-stephenson-1988-iassist.md` independently documents her as staff by 1986.
 
-<!-- internal working notes: evidence/pawlocki-stephenson-1988-iassist.md; evidence/lamas-scss-lacss-series.md; evidence/icpsr-bibliography-lacss-example.md; evidence/deep-research-report.md; evidence/stephenson-icpsr-sources.md; evidence/newsletter-images-2017-deck.md; full SCSS/technical/rotating-PI detail in history-companion.qmd -->
 
-<!-- TODO before finalizing this section: Jamie Jamison's DB dump / staff dates for 1977-1986
-(tracked in ucla-data-science-center/dataverse-infrastructure#10); Marvick Papers (UCLA Special
-Collections, 63 boxes) not yet consulted; the ISSR-to-ISR rename date/authority and ISR's
-dissolution date still unknown. -->
 
 ## 2014-2018: The archive moves to the Library and widens its mandate
 
@@ -423,7 +399,6 @@ design the 2018 service model.[^grappone]
 naming is not in any public source; it rests on the author's account as a participant. Grappone
 became University Librarian at UC Santa Barbara in July 2025.
 
-<!-- internal working notes: evidence/ssda-library-mou.md; evidence/ucla-ssda-lineage-2017-deck.md; evidence/data-sci-libraries_chapter_edits.md; evidence/dsc-era-people-2026-07-31.md -->
 
 ## 2018-present: The Data Science Center takes on new kinds of research material
 
@@ -670,7 +645,7 @@ Powell gift, became a formal program in 2021, and in 2024 absorbed the Lux Lab's
 Students handled 190 of the unit's scheduled consultations from 2023 to 2025, about a quarter,
 then moved toward long project work. For Carceral Ecologies, Nicholas Shapiro's lab, Lawrence Lee
 and Madeline Kim rebuilt the pipeline for helicopter-surveillance flight data so that one
-documented processing task that had taken about 318 minutes ran in about two. For Terence Keel's
+measured data-loading step that had taken about 318 minutes ran in about two. For Terence Keel's
 BioCritical Studies Lab, Julia Wood, Ethan Allavarpu, Tristan Dewing, and Lee cleaned and
 restructured a national deaths-in-custody dataset and built tools the lab could maintain on its
 own.
@@ -718,15 +693,6 @@ subscriptions were dropped, is only partly reconstructed. See
 `evidence/library-era-2014-present.md` §13 and the companion's
 [open questions](history-companion.html#open-questions).
 
-<!-- internal working notes: evidence/library-era-2014-present.md (the full evidence + gap list);
-evidence/powell-gifts-and-imls-grant.md; evidence/doug-daniels-and-2018-continuity.md;
-evidence/dsc-era-hosted-collections.md; evidence/sopa-research-enabled-and-intellectual-contributions.md;
-evidence/data-summaries-and-reconciliation.md. 3D credit follows the dsc-stats-reports claim
-register §20 (2026-09-27): Daniels scanned the boat; Badajos helped set up the Potree viewer;
-whether the student who processed Iceland data joined the boat scan is unknown. Iceland survey
-year kept out of the main narrative pending reconciliation with the register. -->
-<!-- Per decision 2026-09-01: the narrative stops here, at the DSC's pre-2026 state. It does not
-describe the 2026 dissolution. -->
 
 ## Evidence of use: what can and cannot be counted {#evidence-of-use}
 
@@ -792,28 +758,21 @@ body.quarto-dark .ssda-bar-chart {
 </style>
 <svg viewBox="0 0 560 280" role="img" aria-label="Bar chart: survey years represented in the 571 surviving SSDA datasets, by decade: 1960s 69, 1970s 124, 1980s 120, 1990s 130, 2000s 87, 2010s 5">
   <line x1="30" y1="235" x2="530" y2="235" stroke="var(--baseline)" stroke-width="1.5"/>
-  <!-- baseline y=235; scale: 130 units -> 210px tall, so px-per-unit = 1.615 -->
-  <!-- 1960s: 69 -->
   <rect x="42" y="123.5" width="24" height="111.5" rx="4" fill="var(--series-1)"/>
   <text x="54" y="113" class="bc-value" text-anchor="middle">69</text>
   <text x="54" y="252" class="bc-cat" text-anchor="middle">1960s</text>
-  <!-- 1970s: 124 -->
   <rect x="126" y="34.7" width="24" height="200.3" rx="4" fill="var(--series-1)"/>
   <text x="138" y="24" class="bc-value" text-anchor="middle">124</text>
   <text x="138" y="252" class="bc-cat" text-anchor="middle">1970s</text>
-  <!-- 1980s: 120 -->
   <rect x="210" y="41.2" width="24" height="193.8" rx="4" fill="var(--series-1)"/>
   <text x="222" y="31" class="bc-value" text-anchor="middle">120</text>
   <text x="222" y="252" class="bc-cat" text-anchor="middle">1980s</text>
-  <!-- 1990s: 130 -->
   <rect x="294" y="25" width="24" height="210" rx="4" fill="var(--series-1)"/>
   <text x="306" y="14" class="bc-value" text-anchor="middle">130</text>
   <text x="306" y="252" class="bc-cat" text-anchor="middle">1990s</text>
-  <!-- 2000s: 87 -->
   <rect x="378" y="94.6" width="24" height="140.4" rx="4" fill="var(--series-1)"/>
   <text x="390" y="84" class="bc-value" text-anchor="middle">87</text>
   <text x="390" y="252" class="bc-cat" text-anchor="middle">2000s</text>
-  <!-- 2010s: 5 -->
   <rect x="462" y="227" width="24" height="8" rx="4" fill="var(--series-1)"/>
   <text x="474" y="216" class="bc-value" text-anchor="middle">5</text>
   <text x="474" y="252" class="bc-cat" text-anchor="middle">2010s</text>
@@ -887,8 +846,6 @@ body.quarto-dark .ssda-event-plot {
 .ssda-event-plot figcaption { font-size: 12px; color: var(--text-muted); margin-top: 8px; max-width: 560px; }
 </style>
 <svg viewBox="0 0 600 210" role="img" aria-label="Event plot: citing publications by year, for three survey series">
-  <!-- domain 2008-2026, x(year) = 60 + (year-2008)/18*510, plot range [60,570] -->
-  <!-- gridline ticks -->
   <line x1="116.7" y1="30" x2="116.7" y2="175" stroke="var(--gridline)" stroke-width="1"/>
   <text x="116.7" y="190" class="ep-tick" text-anchor="middle">2010</text>
   <line x1="258.3" y1="30" x2="258.3" y2="175" stroke="var(--gridline)" stroke-width="1"/>
@@ -898,7 +855,6 @@ body.quarto-dark .ssda-event-plot {
   <line x1="541.7" y1="30" x2="541.7" y2="175" stroke="var(--gridline)" stroke-width="1"/>
   <text x="541.7" y="190" class="ep-tick" text-anchor="middle">2025</text>
 
-  <!-- Row 1: LACSS, y=50, real dots at 2011, 2021, 2025 -->
   <text x="50" y="54" class="ep-row-label" text-anchor="end">LACSS</text>
   <line x1="60" y1="50" x2="570" y2="50" stroke="var(--baseline)" stroke-width="1"/>
   <circle cx="145" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
@@ -908,12 +864,10 @@ body.quarto-dark .ssda-event-plot {
   <circle cx="541.7" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
   <text x="541.7" y="38" class="ep-dot-label" text-anchor="middle">2025</text>
 
-  <!-- Row 2: LAMAS, y=100, no data -->
   <text x="50" y="104" class="ep-row-label" text-anchor="end">LAMAS</text>
   <line x1="60" y1="100" x2="570" y2="100" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="3,3"/>
   <text x="315" y="118" class="ep-note" text-anchor="middle">no citing publications found in the queried index</text>
 
-  <!-- Row 3: SCSS, y=150, not measurable -->
   <text x="50" y="154" class="ep-row-label" text-anchor="end">SCSS</text>
   <line x1="60" y1="150" x2="570" y2="150" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="1,4"/>
   <text x="315" y="168" class="ep-note" text-anchor="middle">not measurable; never deposited in the queried index</text>
@@ -954,7 +908,8 @@ view. The record it rests on is held to a plain standard:
 - Work done by a team is credited to the team. Individuals are named where authorship, formal
   authority, or accountability makes it matter.
 
-Evidence cutoff: 2026-08-31. Corrections and version history are in the project repository.
+Evidence cutoff: 2026-08-31. The working evidence files and version history are kept in a private
+repository. To report an error or add context, use the correction link at the foot of each page.
 
 ### How the evidence is handled
 
@@ -980,7 +935,7 @@ project does instead:
   review document supports a claim, it is either left out or attributed as a self-reported
   account. See the companion's
   [list of review-only claims](history-companion.html#review-only-claims).
-- Contemporary impact claims follow the DSC Statistics site's claim register, which records the
+- Contemporary impact claims follow the Research Enabled by DSC site's claim register, which records the
   approved wording and what is not approved for each case.
 - An outside read for factual support and proportion is optional, at the author's discretion;
   if one happens, the reader is named here.
@@ -1004,5 +959,7 @@ from `references.bib` via `chicago-notes-bibliography.csl`.
 ::: {#refs}
 :::
 
-The full evidence base, with per-claim detail and verification status, is in `evidence/` and
-`dsc-evidence-registry/claims/` in this repository.
+The full evidence base, with per-claim detail and verification status, is held in the author's
+private working files. Published sources are listed above; the research site's
+[claim register](https://github.com/ucla-data-science-center/dsc-stats-reports/blob/main/claim-register.md)
+records the approved wording and source for figures the two sites share.
