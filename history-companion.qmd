@@ -213,8 +213,8 @@ with a machine-learning background was recruited across divisions (Kristian Alle
 role, 2018–2024).[^c-staff-model] UCLA Dataverse went from 9 datasets and 229 downloads in January
 2020 to roughly 1,600 datasets and more than 143,000 downloads by 2026.[^c-dataverse-count] The
 staffing did not grow in proportion. Part of how the unit absorbed the load is the student
-program described below; part is that some capacity was simply lost, a GIS position cut in 2024
-and other roles ended, with the demand in those areas still there.
+program described below; part is that some capacity was simply lost, a GIS position left unfilled
+after August 2024 and later cut, and other roles ended, with the demand in those areas still there.
 
 [^c-staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
 model. The specific position histories rest partly on the author's account.
@@ -369,15 +369,16 @@ deep-learning workstation in the Young Research Library, bought with a Powell gi
 workstation and drone kit; and an R server DSC hosted for research groups whose data outgrew
 their own machines, Carceral Ecologies among them.
 
-Paying for it took a sequence of moves. Dataverse first ran under an AWS account belonging to
-the Library's IT division. When campus consolidated its AWS accounts, the cost landed on DSC.
-Powell infrastructure funds covered it until they ran out, and then the archive's own gift fund
-took over. That last step depended on a budget change made earlier. DSC moved the archive's
-large recurring subscriptions, ICPSR and Roper, off its own gift fund and onto the Library's
-general membership budget, the way research libraries usually treat major database
-memberships. That freed the archive's original fund to cover the cloud costs of Dataverse and
-the point-cloud platform. The move was possible because one role could see the archive's budget
-and the infrastructure budget at the same time.[^c-funding]
+Paying for it involved two funds with different jobs. Dataverse first ran under an AWS account
+belonging to the Library's IT division. When campus broke up its shared AWS arrangement and DSC
+got its own account, the cost landed on DSC; Powell infrastructure funds covered it for about two
+years, and then it came out of the archive's operating fund, the one the 2014 transfer set up.
+That fund paid the recurring costs: ICPSR and Roper (both moved to higher pricing tiers over
+time), AWS, and Redivis after two years of University Librarian discretionary backing. SDA and
+Colectica were dropped. The Library added money to the fund over time to cover the growth. The
+gift fund, the Data Archive Purchase Fund (fund no. 604970/56972), bought data instead: the L2
+voter file, the LARIAC imagery, and four licensed English corpora (COCA, COHA, NOW, and the
+Coronavirus Corpus) held in UCLA Dataverse for UCLA faculty and graduate students.[^c-funding]
 
 Keeping the systems current was its own work. By 2025 production ran Dataverse 5.14, a release
 line upstream no longer patches, and DSC had begun rebuilding the service as code: Terraform for
@@ -385,10 +386,10 @@ the AWS resources, an Ansible playbook forked from the Dataverse community's, an
 Postgres database, with the 6.x series as the target. That rebuild was not finished where this
 history stops.
 
-[^c-funding]: The direction of the subscription move and the reinvestment into infrastructure is
-confirmed by budget ledgers and AWS cost records; the full dollar trail, and the dates two other
-subscriptions were dropped, is only partly reconstructed. See `evidence/library-era-2014-present.md`
-§13.
+[^c-funding]: The author's firsthand account as director; the gift fund's name and number are
+from the 2014 transfer agreement. The years of Powell's AWS coverage and the Library's added
+amounts are not yet reconstructed from transaction records. Corrected 2026-09-28: an earlier
+draft reversed the funds' roles.
 
 ### Teaching: The Carpentries and an instructor network
 
@@ -463,13 +464,13 @@ reproducibility.
 
 ### Spatial data and GIS
 
-Geography has consistently been the unit's largest single workshop audience. Before the GIS
-position was cut in 2024, DSC's geospatial librarian handled 70 to 80 booked consultations a
+Geography has consistently been the unit's largest single workshop audience. Until the GIS
+librarian left for a faculty position in August 2024, DSC's geospatial librarian handled 70 to 80 booked consultations a
 year, started the systemwide UC GIS Week, ran UC GIS workshops that reached hundreds of people,
 managed the LARIAC regional aerial-imagery holdings (bought through the archive's gift fund),
 and worked with UC San Diego and UC Santa Barbara on geospatial discovery for Dataverse. DSC
 also ran UCLA's campus ArcGIS Online platform. It grew to more than 7,000 accounts and over
-3,000 active users a year, and since the position was cut it has run past its licensed storage
+3,000 active users a year, and since the position went unfilled it has run past its licensed storage
 with no assigned administrator.[^c-gis]
 
 [^c-gis]: GIS consultation counts and the ArcGIS figures: DSC statistics and Tim Dennis's Data
@@ -637,9 +638,8 @@ named; the history's public wording already reflects the uncertainty.
 - Repository defense (2025 bot scraping): a ticket or postmortem reference to anchor the dates.
 - Consultations: which figure, if any, to treat as the public number (1,175 service interactions
   2023–2025 vs. the 604 and 741 direct-consultation audits).
-- Infrastructure funding: budget records for the infrastructure and dataset purchases funded from
-  the freed subscription line; when campus consolidated the AWS accounts; when the Powell
-  infrastructure funds ran out.
+- Infrastructure funding: the years Powell funds covered AWS, and the amounts and years the Library
+  added to the operating fund.
 - Instruction: the validated DSC-wide instruction totals, once the instruction-stats integration
   is cleared for publication.
 - Open science: the nature of the BITSS relationship, and whether the COS membership continued

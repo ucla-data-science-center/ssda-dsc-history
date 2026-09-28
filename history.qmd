@@ -368,9 +368,10 @@ and dates her UCLA start to about 1977 from ICPSR's own materials;
 ## 2014-2018: The archive moves to the Library and widens its mandate
 
 **The 2014 transfer agreement** (effective 2014, executed 2015) moved SSDA from the Social
-Sciences Division to the UCLA Library. It carried 2.0 FTE, about $245K in permanent funds, about
-$29K in subscriptions (ICPSR, Roper, UC Berkeley/SDA, Colectica/Algenta), and a small foundation
-gift fund; Elizabeth Stephenson and Jina "Jamie" Jamison came across with it
+Sciences Division to the UCLA Library. It carried 2.0 FTE and an operating fund of about $245K in permanent funds, with about
+$29K of it for subscriptions (ICPSR, Roper, UC Berkeley/SDA, Colectica/Algenta). A separate,
+small foundation gift fund came too: the Data Archive Purchase Fund (fund no. 604970/56972),
+set up in the Social Sciences division to support the archive. Elizabeth Stephenson and Jina "Jamie" Jamison came across with it
 [@uclaSsdaMou2014]. Its stated purpose was to "expand access to the archive's expertise while
 modernizing its services." It also carried a consultation clause: if the Library later made
 "substantial changes to the operations of Social Sciences Data Archives," it was to meet with the
@@ -418,7 +419,8 @@ files too large and too restricted to download, drone and aerial imagery, point 
 of measured 3D points that together model an object or a landscape), handwritten tables that no
 standard text-recognition software could read, and research code with no license. Geography was
 the largest single audience for DSC workshops every year, and DSC ran the campus ArcGIS Online
-mapping platform, which grew past 7,000 accounts, until the unit's GIS position was cut in 2024.[^gis]
+mapping platform, which grew past 7,000 accounts. That ended when the unit's GIS librarian left for a
+faculty position in August 2024; the position was never refilled and was later cut.[^gis]
 
 Four cases show how DSC handled that range. Each starts with a stewardship problem and ends with
 what stayed usable.
@@ -636,8 +638,8 @@ less, and mostly from redesigning existing Library positions: a
 geospatial librarian rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao), a Library IT data
 manager rebuilt as a Data Science Facilitator, and a Digital Library programmer with a
 machine-learning background recruited across divisions at half time (Kristian Allen,
-2018–2024).[^staff-model] Some capacity was simply lost: the GIS position was cut in 2024 with the
-demand still there.
+2018–2024).[^staff-model] Some capacity was simply lost: when the GIS librarian left for a faculty
+position in August 2024, the position went unfilled and was later cut, with the demand still there.
 
 Students made up much of the difference. DataSquad borrowed its model from a student-staffed data
 consulting program at Carleton College.[@lackie2019] UCLA's version began in 2020 on a Norman
@@ -656,7 +658,7 @@ All ten students whose outcomes after graduation were tracked for 2023 to 2025 w
 or technical roles.
 
 Norman Powell's philanthropy paid for much of the expansion: a data-scientist position, a
-deep-learning workstation and DSC space in the Young Research Library, a period of cloud costs,
+deep-learning workstation and DSC space in the Young Research Library, about two years of AWS costs after DSC got its own AWS account,
 and DataSquad's seed funding, all separate from his December 2016 gift endowing the University
 Librarian position. The people who carried the work were Jamie Jamison (repository and curation),
 Doug Daniels (3D and emerging technology), Leigh Phan (programmer, then data scientist), Zhiyuan
@@ -671,27 +673,37 @@ model. The specific position histories rest partly on the author's account; exac
 dates for some positions are still being confirmed (companion,
 [open questions](history-companion.html#open-questions)).
 
-### Paying for the systems meant moving old subscriptions onto the Library's budget
+### Paying for the systems, and for the data
 
 Almost none of this ran on hardware DSC owned. UCLA Dataverse runs on Amazon Web Services, with
 about 5.4 TiB of files as of May 2025; the point-cloud service has its own AWS server; Redivis is
-licensed. Dataverse first ran under the Library IT division's AWS account. When campus
-consolidated its AWS accounts, the cost landed on DSC. Powell infrastructure funds covered it
-until they ran out, and then the archive's own gift fund took over.
+licensed. Dataverse first ran under the Library IT division's AWS account. When campus broke up
+its shared AWS arrangement and DSC got its own account, the cost landed on DSC. Powell
+infrastructure funds covered it for about two years, and after that it came out of the
+archive's operating fund.
 
-That last step depended on an earlier budget change. DSC moved the archive's large recurring
-subscriptions, ICPSR and Roper, off its gift fund and onto the Library's general membership
-budget, the way research libraries usually treat major database memberships. That freed the
-archive's original fund for the cloud costs of Dataverse and the point-cloud platform. The move
-was possible because one role could see the archive's budget and the infrastructure budget at
-the same time.[^funding] By 2025 DSC had also begun rebuilding the Dataverse service as code, so
+That operating fund, the one the 2014 transfer set up, paid the recurring costs: the ICPSR and
+Roper memberships, AWS, and Redivis, which University Librarian discretionary funds had backed
+for its first two years. Those costs grew. ICPSR and Roper moved to higher pricing tiers, and
+cloud costs rose with the repository; two small subscriptions, SDA and Colectica, were dropped
+along the way. The Library added money to the fund over time to cover the difference, and that
+is a large part of how the Library paid for DSC's growth.
+
+The gift fund did a different job. The Data Archive Purchase Fund bought data for UCLA
+researchers: the L2 national voter file, the LARIAC aerial imagery, and four large English
+corpora (the Corpus of Contemporary American English, the Corpus of Historical American English,
+News on the Web, and the Coronavirus Corpus), which sit in UCLA Dataverse under a license that
+limits them to UCLA faculty and graduate students.[^funding] By 2025 DSC had also begun rebuilding the Dataverse service as code, so
 it could be recreated and upgraded; that rebuild was not finished where this history stops.
 
-[^funding]: The direction of the subscription move and the reinvestment into infrastructure is
-confirmed by budget ledgers and AWS cost records; the full dollar trail, and the dates two other
-subscriptions were dropped, is only partly reconstructed. See
-`evidence/library-era-2014-present.md` §13 and the companion's
-[open questions](history-companion.html#open-questions).
+[^funding]: The division between the two funds, the Library's added contributions, the Powell
+and University Librarian bridge funding, and the dropped subscriptions are the author's
+firsthand account as the unit's director; the gift fund's name and number are from the 2014
+transfer agreement [@uclaSsdaMou2014]. The years of Powell's AWS coverage and the amounts the
+Library added have not yet been reconstructed from transaction records. An earlier draft of
+this history said the subscriptions were moved off the gift fund to free it for cloud costs.
+That was wrong and was corrected on 2026-09-28. The corpora are listed in UCLA Dataverse
+(for example doi:10.25346/S6/Z36KRR for COCA).
 
 
 ## Evidence of use: what can and cannot be counted {#evidence-of-use}
