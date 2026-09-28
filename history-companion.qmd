@@ -279,8 +279,8 @@ more than the whole historical SSDA, LAMAS, SCSS, and LACSS corpus put together.
 aim, to "expand citation practices" in archaeology, is the same bibliographic-control instinct
 Stephenson brought to the 1980s, applied to a different field at a much larger scale.
 
-Reuse is harder to count than deposits. Of about 959 indexed datasets, 180 carry a link to a
-publication, and 13 of those papers can be traced in OpenAlex, with 258 citations between them.
+Reuse is harder to count than deposits. In one indexing pass (system, date, and exclusions
+still to be confirmed), 180 of about 959 datasets carried a link to a publication, and 13 of those papers can be traced in OpenAlex, with 258 citations between them.
 That is a floor, not an estimate. A DataCite export bug drops links, restricted and draft
 datasets are left out, archaeology datasets tied to books have no DOI to follow, and about 200
 public datasets have no publication link on file. The traceable depositors include a
@@ -315,9 +315,9 @@ programs too: the Sustainable LA Grand Challenge undergraduate scholars, the Mel
 and graduate programs in social science, urban planning, applied statistics, and
 management.[@dennisEtal2021]
 
-The volume is documented for the later years. From 2023 to 2025 the unit logged at least 1,175
-service interactions: 785 scheduled consultations, 156 service-desk tickets, and 234 tracked
-project collaborations. The School of Public Affairs, the Social Sciences division, and Life
+The volume is documented for the later years. From 2023 through 2025 DSC recorded 785 scheduled
+consultations, 156 service-desk tickets, and 234 tracked project collaborations. The categories
+describe different kinds of work and should be read separately. The School of Public Affairs, the Social Sciences division, and Life
 Sciences brought the most consultations. Over the same years the work changed shape, from single
 appointments toward project support that ran for months, and the longest of those engagements
 are in [Research impact](history.html#evidence-of-use).[^c-consults]
@@ -563,7 +563,8 @@ in scanned PDFs. A DataSquad student, Lukas Hager, built the core OCR pipeline t
 shared, and other students containerized a layout-analysis workflow for medieval canon-law
 texts. By 2026 the team had a triage tool that runs a fast baseline engine and a stronger AI
 model side by side and recommends the cheapest defensible path to usable text for a given
-collection.[^c-ocr] The same methods reached audio: transcribing interviews with dance scholars
+collection. The outputs and research use of each project named here are still being
+documented.[^c-ocr] The same methods reached audio: transcribing interviews with dance scholars
 for World Arts and Cultures, and processing recorded conversations for a dissertation in speech
 research.
 
@@ -598,7 +599,7 @@ Students worked with staff, not in front of them, and senior students ran projec
 Their share grew as staff capacity shrank. DataSquad students handled 190 of the unit's
 scheduled consultations from 2023 to 2025, about a quarter, most of them in 2023. After that
 their work moved toward sustained project support, where tracked tasks grew from 6 in 2023 to 111
-in 2025, as departments started planning research around the team's availability rather than
+in 2025 (task tracking began in 2023, so part of that rise is record-keeping), as departments started planning research around the team's availability rather than
 calling only when something broke. Two long engagements show the kind of work. Lawrence Lee and
 Madeline Kim rebuilt the pipeline for Carceral Ecologies' helicopter-surveillance data so that a
 load that took about 318 minutes ran in about two. Julia Wood, Ethan Allavarpu, Tristan Dewing,
@@ -606,8 +607,8 @@ and Lee cleaned and restructured the BioCritical Studies Lab's national deaths-i
 cutting 41,466 records to 29,208 without losing what the lab needed, and built tools the lab
 could maintain on its own.
 
-It was also a pipeline. Of the ten students whose outcomes after graduation were tracked for
-2023 to 2025, all went into data or technical roles, with McKinsey, Amazon, AIG, Stanford, and
+It was also a pipeline. DSC documented post-graduation destinations for ten DataSquad students
+from 2023 to 2025 (a tracked group, not a program-wide rate). All ten went into data or technical roles, with McKinsey, Amazon, AIG, Stanford, and
 CVS Health among the destinations; Julia Wood joined the Library as a data specialist. The model
 has been picked up elsewhere through a DataSquad International network and written up in a
 co-authored chapter in ACRL's *Data Culture*. Its research contributions are in the spotlights
@@ -636,8 +637,11 @@ named; the history's public wording already reflects the uncertainty.
 - Staffing: the Data Science Facilitator's name and dates; Leigh Phan's exact title and start
   date, and her titles before 2021; the 5-FTE peak year and the headcount at dissolution.
 - Repository defense (2025 bot scraping): a ticket or postmortem reference to anchor the dates.
-- Consultations: which figure, if any, to treat as the public number (1,175 service interactions
-  2023–2025 vs. the 604 and 741 direct-consultation audits).
+- Consultations: which figure to treat as the public number for 2023–2025 (785 scheduled
+  consultations vs. the 604 and 741 direct-consultation audits, which use different windows).
+- Publication links: which system produced the 959 indexed datasets, on what date, and what was
+  excluded (ask Jamie or whoever ran the extract). Until then the 180, 13-paper, and 258-citation
+  figures carry that caveat.
 - Infrastructure funding: the years Powell funds covered AWS, and the amounts and years the Library
   added to the operating fund.
 - Instruction: the validated DSC-wide instruction totals, once the instruction-stats integration
