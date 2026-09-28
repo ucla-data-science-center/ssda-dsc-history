@@ -264,6 +264,19 @@ body.quarto-dark :not(pre) > code {
   main table { display: block; overflow-x: auto; }
 }
 
+/* Acronyms (acronyms.lua): a quiet dotted underline; hover or tap shows the expansion. */
+main abbr {
+  text-decoration: underline dotted;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 0.15em;
+  cursor: help;
+}
+
+/* "Edit this page" links added at the top and bottom of each page (_page-extras.html). */
+.page-edit-link { font-size: 0.85rem; margin: 0.4rem 0 1rem; }
+.page-edit-link .page-edit-note { color: var(--ink-soft); }
+.page-edit-bottom { border-top: 1px solid var(--library-border); padding-top: 0.8rem; margin-top: 2rem; }
+@media print { .page-edit-link { display: none; } }
 
 /* ── Site footer: navy band, gold rule, three labelled link groups ──
    White on #003B5C is about 11:1; gold #FFD100 headings about 8:1; the
