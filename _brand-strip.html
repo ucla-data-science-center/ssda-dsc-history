@@ -5,3 +5,14 @@
   <span class="brand-el brand-bigcircle"></span>
   <span class="brand-el brand-linechart2"></span>
 </div>
+<script>
+  // Quiet final footer line: authorship and evidence cutoff, apart from the link groups.
+  document.addEventListener("DOMContentLoaded", function () {
+    var footer = document.querySelector("footer .nav-footer");
+    if (!footer) return;
+    var note = document.createElement("p");
+    note.className = "footer-note";
+    note.textContent = "Draft by Tim Dennis, director of the Data Science Center. Evidence cutoff: August 31, 2026.";
+    footer.appendChild(note);
+  });
+</script>
