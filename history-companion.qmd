@@ -96,8 +96,8 @@ for complete detail. Highlights not in the main narrative:
   Medicine coursework.
 - Drone/LiDAR mapping kit acquired late spring/early summer 2023; FAA Part 107 UAS Remote Pilot
   certification. Used on an ongoing Angkor Wat temple-mapping project (Cambodia/Philippines) and
-  the Mosfell Valley, Iceland survey, **one trip, Summer–Fall 2024** (per Tim 2026-09-02; the
-  "summer 2023" mention in the 2023 SOPA was planning/prep).
+  the Mosfell Valley, Iceland survey, **one trip, Summer–Fall 2024** (per Tim 2026-09-02; an earlier
+  "summer 2023" mention was planning).
 - LiDAR-scanned Powell Library twice: terrestrial LiDAR, Nov-Dec 2021 ("for preservation,
   documentation, and exhibition of 3D data tools"), and drone-based photogrammetry/aerial
   mapping, Summer 2024.
@@ -112,8 +112,7 @@ for complete detail. Highlights not in the main narrative:
   between Doug's work and Norman Powell's ongoing patronage relationship.
 - Professional service: Liberal Technology Group (founding member, 2020-present); CS3DP,
   Community Standards for 3D Preservation (member, 2018-present, IMLS-funded); UC 3D Data Common
-  Knowledge Group (member since 2020, chair since 2024; the 2023 SOPA's looser "Chair"
-  framing since 2020 is superseded by this more precise dating); IIIF 3D Community
+  Knowledge Group (member since 2020, chair since 2024); IIIF 3D Community
   Group (member since 2022, co-chair since 2024, not 2023 as an earlier note in this project
   stated, correct on next full pass); UC Love Data Week (UCLA campus liaison, 2024).
 
@@ -635,7 +634,7 @@ Editorial questions that used to sit in the history's text as bracketed notes, m
 named; the history's public wording already reflects the uncertainty.
 
 - Staffing: the Data Science Facilitator's name and dates; Leigh Phan's exact title and start
-  date, and her titles before 2021; the 5-FTE peak year and the headcount at dissolution.
+  date, and her titles before 2021; and the 5-FTE peak year.
 - Repository defense (2025 bot scraping): a ticket or postmortem reference to anchor the dates.
 - Consultations: which figure to treat as the public number for 2023–2025 (785 scheduled
   consultations vs. the 604 and 741 direct-consultation audits, which use different windows).
@@ -730,45 +729,14 @@ named; the history's public wording already reflects the uncertainty.
   not, Austin's list has 22, Miller's 21; "8" may be the "Committee of Eight" (1962–63
   correspondence in ICPSR's Bentley archive), unread. Marvick's personal founding role is
   undocumented (see the 1961–1964 section).
-- **UC Carpentries workshop/learner counts**: Tim's SOPA states "28 workshops... 2,896 learners"
-  for the 2023-2025 review period; his Data Summary states "37 workshops (2022–2025)... 1,495
-  attendees (2024–2025)" for what may be a different scope (UC Carpentries alone vs. UCLA
-  Carpentries + UC Carpentries combined) and a different date window. The founding/co-founding
-  distinction (UCLA Carpentries 2018, UC Carpentries co-founded 2020) is resolved per Tim
-  2026-08-09; the workshop counts are not. Use the SOPA's explicitly-scoped figure if one number
-  is needed publicly.
+- **UC Carpentries workshop and learner counts**: internal summaries give different totals for
+  different scopes (UC Carpentries alone or combined with UCLA Carpentries) and date windows;
+  not yet reconciled. The founding and co-founding dates (UCLA Carpentries 2018, UC Carpentries
+  co-founded 2020) are settled.
 - **Exact dates for three of Norman Powell's four gifts** (data scientist position, deep
-  learning machine/DSC space, DataSquad seed funding), all undated in every source checked.
-- **"The first reorg"**: Tim mentioned a first reorganization during the 2018-present span that
-  reduced data-science support capacity. Recorded as a bare fact per the Method/independence
-  note's discipline; not dated or elaborated, deliberately kept out of the public narrative
-  entirely, not just trimmed, since this project's whole premise is staying independent of any
-  reorg argument (see `history.qmd` Methods and limitations).
-- **Jamie Jamison's DB dump / staff dates for 1977-1986**, tracked in
-  `ucla-data-science-center/dataverse-infrastructure#10`, not yet received.
+  learning machine/DSC space, DataSquad seed funding). The director's 2017-2019 program timeline
+  dates two gifts to DSC, December 10, 2018 and December 15, 2019, but does not say which
+  purposes they funded.
+- **Staff dates for 1977-1986**, from the repository's historical database, not yet received.
 - **The Marvick Papers** (UCLA Special Collections, 63 boxes, 1955-1998), not yet consulted for
   primary founding documents, including Marvick's own 1967 proposal.
-- **Tim's own 2021 book chapter**, "From a Data Archive to Data Science" (Dennis et al., in
-  Herndon ed., *Data Science in the Library*, Facet, pp.99-109), not yet read; likely already
-  contains a considered account of the 2014-2018 transition that predates and could sharpen
-  everything reconstructed here piecemeal.
-
-## Achievements resting only on performance-review language (not independently corroborated) {#review-only-claims}
-
-Per the 2026-08-09 validate-external adjudication's evidence-tier rule (performance-review
-documents are discovery sources, not sole public evidence): the following are real per Tim's or
-Doug's self-authored review documents but have no independent corroboration found yet, and
-should stay out of the public narrative until/unless corroborated:
-
-- Leigh Phan's "deep learning work with Dennis" specifically (her independently-verified work is
-  open-data/mapping and data-ethics instruction, real, but distinct from "deep learning").
-- Zhiyuan Yao's GIS-analysis work specifically (independently verified: Carpentries workshop
-  development; GIS-analysis project work itself not yet found under his name).
-- The precise causal claim that Redivis/Carceral Ecologies/BioCritical Studies Lab outcomes
-  constitute "impact" in the strongest sense (vs. documented activity/adoption/outcome), see
-  `history.qmd` Research Impact for how this is handled with tiered language.
-
-Full detail: `evidence/sopa-research-enabled-and-intellectual-contributions.md` and
-`evidence/data-summaries-and-reconciliation.md`. Note: source documents for this section include
-confidential peer-review letters, reference letters, and salary information not read for this
-project and not summarized anywhere in this repository.
