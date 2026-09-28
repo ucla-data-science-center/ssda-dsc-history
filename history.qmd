@@ -612,7 +612,7 @@ Powell gift, became a formal program in 2021, and in 2024 absorbed the Lux Lab's
 Students handled 190 of the unit's scheduled consultations from 2023 to 2025, about a quarter,
 then moved toward long project work. For Carceral Ecologies, Nicholas Shapiro's lab, Lawrence Lee
 and Madeline Kim rebuilt the pipeline for helicopter-surveillance flight data so that one
-documented processing task that had taken about 318 minutes ran in about two. For Terence Keel's
+measured data-loading step that had taken about 318 minutes ran in about two. For Terence Keel's
 BioCritical Studies Lab, Julia Wood, Ethan Allavarpu, Tristan Dewing, and Lee cleaned and
 restructured a national deaths-in-custody dataset and built tools the lab could maintain on its
 own.
@@ -875,7 +875,8 @@ view. The record it rests on is held to a plain standard:
 - Work done by a team is credited to the team. Individuals are named where authorship, formal
   authority, or accountability makes it matter.
 
-Evidence cutoff: 2026-08-31. Corrections and version history are in the project repository.
+Evidence cutoff: 2026-08-31. The working evidence files and version history are kept in a private
+repository. To report an error or add context, use the correction link at the foot of each page.
 
 ### How the evidence is handled
 
@@ -901,7 +902,7 @@ project does instead:
   review document supports a claim, it is either left out or attributed as a self-reported
   account. See the companion's
   [list of review-only claims](history-companion.html#review-only-claims).
-- Contemporary impact claims follow the DSC Statistics site's claim register, which records the
+- Contemporary impact claims follow the Research Enabled by DSC site's claim register, which records the
   approved wording and what is not approved for each case.
 - An outside read for factual support and proportion is optional, at the author's discretion;
   if one happens, the reader is named here.
@@ -925,5 +926,7 @@ from `references.bib` via `chicago-notes-bibliography.csl`.
 ::: {#refs}
 :::
 
-The full evidence base, with per-claim detail and verification status, is in `evidence/` and
-`dsc-evidence-registry/claims/` in this repository.
+The full evidence base, with per-claim detail and verification status, is held in the author's
+private working files. Published sources are listed above; the research site's
+[claim register](https://github.com/ucla-data-science-center/dsc-stats-reports/blob/main/claim-register.md)
+records the approved wording and source for figures the two sites share.

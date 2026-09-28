@@ -222,8 +222,8 @@ model. The specific position histories rest partly on the author's account.
 [^c-dataverse-count]: The "~1,600" resolves an apparent discrepancy. UCLA Dataverse holds about
 376 datasets deposited directly at UCLA plus about 1,014 legacy Social Science Data Archive
 datasets harvested in and curated by Library staff, which is roughly 1,390 released, or 1,603
-counting drafts and restricted deposits. UCLA's live-dashboard figure of about 377 is the
-directly-deposited slice. See `evidence/library-era-2014-present.md` §4.
+counting drafts and restricted deposits. The research site's figure for the directly deposited slice was about 377 in August 2026 and
+about 395 in September 2026. See `evidence/library-era-2014-present.md` §4.
 
 ### What stayed constant, and what changed
 
@@ -501,7 +501,7 @@ atlas of the statues.
 In 2023 DSC added a field kit: a drone with LiDAR and photogrammetry payloads, an RTK base
 station for survey-grade positioning, and a dedicated 3D workstation, flown by Daniels under an
 FAA remote-pilot certificate. It went to Iceland's Mosfell Valley with a Cotsen doctoral
-student for a valley-scale survey (one trip, 2024, per Tim 2026-09-02; the DSC Statistics claim
+student for a valley-scale survey (one trip, 2024, per Tim 2026-09-02; the Research Enabled by DSC claim
 register does not yet approve a year, see Open questions), and to ongoing temple mapping at Angkor. It also went, twice,
 to Powell Library: a terrestrial LiDAR scan in 2021 and a drone survey in 2024, of the building
 named for the family whose gifts funded much of DSC's growth.
@@ -522,7 +522,7 @@ Material Culture Initiative: with Professor Kelly Nguyen and the Vietnamese Heri
 Daniels 3D scanned the "Boat of Hope," a river sampan that carried nine refugees out of Vietnam
 in 1984, and prepared the models for the museum's public seven-day narrative of one family's
 escape; DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it (credit per
-the DSC Statistics claim register, 2026-09-27).
+the Research Enabled by DSC claim register, 2026-09-27).
 Daniels was named a UCLA Librarian of the Year for 2026, one of two given university-wide by
 LAUC-LA.[@ucla-newsroom-librarians-2026] His work also ran back to the donor relationship: he
 showed the lab to the Powell Society donor circle at open houses in 2017, 2018, and 2019.
@@ -649,7 +649,7 @@ named; the history's public wording already reflects the uncertainty.
 - Text and machine learning: what the deep-learning workstation was used for; the text corpora
   bought with archive funds; when the OCR work started, whether the researchers can be named, and
   what each project produced.
-- 3D student credit: which students did what on the "Boat of Hope." The DSC Statistics claim
+- 3D student credit: which students did what on the "Boat of Hope." The Research Enabled by DSC claim
   register (§20) credits Daniels with the scan and Bianca Badajos with setting up the Potree
   viewer, and does not approve saying the student who processed the Iceland data joined the boat
   scan. `evidence/library-era-2014-present.md` (older) credits Badajos and Connor Lim with the
