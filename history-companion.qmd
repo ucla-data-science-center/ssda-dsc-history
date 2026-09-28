@@ -676,10 +676,14 @@ named; the history's public wording already reflects the uncertainty.
   Studies Lab); add from the list once it arrives.
 - Dataverse-then-ICPSR pattern (Tim, 2026-09-27: learned by trial and error, not planned). One
   case confirmed from public records: the Behind Bars COVID Prison Policy Index (UCLA Dataverse,
-  Jan 2022; ICPSR 38730, 2023). Tim said it happened with two datasets; the second is not yet
-  identified. The Williams Institute's UCLA Dataverse dataset (LGBT health services, 2021) has no
-  ICPSR counterpart found, and TransPop and Generations went to ICPSR without a UCLA Dataverse
-  stage. Keel's lab data is a candidate for the ICPSR stage, complicated by being compiled from
+  Jan 2022; ICPSR 38730, 2023). Second case found 2026-09-27 in Tim's peer-review evidence
+  (DSC consultation exports) and confirmed in public records: Carceral Ecologies' *Autopsy
+  Analysis of Deaths in LA County Jail, 2009–2018* (UCLA Dataverse May 2023; ICPSR 38958, Feb
+  2024), after an "Open ICPSR documentation conversation" (Tim and Jamie with Shapiro, 2021-06-07)
+  and "Discuss data submission to ICPSR" (Jamie with Shapiro, 2022-10-20). Behind Bars asked
+  "Would you recommend depositing to Open ICPSR?" (2022-05-19). The Williams Institute's UCLA
+  Dataverse dataset (LGBT health services, 2021) has no ICPSR counterpart found, and TransPop and
+  Generations went to ICPSR without a UCLA Dataverse stage. Keel's lab data is a candidate for the ICPSR stage, complicated by being compiled from
   multiple sources.
 - Keel and *The Coroner's Silence*: "DSC's work credited in the book" stays out (no documented
   credit). New documented link, 2026-09-27: the lab's UCLA Dataverse collection holds

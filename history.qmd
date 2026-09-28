@@ -485,7 +485,11 @@ dataset out and published it in UCLA Dataverse, with DSC helping shape it along 
 dataset down to the level of individual variables and document it for long-term reuse.[^curation]
 The UCLA Law Behind Bars Data Project, which tracked COVID-19 in prisons, jails, and immigration
 detention nationally, followed that path: its COVID Prison Policy Index went into UCLA Dataverse in
-January 2022, and ICPSR released a curated version as study 38730 in 2023. The Williams Institute
+January 2022, and ICPSR released a curated version as study 38730 in 2023. Nicholas Shapiro's
+Carceral Ecologies lab did the same with its autopsy analysis of deaths in the Los Angeles County
+jail: published in UCLA Dataverse in May 2023, released by ICPSR as study 38958 in 2024. DSC
+consultation records show both projects asking DSC about ICPSR deposit along the way, Carceral
+Ecologies from 2021 and Behind Bars in 2022. The Williams Institute
 brought its national surveys of LGBT people, among them TransPop, the first national probability
 sample of transgender adults in the United States, which reached ICPSR with DSC curation support.
 Terence Keel's BioCritical Studies Lab publishes its deaths-in-custody data in UCLA Dataverse,
@@ -498,10 +502,13 @@ pattern and the reason for it (ICPSR's variable-level curation) are the author's
 records: the Behind Bars collection on UCLA Dataverse (created 2022-01-28), including the *COVID
 Prison Policy Index* (doi:10.25346/S6/B5GOLX), and ICPSR's curated release, *COVID Behind Bars:
 COVID Prison Policy Index, United States, 2020–2021* (ICPSR 38730, 2023,
-doi:10.3886/ICPSR38730.v1); the BioCritical
-Studies Lab collection, with *Autopsy Analysis of Deaths in LA County Jail, 2009–2018* (2023,
-doi:10.25346/S6/JOOUYM), *LA County In-Custody Death Data, 2008–2019* (2025,
-doi:10.25346/S627C42Q), and *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI);
+doi:10.3886/ICPSR38730.v1); the Carceral Ecologies
+collection's *Autopsy Analysis of Deaths in LA County Jail, 2009–2018* (2023,
+doi:10.25346/S6/JOOUYM) and ICPSR's release of it (ICPSR 38958, 2024,
+doi:10.3886/ICPSR38958.v1); the BioCritical Studies Lab collection, with *LA County In-Custody
+Death Data, 2008–2019* (2025, doi:10.25346/S627C42Q), *National List of Lost Lives* (2025,
+doi:10.25346/S65RWE6N), and *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI);
+DSC scheduling records (LibInsight/Calendly exports, 2021–2022) for the ICPSR consultations;
 the Williams Institute studies at ICPSR (37938, 37166, 38421, 37877). The ICPSR deposits are the
 Williams Institute's; DSC's curation role there rests on the author's account. Hosted-collection
 detail is in the companion's [data hosted](history-companion.html#hosted-data) section.
@@ -925,8 +932,8 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 |---|---|---|
 | Licensed Redivis, ran the compliance review, and curated the L2 national voter file | Research in APSR, PNAS, BJPolS, and AEJ using the dataset | Public dataset DOI (doi:10.60603/D37P4R) and FORCE11 2024 presentation; the publication list comes from DSC records |
 | Led an IMLS open-science grant (Tim as Project Director) | 15 peer-reviewed open-science lessons, each with a DOI | Federal award record (RE-252335-OLS-22) and the public lesson repositories |
-| DataSquad and DSC support for Carceral Ecologies (Nicholas Shapiro): a rebuilt processing pipeline for helicopter-surveillance data and a hosted R server | The lab's research on police helicopter surveillance, covered by the *LA Times*, *The New Yorker*, and *Bloomberg* | Shapiro's own account of DSC's role and DSC project records; the press covered the lab's research, not DSC |
-| DataSquad data integration, analysis, and visualization for the BioCritical Studies Lab (Terence Keel), and a lab collection on UCLA Dataverse | The lab's deaths-in-custody datasets, published on UCLA Dataverse (2023, 2025), including the autopsy data behind *The Coroner's Silence*; the lab's research was recognized in UCLA's 2024 Public Impact Research Awards | Public Dataverse DOIs (e.g., doi:10.25346/S6R7CHCI) and DSC project records; the award recognizes the lab's research |
+| DataSquad and DSC support for Carceral Ecologies (Nicholas Shapiro): a rebuilt processing pipeline for helicopter-surveillance data, a hosted R server, and ICPSR deposit advice | The lab's research on police helicopter surveillance, covered by the *LA Times*, *The New Yorker*, and *Bloomberg* | Shapiro's own account of DSC's role and DSC project and consultation records; the lab's autopsy dataset on UCLA Dataverse (2023) and ICPSR (study 38958, 2024); the press covered the lab's research, not DSC |
+| DataSquad data integration, analysis, and visualization for the BioCritical Studies Lab (Terence Keel), and a lab collection on UCLA Dataverse | The lab's deaths-in-custody datasets, published on UCLA Dataverse (2025), including the autopsy data behind *The Coroner's Silence*; the lab's research was recognized in UCLA's 2024 Public Impact Research Awards | Public Dataverse DOIs (e.g., doi:10.25346/S6R7CHCI) and DSC project records; the award recognizes the lab's research |
 | Daniels's 3D scan of the "Boat of Hope" for the Refugee Material Culture Initiative (Kelly Nguyen) | The Vietnamese Heritage Museum's public 3D narrative, hosted on pointcloud.ucla.edu | The public narrative on DSC's server; the initiative's page on Daniels |
 | DataSquad student program | Ten tracked graduates, 2023–2025, all in data or technical roles | DSC's own tracking of graduate outcomes |
 
