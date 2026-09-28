@@ -20,9 +20,16 @@ jobs:
         with:
           tinytex: true
 
-      - name: Render and publish to GitHub Pages
+      - name: Render
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Check published HTML for editorial notes
+        run: python3 scripts/check_published_html.py _site
+
+      - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -13,11 +13,6 @@ csl: chicago-notes-bibliography.csl
 link-citations: true
 ---
 
-<!--
-STATUS: the checkable backing material for history.qmd. Full roster, project inventories, chart
-methods, and open discrepancies live here; history.qmd carries the narrative. Prose ran through
-the humanizer 2026-09-02. Cross-reference between the two, do not duplicate.
--->
 
 ## Full people and stewardship roster {#roster}
 
