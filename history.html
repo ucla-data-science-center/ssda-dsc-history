@@ -401,17 +401,6 @@ div.csl-indent {
 </header>
 
 
-<!--
-STATUS: one perspectival institutional history, single document (decided 2026-09-01). Layered
-revision 2026-09-27 (two external reviews, adjudicated in
-2026-09-27-validation-capture-history-review.md): a 30-second summary, a short "what persisted,
-what changed" path, then the chronology; the 2018-present chapter is organized around the
-material researchers brought, what DSC built, and who kept it running. Inventories, career and
-service detail, and disputed minutiae live in history-companion.qmd, linked by section. The
-narrative stops at the DSC's pre-2026 state; it does not describe the 2026 dissolution. Avoid
-teleology: the data-citation-to-AI sequence is a retrospective way of narrating the recent
-decades, not the intention of every era.
--->
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -498,9 +487,7 @@ body.quarto-dark .ssda-timeline {
 <svg viewbox="0 0 700 300" role="img" aria-labelledby="tl-title tl-desc">
   <title id="tl-title">Two tracks, 1961 to 2026: institutional home, and dated material or services</title>
   <desc id="tl-desc">Top track: Political Behavior Archive (PBA) 1961 to 1964; Survey Research Center (SRC) 1964 to 1974; Institute for Social Science Research 1974 to about 2009, with the archive named SSDA in 1977; Institute for Social Research about 2009 to 2011; standalone SSDA about 2011 to 2014; UCLA Library from 2014, as the Data Science Center from 2018. Bottom track: 1961 survey data distributed on campus; LAMAS surveys 1970 to 1976; 1977 staffed consulting service; LACSS surveys 1992 to 2002; 2013 DDI-Lifecycle metadata tests; 2018 UCLA Dataverse; 2022 web 3D viewer; 2023 governed restricted-data service.</desc>
-  <!-- x(year) = 40 + (year-1961) * 9.538, domain 1961-2026 -> [40, 660] -->
   <text x="40" y="18" class="tl-track">Institutional home</text>
-  <!-- home bands, y 44-72 -->
   <rect x="40" y="44" width="28.6" height="28" fill="#cfe0f0"></rect>
   <rect x="68.6" y="44" width="95.4" height="28" fill="#2774AE"></rect>
   <rect x="164" y="44" width="333.8" height="28" fill="#cfe0f0"></rect>
@@ -509,7 +496,6 @@ body.quarto-dark .ssda-timeline {
   <rect x="545.5" y="44" width="114.5" height="28" fill="#2774AE"></rect>
   <line x1="583.7" y1="44" x2="583.7" y2="72" stroke="var(--surface-1)" stroke-width="2"></line>
   <line x1="192.6" y1="44" x2="192.6" y2="72" stroke="var(--surface-1)" stroke-width="2"></line>
-  <!-- band labels -->
   <text x="54" y="38" class="tl-home" text-anchor="middle">PBA</text>
   <text x="116" y="62" class="tl-home-inv" text-anchor="middle">SRC</text>
   <text x="345" y="62" class="tl-home-on-light" text-anchor="middle">Institute for Social Science Research</text>
@@ -517,7 +503,6 @@ body.quarto-dark .ssda-timeline {
   <text x="507" y="38" class="tl-home" text-anchor="end">ISR, then standalone SSDA</text>
   <text x="552" y="38" class="tl-home" text-anchor="start">UCLA Library</text>
   <text x="587" y="88" class="tl-year" text-anchor="start">2018: DSC</text>
-  <!-- year axis -->
   <line x1="40" y1="150" x2="660" y2="150" stroke="var(--baseline)" stroke-width="1"></line>
   <text x="40" y="140" class="tl-year" text-anchor="middle">1961</text>
   <text x="164" y="140" class="tl-year" text-anchor="middle">1974</text>
@@ -526,7 +511,6 @@ body.quarto-dark .ssda-timeline {
   <text x="545.5" y="140" class="tl-year" text-anchor="middle">2014</text>
   <text x="660" y="140" class="tl-year" text-anchor="middle">2026</text>
   <text x="40" y="178" class="tl-track">Dated material or service</text>
-  <!-- items -->
   <circle cx="40" cy="200" r="5" fill="var(--series-1)"></circle>
   <text x="40" y="222" class="tl-item" text-anchor="start">1961 survey data</text>
   <text x="40" y="236" class="tl-item" text-anchor="start">shared on campus</text>
@@ -556,7 +540,6 @@ body.quarto-dark .ssda-timeline {
 <h2 class="anchored" data-anchor-id="a-political-scientist-starts-a-survey-data-archive">1961-1964: A political scientist starts a survey data archive</h2>
 <p>Political scientist Dwaine Marvick, who had joined UCLA’s faculty in 1954, founded the Political Behavior Archive (PBA) in 1961.<span class="citation" data-cites="marvickInMemoriam"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span> Rice and Southall place it in the field’s founding cohort: UCLA’s data service is the fourth-oldest social-science data library in their sample, after the Roper Center (1957), Berkeley (1958), and GESIS (1960), and ahead of ICPSR itself (1962).<span class="citation" data-cites="riceSouthall2016"><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></span> The PBA distributed survey and behavioral data from ICPR (ICPSR’s original name), the Roper Public Opinion Research Center, and local holdings to UCLA researchers.<span class="citation" data-cites="stilesStephenson2008"><a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></span> A UC memorial calls Marvick “an early advocate and practitioner of computer applications to political data.” No source found so far says why he founded the archive in 1961 in particular, and Heinz Eulau’s detailed 1999 memorial of Marvick never mentions it.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
 <p>The next year UCLA was among the founding member institutions of ICPSR. That is confirmed against the primary document: Warren Miller’s August 1962 memo to Rensis Likert lists “University of California at Los Angeles” among the members “as of July 30, 1962.”<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> Two details often attached to it are shakier. The archive’s own account says there were eight founding members and that UCLA joined “through [Marvick’s] efforts,” but Miller’s memo lists 21 institutions, and no document found so far gives Marvick a formal role in the founding. His documented ICPSR service begins on its governing board in 1964. The reasoning is in the companion’s <a href="history-companion.html#open-discrepancies">open discrepancies</a>.</p>
-<!-- internal working notes: evidence/marvick-biography-and-papers.md; evidence/stiles-stephenson-2008-ifla.md; evidence/icpsr-history.md; evidence/rice-southall-2016-ch1.md; evidence/miller-1962-considerations.md; evidence/icpsr-founding-members-austin.md; evidence/eulau-1999-miller-marvick-memoir.md; evidence/umich-bhl-9938-finding-aid.md. ISSR-era research from the 7-31 site branch (deep-research-report.md) merged 2026-09-02; spot-verified 2026-09-02 (Sears's ISSR dates confirmed; three-subperiod structure is catalog-grounded); Freeman/Brewer terms and the Fielder 1964/1976 question still open. -->
 </section>
 <section id="the-archive-becomes-a-reference-room-in-a-survey-center" class="level2">
 <h2 class="anchored" data-anchor-id="the-archive-becomes-a-reference-room-in-a-survey-center">1964-1974: The archive becomes a reference room in a survey center</h2>
@@ -564,14 +547,12 @@ body.quarto-dark .ssda-timeline {
 <p>The archive work was already a formal part of the SRC: taking in datasets from the tape-sharing era, keeping their codebooks, and running a reference room where researchers could work out how to use machine-readable data. What did not exist yet was a named unit with its own staff and consulting services. Stiles and Stephenson say the Archival Data Library ran “on a reference-room basis only.” One detail is unresolved: the archive’s own account puts the 1964 SRC “under the direction of Eve Fielder,” but her obituary says she became its first director in 1976.<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
 <p>The SRC’s main data product in this decade was the Los Angeles Metropolitan Area Surveys (LAMAS): ten waves, 1970–1976, a shared omnibus survey run about twice a year with questions submitted by different researchers.<span class="citation" data-cites="stilesStephenson2008 pawlockiStephenson1988"><a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a></span></p>
 <p>The decade’s clearest mark came from outside the archive. Around 1970 the UCLA Library’s Public Affairs Service, under Mary Ryan, bought 1970 census tapes from DUALabs. It was the Library’s first move into numeric data, and it was cited nationally as an early case of a library taking on machine-readable data.<span class="citation" data-cites="roweRyan1974 dodd1982"><a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></span></p>
-<!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md; evidence/lamas-scss-lacss-series.md; evidence/dodd-1982-library-trends-mrdf.md; evidence/deep-research-report.md (Fielder conflict) -->
 </section>
 <section id="issr-names-the-archive-and-gives-it-staff" class="level2">
 <h2 class="anchored" data-anchor-id="issr-names-the-archive-and-gives-it-staff">1974-1977: ISSR names the archive and gives it staff</h2>
 <p>The Institute for Social Science Research (ISSR) was established in 1974, taking in the SRC and its archival data library, under founding director Howard E. Freeman, a medical sociologist.<span class="citation" data-cites="stilesStephenson2008"><a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a></span> <strong>In 1977</strong> Associate Director Donald Treiman took the library that had run “on a reference-room basis only,” designed a research-support framework for it (working alongside a project across its whole life cycle, still the archive’s stated mission decades later), and formalized it as a named service unit, the Social Science Data Archive (SSDA), with its own Data Archivist line.<span class="citation" data-cites="stilesStephenson2008 pawlockiStephenson1988"><a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a></span> An OECD international directory dates the “ISSR Data Archive at UCLA” to December 1977.<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
 <p>So 1977 is when the archive was named and staffed, not when it was founded. The work ran without a break through the PBA and the SRC. Sources that seem to disagree about 1977 are describing different parts of the same change; one open question is whether Treiman’s unit reported to ISSR directly or to the SRC within it (see the companion’s <a href="history-companion.html#open-discrepancies">open discrepancies</a>).</p>
 <p>Around 1980 the flow ran the other way from the rest of this history. When the UCLA Library decided not to buy the 1980 census tapes, ISSR and SSDA took them on, with the support and storage that came with them.<span class="citation" data-cites="stilesStephenson2008"><a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></span> Numeric-data stewardship moved from the Library to the archive, the reverse of what would happen in 2014.</p>
-<!-- internal working notes: evidence/stiles-stephenson-2008-ifla.md (most precise account); dsc-evidence-registry/claims/issr-transfer-1977.yaml (4 independent corroborations); evidence/deep-research-report.md (OECD directory, catalog evidence, four-way conflict) -->
 </section>
 <section id="the-archive-becomes-a-campus-data-service" class="level2">
 <h2 class="anchored" data-anchor-id="the-archive-becomes-a-campus-data-service">1977-2014: The archive becomes a campus data service</h2>
@@ -610,11 +591,6 @@ body.quarto-dark .ssda-timeline {
 </div>
 <p><em>From the archive’s own newsletter, about 1979, as photographed for a 2017 Library staff presentation.</em></p>
 <p>Elizabeth “Libbie” Stephenson is the era’s through-line. ICPSR’s retirement profile dates her UCLA start to about 1977, and she is documented as staff and later Director through the 2014 transfer, retiring in 2016.<span class="citation" data-cites="pawlockiStephenson1988 stephenson2013dodd dotyEtal2014"><a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a></span><a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a> Her long run of work on bibliographic control, with Sue Dodd’s scholarship, IASSIST, and ICPSR, was early data-citation practice under an older name: making data properly identified and findable. By 2013 SSDA was already testing DDI-Lifecycle, the international standard for describing survey data across its life, and Colectica curation software. The archive also worked across borders on the Intergenerational Stratification and Mobility File, built with Harry Ganzeboom of the Free University in Amsterdam and Donald Treiman, and funded by the Netherlands Organisation for Scientific Research.<span class="citation" data-cites="stilesStephenson2008"><a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a></span></p>
-<!-- internal working notes: evidence/pawlocki-stephenson-1988-iassist.md; evidence/lamas-scss-lacss-series.md; evidence/icpsr-bibliography-lacss-example.md; evidence/deep-research-report.md; evidence/stephenson-icpsr-sources.md; evidence/newsletter-images-2017-deck.md; full SCSS/technical/rotating-PI detail in history-companion.qmd -->
-<!-- TODO before finalizing this section: Jamie Jamison's DB dump / staff dates for 1977-1986
-(tracked in ucla-data-science-center/dataverse-infrastructure#10); Marvick Papers (UCLA Special
-Collections, 63 boxes) not yet consulted; the ISSR-to-ISR rename date/authority and ISR's
-dissolution date still unknown. -->
 </section>
 <section id="the-archive-moves-to-the-library-and-widens-its-mandate" class="level2">
 <h2 class="anchored" data-anchor-id="the-archive-moves-to-the-library-and-widens-its-mandate">2014-2018: The archive moves to the Library and widens its mandate</h2>
@@ -624,7 +600,6 @@ dissolution date still unknown. -->
 <p>to foster a welcoming research community by developing data literacy and foundational coding skills through consulting and education … supporting researchers throughout the full data life cycle: planning and data management plans; acquisition, storage, cleaning and usage; analysis; publication; curation; and preservation.<span class="citation" data-cites="dennisEtal2021"><a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a></span></p>
 </blockquote>
 <p>SSDA became a named component of it. Todd Grappone, then the Library’s AUL for Digital Initiatives and IT, handled the 2014 transfer, coined the “Data Science Center” name, and helped design the 2018 service model.<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a></p>
-<!-- internal working notes: evidence/ssda-library-mou.md; evidence/ucla-ssda-lineage-2017-deck.md; evidence/data-sci-libraries_chapter_edits.md; evidence/dsc-era-people-2026-07-31.md -->
 </section>
 <section id="present-the-data-science-center-takes-on-new-kinds-of-research-material" class="level2">
 <h2 class="anchored" data-anchor-id="present-the-data-science-center-takes-on-new-kinds-of-research-material">2018-present: The Data Science Center takes on new kinds of research material</h2>
@@ -700,15 +675,6 @@ dissolution date still unknown. -->
 <h3 class="anchored" data-anchor-id="paying-for-the-systems-meant-moving-old-subscriptions-onto-the-librarys-budget">Paying for the systems meant moving old subscriptions onto the Library’s budget</h3>
 <p>Almost none of this ran on hardware DSC owned. UCLA Dataverse runs on Amazon Web Services, with about 5.4 TiB of files as of May 2025; the point-cloud service has its own AWS server; Redivis is licensed. Dataverse first ran under the Library IT division’s AWS account. When campus consolidated its AWS accounts, the cost landed on DSC. Powell infrastructure funds covered it until they ran out, and then the archive’s own gift fund took over.</p>
 <p>That last step depended on an earlier budget change. DSC moved the archive’s large recurring subscriptions, ICPSR and Roper, off its gift fund and onto the Library’s general membership budget, the way research libraries usually treat major database memberships. That freed the archive’s original fund for the cloud costs of Dataverse and the point-cloud platform. The move was possible because one role could see the archive’s budget and the infrastructure budget at the same time.<a href="#fn41" class="footnote-ref" id="fnref41" role="doc-noteref"><sup>41</sup></a> By 2025 DSC had also begun rebuilding the Dataverse service as code, so it could be recreated and upgraded; that rebuild was not finished where this history stops.</p>
-<!-- internal working notes: evidence/library-era-2014-present.md (the full evidence + gap list);
-evidence/powell-gifts-and-imls-grant.md; evidence/doug-daniels-and-2018-continuity.md;
-evidence/dsc-era-hosted-collections.md; evidence/sopa-research-enabled-and-intellectual-contributions.md;
-evidence/data-summaries-and-reconciliation.md. 3D credit follows the dsc-stats-reports claim
-register §20 (2026-09-27): Daniels scanned the boat; Badajos helped set up the Potree viewer;
-whether the student who processed Iceland data joined the boat scan is unknown. Iceland survey
-year kept out of the main narrative pending reconciliation with the register. -->
-<!-- Per decision 2026-09-01: the narrative stops here, at the DSC's pre-2026 state. It does not
-describe the 2026 dissolution. -->
 </section>
 </section>
 <section id="evidence-of-use" class="level2">
@@ -751,28 +717,21 @@ body.quarto-dark .ssda-bar-chart {
 </style>
 <svg viewbox="0 0 560 280" role="img" aria-label="Bar chart: survey years represented in the 571 surviving SSDA datasets, by decade: 1960s 69, 1970s 124, 1980s 120, 1990s 130, 2000s 87, 2010s 5">
   <line x1="30" y1="235" x2="530" y2="235" stroke="var(--baseline)" stroke-width="1.5"></line>
-  <!-- baseline y=235; scale: 130 units -> 210px tall, so px-per-unit = 1.615 -->
-  <!-- 1960s: 69 -->
   <rect x="42" y="123.5" width="24" height="111.5" rx="4" fill="var(--series-1)"></rect>
   <text x="54" y="113" class="bc-value" text-anchor="middle">69</text>
   <text x="54" y="252" class="bc-cat" text-anchor="middle">1960s</text>
-  <!-- 1970s: 124 -->
   <rect x="126" y="34.7" width="24" height="200.3" rx="4" fill="var(--series-1)"></rect>
   <text x="138" y="24" class="bc-value" text-anchor="middle">124</text>
   <text x="138" y="252" class="bc-cat" text-anchor="middle">1970s</text>
-  <!-- 1980s: 120 -->
   <rect x="210" y="41.2" width="24" height="193.8" rx="4" fill="var(--series-1)"></rect>
   <text x="222" y="31" class="bc-value" text-anchor="middle">120</text>
   <text x="222" y="252" class="bc-cat" text-anchor="middle">1980s</text>
-  <!-- 1990s: 130 -->
   <rect x="294" y="25" width="24" height="210" rx="4" fill="var(--series-1)"></rect>
   <text x="306" y="14" class="bc-value" text-anchor="middle">130</text>
   <text x="306" y="252" class="bc-cat" text-anchor="middle">1990s</text>
-  <!-- 2000s: 87 -->
   <rect x="378" y="94.6" width="24" height="140.4" rx="4" fill="var(--series-1)"></rect>
   <text x="390" y="84" class="bc-value" text-anchor="middle">87</text>
   <text x="390" y="252" class="bc-cat" text-anchor="middle">2000s</text>
-  <!-- 2010s: 5 -->
   <rect x="462" y="227" width="24" height="8" rx="4" fill="var(--series-1)"></rect>
   <text x="474" y="216" class="bc-value" text-anchor="middle">5</text>
   <text x="474" y="252" class="bc-cat" text-anchor="middle">2010s</text>
@@ -817,8 +776,6 @@ body.quarto-dark .ssda-event-plot {
 .ssda-event-plot figcaption { font-size: 12px; color: var(--text-muted); margin-top: 8px; max-width: 560px; }
 </style>
 <svg viewbox="0 0 600 210" role="img" aria-label="Event plot: citing publications by year, for three survey series">
-  <!-- domain 2008-2026, x(year) = 60 + (year-2008)/18*510, plot range [60,570] -->
-  <!-- gridline ticks -->
   <line x1="116.7" y1="30" x2="116.7" y2="175" stroke="var(--gridline)" stroke-width="1"></line>
   <text x="116.7" y="190" class="ep-tick" text-anchor="middle">2010</text>
   <line x1="258.3" y1="30" x2="258.3" y2="175" stroke="var(--gridline)" stroke-width="1"></line>
@@ -828,7 +785,6 @@ body.quarto-dark .ssda-event-plot {
   <line x1="541.7" y1="30" x2="541.7" y2="175" stroke="var(--gridline)" stroke-width="1"></line>
   <text x="541.7" y="190" class="ep-tick" text-anchor="middle">2025</text>
 
-  <!-- Row 1: LACSS, y=50, real dots at 2011, 2021, 2025 -->
   <text x="50" y="54" class="ep-row-label" text-anchor="end">LACSS</text>
   <line x1="60" y1="50" x2="570" y2="50" stroke="var(--baseline)" stroke-width="1"></line>
   <circle cx="145" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"></circle>
@@ -838,12 +794,10 @@ body.quarto-dark .ssda-event-plot {
   <circle cx="541.7" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"></circle>
   <text x="541.7" y="38" class="ep-dot-label" text-anchor="middle">2025</text>
 
-  <!-- Row 2: LAMAS, y=100, no data -->
   <text x="50" y="104" class="ep-row-label" text-anchor="end">LAMAS</text>
   <line x1="60" y1="100" x2="570" y2="100" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="3,3"></line>
   <text x="315" y="118" class="ep-note" text-anchor="middle">no citing publications found in the queried index</text>
 
-  <!-- Row 3: SCSS, y=150, not measurable -->
   <text x="50" y="154" class="ep-row-label" text-anchor="end">SCSS</text>
   <line x1="60" y1="150" x2="570" y2="150" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="1,4"></line>
   <text x="315" y="168" class="ep-note" text-anchor="middle">not measurable; never deposited in the queried index</text>
@@ -1050,7 +1004,6 @@ Zambrana, Ruth E., Gabriel Amaro, Courtney Butler, Melissa DuPont-Reyes, and Deb
 <li id="fn44"><p><a href="#ref-gutierrez2025" role="doc-biblioref">Angela Gutierrez, <span>“Latino Tu Latino Yo: Group Threat and Group Consciousness in California,”</span> <em>Political Research Quarterly</em> 78, no. 1 (2025): 264–76</a>.<a href="#fnref44" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
-<!-- Closing strip of DSC identity elements (2019 package): decorative only -->
 <div class="brand-strip" aria-hidden="true">
   <span class="brand-el brand-lineflat"></span>
   <span class="brand-el brand-smallcircle"></span>
@@ -1144,7 +1097,7 @@ Zambrana, Ruth E., Gabriel Amaro, Courtney Butler, Melissa DuPont-Reyes, and Deb
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ucla-data-science-center\.github\.io\/ssda-dsc-history\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

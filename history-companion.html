@@ -388,11 +388,6 @@ div.csl-indent {
 </header>
 
 
-<!--
-STATUS: the checkable backing material for history.qmd. Full roster, project inventories, chart
-methods, and open discrepancies live here; history.qmd carries the narrative. Prose ran through
-the humanizer 2026-09-02. Cross-reference between the two, do not duplicate.
--->
 <section id="roster" class="level2">
 <h2 class="anchored" data-anchor-id="roster">Full people and stewardship roster</h2>
 <p>The history names people in its narrative and no longer carries a people table (moved here 2026-09-27). Full roster, including shorter-tenure staff and rotating collaborators:</p>
@@ -777,7 +772,6 @@ UCLA Newsroom. <em>Doug Daniels, <span>Matthew</span> <span>Vest</span>: <span>U
 <li id="fn24"><p><a href="#ref-dennisEtal2021" role="doc-biblioref"><span class="nocase">Dennis et al.</span>, <span>“From a Data Archive to Data Science”</span></a>.<a href="#fnref24" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
-<!-- Closing strip of DSC identity elements (2019 package): decorative only -->
 <div class="brand-strip" aria-hidden="true">
   <span class="brand-el brand-lineflat"></span>
   <span class="brand-el brand-smallcircle"></span>
@@ -871,7 +865,7 @@ UCLA Newsroom. <em>Doug Daniels, <span>Matthew</span> <span>Vest</span>: <span>U
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ucla-data-science-center\.github\.io\/ssda-dsc-history\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
