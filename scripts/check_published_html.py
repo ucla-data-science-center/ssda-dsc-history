@@ -10,8 +10,9 @@ Two checks, both on the rendered HTML (not the sources):
    <!-- /navcollapse -->. Anything else is an authored comment and fails.
 2. Known editorial markers must not appear anywhere in the page, comment or not.
 
-Citations of private evidence files (evidence/*.md) are reported as warnings
-until the visible footnotes get an editorial pass; they do not fail the build.
+Citations of private evidence files (evidence/*.md) also fail the build: public
+notes describe the record in plain words, and exact pointers stay in the private
+repository (evidence/public-citation-pointers.md).
 """
 import pathlib
 import re
@@ -21,8 +22,9 @@ STRUCTURAL = re.compile(r"^\s*/?[a-z][a-z-]*\s*$")  # e.g. "content", "/containe
 MARKERS = [
     r"internal working notes", r"\bTODO\b", r"\bSTATUS:",
     r"Per decision \d{4}-\d{2}-\d{2}",
+    r"\bevidence/[\w./-]+\.md\b", r"dsc-evidence-registry/claims",
 ]
-WARN_MARKERS = [r"\bevidence/[\w./-]+\.md\b", r"dsc-evidence-registry/claims"]
+WARN_MARKERS = []
 
 def main(site: str) -> int:
     problems, warnings = [], []

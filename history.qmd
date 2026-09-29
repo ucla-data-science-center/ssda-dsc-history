@@ -233,14 +233,13 @@ institutions, and no document found so far gives Marvick a formal role in the fo
 documented ICPSR service begins on its governing board in 1964. The reasoning is in the
 companion's [open discrepancies](history-companion.html#open-discrepancies).
 
-[^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962
-(`evidence/miller-1962-considerations.md`), the actual founding document rather than a later
-description of it. Cross-checked against Erik Austin's ICPSR founding-members list
-(`evidence/icpsr-founding-members-austin.md`). The "8 members" and "through his efforts"
-phrasing is from `evidence/ssda-harvard-dataverse-about.md` (written by Stephenson).
+[^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962, the actual founding document rather than a later
+description of it. Cross-checked against Erik Austin's ICPSR founding-members list. The "8 members" and
+"through his efforts" phrasing is from the SSDA collection's "About" page on Harvard's
+Dataverse, written by Stephenson.
 
 [^eulau]: Heinz Eulau, "Good-bye to Two Dear Friends: Warren Miller and Dwaine Marvick, A
-Personal Memoir," 1999 (`evidence/eulau-1999-miller-marvick-memoir.md`).
+Personal Memoir," 1999.
 
 
 ## 1964-1974: The archive becomes a reference room in a survey center
@@ -269,10 +268,9 @@ Affairs Service, under Mary Ryan, bought 1970 census tapes from DUALabs. It was 
 first move into numeric data, and it was cited nationally as an early case of a library taking
 on machine-readable data [@roweRyan1974; @dodd1982].
 
-[^fielder]: The "1964, under Eve Fielder" claim comes from the archive's own Dataverse-page text
-(`evidence/ssda-harvard-dataverse-about.md`, written by Stephenson) and is repeated in the 2017
-internal decks. The conflicting obituary date is in the 2026-07-31 research pass
-(`evidence/deep-research-report.md`). See the companion's
+[^fielder]: The "1964, under Eve Fielder" claim comes from the archive's own Dataverse-page text,
+written by Stephenson, and is repeated in 2017 internal presentations. The conflicting obituary
+date turned up in a July 2026 research pass through published sources. See the companion's
 [open discrepancies](history-companion.html#open-discrepancies).
 
 
@@ -299,8 +297,8 @@ storage that came with them [@stilesStephenson2008]. Numeric-data stewardship mo
 Library to the archive, the reverse of what would happen in 2014.
 
 [^issr-1977]: *Social Sciences for a Digital World* (OECD, 2000), an international directory that
-dates the ISSR Data Archive at UCLA to December 1977; cited in
-`evidence/deep-research-report.md`. The research pass also separates a 1976 step, the SRC being
+dates the ISSR Data Archive at UCLA to December 1977. The same July 2026 research pass also
+separates a 1976 step, the SRC being
 taken into ISSR, from the December 1977 step, SSDA being formally established as a named unit.
 
 
@@ -349,19 +347,18 @@ and Donald Treiman, and funded by the Netherlands Organisation for Scientific Re
 [@stilesStephenson2008].
 
 [^three-subperiods]: The three-subperiod structure rests on the digitized UCLA General Catalogs
-(2003–05, 2005–07, 2009–10, 2010–11, 2011–12, 2013–14), read in the 2026-07-31 research pass
-(`evidence/deep-research-report.md`). Sears's 1993–2008 ISSR directorship is independently
+(2003–05, 2005–07, 2009–10, 2010–11, 2011–12, 2013–14), read in a July 2026 research pass. Sears's 1993–2008 ISSR directorship is independently
 confirmed. Freeman's and Brewer's exact terms, and the date of the ISSR-to-ISR rename, are still
 soft; operational staff named in that pass are listed in the companion's
 [roster](history-companion.html#roster).
 
-[^newsletter]: `evidence/newsletter-images-2017-deck.md`, photographed excerpts of an SSDA
-newsletter from about 1979 embedded in a 2017 internal deck. Jamie Jamison confirmed to Tim
+[^newsletter]: Photographed excerpts of an SSDA newsletter from about 1979, embedded in a 2017
+internal Library presentation. Jamie Jamison confirmed to Tim
 directly that "Gina Jamison" is her.
 
-[^stephenson]: `evidence/stephenson-icpsr-sources.md` corrects her retirement from 2014 to 2016
-and dates her UCLA start to about 1977 from ICPSR's own materials;
-`evidence/pawlocki-stephenson-1988-iassist.md` independently documents her as staff by 1986.
+[^stephenson]: ICPSR's own materials, including its retirement profile, put her retirement
+in 2016 rather than 2014 and date her UCLA start to about 1977; Pawlocki and Stephenson's 1988
+IASSIST article independently documents her as staff by 1986.
 
 
 
@@ -494,8 +491,7 @@ directly at UCLA and about 1,014 legacy SSDA datasets were harvested in and cura
 staff, which is roughly 1,390 released; 1,603 counts drafts and restricted deposits. UCLA's
 dashboard figure for the directly deposited slice was about 377 in August 2026. The 571 datasets in the
 chart under [Evidence of use](#evidence-of-use) are a third scope, the historical sub-collection
-still on Harvard's Dataverse. See `evidence/library-era-2014-present.md` §4; repository
-defense, reuse tracing, and hosted-collection detail are in the companion's
+still on Harvard's Dataverse. Repository defense, reuse tracing, and hosted-collection detail are in the companion's
 [2018–present detail](history-companion.html#dsc-era-detail).
 
 ### Restricted voter data got a governed place to be analyzed
