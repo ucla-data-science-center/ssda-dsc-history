@@ -42,8 +42,9 @@ In 1977 the Institute for Social Science Research named that collection the Soci
 Archive and gave it staff who helped researchers use it. In 2014 the archive moved to the UCLA
 Library, and in 2018 it became the core of the Library's Data Science Center, open to every
 discipline. The material changed along the way, from punch cards and survey tapes to restricted
-national datasets, aerial imagery, 3D scans, and scanned pages turned into data. The job did not:
-keep that evidence findable, usable, and trustworthy for the next person.
+national datasets, aerial imagery, 3D scans, and scanned pages turned into data. The
+responsibility for keeping data usable continued: keep that evidence findable, usable, and
+trustworthy for the next person.
 
 ## About this account
 
@@ -116,7 +117,7 @@ without work.
 | 2014– | UCLA Library (Data Science Center from 2018) | 2018: UCLA Dataverse; 2022: web 3D viewer (pointcloud.ucla.edu); 2023: governed restricted-data service (Redivis) |
 
 *1974 and 1977 are separate events: ISSR (the parent institute) and the naming of the archive
-unit within it are four years apart. Dated by the sources cited in each section below.*
+unit within it are three years apart. Dated by the sources cited in each section below.*
 :::
 
 ::: {.content-visible when-format="html"}
@@ -276,9 +277,10 @@ date turned up in a July 2026 research pass through published sources. See the c
 
 ## 1974-1977: ISSR names the archive and gives it staff
 
-The Institute for Social Science Research (ISSR) was established in 1974, taking in the SRC and
-its archival data library, under founding director Howard E. Freeman, a medical sociologist
-[@stilesStephenson2008]. **In 1977** Associate Director Donald Treiman took the library that had
+The Institute for Social Science Research (ISSR) was established in 1974 under founding
+director Howard E. Freeman, a medical sociologist [@stilesStephenson2008]. The SRC and its
+archival data library came under ISSR, but the date of that transfer is not settled: one
+research pass puts it in 1976 (see the note on the 1977 date below). **In 1977** Associate Director Donald Treiman took the library that had
 run "on a reference-room basis only," designed a research-support framework for it (working
 alongside a project across its whole life cycle, still the archive's stated mission decades
 later), and formalized it as a named service unit, the Social Science Data Archive (SSDA), with
@@ -291,11 +293,6 @@ different parts of the same change; one open question is whether Treiman's unit 
 directly or to the SRC within it (see the companion's
 [open discrepancies](history-companion.html#open-discrepancies)).
 
-Around 1980 the flow ran the other way from the rest of this history. When the UCLA Library
-decided not to buy the 1980 census tapes, ISSR and SSDA took them on, with the support and
-storage that came with them [@stilesStephenson2008]. Numeric-data stewardship moved from the
-Library to the archive, the reverse of what would happen in 2014.
-
 [^issr-1977]: *Social Sciences for a Digital World* (OECD, 2000), an international directory that
 dates the ISSR Data Archive at UCLA to December 1977. The same July 2026 research pass also
 separates a 1976 step, the SRC being
@@ -304,7 +301,7 @@ taken into ISSR, from the December 1977 step, SSDA being formally established as
 
 ## 1977-2014: The archive becomes a campus data service
 
-The archive's 37 years under this umbrella fall into three arrangements.[^three-subperiods]
+From 1977 to 2014 the archive went through three arrangements.[^three-subperiods]
 
 - ISSR proper, 1977 to the late 2000s. The archive was a service unit of the institute, whose
   directors were Howard E. Freeman (1974–1981), Marilynn B. Brewer (from about 1983 to 1993), and
@@ -314,6 +311,11 @@ The archive's 37 years under this umbrella fall into three arrangements.[^three-
 - A standalone SSDA, about 2011 to 2014, listed on its own as a Social Sciences collection. No
   source records a formal dissolution of the parent institute, and the reporting line up to the
   2014 transfer is unresolved.
+
+Around 1980 the flow ran the other way from the rest of this history. When the UCLA Library
+decided not to buy the 1980 census tapes, ISSR and SSDA took them on, with the support and
+storage that came with them [@stilesStephenson2008]. Numeric-data stewardship moved from the
+Library to the archive, the reverse of what would happen in 2014.
 
 The recurring survey work carried on throughout, renamed and reshaped: the Southern California
 Social Survey (SCSS), then the Los Angeles County Social Survey (LACSS), which ran at least
@@ -402,7 +404,8 @@ became University Librarian at UC Santa Barbara in July 2025.
 
 The new name widened the scope; the archive's work carried on under it. Staff grew
 from 2.0 FTE (full-time equivalents) at the 2014 transfer to five by about 2021, mostly by
-redesigning existing Library positions, while demand grew much faster. This chapter follows three
+redesigning existing Library positions, while the repository, the teaching program, and the
+kinds of material researchers brought all grew. This chapter follows three
 changes: the material researchers brought, what DSC built to steward it, and the people and money
 that kept it running. The author directed the unit throughout, so the chapter rests on cited
 records; project inventories and career detail are in the companion's
@@ -414,7 +417,7 @@ Survey files still came in. By the early 2020s researchers were also bringing na
 files too large and too restricted to download, drone and aerial imagery, point clouds (millions
 of measured 3D points that together model an object or a landscape), handwritten tables that no
 standard text-recognition software could read, and research code with no license. Geography was
-the largest single audience for DSC workshops every year, and DSC ran the campus ArcGIS Online
+the largest single departmental audience for DSC workshops from 2020 to April 2024, and DSC ran the campus ArcGIS Online
 mapping platform, which grew past 7,000 accounts. That ended when the unit's GIS librarian left for a
 faculty position in August 2024; the position was never refilled and was later cut.[^gis]
 
@@ -430,8 +433,8 @@ The fuller spatial-data account is in the companion's
 
 The legacy SSDA collection lived on Harvard's hosted Dataverse, a widely used open-source
 repository for research data, and the archive's policies, terms, and deposit practice were
-written for a "Data Archive." A rebrand could have stranded them. Instead the archive's policy
-repository, created in July 2017, was maintained through May 2020, two years after the new name,
+written for a "Data Archive." Those policies and deposit procedures stayed in use after the
+rename. The archive's policy repository, created in July 2017, was maintained through May 2020, two years after the new name,
 and in 2018 DSC stood up a UCLA instance of Dataverse. It chose Dataverse for the reasons the
 archive had chosen it before: support for DDI, the metadata standard for describing survey
 data; the ability to restrict licensed files; and a range of curation from self-service deposit
@@ -612,11 +615,11 @@ series drew 558 attendees, 139 of them from UCLA.
 Every member of the DSC team trained as a Carpentries instructor, and by 2021 six of the
 program's 13 new instructors came from technical roles elsewhere in the Library. Teaching gave
 those staff a reason to share what they knew, and gave DSC instructors it could never have
-hired.[@dennisEtal2021] GIS was the largest topic every year; qualitative and text data, data
+hired.[@dennisEtal2021] GIS was among the largest topics throughout; qualitative and text data, data
 management plans, and later machine learning followed demand.
 
 Consulting widened the same way. From 2023 through 2025 DSC recorded 785 scheduled
-consultations, 156 service-desk tickets, and 234 tracked project collaborations. The categories
+consultations, 156 service-desk tickets, and 234 tracked project tasks. The categories
 describe different kinds of work and should be read separately. Over those years the work shifted
 from single appointments toward project support that ran for months.[^consults] An IMLS grant (RE-252335-OLS-22, $237,839, Tim as Project Director)
 [@imls-re252335] treated course material as a citable research output: 15 peer-reviewed
@@ -625,9 +628,9 @@ Carpentries, open-science, and open-source leadership is in the companion's
 [2018–present detail](history-companion.html#dsc-era-detail).
 
 [^consults]: 785 scheduled consultations, 156 service-desk tickets, and 234 tracked project
-collaborations, from LibInsight, Jira, and Trello exports compiled for a 2025–26 review. Each count
+tasks (Trello cards), from LibInsight, Jira, and Trello exports compiled for a 2025–26 review. Each count
 is conservative, since not every interaction was logged, and the three are not added together
-because a collaboration can span many consultations.
+because one project can span many consultations and tasks.
 
 ### Staff never grew in proportion; students and redesigned jobs filled the gap
 
@@ -675,7 +678,7 @@ dates for some positions are still being confirmed (companion,
 
 ### Paying for the systems, and for the data
 
-Almost none of this ran on hardware DSC owned. UCLA Dataverse runs on Amazon Web Services, with
+The repository and several shared platforms relied on cloud services. UCLA Dataverse runs on Amazon Web Services, with
 about 5.4 TiB of files, counting replication, as of May 2025; the point-cloud service has its own AWS server; Redivis is
 licensed. Dataverse first ran under the Library IT division's AWS account. When campus broke up
 its shared AWS arrangement and DSC got its own account, the cost landed on DSC. Powell
@@ -718,8 +721,8 @@ The chart below counts the 571 SSDA datasets still in the Harvard Dataverse coll
 survey year in each title. It shows which decades today's surviving collection represents. It
 does not show when the archive acquired, described, or worked on those datasets, or how busy the
 archive was in a given decade: a survey fielded in the 1970s may have arrived years later, and
-the counts reflect what survived and was described well enough to date. Most surviving datasets
-(about two-thirds) come from surveys fielded between the 1970s and the 1990s.
+the counts reflect what survived and was described well enough to date. About two-thirds of all
+571 (374) come from surveys fielded between the 1970s and the 1990s.
 
 ::: {.content-visible when-format="pdf"}
 | Decade of survey year | Surviving datasets |
@@ -730,6 +733,8 @@ the counts reflect what survived and was described well enough to date. Most sur
 | 1990s | 130 |
 | 2000s | 87 |
 | 2010s | 5 |
+| Before 1960 | 15 |
+| No survey year in title | 21 |
 
 *Survey years represented in the surviving SSDA collection: 571 datasets in the Harvard Dataverse SSDA collection, grouped by the survey year in each title. Shows the age profile of today's holdings, not when the archive acquired or worked on the data. Method in the companion.*
 :::
@@ -768,7 +773,7 @@ body.quarto-dark .ssda-bar-chart {
 .ssda-bar-chart .chart-title { font-weight: 600; margin: 0 0 6px; color: var(--text-primary); }
 .ssda-bar-chart figcaption { font-size: 12px; color: var(--text-muted); margin-top: 8px; max-width: 560px; }
 </style>
-<svg viewBox="0 0 560 280" role="img" aria-label="Bar chart: survey years represented in the 571 surviving SSDA datasets, by decade: 1960s 69, 1970s 124, 1980s 120, 1990s 130, 2000s 87, 2010s 5">
+<svg viewBox="0 0 560 280" role="img" aria-label="Bar chart: survey years represented in the 571 surviving SSDA datasets, by decade: 1960s 69, 1970s 124, 1980s 120, 1990s 130, 2000s 87, 2010s 5; plus 15 from before 1960 and 21 with no survey year in the title">
   <line x1="30" y1="235" x2="530" y2="235" stroke="var(--baseline)" stroke-width="1.5"/>
   <rect x="42" y="123.5" width="24" height="111.5" rx="4" fill="var(--series-1)"/>
   <text x="54" y="113" class="bc-value" text-anchor="middle">69</text>
@@ -789,7 +794,7 @@ body.quarto-dark .ssda-bar-chart {
   <text x="474" y="216" class="bc-value" text-anchor="middle">5</text>
   <text x="474" y="252" class="bc-cat" text-anchor="middle">2010s</text>
 </svg>
-<figcaption>Survey years represented in the surviving SSDA collection: 571 datasets in the Harvard Dataverse SSDA collection, grouped by the survey year in each title (not the Dataverse "published" date, a uniform 2015–2018 migration artifact). The bars show the age profile of today's holdings, including what survived and was described well enough to date. They do not show when the archive acquired or worked on the data, or how busy it was in any decade. Method in the companion's <a href="history-companion.html#chart-methods">chart methods</a>.</figcaption>
+<figcaption>Survey years represented in the surviving SSDA collection: 571 datasets in the Harvard Dataverse SSDA collection, grouped by the survey year in each title (not the Dataverse "published" date, a uniform 2015–2018 migration artifact). The bars show the age profile of today's holdings, including what survived and was described well enough to date. They do not show when the archive acquired or worked on the data, or how busy it was in any decade. Method in the companion's <a href="history-companion.html#chart-methods">chart methods</a>. The six decades plotted hold 535 of the 571. Another 15 date from the 1940s and 1950s, and 21 titles carry no survey year (10 of those are guide pages, not surveys). A title that spans several years is assigned to its last year.</figcaption>
 </div>
 ```
 :::
@@ -921,7 +926,8 @@ view. The record it rests on is held to a plain standard:
 - Work done by a team is credited to the team. Individuals are named where authorship, formal
   authority, or accountability makes it matter.
 
-Evidence cutoff: 2026-08-31. The working evidence files and version history are kept in a private
+Evidence cutoff: 2026-08-31 for the period covered. Corrections and first-hand accounts were
+added through 2026-09-29. The working evidence files and version history are kept in a private
 repository. To report an error or add context, use the correction link at the foot of each page.
 
 ### How the evidence is handled
