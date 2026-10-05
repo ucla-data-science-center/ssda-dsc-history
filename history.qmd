@@ -77,8 +77,10 @@ Four kinds of things had to travel with it through each move.
   in 1974. Much of that lived in people. Jamie Jamison is named in an archive newsletter from
   about 1979 and still runs the repository.
 - The obligations. Data-use agreements, preservation commitments, and the 2014 transfer
-  agreement's promise to consult the Social Sciences division before substantially changing the
-  archive's operations.
+  agreement's provision that if there are substantial changes to the archive's operations within
+  the Library, the Library and the Social Sciences Division "should meet to discuss and ensure
+  the continuation of College faculty's access to the services provided by Social Sciences Data
+  Archives."
 
 ### What changed: the homes, the users, and above all the material
 
@@ -367,8 +369,9 @@ IASSIST article independently documents her as staff by 1986.
 ## 2014-2018: The archive moves to the Library and widens its mandate
 
 **The 2014 transfer agreement** (effective 2014, executed 2015) moved SSDA from the Social
-Sciences Division to the UCLA Library. It carried 2.0 FTE and an operating fund of about $245K in permanent funds, with about
-$29K of it for subscriptions (ICPSR, Roper, UC Berkeley/SDA, Colectica/Algenta). A separate,
+Sciences Division to the UCLA Library. It carried 2.0 FTE with about $245K in permanent funds covering the two positions' salary and
+benefits, plus about $29K in separate permanent funds for subscriptions (ICPSR, Roper, UC
+Berkeley/SDA, Colectica/Algenta). A separate,
 small foundation gift fund came too: the Data Archive Purchase Fund (fund no. 604970/56972),
 set up in the Social Sciences division to support the archive. Elizabeth Stephenson and Jina "Jamie" Jamison came across with it
 [@uclaSsdaMou2014]. Its stated purpose was to "expand access to the archive's expertise while
@@ -419,7 +422,7 @@ of measured 3D points that together model an object or a landscape), handwritten
 standard text-recognition software could read, and research code with no license. Geography was
 the largest single departmental audience for DSC workshops from 2020 to April 2024, and DSC ran the campus ArcGIS Online
 mapping platform, which grew past 7,000 accounts. That ended when the unit's GIS librarian left for a
-faculty position in August 2024; the position was never refilled and was later cut.[^gis]
+faculty position in August 2024; the position was not refilled.[^gis]
 
 Four cases show how DSC handled that range. Each starts with a stewardship problem and ends with
 what stayed usable.
@@ -641,7 +644,7 @@ geospatial librarian rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao), 
 manager rebuilt as a Data Science Facilitator, and a Digital Library programmer with a
 machine-learning background recruited across divisions at half time (Kristian Allen,
 2018–2024).[^staff-model] Some capacity was simply lost: when the GIS librarian left for a faculty
-position in August 2024, the position went unfilled and was later cut, with the demand still there.
+position in August 2024, the position went unfilled, with the demand still there.
 
 Students made up much of the difference. DataSquad borrowed its model from a student-staffed data
 consulting program at Carleton College.[@lackie2019] UCLA's version began in 2020 on a Norman
