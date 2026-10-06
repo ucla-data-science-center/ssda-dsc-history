@@ -421,8 +421,7 @@ of measured 3D points that together model an object or a landscape), handwritten
 standard text-recognition software could read, and research code with no license. Geography was
 the largest single departmental audience for DSC workshops from 2020 to April 2024, and DSC ran the campus ArcGIS Online
 mapping platform, which grew past 7,000 accounts. That ended when the unit's GIS librarian left for a
-faculty position in August 2024; the position was not refilled until the Library posted a new
-[Mercator Geospatial Information and Maps Librarian](https://recruit.apo.ucla.edu/JPF11374) position on October 5, 2026.[^gis]
+faculty position in August 2024; the position was not refilled.[^gis]
 
 Four cases show how DSC handled that range. Each starts with a stewardship problem and ends with
 what stayed usable.
@@ -644,7 +643,7 @@ geospatial librarian rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao), 
 manager rebuilt as a Data Science Facilitator, and a Digital Library programmer with a
 machine-learning background recruited across divisions at half time (Kristian Allen,
 2018–2024).[^staff-model] Some capacity was simply lost: when the GIS librarian left for a faculty
-position in August 2024, the position went unfilled until the Library posted a new one on October 5, 2026, with the demand still there.
+position in August 2024, the position went unfilled, with the demand still there.
 
 Students made up much of the difference. DataSquad borrowed its model from a student-staffed data
 consulting program at Carleton College.[@lackie2019] UCLA's version began in 2020 on a Norman

@@ -215,7 +215,7 @@ about 376 by February 2026, and downloads across the repository rose from 229 to
 143,000.[^c-dataverse-count] The
 staffing did not grow in proportion. Part of how the unit absorbed the load is the student
 program described below; part is that some capacity was simply lost, a GIS position left unfilled
-after August 2024 until a new position was posted in October 2026, and other roles ended, with the demand in those areas still there.
+after August 2024 and not refilled, and other roles ended, with the demand in those areas still there.
 
 [^c-staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
 model. The specific position histories rest partly on the author's account.
