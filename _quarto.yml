@@ -29,7 +29,23 @@ website:
       - text: "Evidence companion"
         href: history-companion.html
       - text: "Research Enabled by DSC"
-        href: https://ucla-data-science-center.github.io/dsc-stats-reports/
+        menu:
+          - text: "Home"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/index.html
+          - text: "Research enabled"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/research.html
+          - text: "Research capability built"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/capability.html
+          - text: "Shared investments"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/investments.html
+          - text: "Consulting"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/consulting.html
+          - text: "Instruction"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/instruction.html
+          - text: "Infrastructure"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/infrastructure.html
+          - text: "About and methodology"
+            href: https://ucla-data-science-center.github.io/dsc-stats-reports/about.html
   # Same link groups and styling as the research site's footer (dsc-stats-reports)
   page-footer:
     left: |
