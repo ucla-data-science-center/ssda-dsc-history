@@ -135,7 +135,7 @@ and December 15, 2019), but which of the purposes below they funded is not known
 
 Sources: UCLA Newsroom (2016 gift) and UCLA Library's retrospective of Powell's giving.
 
-## Data hosted, 2018-present: full detail {#hosted-data}
+## Data hosted, 2018–2026: full detail {#hosted-data}
 
 - **UCLA Law Behind Bars Data Project** (COVID-19 in prisons, jails, youth facilities,
   immigration detention), Dataverse collection created 2022-01-28, 1,169 items. Project itself
@@ -180,9 +180,9 @@ actual SCSS deposits).
 Sources: ICPSR's Bibliography of Data-related Literature, searched by study number (August 2026),
 and ICPSR's catalog records for the series.
 
-## Full 2018–present account {#dsc-era-detail}
+## Full 2018–2026 account {#dsc-era-detail}
 
-The longer version of the 2018–present chapter, moved here from the main history on 2026-09-27
+The longer version of the 2018–2026 chapter, moved here from the main history on 2026-09-27
 when that chapter was reorganized around four cases. It is kept intact (apart from corrected
 3D-scan credit and editorial notes moved to [Open questions](#open-questions)), so it overlaps
 the main text in places. Hosted collections, the Daniels inventory, and the Powell gifts have
@@ -215,7 +215,7 @@ about 376 by February 2026, and downloads across the repository rose from 229 to
 143,000.[^c-dataverse-count] The
 staffing did not grow in proportion. Part of how the unit absorbed the load is the student
 program described below; part is that some capacity was simply lost, a GIS position left unfilled
-after August 2024 and later cut, and other roles ended, with the demand in those areas still there.
+after August 2024 until a new position was posted in October 2026, and other roles ended, with the demand in those areas still there.
 
 [^c-staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
 model. The specific position histories rest partly on the author's account.

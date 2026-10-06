@@ -100,7 +100,7 @@ those duties were carried by specific people with specific budgets and systems. 
 dropped: around 1980 the Library declined the 1980 census tapes and the archive took them on,
 and after 2024 the campus ArcGIS platform was left without an assigned administrator. When
 stewardship changes hands, the collections, agreements, systems, and working knowledge have to
-move together. Otherwise the files survive and the context that made them usable does not.
+move together. Otherwise the files may survive without the context that made them usable.
 
 ## Two tracks: where the archive lived, and what it stewarded
 
@@ -210,7 +210,7 @@ body.quarto-dark .ssda-timeline {
   <text x="660" y="292" class="tl-item" text-anchor="end">2023 governed restricted data</text>
   <line x1="631.4" y1="205" x2="631.4" y2="282" stroke="var(--baseline)" stroke-width="1"/>
 </svg>
-<figcaption>Institutional homes (top) and dated examples of material or services (bottom), 1961–2026. Only firmly dated items are plotted; the empty stretches of the lower track are undated, not idle. ISSR (1974) and the naming of SSDA within it (1977) are four years apart. Dates are sourced in the sections below.</figcaption>
+<figcaption>Institutional homes (top) and dated examples of material or services (bottom), 1961–2026. Only firmly dated items are plotted; the empty stretches of the lower track are undated, not idle. ISSR (1974) and the naming of SSDA within it (1977) are three years apart. Dates are sourced in the sections below.</figcaption>
 </figure>
 ```
 :::
@@ -236,7 +236,7 @@ institutions, and no document found so far gives Marvick a formal role in the fo
 documented ICPSR service begins on its governing board in 1964. The reasoning is in the
 companion's [open discrepancies](history-companion.html#open-discrepancies).
 
-[^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962, the actual founding document rather than a later
+[^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962, listing member institutions as of July 30, 1962, a primary document rather than a later
 description of it. Cross-checked against Erik Austin's ICPSR founding-members list. The "8 members" and
 "through his efforts" phrasing is from the SSDA collection's "About" page on Harvard's
 Dataverse, written by Stephenson.
@@ -422,7 +422,8 @@ of measured 3D points that together model an object or a landscape), handwritten
 standard text-recognition software could read, and research code with no license. Geography was
 the largest single departmental audience for DSC workshops from 2020 to April 2024, and DSC ran the campus ArcGIS Online
 mapping platform, which grew past 7,000 accounts. That ended when the unit's GIS librarian left for a
-faculty position in August 2024; the position was not refilled.[^gis]
+faculty position in August 2024; the position was not refilled until the Library posted a new
+[Mercator Geospatial Information and Maps Librarian](https://recruit.apo.ucla.edu/JPF11374) position on October 5, 2026.[^gis]
 
 Four cases show how DSC handled that range. Each starts with a stewardship problem and ends with
 what stayed usable.
@@ -458,8 +459,7 @@ from the legacy SSDA collection. Counting drafts and restricted deposits, the to
 publications, but those links are incomplete and cannot measure total reuse.
 
 The curation continued too, though no longer under the SSDA name. DSC did not publish new studies
-as the archive; it helped researchers prepare their own data for publication. Through trial and
-error rather than any plan, a two-stage pattern settled in. A research group first worked its
+as the archive; it helped researchers prepare their own data for publication. A two-stage pattern settled in over time. A research group first worked its
 dataset out and published it in UCLA Dataverse, with DSC helping shape it along the way. Once the data was stable, it could go to ICPSR, which has the staff to curate a
 dataset down to the level of individual variables and document it for long-term reuse.[^curation]
 The UCLA Law Behind Bars Data Project, which tracked COVID-19 in prisons, jails, and immigration
@@ -508,7 +508,7 @@ be used only inside an environment that enforces who sees what. UCLA's medical e
 that through Mednet, its computing environment, which offered HIPAA-level services such as a
 HIPAA-compliant Box. The rest of campus had no access to Mednet, and outside the medical enterprise UCLA
 had no equivalent campus-wide service, though individual departments may have had their own
-arrangements: no shared, governed way to give a social science student a voter file, and no
+arrangements: no shared, governed way to give a social science student a voter file, and, in the author's account, no
 secure place outside medicine to merge restricted data at scale.[^mednet]
 
 DSC selected and licensed Redivis, a platform for analyzing restricted data in place, took it
@@ -588,7 +588,7 @@ as a single file in a browser or to hand out from a download page. DSC's answer 
 pointcloud.ucla.edu, a server Daniels built in 2022 on the open-source Potree viewer, which
 streams large point clouds so anyone can explore them in an ordinary web browser.
 
-The best-known result is the Refugee Material Culture Initiative. With Classics professor Kelly
+One publicly documented result is the Refugee Material Culture Initiative. With Classics professor Kelly
 Nguyen and the Vietnamese Heritage Museum, Daniels 3D scanned the "Boat of Hope," a six-meter
 river sampan that carried nine refugees out of Vietnam in 1984, and prepared the models for the
 museum's digital exhibit, a public seven-day narrative of one family's escape by sea.
