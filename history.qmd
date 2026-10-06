@@ -2,7 +2,6 @@
 title: "From the Political Behavior Archive to the Data Science Center"
 subtitle: "An institutional history of UCLA's social science data archive, 1961–present"
 author: "Tim Dennis"
-draft: true
 date: last-modified
 date-format: "D MMMM YYYY"
 bibliography: references.bib
@@ -30,8 +29,8 @@ format:
 ---
 
 
-::: {.callout-warning}
-The DSC team is revising this page. Details may change. Share it freely, but don't treat it as final yet.
+::: {.callout-note}
+This is the October 2026 version, written from public sources and the author's records. Where a point rests on the author's own account, the text says so. Corrections are welcome through the "Report a correction" link in the footer.
 :::
 
 ## The history in 30 seconds
@@ -612,8 +611,9 @@ Carpentries in 2018. By the two January 2020 workshops, campus volunteers traine
 program were leading the teaching and DSC staff were mostly helping. COVID then made in-person
 cross-campus training impossible and virtual coordination cheap, and in 2020 Tim co-founded the
 systemwide UC Carpentries network with Berkeley, San Diego, Santa Barbara, Merced, and Riverside.
-Nine workshops in September 2024 drew 937 attendances across UCLA and partner campuses; the 2025
-series drew 558 attendees, 139 of them from UCLA.
+The joint series recorded 1,036 attended seats in 2024 and 637 in 2025 across UCLA and partner
+campuses (seats are counted per session, not per person; definitions are on the evidence site's
+[Instruction page](https://ucla-data-science-center.github.io/dsc-stats-reports/instruction.html)).
 
 Every member of the DSC team trained as a Carpentries instructor, and by 2021 six of the
 program's 13 new instructors came from technical roles elsewhere in the Library. Teaching gave
@@ -644,7 +644,7 @@ geospatial librarian rebuilt as a Spatial Data Science Librarian (Zhiyuan Yao), 
 manager rebuilt as a Data Science Facilitator, and a Digital Library programmer with a
 machine-learning background recruited across divisions at half time (Kristian Allen,
 2018–2024).[^staff-model] Some capacity was simply lost: when the GIS librarian left for a faculty
-position in August 2024, the position went unfilled, with the demand still there.
+position in August 2024, the position went unfilled until the Library posted a new one on October 5, 2026, with the demand still there.
 
 Students made up much of the difference. DataSquad borrowed its model from a student-staffed data
 consulting program at Carleton College.[@lackie2019] UCLA's version began in 2020 on a Norman

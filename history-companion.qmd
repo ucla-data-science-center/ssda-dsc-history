@@ -410,9 +410,8 @@ leading the teaching and DSC staff were mostly helping. COVID changed the econom
 training became impossible, but virtual delivery made cross-campus *coordination* suddenly
 cheap. Tim co-founded the systemwide UC Carpentries network in 2020 in direct response to that
 constraint, not as a planned expansion, with Berkeley, San Diego, Santa Barbara, Merced, and
-Riverside as partner campuses. What followed was sustained, not temporary: nine workshops in
-September 2024 alone drew 937 attendances across UCLA and partner UC campuses, and the 2025
-series drew 558 attendees (139 from UCLA) across another nine sessions. The unit had gone from
+Riverside as partner campuses. What followed was sustained, not temporary: the joint series recorded 1,036 attended seats in 2024 and 637 in 2025 across UCLA and partner UC
+campuses (seats are counted per session, not per person; see the evidence site's Instruction page for definitions). The unit had gone from
 teaching its own campus to running system-scale infrastructure other campuses scheduled their
 own programming around, a change in kind, not just volume.
 
