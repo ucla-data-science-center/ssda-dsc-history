@@ -167,15 +167,16 @@ Data Archive datasets" Tim's own Data Summary says were harvested into UCLA's ow
 instance, different scope (Harvard-hosted historical sub-collection vs. UCLA's current live
 instance), don't conflate the two counts.
 
-**Citation event plot**: queried live via browser automation against ICPSR's per-study
+**Citation search**: queried live via browser automation against ICPSR's per-study
 "Data-related Publications" search (`icpsr.umich.edu/sites/icpsr/search/publications?q=STUDY_NO:{n}`),
 2026-08-09, this endpoint is Cloudflare-blocked to scripted/curl access (confirmed, HTTP 403),
 which is why browser automation was needed. Checked: all 5 confirmed LACSS study records
 (36599, 36600, 36598, 36563, 36749) and all 8 confirmed LAMAS waves (36631, 36612, 36611, 36624,
 36615, 36614, 36607, 36617). SCSS was searched separately for its own ICPSR presence and found
-to have none, it was never deposited there, confirmed via a direct ICPSR search for "Southern
+to have none: it was not deposited at ICPSR, confirmed via a direct ICPSR search for "Southern
 California Social Survey" (only the 5 LACSS records matched, as background-text mentions, not
-actual SCSS deposits).
+actual SCSS deposits). So this search cannot measure SCSS. The 1991 SCSS is on Harvard Dataverse
+(doi:10.7910/DVN/JH9UXH), and a 2023 article analyzes it (see the main text).
 
 Sources: ICPSR's Bibliography of Data-related Literature, searched by study number (August 2026),
 and ICPSR's catalog records for the series.
