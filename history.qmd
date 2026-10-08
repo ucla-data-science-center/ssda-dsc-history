@@ -807,100 +807,15 @@ body.quarto-dark .ssda-bar-chart {
 ```
 :::
 
-Citations answer a different question: which of that data shows up in indexed published
-research. ICPSR's bibliography of data-related literature, searched by study number, finds three
-publications that used LACSS: Sarah Allen Gershon and Adrian Pantoja's study of Latino and Anglo
-attitudes toward English-only legislation (2011),[@gershonPantoja2011] Ruth Zambrana and
-colleagues' review of Latina/o health data sets from 1960 to 2019 (2021),[@zambranaEtal2021] and
-Angela Gutierrez's study of group threat and group consciousness in California
-(2025).[@gutierrez2025] No citing publication for LAMAS turned up in that index, which does not
-mean the 1970s surveys went unused; SCSS was never deposited there, so it cannot be measured this
-way.
+Citations answer a different question: which of that data shows up in published research, and what it was used for. These surveys were used well beyond their first purpose, and decades after they were collected. The table lists documented uses that could be verified from the publications themselves. It is a set of examples, not a count.
 
-::: {.content-visible when-format="pdf"}
-**Citation evidence, by survey series** (citing publications in ICPSR's Bibliography of
-Data-related Literature, searched by study number, 2026-08-09):
+| Survey series | Documented research use |
+|---|---|
+| **Los Angeles Metropolitan Area Surveys (LAMAS),** 1970–1976, ten waves | Edward Bixler and colleagues' 1979 study of sleep disorders, using five sleep questions added to the 1973 wave, regarded as the first rigorous study in sleep epidemiology[@bixler1979; @fernandezMendoza2024] |
+| **Southern California Social Survey (SCSS),** through 1991 | Christof Nägel and Amy Nivette's 2023 reanalysis of 1991 and 1992 survey data on confidence in the police; the 1991 survey is preserved on Harvard Dataverse[@nagelNivette2023; @ssdaScss1991] |
+| **Los Angeles County Social Survey (LACSS),** 1992–2002 | Gershon and Pantoja's 2011 study of English-only attitudes, pooling the 1997 and 1998 waves; Zambrana and colleagues' 2021 review of Latina/o data sets; Gutierrez's 2025 study of group consciousness in California[@gershonPantoja2011; @zambranaEtal2021; @gutierrez2025] |
 
-| Series | Citing publications found |
-|--------|---------------------------|
-| LACSS | 2011, 2021, 2025 |
-| LAMAS | none in the queried index |
-| SCSS | not measurable; never deposited in the queried index |
-
-*Evidence of indexed citation, not a full estimate of use. Absence from the index does not mean
-a series went unused, especially for LAMAS (1970s) and SCSS, which predate modern data-citation
-norms by decades.*
-:::
-
-::: {.content-visible when-format="html"}
-```{=html}
-<div class="viz-root ssda-event-plot">
-<p class="chart-title">Indexed citing publications, by survey series</p>
-<style>
-.ssda-event-plot {
-  color-scheme: light;
-  --surface-1:      #fcfcfb;
-  --text-primary:   #0b0b0b;
-  --text-secondary: #52514e;
-  --text-muted:     #898781;
-  --gridline:       #e1e0d9;
-  --baseline:       #c3c2b7;
-  --series-1:       #2a78d6;
-  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-  background: var(--surface-1);
-  padding: 20px 16px 12px;
-  border-radius: 8px;
-  overflow-x: auto;
-}
-body.quarto-dark .ssda-event-plot {
-  color-scheme: dark;
-  --surface-1:      #1a1a19;
-  --text-primary:   #ffffff;
-  --text-secondary: #c3c2b7;
-  --text-muted:     #898781;
-  --gridline:       #2c2c2a;
-  --baseline:       #383835;
-  --series-1:       #3987e5;
-}
-.ssda-event-plot svg { display: block; min-width: 560px; }
-.ssda-event-plot .ep-row-label { font-size: 12px; fill: var(--text-primary); font-weight: 600; }
-.ssda-event-plot .ep-note { font-size: 11px; fill: var(--text-muted); font-style: italic; }
-.ssda-event-plot .ep-tick { font-size: 11px; fill: var(--text-muted); }
-.ssda-event-plot .ep-dot-label { font-size: 11px; fill: var(--text-secondary); }
-.ssda-event-plot .chart-title { font-weight: 600; margin: 0 0 6px; color: var(--text-primary); }
-.ssda-event-plot figcaption { font-size: 12px; color: var(--text-muted); margin-top: 8px; max-width: 560px; }
-</style>
-<svg viewBox="0 0 600 210" role="img" aria-label="Event plot: citing publications by year, for three survey series">
-  <line x1="116.7" y1="30" x2="116.7" y2="175" stroke="var(--gridline)" stroke-width="1"/>
-  <text x="116.7" y="190" class="ep-tick" text-anchor="middle">2010</text>
-  <line x1="258.3" y1="30" x2="258.3" y2="175" stroke="var(--gridline)" stroke-width="1"/>
-  <text x="258.3" y="190" class="ep-tick" text-anchor="middle">2015</text>
-  <line x1="400" y1="30" x2="400" y2="175" stroke="var(--gridline)" stroke-width="1"/>
-  <text x="400" y="190" class="ep-tick" text-anchor="middle">2020</text>
-  <line x1="541.7" y1="30" x2="541.7" y2="175" stroke="var(--gridline)" stroke-width="1"/>
-  <text x="541.7" y="190" class="ep-tick" text-anchor="middle">2025</text>
-
-  <text x="50" y="54" class="ep-row-label" text-anchor="end">LACSS</text>
-  <line x1="60" y1="50" x2="570" y2="50" stroke="var(--baseline)" stroke-width="1"/>
-  <circle cx="145" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
-  <text x="145" y="38" class="ep-dot-label" text-anchor="middle">2011</text>
-  <circle cx="428.3" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
-  <text x="428.3" y="38" class="ep-dot-label" text-anchor="middle">2021</text>
-  <circle cx="541.7" cy="50" r="5" fill="var(--series-1)" stroke="var(--surface-1)" stroke-width="2"/>
-  <text x="541.7" y="38" class="ep-dot-label" text-anchor="middle">2025</text>
-
-  <text x="50" y="104" class="ep-row-label" text-anchor="end">LAMAS</text>
-  <line x1="60" y1="100" x2="570" y2="100" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="3,3"/>
-  <text x="315" y="118" class="ep-note" text-anchor="middle">no citing publications found in the queried index</text>
-
-  <text x="50" y="154" class="ep-row-label" text-anchor="end">SCSS</text>
-  <line x1="60" y1="150" x2="570" y2="150" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="1,4"/>
-  <text x="315" y="168" class="ep-note" text-anchor="middle">not measurable; never deposited in the queried index</text>
-</svg>
-<figcaption>Every citing publication documented in ICPSR's Bibliography of Data-related Literature, searched by study number, 2026-08-09. Evidence of <em>indexed</em> citation, not a full estimate of use. Absence from the index does not mean a series went unused, especially for LAMAS (1970s) and SCSS, which predate modern data-citation norms by decades. Full method in the companion's <a href="history-companion.html#chart-methods">chart methods</a>.</figcaption>
-</div>
-```
-:::
+Where these surveys can be traced, they were still being used decades later, in work on sleep, racial attitudes, language policy, and policing. A search of ICPSR's Bibliography of Data-related Literature, by study number, on August 9, 2026 found three publications for LACSS and none for LAMAS, and SCSS is not in that index. That search understates use. Absence from an index does not mean a series went unused, especially for surveys from the 1970s, which predate modern data-citation norms. The search method is in the companion's [chart methods](history-companion.html#chart-methods).
 
 ### Selected contemporary work and its evidence
 
