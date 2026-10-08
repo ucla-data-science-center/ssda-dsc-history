@@ -1,6 +1,6 @@
 ---
 title: "From the Political Behavior Archive to the Data Science Center"
-subtitle: "An institutional history of UCLA's social science data archive, 1961–present"
+subtitle: "An institutional history of UCLA's social science data archive, 1961–2026"
 author: "Tim Dennis"
 date: last-modified
 date-format: "D MMMM YYYY"
@@ -40,7 +40,7 @@ scientist Dwaine Marvick started the Political Behavior Archive to share survey 
 In 1977 the Institute for Social Science Research named that collection the Social Science Data
 Archive and gave it staff who helped researchers use it. In 2014 the archive moved to the UCLA
 Library, and in 2018 it became the core of the Library's Data Science Center, open to every
-discipline. The material changed along the way, from punch cards and survey tapes to restricted
+discipline. On August 24, 2026, the Library dissolved the Center as a unit and moved its staff into Research Services.[^reorg] The material changed along the way, from punch cards and survey tapes to restricted
 national datasets, aerial imagery, 3D scans, and scanned pages turned into data. The
 responsibility for keeping data usable continued: keep that evidence findable, usable, and
 trustworthy for the next person.
@@ -402,7 +402,7 @@ naming is not in any public source; it rests on the author's account as a partic
 became University Librarian at UC Santa Barbara in July 2025.
 
 
-## 2018-present: The Data Science Center takes on new kinds of research material
+## 2018–2026: The Data Science Center takes on new kinds of research material
 
 The new name widened the scope; the archive's work carried on under it. Staff grew
 from 2.0 FTE (full-time equivalents) at the 2014 transfer to five by about 2021, mostly by
@@ -421,7 +421,7 @@ of measured 3D points that together model an object or a landscape), handwritten
 standard text-recognition software could read, and research code with no license. Geography was
 the largest single departmental audience for DSC workshops from 2020 to April 2024, and DSC ran the campus ArcGIS Online
 mapping platform, which grew past 7,000 accounts. That ended when the unit's GIS librarian left for a
-faculty position in August 2024; the position was not refilled.[^gis]
+faculty position in August 2024; the position has not been filled.[^gis]
 
 Four cases show how DSC handled that range. Each starts with a stewardship problem and ends with
 what stayed usable.
@@ -711,6 +711,12 @@ That was wrong and was corrected on 2026-09-28. The corpora are listed in UCLA D
 (for example doi:10.25346/S6/Z36KRR for COCA).
 
 
+### August 2026: the unit is dissolved
+
+On August 24, 2026, the Library dissolved the Data Science Center as a unit and moved its staff into Research Services. The Library says "the expertise available and services offered remain the same" and that services will be evaluated through the coming year. It has announced two changes: drone lending ends in fall 2026, and DataSquad will no longer run as a coordinated program.[^reorg] On October 5, 2026, the Library posted a new Mercator Geospatial Information and Maps Librarian position. This history stops at that point and does not assess the Library's restructure proposal, which its author has not seen.
+
+[^reorg]: Library management announcement, August 20, 2026, and Library statements to staff, July to September 2026 (available on request); UCLA Library, restructure overview, https://www.library.ucla.edu/about/restructure-overview/ (accessed October 5, 2026); UCLA Library, Mercator Geospatial Information and Maps Librarian, job posting JPF11374, https://recruit.apo.ucla.edu/JPF11374 (accessed October 5, 2026).
+
 ## Evidence of use: what can and cannot be counted {#evidence-of-use}
 
 Two kinds of evidence appear here, and they answer different questions. For the older surveys,
@@ -916,7 +922,7 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 
 Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
 through 2026. This is his account of the archive's history, written to leave a record of work that
-ran for six decades and is now being reorganized out of its standalone form. It is a point of
+ran for six decades and was reorganized out of its standalone form on August 24, 2026. It is a point of
 view. The record it rests on is held to a plain standard:
 
 - Claims about the recent decades are tied to cited institutional records wherever those exist.
