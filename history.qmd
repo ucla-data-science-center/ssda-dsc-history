@@ -836,7 +836,7 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 ### The author's position
 
 Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
-through 2026. This is his account of the archive's history, written to leave a record of work that
+through August 2026. This is his account of the archive's history, written to leave a record of work that
 ran for six decades and was reorganized out of its standalone form on August 24, 2026. It is a point of
 view. The record it rests on is held to a plain standard:
 
