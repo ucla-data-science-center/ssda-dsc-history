@@ -12,6 +12,15 @@ document.addEventListener("DOMContentLoaded", function () {
       new bootstrap.Tooltip(el, { trigger: "hover focus", placement: "top" });
     });
   }
+  // Mark the current page and its menu as active in the shared navbar (links to the other site are absolute).
+  document.querySelectorAll(".navbar .dropdown-item").forEach(function (a) {
+    if (a.pathname === location.pathname) {
+      a.classList.add("active");
+      a.setAttribute("aria-current", "page");
+      var toggle = a.closest(".dropdown") && a.closest(".dropdown").querySelector(".nav-link.dropdown-toggle");
+      if (toggle) toggle.classList.add("active");
+    }
+  });
   var src = document.querySelector('.toc-actions a[href*="/edit/"]');
   if (!src) return;
   function editLink(cls) {
