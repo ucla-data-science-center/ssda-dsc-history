@@ -37,9 +37,9 @@ This is the October 2026 version, written from public sources and the author's r
 
 UCLA has kept research data for other researchers to use since **1961**, when political
 scientist Dwaine Marvick started the Political Behavior Archive to share survey data on campus.
-In 1977 the Institute for Social Science Research named that collection the Social Science Data
-Archive and gave it staff who helped researchers use it. In 2014 the archive moved to the UCLA
-Library, and in 2018 it became the core of the Library's Data Science Center, open to every
+In 1977 the Institute for Social Science Research (ISSR) named that collection the Social Science Data
+Archive (SSDA) and gave it staff who helped researchers use it. In 2014 the archive moved to the UCLA
+Library, and in 2018 it became the core of the Library's Data Science Center (DSC), which served researchers in any
 discipline. On August 24, 2026, the Library dissolved the Center as a unit and moved its staff into Research Services.[^reorg] The material changed along the way, from punch cards and survey tapes to restricted
 national datasets, aerial imagery, 3D scans, and scanned pages turned into data. The
 responsibility for keeping data usable continued: keep that evidence findable, usable, and
@@ -49,57 +49,9 @@ trustworthy for the next person.
 
 Tim Dennis, the author, directed the archive and then the Data Science Center from 2017 through
 2026, so the recent chapters are a participant's account. They are held to cited records where
-those exist, and the notes say where a claim rests on the author's own account; the full statement is under [The author's position](#the-authors-position). A
+those exist, and the notes say where a claim rests on the author's own account. The full statement is under [The author's position](#the-authors-position). A
 [companion document](history-companion.html) holds the full roster, project inventories, chart
 methods, and open questions.
-
-## What persisted, what changed, and why it matters
-
-### What persisted: someone answerable for the data
-
-Since 1961 someone at UCLA has been responsible for research data after the study that produced
-it ended: taking it in, describing it so a stranger could use it, deciding who may see it, and
-keeping it readable when the technology underneath changed. Five institutional homes held that
-responsibility in turn: a faculty archive, a survey center, a research institute, a standalone
-archive in the Social Sciences division, and the Library.
-
-Four kinds of things had to travel with it through each move.
-
-- The collections and their documentation. The Los Angeles surveys of the 1970s through the
-  2000s, with their codebooks (the documentation that says what each question and code means),
-  went from tape to Harvard's Dataverse and are searchable today through UCLA's own repository.
-- The relationships. UCLA was a founding member in 1962 of ICPSR, the national social science
-  data consortium based at the University of Michigan, and the archive still held the ICPSR and
-  Roper Center subscriptions for the campus when it moved to the Library in 2014. Depositors,
-  faculty users, and data vendors dealt with the archive, whatever office it reported to.
-- The working knowledge. How a dataset was built, what its license allows, what a variable meant
-  in 1974. Much of that lived in people. Jamie Jamison is named in an archive newsletter from
-  about 1979 and still runs the repository.
-- The obligations. Data-use agreements, preservation commitments, and the 2014 transfer
-  agreement's provision that if there are substantial changes to the archive's operations within
-  the Library, the Library and the Social Sciences Division "should meet to discuss and ensure
-  the continuation of College faculty's access to the services provided by Social Sciences Data
-  Archives."
-
-### What changed: the homes, the users, and above all the material
-
-The archive changed homes four times. It began as a service for social scientists, had
-become the campus's de facto data service by the 1990s, and after 2018 served any discipline. The material changed most. Survey files needed codebooks and a reference room.
-Restricted national data needed a governed computing environment. Point clouds needed a viewer
-that runs in a browser. Handwritten tables needed OCR before they could be analyzed at all. Each
-new kind of material asked the same stewardship questions, and the older tools could not answer
-them.
-
-### Why it matters: data stays usable only while someone is accountable for it
-
-A restricted dataset can be used only while its agreement is administered. A repository stays
-citable only while its identifiers resolve and its software is patched. A scanned collection
-stays readable only while someone knows how its text was produced. In every transition below,
-those duties were carried by specific people with specific budgets and systems. Some were nearly
-dropped: around 1980 the Library declined the 1980 census tapes and the archive took them on,
-and after 2024 the campus ArcGIS platform was left without an assigned administrator. When
-stewardship changes hands, the collections, agreements, systems, and working knowledge have to
-move together. Otherwise the files may survive without the context that made them usable.
 
 ## Two tracks: where the archive lived, and what it stewarded
 
@@ -330,7 +282,7 @@ Social Survey (SCSS), then the Los Angeles County Social Survey (LACSS), which r
 become, in its own staff's words, "the de facto campus-wide data service unit," serving public
 health, education, policy studies, law, and management as well as the social science departments
 [@stilesStephenson2008]. A surviving SSDA newsletter from about 1979 names Martin Pawlocki
-(programmer), Gina Jamison (the same person as today's DSC staff member Jina "Jamie" Jamison), and
+(programmer), Gina Jamison (the same person as the later DSC staff member Jina "Jamie" Jamison), and
 Shirley Lane, who had come from the UCLA Research Library's machine-readable 1970 Census project.[^newsletter]
 
 ![Masthead of the archive's newsletter, about 1979.](images/newsletter/masthead-ssda-machine-readable-data.png){fig-alt="Newsletter masthead reading: The Social Science Data Archive: Access to Machine-Readable Data."}
@@ -338,7 +290,7 @@ Shirley Lane, who had come from the UCLA Research Library's machine-readable 197
 ::: {layout-ncol=2}
 ![Elizabeth Stephenson, then Data Archivist, in the archive's tape collection. Newsletter caption: "It must be here somewhere."](images/newsletter/stephenson-data-tapes.png){fig-alt="Black-and-white photo of Elizabeth Stephenson holding a reel of magnetic tape beside racks of data tapes, with the newsletter's typed caption below."}
 
-![Gina (Jamie) Jamison, then Technical Assistant in the Archive. She left for an MFA and later returned; she runs the repository today.](images/newsletter/jamison-mfa-leaving.png){fig-alt="Black-and-white portrait photo of Gina Jamison with the newsletter's typed caption saying she will receive her Master of Fine Arts and leave ISSR in June."}
+![Gina (Jamie) Jamison, then Technical Assistant in the Archive. She left for an MFA and later returned to the archive.](images/newsletter/jamison-mfa-leaving.png){fig-alt="Black-and-white portrait photo of Gina Jamison with the newsletter's typed caption saying she will receive her Master of Fine Arts and leave ISSR in June."}
 :::
 
 *From the archive's own newsletter, about 1979, as photographed for a 2017 Library staff presentation.*
@@ -562,8 +514,8 @@ Sociology professor, defeated standard OCR and needed a different route. The 197
 National Census sat locked in scanned PDFs. Leigh Phan, DSC's data scientist, led the work. A
 DataSquad student, Lukas Hager, built the core pipeline those projects shared. By 2026 the team
 had a triage tool that runs a fast baseline engine and a stronger AI model side by side and
-recommends the cheapest defensible route to usable text for a given collection. The outputs and
-research use of each project above are still being documented.[^ocr] Where it
+recommends the cheapest defensible route to usable text for a given collection. The work above was mostly evaluation and pipeline building. Which projects delivered finished
+transcriptions, and which led to published research, is still being documented.[^ocr] Where it
 could, DSC ran open models on its own hardware, so sensitive material did not leave UCLA and
 researchers were not tied to a commercial service to read their own sources.
 
@@ -836,23 +788,49 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 | Daniels's 3D scan of the "Boat of Hope" for the Refugee Material Culture Initiative (Kelly Nguyen) | The Vietnamese Heritage Museum's public 3D narrative, hosted on pointcloud.ucla.edu | The public narrative on DSC's server; the initiative's page on Daniels |
 | DataSquad student program | Ten graduates with documented destinations, 2023–2025, all in data or technical roles (a tracked group, not a program-wide rate) | DSC's own tracking of graduate outcomes |
 
+## What the record shows about continuity
+
+Since 1961 someone at UCLA has been responsible for research data after the study that produced
+it ended. Five institutional homes held that responsibility in turn: a faculty archive, a survey
+center, a research institute, a standalone archive in the Social Sciences division, and the
+Library. Four kinds of things traveled with it.
+
+- Collections and documentation. The Los Angeles surveys of the 1970s through the 2000s, with
+  their codebooks, went from tape to Harvard's Dataverse and are searchable through UCLA's own
+  repository.
+- Relationships. UCLA was a founding member of ICPSR in 1962, and the archive still held the
+  ICPSR and Roper Center subscriptions for the campus when it moved to the Library in 2014.
+- Working knowledge. How a dataset was built and what a variable meant in 1974 lived largely in
+  people. Jamie Jamison is named in an archive newsletter from about 1979 and ran the repository
+  day to day after the 2014 transfer.
+- Obligations. The 2014 transfer agreement provides that if there are substantial changes to the
+  archive's operations within the Library, the Library and the Social Sciences Division "should
+  meet to discuss and ensure the continuation of College faculty's access to the services
+  provided by Social Sciences Data Archives."
+
+Tracing this lineage shows continuity of function. It does not show that every position,
+agreement, or service ran without a gap, and the companion records the gaps. The material changed
+most over the decades. Survey files needed codebooks and a reference room, restricted national
+data needed a governed computing environment, and a browser viewer lowered the barrier to using
+point clouds. Handwritten tables were hard to analyze without OCR.
+
+Some of these duties were nearly dropped. Around 1980 the Library declined the 1980 census tapes
+and the archive took them on. After 2024 the campus ArcGIS platform was left without an assigned
+administrator. A restricted dataset can be used while its agreement is administered, and a
+repository's identifiers resolve while someone maintains them. When stewardship changes hands,
+the collections, agreements, systems, and working knowledge need to move together. Otherwise the
+files may survive without the context that made them usable.
+
 ## Methods and limitations
 
 ### The author's position
 
 Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
-through August 2026. This is his account of the archive's history, written to leave a record of work that
-ran for six decades and was reorganized out of its standalone form on August 24, 2026. It is a point of
-view. The record it rests on is held to a plain standard:
-
-- Claims about the recent decades are tied to cited institutional records wherever those exist.
-  Where a claim rests on the author's own account as director, the note says so. Because the
-  author took part in those years, they are held to a higher documentation standard than the
-  earlier ones, not a looser one.
-- Judgments about what worked and what was lost are marked as judgments.
-- Claims about cause are kept within what the evidence supports.
-- Work done by a team is credited to the team. Individuals are named where authorship, formal
-  authority, or accountability makes it matter.
+through August 2026 and led the recent program. This is his account of the archive's history, written to
+leave a record of work that ran for six decades and was reorganized out of its standalone form on August 24, 2026.
+It is a point of view, built from records and participant testimony. He welcomes corrections. Where a
+claim rests on his own account, the note says so, and judgments are marked as judgments. Work done by a team is
+credited to the team. Individuals are named where authorship, formal authority, or accountability makes it matter.
 
 Evidence cutoff: 2026-08-31 for the period covered. Corrections and first-hand accounts were
 added through 2026-09-29. The working evidence files and version history are kept in a private
@@ -861,22 +839,18 @@ repository. To report an error or add context, use the correction link at the fo
 ### How the evidence is handled
 
 The author also wrote documents, including a grant proposal and material responding to the
-reorganization, that use some of the same facts to make a case. This history keeps the two
-apart in these ways:
+reorganization, that use some of the same facts to make a case. To keep this history apart from
+them:
 
-- The author's role is stated plainly, here and at the top, rather than left for the reader to
-  find.
-- Facts are checked against a private register of claims that records what is verified,
-  disputed, or self-reported. Documents that cite this history are not independent
-  corroboration of claims that trace back to the same author.
-- Documented facts are kept separate from interpretation. Discontinuities, gaps, and contested
-  points are stated as such rather than smoothed over; see the companion's
+- Documents that cite this history are not independent corroboration of claims that trace back to
+  the same author. Facts are checked against a private register of claims that records what is
+  verified, disputed, or self-reported.
+- Discontinuities, gaps, and contested points are stated as such. See the companion's
   [open discrepancies](history-companion.html#open-discrepancies) and
   [open questions](history-companion.html#open-questions).
-- Some 2018-present detail was first found in internal review documents. Those are used to find
-  facts, not as sole public evidence: a claim appears only where independent corroboration exists
-  (press coverage, award records, publication venues, grant award pages) or where it is marked
-  as self-reported.
+- Some 2018-present detail was first found in internal review documents. A claim appears only
+  where independent corroboration exists (press coverage, award records, publication venues,
+  grant award pages) or where it is marked as self-reported.
 - Contemporary impact claims follow the Research Enabled by DSC site's
   [claim register](https://github.com/ucla-data-science-center/dsc-stats-reports/blob/main/claim-register.md),
   which records the approved wording and what is not approved for each case.
