@@ -189,8 +189,7 @@ companion's [open discrepancies](history-companion.html#open-discrepancies).
 
 [^rice-table]: The table lists Roper (1957), Berkeley (1958), and GESIS (1960) before UCLA. It mixes data
 libraries and data centers, and some dates may mark a different milestone than founding: the Roper Center
-gives 1947 as its own founding year, and the German date belongs to the Central Archive, not to today's GESIS. This history therefore
-says "early cohort" and does not rank UCLA.
+gives 1947 as its own founding year, and the German date belongs to the Central Archive, not to today's GESIS.
 
 [^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962, listing member institutions as of July 30, 1962, a primary document rather than a later
 description of it. Cross-checked against Erik Austin's ICPSR founding-members list. The "8 members" and
@@ -808,9 +807,8 @@ Library. Four kinds of things traveled with it.
   meet to discuss and ensure the continuation of College faculty's access to the services
   provided by Social Sciences Data Archives."
 
-Tracing this lineage shows continuity of function. It does not show that every position,
-agreement, or service ran without a gap, and the companion records the gaps. The material changed
-most over the decades. Survey files needed codebooks and a reference room, restricted national
+The lineage shows continuity of function. Gaps in positions, agreements, and services are recorded
+in the companion. The material changed most over the decades. Survey files needed codebooks and a reference room, restricted national
 data needed a governed computing environment, and a browser viewer lowered the barrier to using
 point clouds. Handwritten tables were hard to analyze without OCR.
 
