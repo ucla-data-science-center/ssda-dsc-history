@@ -112,7 +112,7 @@ without work.
 |------|-----------|-----------|
 | 1961–1964 | Political Behavior Archive (Marvick) | 1961: survey and behavioral data distributed to UCLA researchers |
 | 1964–1974 | Survey Research Center, Archival Data Library | 1970–1976: LAMAS survey waves |
-| 1974–c. 2009 | Institute for Social Science Research (SSDA named 1977) | 1977: a named, staffed consulting service; 1992–2002: LACSS surveys |
+| 1974–c. 2009 | Institute for Social Science Research (SSDA named 1977; the date the archive came under ISSR is uncertain) | 1977: a named, staffed consulting service; 1992–2002: LACSS surveys |
 | c. 2009–2011 | Institute for Social Research | |
 | c. 2011–2014 | Standalone SSDA, Social Sciences | 2013: DDI-Lifecycle metadata tests |
 | 2014– | UCLA Library (Data Science Center from 2018) | 2018: UCLA Dataverse; 2022: web 3D viewer (pointcloud.ucla.edu); 2023: governed restricted-data service (Redivis) |
@@ -162,7 +162,7 @@ body.quarto-dark .ssda-timeline {
 </style>
 <svg viewBox="0 0 700 300" role="img" aria-labelledby="tl-title tl-desc">
   <title id="tl-title">Two tracks, 1961 to 2026: institutional home, and dated material or services</title>
-  <desc id="tl-desc">Top track: Political Behavior Archive (PBA) 1961 to 1964; Survey Research Center (SRC) 1964 to 1974; Institute for Social Science Research 1974 to about 2009, with the archive named SSDA in 1977; Institute for Social Research about 2009 to 2011; standalone SSDA about 2011 to 2014; UCLA Library from 2014, as the Data Science Center from 2018. Bottom track: 1961 survey data distributed on campus; LAMAS surveys 1970 to 1976; 1977 staffed consulting service; LACSS surveys 1992 to 2002; 2013 DDI-Lifecycle metadata tests; 2018 UCLA Dataverse; 2022 web 3D viewer; 2023 governed restricted-data service.</desc>
+  <desc id="tl-desc">Top track: Political Behavior Archive (PBA) 1961 to 1964; Survey Research Center (SRC) 1964 to 1974; Institute for Social Science Research, established 1974 (the date the archive came under it is uncertain, possibly 1976), to about 2009, with the archive named SSDA in 1977; Institute for Social Research about 2009 to 2011; standalone SSDA about 2011 to 2014; UCLA Library from 2014, as the Data Science Center from 2018. Bottom track: 1961 survey data distributed on campus; LAMAS surveys 1970 to 1976; 1977 staffed consulting service; LACSS surveys 1992 to 2002; 2013 DDI-Lifecycle metadata tests; 2018 UCLA Dataverse; 2022 web 3D viewer; 2023 governed restricted-data service.</desc>
   <text x="40" y="18" class="tl-track">Institutional home</text>
   <rect x="40"    y="44" width="28.6"  height="28" fill="#cfe0f0"/>
   <rect x="68.6"  y="44" width="95.4"  height="28" fill="#2774AE"/>
@@ -216,13 +216,12 @@ body.quarto-dark .ssda-timeline {
 
 ## 1961-1964: A political scientist starts a survey data archive
 
-Political scientist Dwaine Marvick, who had joined UCLA's faculty in 1954, founded the Political
-Behavior Archive (PBA) in 1961 [@marvickInMemoriam]. Rice and Southall place it in the field's
-founding cohort: UCLA's data service is the fourth-oldest social-science data library in their
-sample, after the Roper Center (1957), Berkeley (1958), and GESIS (1960), and ahead of ICPSR
-itself (1962) [@riceSouthall2016]. The PBA distributed survey and behavioral data from ICPR (ICPSR's original name), the
+Political scientist Dwaine Marvick joined UCLA's political science faculty in 1954 [@marvickInMemoriam]
+and founded the Political Behavior Archive (PBA) in 1961 [@stilesStephenson2008]. Rice and Southall place the archive in the field's
+early cohort: in their table of social-science data libraries and centers, UCLA's service dates to 1961, ahead of
+ICPSR itself (1962) [@riceSouthall2016].[^rice-table] The PBA distributed survey and behavioral data from ICPR (ICPSR's original name), the
 Roper Public Opinion Research Center, and local holdings to UCLA researchers
-[@stilesStephenson2008]. A UC memorial calls Marvick "an early advocate and practitioner of
+[@stilesStephenson2008]. A UC memorial calls Marvick "one of the first advocates and practitioners of
 computer applications to political data." No source found so far says why he founded the archive
 in 1961 in particular, and Heinz Eulau's detailed 1999 memorial of Marvick never mentions it.[^eulau]
 
@@ -234,6 +233,12 @@ founding members and that UCLA joined "through [Marvick's] efforts," but Miller'
 institutions, and no document found so far gives Marvick a formal role in the founding. His
 documented ICPSR service begins on its governing board in 1964. The reasoning is in the
 companion's [open discrepancies](history-companion.html#open-discrepancies).
+
+
+[^rice-table]: The table lists Roper (1957), Berkeley (1958), and GESIS (1960) before UCLA. It mixes data
+libraries and data centers, and some dates may mark a different milestone than founding: the Roper Center
+gives 1947 as its own founding year, and the German date belongs to the Central Archive, not to today's GESIS. This history therefore
+says "early cohort" and does not rank UCLA.
 
 [^miller-memo]: Warren E. Miller, memo to Rensis Likert, August 1962, listing member institutions as of July 30, 1962, a primary document rather than a later
 description of it. Cross-checked against Erik Austin's ICPSR founding-members list. The "8 members" and
@@ -462,7 +467,7 @@ dataset out and published it in UCLA Dataverse, with DSC helping shape it along 
 dataset down to the level of individual variables and document it for long-term reuse.[^curation]
 The UCLA Law Behind Bars Data Project, which tracked COVID-19 in prisons, jails, and immigration
 detention nationally, followed that path: its COVID Prison Policy Index went into UCLA Dataverse in
-January 2022, and ICPSR released a curated version as study 38730 in 2023. Nicholas Shapiro's
+2022, and ICPSR released a curated version as study 38730 in 2023. Nicholas Shapiro's
 Carceral Ecologies lab did the same with its autopsy analysis of deaths in the Los Angeles County
 jail: published in UCLA Dataverse in May 2023, released by ICPSR as study 38958 in 2024. DSC
 consultation records show both projects asking DSC about ICPSR deposit along the way, Carceral
@@ -826,7 +831,7 @@ right-hand column says what connects DSC to it, and how firm that connection is.
 |---|---|---|
 | Licensed Redivis, ran the compliance review, and curated the L2 national voter file | Research across several departments using L2 voter data | The UCLA Redivis dataset DOI (doi:10.60603/D37P4R) and FORCE11 2024 presentation document DSC's curated version; DSC records list related publications, but use of that specific version has not been verified paper by paper |
 | Led an IMLS open-science grant (Tim as Project Director) | 15 peer-reviewed open-science lessons, each with a DOI | Federal award record (RE-252335-OLS-22) and the public lesson repositories |
-| DataSquad and DSC support for Carceral Ecologies (Nicholas Shapiro): a rebuilt processing pipeline for helicopter-surveillance data, a hosted R server, and ICPSR deposit advice | The lab's research on police helicopter surveillance, covered by the *LA Times*, *The New Yorker*, and *Bloomberg* | Shapiro's own account of DSC's role and DSC project and consultation records; the lab's autopsy dataset on UCLA Dataverse (2023) and ICPSR (study 38958, 2024); the press covered the lab's research, not DSC |
+| DataSquad and DSC support for Carceral Ecologies (Nicholas Shapiro): a rebuilt processing pipeline for helicopter-surveillance data, a hosted R server, and ICPSR deposit advice | The lab's research on police helicopter surveillance, covered by the *LA Times*, *The New Yorker*, and *Bloomberg* | Shapiro's own account of DSC's role and DSC project and consultation records; the lab's autopsy dataset on UCLA Dataverse (2023) and ICPSR (study 38958, 2024), which documents hosting and deposit support, not the pipeline; the press covered the lab's research, not DSC |
 | DataSquad data integration, analysis, and visualization for the BioCritical Studies Lab (Terence Keel), and a lab collection on UCLA Dataverse | The lab's deaths-in-custody datasets, published on UCLA Dataverse (2025), including the autopsy data behind *The Coroner's Silence*; the lab's research was recognized in UCLA's 2024 Public Impact Research Awards | Public Dataverse DOIs (e.g., doi:10.25346/S6R7CHCI) and DSC project records; the award recognizes the lab's research |
 | Daniels's 3D scan of the "Boat of Hope" for the Refugee Material Culture Initiative (Kelly Nguyen) | The Vietnamese Heritage Museum's public 3D narrative, hosted on pointcloud.ucla.edu | The public narrative on DSC's server; the initiative's page on Daniels |
 | DataSquad student program | Ten graduates with documented destinations, 2023–2025, all in data or technical roles (a tracked group, not a program-wide rate) | DSC's own tracking of graduate outcomes |

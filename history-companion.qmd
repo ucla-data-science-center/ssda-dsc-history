@@ -41,7 +41,7 @@ the operational-staff entries, are still soft; treat those as leads.
 | Harry Ganzeboom | Collaborator, Free University Amsterdam | |  Co-built the ISMF, NWO-funded |
 | Lawrence Bobo | Rotating PI, LACSS 1992 | 1992 | Then UCLA Assoc. Professor of Sociology |
 | Jina "Jamie" Jamison | "Gina Jamison" in the ~1979 newsletter (left ~1979 for an MFA, returned); tape/mainframe management, then Collection Manager, DSC | ~1979, then continuous from before the 2014 MOU – present | Leads UCLA Dataverse; co-taught IS262A with Dennis, Oct 2025, doi:10.5281/zenodo.17360885 |
-| Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 – present | Succeeded Stephenson; founded UCLA Carpentries (2018), co-founded UC Carpentries (2020), founded UCLA DataSquad (2020) |
+| Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 – 2026 | Succeeded Stephenson; founded UCLA Carpentries (2018), co-founded UC Carpentries (2020), founded UCLA DataSquad (2020) |
 | Doug Daniels | Helpdesk Specialist, then Technical Projects Specialist, then Coordinator of Scholarly Innovation Technologies, then Emerging Technologies Librarian | 2013 – present (DSC team 2020) | UCLA Librarian of the Year 2026; see full project list below |
 | Leigh Phan | Programmer, later Data Scientist | 2018-present era | Role evolution per Tim; deep learning work with Dennis; verified open-data/mapping and data-ethics-instruction work |
 | Zhiyuan Yao | GIS / Spatial Data Science Librarian; IMLS Program Coordinator | ~2020–2024 (now Assistant Professor, Appalachian State) | GIS librarian role; UC GIS Week; LARIAC management |
