@@ -282,7 +282,7 @@ Social Survey (SCSS), then the Los Angeles County Social Survey (LACSS), which r
 become, in its own staff's words, "the de facto campus-wide data service unit," serving public
 health, education, policy studies, law, and management as well as the social science departments
 [@stilesStephenson2008]. A surviving SSDA newsletter from about 1979 names Martin Pawlocki
-(programmer), Gina Jamison (the same person as the later DSC staff member Jina "Jamie" Jamison), and
+(programmer), Gina Jamison (the same person as DSC staff member Jina "Jamie" Jamison, still on staff as of October 2026), and
 Shirley Lane, who had come from the UCLA Research Library's machine-readable 1970 Census project.[^newsletter]
 
 ![Masthead of the archive's newsletter, about 1979.](images/newsletter/masthead-ssda-machine-readable-data.png){fig-alt="Newsletter masthead reading: The Social Science Data Archive: Access to Machine-Readable Data."}
@@ -290,7 +290,7 @@ Shirley Lane, who had come from the UCLA Research Library's machine-readable 197
 ::: {layout-ncol=2}
 ![Elizabeth Stephenson, then Data Archivist, in the archive's tape collection. Newsletter caption: "It must be here somewhere."](images/newsletter/stephenson-data-tapes.png){fig-alt="Black-and-white photo of Elizabeth Stephenson holding a reel of magnetic tape beside racks of data tapes, with the newsletter's typed caption below."}
 
-![Gina (Jamie) Jamison, then Technical Assistant in the Archive. She left for an MFA and later returned to the archive.](images/newsletter/jamison-mfa-leaving.png){fig-alt="Black-and-white portrait photo of Gina Jamison with the newsletter's typed caption saying she will receive her Master of Fine Arts and leave ISSR in June."}
+![Gina (Jamie) Jamison, then Technical Assistant in the Archive. She left for an MFA and later returned; she still runs the repository as of October 2026.](images/newsletter/jamison-mfa-leaving.png){fig-alt="Black-and-white portrait photo of Gina Jamison with the newsletter's typed caption saying she will receive her Master of Fine Arts and leave ISSR in June."}
 :::
 
 *From the archive's own newsletter, about 1979, as photographed for a 2017 Library staff presentation.*
@@ -801,8 +801,8 @@ Library. Four kinds of things traveled with it.
 - Relationships. UCLA was a founding member of ICPSR in 1962, and the archive still held the
   ICPSR and Roper Center subscriptions for the campus when it moved to the Library in 2014.
 - Working knowledge. How a dataset was built and what a variable meant in 1974 lived largely in
-  people. Jamie Jamison is named in an archive newsletter from about 1979 and ran the repository
-  day to day after the 2014 transfer.
+  people. Jamie Jamison is named in an archive newsletter from about 1979 and still runs the repository
+  as of October 2026, having come across with the archive in 2014.
 - Obligations. The 2014 transfer agreement provides that if there are substantial changes to the
   archive's operations within the Library, the Library and the Social Sciences Division "should
   meet to discuss and ensure the continuation of College faculty's access to the services
