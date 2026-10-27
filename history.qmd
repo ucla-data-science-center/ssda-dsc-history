@@ -670,7 +670,7 @@ That was wrong and was corrected on 2026-09-28. The corpora are listed in UCLA D
 
 ### August 2026: the unit is dissolved
 
-On August 24, 2026, the Library dissolved the Data Science Center as a unit and moved its staff into Research Services. The Library says "the expertise available and services offered remain the same" and that services will be evaluated through the coming year. It has announced two changes: drone lending ends in fall 2026, and DataSquad will no longer run as a coordinated program.[^reorg] On October 5, 2026, the Library posted a new Mercator Geospatial Information and Maps Librarian position. This history stops at that point and does not assess the Library's restructure proposal, which its author has not seen.
+On August 24, 2026, the Library dissolved the Data Science Center as a unit and moved its staff into Research Services. The Library says "the expertise available and services offered remain the same" and that services will be evaluated through the coming year. It has announced two changes: drone lending ends in fall 2026, and DataSquad will no longer run as a coordinated program.[^reorg] The period covered ends August 31, 2026. The only later event recorded here is that on October 5, 2026, the Library posted a new Mercator Geospatial Information and Maps Librarian position, which is a recruitment and not a filled position. This history does not assess the Library's restructure proposal, which its author has not seen.
 
 [^reorg]: Library management announcement, August 20, 2026, and Library statements to staff, July to September 2026 (available on request); UCLA Library, restructure overview, https://www.library.ucla.edu/about/restructure-overview/ (accessed October 5, 2026); UCLA Library, Mercator Geospatial Information and Maps Librarian, job posting JPF11374, https://recruit.apo.ucla.edu/JPF11374 (accessed October 5, 2026).
 
@@ -832,8 +832,8 @@ It is a point of view, built from records and participant testimony. He welcomes
 claim rests on his own account, the note says so, and judgments are marked as judgments. Work done by a team is
 credited to the team. Individuals are named where authorship, formal authority, or accountability makes it matter.
 
-Evidence cutoff: 2026-08-31 for the period covered. Corrections and first-hand accounts were
-added through 2026-09-29. The working evidence files and version history are kept in a private
+The period covered ends on 2026-08-31. Corrections and first-hand accounts were added through
+2026-09-29, and one dated postscript (October 5, 2026) follows the last chapter. Last revised 2026-10-27. The working evidence files and version history are kept in a private
 repository. To report an error or add context, use the correction link at the foot of each page.
 
 ### How the evidence is handled
