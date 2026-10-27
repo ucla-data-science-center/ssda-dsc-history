@@ -1,0 +1,30 @@
+# Shared navbar for the research site (dsc-stats-reports) and the history site (ssda-dsc-history).
+# Paste the same `title` and `left` blocks into both _quarto.yml files. On each site, links to its
+# own pages are relative (Quarto marks the current section active), and links to the other site
+# are absolute. Keep the order and labels identical so the bar does not change when readers cross over.
+title: "Data Science Center record"
+left:
+  - text: "Research enabled"
+    menu:
+      - text: "Home"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/index.html
+      - text: "Research enabled"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/research.html
+      - text: "Research capability built"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/capability.html
+      - text: "Shared investments"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/investments.html
+      - text: "Consulting"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/consulting.html
+      - text: "Instruction"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/instruction.html
+      - text: "Infrastructure"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/infrastructure.html
+      - text: "About and methodology"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/about.html
+  - text: "Archive history"
+    menu:
+      - text: "The history, 1961 to 2026"
+        href: history.html
+      - text: "Evidence companion"
+        href: history-companion.html

@@ -20,14 +20,10 @@ website:
     background: primary
     logo: images/brand/dsc-logo-white.svg
     logo-alt: "UCLA Library Data Science Center"
-    logo-href: history.html
-    title: "History"
+    logo-href: https://ucla-data-science-center.github.io/dsc-stats-reports/index.html
+    title: "Data Science Center record"
     left:
-      - text: "The history"
-        href: history.html
-      - text: "Evidence companion"
-        href: history-companion.html
-      - text: "Research Enabled by DSC"
+      - text: "Research enabled"
         menu:
           - text: "Home"
             href: https://ucla-data-science-center.github.io/dsc-stats-reports/index.html
@@ -45,6 +41,15 @@ website:
             href: https://ucla-data-science-center.github.io/dsc-stats-reports/infrastructure.html
           - text: "About and methodology"
             href: https://ucla-data-science-center.github.io/dsc-stats-reports/about.html
+<<<<<<< HEAD
+=======
+      - text: "Archive history"
+        menu:
+          - text: "The history, 1961 to 2026"
+            href: history.html
+          - text: "Evidence companion"
+            href: history-companion.html
+>>>>>>> 4138b40 (Shared navbar definition for the research and history sites; apply to history site)
   # Same link groups and styling as the research site's footer (dsc-stats-reports)
   page-footer:
     left: |
