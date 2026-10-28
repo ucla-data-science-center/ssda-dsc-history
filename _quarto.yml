@@ -41,15 +41,12 @@ website:
             href: https://ucla-data-science-center.github.io/dsc-stats-reports/infrastructure.html
           - text: "About and methodology"
             href: https://ucla-data-science-center.github.io/dsc-stats-reports/about.html
-<<<<<<< HEAD
-=======
       - text: "Archive history"
         menu:
           - text: "The history, 1961 to 2026"
             href: history.html
           - text: "Evidence companion"
             href: history-companion.html
->>>>>>> 4138b40 (Shared navbar definition for the research and history sites; apply to history site)
   # Same link groups and styling as the research site's footer (dsc-stats-reports)
   page-footer:
     left: |
