@@ -675,12 +675,13 @@ body.quarto-dark .ssda-timeline {
 <p>In 2018 <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr> named three areas to grow into as it added staff: <abbr title="geographic information system (mapping and spatial analysis)" tabindex="0">GIS</abbr>, augmented and virtual reality, and machine learning.<span class="citation" data-cites="dennisEtal2021"><a href="#fn37" class="footnote-ref" id="fnref37" role="doc-noteref"><sup>37</sup></a></span> The second came through Doug Daniels, who had joined the Library in 2013 on the help desk, built its first 3D printing service, and from 2016 ran the Lux Lab, the Library’s space for 3D printing, scanning, and <abbr title="virtual reality" tabindex="0">VR</abbr>. He joined <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr> as Emerging Technologies Librarian in April 2020.<span class="citation" data-cites="ucla-library-doug-daniels-bio"><a href="#fn38" class="footnote-ref" id="fnref38" role="doc-noteref"><sup>38</sup></a></span> He scanned objects for partners across campus and beyond, from Egyptian artifacts at the Getty and the Museo Egizio in Turin with the Cotsen Institute to cadaver-arm dissections for the Anatomy Lab, now taught in History of Medicine, and in 2023 <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr> added a drone kit with <abbr title="light detection and ranging (laser scanning)" tabindex="0">LiDAR</abbr> (laser-ranging) and photogrammetry payloads for landscape-scale surveys.</p>
 <p>Capture made a new stewardship problem. A point cloud from a survey is usually too large to open as a single file in a browser or to hand out from a download page. <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr>’s answer was pointcloud.ucla.edu, a server Daniels built in 2022 on the open-source Potree viewer, which streams large point clouds so anyone can explore them in an ordinary web browser.</p>
 <p>One publicly documented result is the Refugee Material Culture Initiative. With Classics professor Kelly Nguyen and the Vietnamese Heritage Museum, Daniels 3D scanned the “Boat of Hope,” a six-meter river sampan that carried nine refugees out of Vietnam in 1984, and prepared the models for the museum’s digital exhibit, a public seven-day narrative of one family’s escape by sea. DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/dsc/boat-of-hope-potree.png" class="img-fluid figure-img" alt="3D model of a wooden river boat on a dark background in a web viewer, with a timeline marked Day 1 through Day 7 along the bottom and an inset archival photo of the survivors."></p>
-<figcaption>The “Boat of Hope” seven-day narrative in <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr>’s Potree viewer on pointcloud.ucla.edu. Model, story, and the survivors’ photograph (inset): Refugee Material Culture Initiative and the Vietnamese Heritage Museum. <a href="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">Explore it in 3D</a>.</figcaption>
+<figure class="boat-embed figure">
+  <div class="boat-stage" data-embed="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">
+    <img src="images/dsc/boat-of-hope-potree.png" alt="3D model of a wooden river boat on a dark background in a web viewer, with a timeline marked Day 1 through Day 7 along the bottom and an inset archival photo of the survivors." class="figure-img">
+    <button type="button" class="boat-toggle" aria-pressed="false">Explore in 3D here</button>
+  </div>
+  <figcaption>The "Boat of Hope" seven-day narrative in DSC's Potree viewer on pointcloud.ucla.edu. Model, story, and the survivors' photograph (inset): Refugee Material Culture Initiative and the Vietnamese Heritage Museum. <a href="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">Open it in its own page</a>. The button loads the live viewer here. If the viewer does not load, the still image above is the record.</figcaption>
 </figure>
-</div>
 <p>Daniels was named a UCLA Librarian of the Year for 2026, one of two given university-wide by <abbr title="Librarians Association of the University of California" tabindex="0">LAUC</abbr>-LA.<span class="citation" data-cites="ucla-newsroom-librarians-2026"><a href="#fn39" class="footnote-ref" id="fnref39" role="doc-noteref"><sup>39</sup></a></span> His standards work, chairing the UC 3D Data Common Knowledge Group and co-chairing the international <abbr title="International Image Interoperability Framework" tabindex="0">IIIF</abbr> 3D Community Group, tied the service to how other institutions preserve 3D data. The full project list is in the companion’s <a href="history-companion.html#daniels-inventory">Daniels inventory</a>.</p>
 </section>
 <section id="teaching-spread-the-skills-further-than-a-small-staff-could-reach" class="level3">
@@ -1094,6 +1095,31 @@ document.addEventListener("DOMContentLoaded", function () {
       var toggle = a.closest(".dropdown") && a.closest(".dropdown").querySelector(".nav-link.dropdown-toggle");
       if (toggle) toggle.classList.add("active");
     }
+  });
+  // Boat of Hope: swap the still image for the live viewer on request, and back.
+  document.querySelectorAll(".boat-stage").forEach(function (stage) {
+    var img = stage.querySelector("img"), btn = stage.querySelector(".boat-toggle"), frame = null;
+    btn.addEventListener("click", function () {
+      if (!frame) {
+        frame = document.createElement("iframe");
+        frame.src = stage.dataset.embed;
+        frame.title = "Boat of Hope 3D narrative, live viewer";
+        frame.loading = "lazy";
+        frame.setAttribute("allow", "fullscreen");
+        frame.setAttribute("allowfullscreen", "");
+        stage.insertBefore(frame, img);
+        img.hidden = true;
+        btn.textContent = "Back to still image";
+        btn.setAttribute("aria-pressed", "true");
+        btn.style.bottom = "auto"; btn.style.top = "10px";
+      } else {
+        frame.remove(); frame = null;
+        img.hidden = false;
+        btn.textContent = "Explore in 3D here";
+        btn.setAttribute("aria-pressed", "false");
+        btn.style.top = ""; btn.style.bottom = "";
+      }
+    });
   });
   var src = document.querySelector('.toc-actions a[href*="/edit/"]');
   if (!src) return;

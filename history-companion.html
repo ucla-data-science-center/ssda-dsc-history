@@ -857,6 +857,31 @@ document.addEventListener("DOMContentLoaded", function () {
       if (toggle) toggle.classList.add("active");
     }
   });
+  // Boat of Hope: swap the still image for the live viewer on request, and back.
+  document.querySelectorAll(".boat-stage").forEach(function (stage) {
+    var img = stage.querySelector("img"), btn = stage.querySelector(".boat-toggle"), frame = null;
+    btn.addEventListener("click", function () {
+      if (!frame) {
+        frame = document.createElement("iframe");
+        frame.src = stage.dataset.embed;
+        frame.title = "Boat of Hope 3D narrative, live viewer";
+        frame.loading = "lazy";
+        frame.setAttribute("allow", "fullscreen");
+        frame.setAttribute("allowfullscreen", "");
+        stage.insertBefore(frame, img);
+        img.hidden = true;
+        btn.textContent = "Back to still image";
+        btn.setAttribute("aria-pressed", "true");
+        btn.style.bottom = "auto"; btn.style.top = "10px";
+      } else {
+        frame.remove(); frame = null;
+        img.hidden = false;
+        btn.textContent = "Explore in 3D here";
+        btn.setAttribute("aria-pressed", "false");
+        btn.style.top = ""; btn.style.bottom = "";
+      }
+    });
+  });
   var src = document.querySelector('.toc-actions a[href*="/edit/"]');
   if (!src) return;
   function editLink(cls) {
