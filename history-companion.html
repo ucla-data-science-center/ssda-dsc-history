@@ -70,9 +70,9 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-563546682d6f9722882e69947ea26427.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-f5900717c54b08519c6fe5fd70e59a49.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-563546682d6f9722882e69947ea26427.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9df741eac7143f6dfbc5adc506f660da.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-32dbeb54750be8e0d8985f88e451f516.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-9df741eac7143f6dfbc5adc506f660da.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -858,27 +858,28 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
   // Boat of Hope: swap the still image for the live viewer on request, and back.
-  document.querySelectorAll(".boat-stage").forEach(function (stage) {
-    var img = stage.querySelector("img"), btn = stage.querySelector(".boat-toggle"), frame = null;
+  document.querySelectorAll(".boat-embed").forEach(function (fig) {
+    var stage = fig.querySelector(".boat-stage"), img = stage.querySelector("img"),
+        status = stage.querySelector(".boat-status"), btn = fig.querySelector(".boat-toggle"), frame = null;
     btn.addEventListener("click", function () {
       if (!frame) {
         frame = document.createElement("iframe");
         frame.src = stage.dataset.embed;
         frame.title = "Boat of Hope 3D narrative, live viewer";
-        frame.loading = "lazy";
         frame.setAttribute("allow", "fullscreen");
         frame.setAttribute("allowfullscreen", "");
-        stage.insertBefore(frame, img);
+        frame.addEventListener("load", function () { status.hidden = true; });
+        stage.appendChild(frame);
         img.hidden = true;
+        status.hidden = false;
         btn.textContent = "Back to still image";
         btn.setAttribute("aria-pressed", "true");
-        btn.style.bottom = "auto"; btn.style.top = "10px";
       } else {
         frame.remove(); frame = null;
         img.hidden = false;
+        status.hidden = true;
         btn.textContent = "Explore in 3D here";
         btn.setAttribute("aria-pressed", "false");
-        btn.style.top = ""; btn.style.bottom = "";
       }
     });
   });
