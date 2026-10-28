@@ -70,9 +70,9 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9df741eac7143f6dfbc5adc506f660da.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-32dbeb54750be8e0d8985f88e451f516.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-9df741eac7143f6dfbc5adc506f660da.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-563546682d6f9722882e69947ea26427.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-f5900717c54b08519c6fe5fd70e59a49.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-563546682d6f9722882e69947ea26427.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -675,6 +675,22 @@ body.quarto-dark .ssda-timeline {
 <p>In 2018 <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr> named three areas to grow into as it added staff: <abbr title="geographic information system (mapping and spatial analysis)" tabindex="0">GIS</abbr>, augmented and virtual reality, and machine learning.<span class="citation" data-cites="dennisEtal2021"><a href="#fn37" class="footnote-ref" id="fnref37" role="doc-noteref"><sup>37</sup></a></span> The second came through Doug Daniels, who had joined the Library in 2013 on the help desk, built its first 3D printing service, and from 2016 ran the Lux Lab, the Library’s space for 3D printing, scanning, and <abbr title="virtual reality" tabindex="0">VR</abbr>. He joined <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr> as Emerging Technologies Librarian in April 2020.<span class="citation" data-cites="ucla-library-doug-daniels-bio"><a href="#fn38" class="footnote-ref" id="fnref38" role="doc-noteref"><sup>38</sup></a></span> He scanned objects for partners across campus and beyond, from Egyptian artifacts at the Getty and the Museo Egizio in Turin with the Cotsen Institute to cadaver-arm dissections for the Anatomy Lab, now taught in History of Medicine, and in 2023 <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr> added a drone kit with <abbr title="light detection and ranging (laser scanning)" tabindex="0">LiDAR</abbr> (laser-ranging) and photogrammetry payloads for landscape-scale surveys.</p>
 <p>Capture made a new stewardship problem. A point cloud from a survey is usually too large to open as a single file in a browser or to hand out from a download page. <abbr title="Data Science Center (UCLA Library, from 2018)" tabindex="0">DSC</abbr>’s answer was pointcloud.ucla.edu, a server Daniels built in 2022 on the open-source Potree viewer, which streams large point clouds so anyone can explore them in an ordinary web browser.</p>
 <p>One publicly documented result is the Refugee Material Culture Initiative. With Classics professor Kelly Nguyen and the Vietnamese Heritage Museum, Daniels 3D scanned the “Boat of Hope,” a six-meter river sampan that carried nine refugees out of Vietnam in 1984, and prepared the models for the museum’s digital exhibit, a public seven-day narrative of one family’s escape by sea. DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it.</p>
+<style>
+/* Boat of Hope: still image first, live Potree viewer on request */
+.boat-stage { position: relative; background: #111; }
+.boat-stage img { display: block; width: 100%; height: auto; }
+.boat-stage img[hidden] { display: none; }
+.boat-stage iframe { position: relative; z-index: 1; display: block; width: 100%; height: 540px; border: 0; background: transparent; }
+.boat-status { position: absolute; inset: 0; z-index: 0; display: flex; align-items: center; justify-content: center;
+  margin: 0; padding: 1rem; text-align: center; color: #e8e8e8; }
+.boat-status[hidden] { display: none; }
+.boat-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.25rem; margin-top: 0.5rem; }
+.boat-toggle { padding: 8px 16px; font: inherit; font-weight: 600; color: #fff; background: #005587;
+  border: 2px solid #005587; border-radius: 4px; cursor: pointer; }
+.boat-toggle:hover, .boat-toggle:focus-visible { background: #003b5c; border-color: #003b5c; outline: 3px solid #ffd100; outline-offset: 2px; }
+@media (max-width: 700px) { .boat-stage iframe { height: 420px; } }
+@media print { .boat-bar { display: none; } }
+</style>
 <figure class="boat-embed figure">
   <div class="boat-stage" data-embed="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">
     <img src="images/dsc/boat-of-hope-potree.png" alt="3D model of a wooden river boat on a dark background in a web viewer, with a timeline marked Day 1 through Day 7 along the bottom and an inset archival photo of the survivors." class="figure-img">
