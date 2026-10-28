@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 title: >-
   From the Political Behavior Archive to the Data Science Center:
-  An institutional history of UCLA's social science data archive, 1961-present
+  An institutional history of UCLA's social science data archive, 1961-2026
 message: "If you cite this work, please use the metadata in this file."
 type: report
 authors:
   - family-names: Dennis
     given-names: Tim
     affiliation: "UCLA Library, Data Science Center"
-    # TODO: add Tim's ORCID (orcid: "https://orcid.org/0000-0000-0000-0000")
+    orcid: "https://orcid.org/0000-0001-6632-3812"
 abstract: >-
   An institutional history of one continuous function at UCLA - the stewardship
   of research data - traced across six decades and five institutional homes:

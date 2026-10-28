@@ -53,6 +53,17 @@ those exist, and the notes say where a claim rests on the author's own account. 
 [companion document](history-companion.html) holds the full roster, project inventories, chart
 methods, and open questions.
 
+::: {.callout-note appearance="minimal" icon=false}
+#### Cite this report
+
+Dennis, Tim. 2026. "From the Political Behavior Archive to the Data Science Center: An Institutional
+History of UCLA's Social Science Data Archive, 1961–2026." UCLA Library Data Science Center.
+<https://ucla-data-science-center.github.io/ssda-dsc-history/history.html>.
+Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The repository's
+[CITATION.cff](https://github.com/ucla-data-science-center/ssda-dsc-history/blob/main/CITATION.cff)
+carries the same metadata in machine-readable form.
+:::
+
 ## Two tracks: where the archive lived, and what it stewarded
 
 The top track shows where the archive sat; the bottom track shows dated examples of what it
