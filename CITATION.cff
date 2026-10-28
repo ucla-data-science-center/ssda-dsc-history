@@ -9,6 +9,10 @@ authors:
     given-names: Tim
     affiliation: "UCLA Library, Data Science Center"
     orcid: "https://orcid.org/0000-0001-6632-3812"
+  - family-names: Jamison
+    given-names: Jina "Jamie"
+    affiliation: "UCLA Library, Data Science Center"
+    orcid: "https://orcid.org/0000-0002-5116-5724"
 abstract: >-
   An institutional history of one continuous function at UCLA - the stewardship
   of research data - traced across six decades and five institutional homes:
@@ -26,7 +30,6 @@ keywords:
   - UCLA
   - Data Science Center
 license: CC-BY-4.0
-# After the first Zenodo deposit, add the concept DOI here so future releases carry it forward.
 version: "1.0.0"
 date-released: "2026-10-27"
-# doi: "10.5281/zenodo.xxxxxxx"
+doi: "10.5281/zenodo.23716811"  # concept DOI; v1.0.0 is 10.5281/zenodo.23716812

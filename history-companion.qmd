@@ -1,7 +1,11 @@
 ---
 title: "Research companion: full evidence for the SSDA/DSC institutional history"
 subtitle: "Expanded chronology, complete roster, project inventory, methods, and open questions"
-author: "Tim Dennis"
+author:
+  - name: "Tim Dennis"
+    orcid: "0000-0001-6632-3812"
+  - name: "Jina \"Jamie\" Jamison"
+    orcid: "0000-0002-5116-5724"
 date: last-modified
 format:
   html:
