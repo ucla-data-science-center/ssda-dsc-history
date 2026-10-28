@@ -734,6 +734,77 @@ On August 24, 2026, the Library dissolved the Data Science Center as a unit and 
 
 [^reorg]: Library management announcement, August 20, 2026, and Library statements to staff, July to September 2026 (available on request); UCLA Library, restructure overview, https://www.library.ucla.edu/about/restructure-overview/ (accessed October 5, 2026); UCLA Library, Mercator Geospatial Information and Maps Librarian, job posting JPF11374, https://recruit.apo.ucla.edu/JPF11374 (accessed October 5, 2026).
 
+## Publishing continued: three pathways for data {#publishing-continued}
+
+The archive never stopped publishing data for other people to use. It changed how. In 2016 to 2018, after
+the move to the Library, Elizabeth Stephenson and Jamie Jamison released the archive's own survey series to
+ICPSR: nine of the ten Los Angeles Metropolitan Area Surveys from 1970 to 1976 that a DOI search finds, and the
+Los Angeles County Social Survey for 1992 to 1995, plus a cumulative file.[^publishing-sources] From 2018 the
+Data Science Center did not publish studies as the archive. It ran the platforms where researchers
+published their own, and the researchers now came from the sciences and engineering as well as the social
+sciences. It did this in two ways: as an enabler, running the platform for others' work, and as a partner,
+curating or advising in depth when a project needed it.
+
+- UCLA Dataverse, the open route, started in 2018. Dennis and Jamison ran it from top to bottom: setup, accounts (made by
+  hand for collaborators outside UCLA), DOIs, support, and the upkeep that keeps it running. Most researchers needed only
+  that. For some projects Jamison went further, meeting with the team and advising on curation practice.
+- ICPSR, usually the most reputable route. ICPSR curates to the level of individual variables, which DSC did not.
+  DSC helped projects prepare, and Jamison met with the TransPop and COVID Behind Bars teams during curation.
+- Redivis, the governed route, for data that could not be handed out. DSC curated the L2 voter files itself.
+
+Counts below are what public indexes reported on 28 October 2026. They are floors, not totals: an index misses
+uncited use, and a file download is not a user.
+
+### As enabler: high-profile works made possible by the platform
+
+The researchers' own work, not the archive's, made these visible. UCLA Dataverse made it possible to publish and
+cite the data, in atmospheric and planetary science, earthquake engineering, and radio engineering. They are ordered by
+how often the article they support has been cited.
+
+| Dataset | Article it supports | Evidence for the data | DSC role |
+|---|---|---|---|
+| [Replication data, Moon nighttime temperature and rock abundance](https://doi.org/10.25346/S6/LFAVXU) (Tyler Powell) | Powell and others, [*JGR Planets*, 2023](https://doi.org/10.1029/2022JE007532), cited 57 times | 5 citations (DataCite), 7 (OpenAlex); 2,410 file downloads | Platform |
+| [Global Atmospheric Rivers Database v4](https://doi.org/10.25346/S6/ZSW7UN) (Bin Guan) | Guan and Waliser, [*Scientific Data*, 2024](https://doi.org/10.1038/s41597-024-03258-4), cited 37 times | 12 citations (DataCite), 13 (OpenAlex); 8,394 file downloads | Platform, plus Jamison's advice on curation |
+| [Fault Displacement Hazard Initiative database](https://doi.org/10.25346/S6/Y4F9LJ) (Alexandra Sarmiento and others) | Sarmiento and others, [*Earthquake Spectra*, 2024](https://doi.org/10.1177/87552930241262766), cited 22 times | 4 citations (both indexes); 1,774 file downloads | Platform |
+| [UAVSig drone radio-signal dataset](https://doi.org/10.25346/S6/LVRRAE) | Zhao and others, [MILCOM 2024](https://doi.org/10.1109/MILCOM61039.2024.10773837), cited 13 times | 1 citation; 126,753 file downloads | Platform |
+| [Global Aerosol Atmospheric Rivers Database v1](https://doi.org/10.25346/S6/CXO9PD) | No matching article found | 3 citations (DataCite), 4 (OpenAlex); 62,229 file downloads | Platform, plus Jamison's help with access settings (2022) |
+
+### As partner: social science data that Jamison helped curate
+
+These are closer to this history's own subject. In each, Jamison supported the deposit, and the work reached beyond the
+platform.
+
+| Dataset | Evidence | DSC role |
+|---|---|---|
+| [Litigation Database](https://doi.org/10.25346/S6/XJHFYD) (COVID Behind Bars) | 4,785 file downloads across 1,062 files | Platform, plus Jamison's support |
+| [Autopsy Analysis of Deaths in Los Angeles County Jail](https://doi.org/10.25346/S6/JOOUYM) and its [protocol](https://doi.org/10.25346/S6/C6CSOZ) | 1 citation each; 63 and 127 file downloads | Platform, plus consultation and deposit support |
+| [COVID Prison Policy Index](https://doi.org/10.25346/S6/B5GOLX) | 44 file downloads | Platform, plus Jamison's support |
+| Licensed corpora [COHA](https://doi.org/10.25346/S6/6I8JL1) and [COCA](https://doi.org/10.25346/S6/Z36KRR), not UCLA authored | 2 and 1 citations; 18 and 141 file downloads | Deposit of licensed corpora |
+
+### ICPSR and Redivis
+
+| Route | Dataset | What the archive did | Evidence of use |
+|---|---|---|---|
+| ICPSR | [Generations](https://doi.org/10.3886/ICPSR37166.v2) (ICPSR 37166) | Curation support, with Jamison meeting the team | 22 citations (OpenAlex), 12 (DataCite) |
+| ICPSR | [TransPop](https://doi.org/10.3886/ICPSR37938.v1) (ICPSR 37938) | Curation support, with Jamison meeting the team | 6 citations (OpenAlex), 10 (DataCite) |
+| ICPSR | [COVID Behind Bars series](https://www.icpsr.umich.edu/sites/icpsr/view/collections/2160) (five studies, 38730 to 38747) | Curation support at project level | No recorded citations; the series page lists no associated publications |
+| ICPSR | [Autopsy Analysis](https://doi.org/10.3886/ICPSR38958.v1) (ICPSR 38958) | Consultation and deposit advice | No recorded citations at ICPSR |
+| ICPSR | LAMAS and LACSS releases (14 records, 2016 to 2018) | The archive's own releases | Use of these exact releases not yet traced |
+| Redivis | [L2 Voter History and Demographic Dataset](https://doi.org/10.60603/D37P4R) | Curated by DSC; Graham Straus curator, Jamison data contact | No public usage figures |
+
+Two limits matter. DOI citations capture only part of use, and the two best-cited ICPSR studies, Generations and
+TransPop, come from one research team. And on Redivis no public per-dataset counts exist, so the evidence there is the
+curation credits, not reuse.
+
+[^publishing-sources]: DSC's role in running UCLA Dataverse, the roles of Stephenson and Jamison in the LAMAS and
+LACSS releases, and Jamison's support work described here rest on the authors' own account (October 2026); ICPSR,
+DataCite, and Crossref records establish the studies, DOIs, articles, and release years (2016 to 2018), not who did the
+work. One support email thread (October 2022) documents Jamison's help with the Aerosol dataset's access settings.
+Counts were retrieved on 2026-10-28 from OpenAlex, DataCite, Crossref (article citations), and the Dataverse
+file-download counter. OpenAlex resolves ICPSR version DOIs to the study, and index counts are not added together. The
+articles are paired with datasets by title and authorship; the Dataverse records do not all link them. Detail is in the
+authors' working spreadsheet of DSC-involved datasets.
+
 ## Evidence of use: what can and cannot be counted {#evidence-of-use}
 
 Two kinds of evidence appear here, and they answer different questions. For the older surveys,
