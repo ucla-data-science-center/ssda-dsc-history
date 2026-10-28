@@ -580,9 +580,13 @@ DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it.
 <figure class="boat-embed">
   <div class="boat-stage" data-embed="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">
     <img src="images/dsc/boat-of-hope-potree.png" alt="3D model of a wooden river boat on a dark background in a web viewer, with a timeline marked Day 1 through Day 7 along the bottom and an inset archival photo of the survivors.">
-    <button type="button" class="boat-toggle" aria-pressed="false">Explore in 3D here</button>
+    <p class="boat-status" aria-live="polite" hidden>Loading the 3D viewer. This can take 10 to 20 seconds.</p>
   </div>
-  <figcaption>The "Boat of Hope" seven-day narrative in DSC's Potree viewer on pointcloud.ucla.edu. Model, story, and the survivors' photograph (inset): Refugee Material Culture Initiative and the Vietnamese Heritage Museum. <a href="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">Open it in its own page</a>. The button loads the live viewer here. If the viewer does not load, the still image above is the record.</figcaption>
+  <div class="boat-bar">
+    <button type="button" class="boat-toggle" aria-pressed="false">Explore in 3D here</button>
+    <a href="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">Open it in its own page</a>
+  </div>
+  <figcaption>The "Boat of Hope" seven-day narrative in DSC's Potree viewer on pointcloud.ucla.edu. Model, story, and the survivors' photograph (inset): Refugee Material Culture Initiative and the Vietnamese Heritage Museum. The button loads the live viewer here: drag to rotate and scroll to zoom. If the viewer does not load, the still image above is the record.</figcaption>
 </figure>
 ```
 :::
