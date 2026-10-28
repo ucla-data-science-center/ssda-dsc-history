@@ -88,7 +88,7 @@ without work.
 | 1964–1974 | Survey Research Center, Archival Data Library | 1970–1976: LAMAS survey waves |
 | 1974–c. 2009 | Institute for Social Science Research (SSDA named 1977; the date the archive came under ISSR is uncertain) | 1977: a named, staffed consulting service; 1992–2002: LACSS surveys |
 | c. 2009–2011 | Institute for Social Research | |
-| c. 2011–2014 | Standalone SSDA, Social Sciences | 2013: DDI-Lifecycle metadata tests |
+| c. 2011–2014 | Standalone SSDA, Social Sciences | 2013: DDI-Lifecycle (Data Documentation Initiative) metadata tests |
 | 2014– | UCLA Library (Data Science Center from 2018) | 2018: UCLA Dataverse; 2022: web 3D viewer (pointcloud.ucla.edu); 2023: governed restricted-data service (Redivis) |
 
 *1974 and 1977 are separate events: ISSR (the parent institute) and the naming of the archive
@@ -194,7 +194,7 @@ body.quarto-dark .ssda-timeline {
 Political scientist Dwaine Marvick joined UCLA's political science faculty in 1954 [@marvickInMemoriam]
 and founded the Political Behavior Archive (PBA) in 1961 [@stilesStephenson2008]. Rice and Southall place the archive in the field's
 early cohort: in their table of social-science data libraries and centers, UCLA's service dates to 1961, ahead of
-ICPSR itself (1962) [@riceSouthall2016].[^rice-table] The PBA distributed survey and behavioral data from ICPR (ICPSR's original name), the
+the Inter-university Consortium for Political and Social Research (ICPSR) itself (1962) [@riceSouthall2016].[^rice-table] The PBA distributed survey and behavioral data from ICPR (ICPSR's original name), the
 Roper Public Opinion Research Center, and local holdings to UCLA researchers
 [@stilesStephenson2008]. A UC memorial calls Marvick "one of the first advocates and practitioners of
 computer applications to political data." No source found so far says why he founded the archive
@@ -322,7 +322,7 @@ start to about 1977, and she is documented as staff and later Director through t
 retiring in 2016 [@pawlockiStephenson1988; @stephenson2013dodd; @dotyEtal2014].[^stephenson] Her
 long run of work on bibliographic control, with Sue Dodd's scholarship, IASSIST, and ICPSR, was
 early data-citation practice under an older name: making data properly identified and findable.
-By 2013 SSDA was already testing DDI-Lifecycle, the international standard for describing
+By 2013 SSDA was already testing DDI-Lifecycle, from the Data Documentation Initiative, the international standard for describing
 survey data across its life, and Colectica curation software. The archive also worked across borders on the Intergenerational
 Stratification and Mobility File, built with Harry Ganzeboom of the Free University in Amsterdam
 and Donald Treiman, and funded by the Netherlands Organisation for Scientific Research
@@ -347,7 +347,7 @@ IASSIST article independently documents her as staff by 1986.
 ## 2014-2018: The archive moves to the Library and widens its mandate
 
 **The 2014 transfer agreement** (effective 2014, executed 2015) moved SSDA from the Social
-Sciences Division to the UCLA Library. It carried 2.0 FTE with about $245K in permanent funds covering the two positions' salary and
+Sciences Division to the UCLA Library. It carried 2.0 FTE (full-time equivalent staff positions) with about $245K in permanent funds covering the two positions' salary and
 benefits, plus about $29K in separate permanent funds for subscriptions (ICPSR, Roper, UC
 Berkeley/SDA, Colectica/Algenta). A separate,
 small foundation gift fund came too: the Data Archive Purchase Fund (fund no. 604970/56972),
@@ -384,7 +384,7 @@ became University Librarian at UC Santa Barbara in July 2025.
 ## 2018–2026: The Data Science Center takes on new kinds of research material
 
 The new name widened the scope; the archive's work carried on under it. Staff grew
-from 2.0 FTE (full-time equivalents) at the 2014 transfer to five by about 2021, mostly by
+from 2.0 FTE at the 2014 transfer to five by about 2021, mostly by
 redesigning existing Library positions, while the repository, the teaching program, and the
 kinds of material researchers brought all grew. This chapter follows three
 changes: the material researchers brought, what DSC built to steward it, and the people and money
@@ -484,7 +484,7 @@ Dataverse (`ssda_ucla`), pulled by search API on 2026-08-09, which includes 10 g
 ### Restricted voter data got a governed place to be analyzed
 
 Some of the most sought-after data could not be handed out at all. A national voter file, or a
-dataset that merges records protected under FERPA (student privacy) or HIPAA (health privacy), can
+dataset that merges records protected under FERPA (the Family Educational Rights and Privacy Act, on student records) or HIPAA (the Health Insurance Portability and Accountability Act, on health records), can
 be used only inside an environment that enforces who sees what. UCLA's medical enterprise had
 that through Mednet, its computing environment, which offered HIPAA-level services such as a
 HIPAA-compliant Box. The rest of campus had no access to Mednet, and outside the medical enterprise UCLA
