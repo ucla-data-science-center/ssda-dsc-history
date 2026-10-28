@@ -150,8 +150,10 @@ Sources: UCLA Newsroom (2016 gift) and UCLA Library's retrospective of Powell's 
   Institute data reaching ICPSR directly: TransPop (ICPSR 37938, first national probability
   sample of transgender individuals in the US; co-investigators Walter Bockting, Columbia; Jody
   Herman, UCLA; Sari Reisner, Harvard/Fenway), Generations (ICPSR 37166, five-year longitudinal
-  LGB health study), the combined Generations/TransPop dataset (ICPSR 38421), and Mapping LGBTQ
-  Equality: 2010 to 2020 (ICPSR 37877).
+  LGB health study), and the combined Generations/TransPop dataset (ICPSR 38421). Mapping LGBTQ
+  Equality: 2010 to 2020 (ICPSR 37877) is not part of this list. Its ICPSR record credits the Movement
+  Advancement Project as author and cites a Williams Institute population estimate only as a data
+  source; Dennis does not recall DSC involvement (October 2026).
 - **Cotsen Institute of Archaeology** (108 items) and **DIG**, Digital Information Gateway
   (6,360 items), both Dataverse collections created 2020-09-16. DIG's stated mission: "expand
   citation practices" in archaeology.

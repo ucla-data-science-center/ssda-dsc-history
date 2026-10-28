@@ -465,7 +465,7 @@ doi:10.3886/ICPSR38958.v1); the BioCritical Studies Lab collection, with *LA Cou
 Death Data, 2008–2019* (2025, doi:10.25346/S627C42Q), *National List of Lost Lives* (2025,
 doi:10.25346/S65RWE6N), and *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI);
 DSC scheduling records (LibInsight/Calendly exports, 2021–2022) for the ICPSR consultations;
-the Williams Institute studies at ICPSR (37938, 37166, 38421, 37877). The ICPSR deposits are the
+the Williams Institute studies at ICPSR (37938, 37166, 38421). The ICPSR deposits are the
 Williams Institute's; DSC's curation role there rests on Dennis's account. Hosted-collection
 detail is in the companion's [data hosted](history-companion.html#hosted-data) section.
 
