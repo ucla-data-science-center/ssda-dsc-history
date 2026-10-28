@@ -62,7 +62,9 @@ methods, and open questions.
 #### Cite this report
 
 ::: {.content-visible when-format="html"}
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23716811.svg)](https://doi.org/10.5281/zenodo.23716811)
+```{=html}
+<p><a href="https://doi.org/10.5281/zenodo.23716811"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23716811.svg" alt="DOI 10.5281/zenodo.23716811"></a></p>
+```
 :::
 
 Dennis, Tim, and Jina "Jamie" Jamison. 2026. "From the Political Behavior Archive to the Data Science Center: An Institutional
