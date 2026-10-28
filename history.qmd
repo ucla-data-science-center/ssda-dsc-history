@@ -577,6 +577,22 @@ DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it.
 
 ::: {.content-visible when-format="html"}
 ```{=html}
+<style>
+/* Boat of Hope: still image first, live Potree viewer on request */
+.boat-stage { position: relative; background: #111; }
+.boat-stage img { display: block; width: 100%; height: auto; }
+.boat-stage img[hidden] { display: none; }
+.boat-stage iframe { position: relative; z-index: 1; display: block; width: 100%; height: 540px; border: 0; background: transparent; }
+.boat-status { position: absolute; inset: 0; z-index: 0; display: flex; align-items: center; justify-content: center;
+  margin: 0; padding: 1rem; text-align: center; color: #e8e8e8; }
+.boat-status[hidden] { display: none; }
+.boat-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.25rem; margin-top: 0.5rem; }
+.boat-toggle { padding: 8px 16px; font: inherit; font-weight: 600; color: #fff; background: #005587;
+  border: 2px solid #005587; border-radius: 4px; cursor: pointer; }
+.boat-toggle:hover, .boat-toggle:focus-visible { background: #003b5c; border-color: #003b5c; outline: 3px solid #ffd100; outline-offset: 2px; }
+@media (max-width: 700px) { .boat-stage iframe { height: 420px; } }
+@media print { .boat-bar { display: none; } }
+</style>
 <figure class="boat-embed">
   <div class="boat-stage" data-embed="https://www.pointcloud.ucla.edu/VHM/narrative_all.html">
     <img src="images/dsc/boat-of-hope-potree.png" alt="3D model of a wooden river boat on a dark background in a web viewer, with a timeline marked Day 1 through Day 7 along the bottom and an inset archival photo of the survivors.">
