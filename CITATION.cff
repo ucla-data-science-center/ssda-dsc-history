@@ -25,9 +25,7 @@ keywords:
   - data curation
   - UCLA
   - Data Science Center
-# TODO: confirm license. Repo default is BSD-3-Clause (code); a history document
-# is more naturally CC-BY-4.0. Set `license:` and the LICENSE file to match.
-# license: CC-BY-4.0
+license: CC-BY-4.0
 # TODO on release: set version, date-released, and (after the first Zenodo
 # deposit) the concept DOI here so future releases carry it forward.
 # version: "1.0.0"
