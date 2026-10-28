@@ -169,7 +169,9 @@ bucketed by the survey year embedded in each dataset's title (regex-matched, las
 migration artifact). This is a distinct, smaller number from the "1,014 legacy Social Science
 Data Archive datasets" Tim's own Data Summary says were harvested into UCLA's own live Dataverse
 instance, different scope (Harvard-hosted historical sub-collection vs. UCLA's current live
-instance), don't conflate the two counts.
+instance), don't conflate the two counts. The 571 includes the collection's 10 guide pages and
+whatever sub-collections the search returned; whether the search recursed into sub-collections
+was not recorded at the time and should be re-run and logged before this number is cited elsewhere.
 
 **Citation search**: queried live via browser automation against ICPSR's per-study
 "Data-related Publications" search (`icpsr.umich.edu/sites/icpsr/search/publications?q=STUDY_NO:{n}`),
@@ -229,7 +231,8 @@ model. The specific position histories rest partly on Dennis's account.
 deposited directly at UCLA. The repository's larger total is a different scope: about 376 direct
 deposits plus about 1,014 legacy Social Science Data Archive
 datasets harvested in and curated by Library staff, which is roughly 1,390 released, or 1,603
-counting drafts and restricted deposits. The research site's figure for the directly deposited slice was about 377 in August 2026 and
+in the Data Summary's broader count, which adds drafts and restricted deposits (release status and
+access restriction are separate; the Summary does not itemize the gap). The research site's figure for the directly deposited slice was about 377 in August 2026 and
 about 395 in September 2026.
 
 ### What stayed constant, and what changed
@@ -556,7 +559,7 @@ building machine-learning models in R to classify animal behavior from accelerom
 doctoral student in Ecology and Evolutionary Biology.[@dennisEtal2021] Ethics came along with
 the methods. Phan and Ibraheem Ali, a sciences data librarian elsewhere in the
 Library who also taught in the Carpentries program, organized cross-UC data ethics workshops for UC Love Data Week in 2021 and 2022 with colleagues at UC San Diego and UC
-Berkeley, and published the model.[@phanEtal2021]
+Berkeley, and published the model.[@phanEtal2022]
 
 OCR is where the archive's old job met the new tools most directly. A great deal of research
 evidence sits in scanned images no one can search or count: handwritten tables, printed

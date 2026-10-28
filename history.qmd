@@ -4,13 +4,23 @@ subtitle: "An institutional history of UCLA's social science data archive, 1961�
 author:
   - name: "Tim Dennis"
     orcid: "0000-0001-6632-3812"
-  - name: "Jina \"Jamie\" Jamison"
+  - name:
+      given: "Jina \"Jamie\""
+      family: "Jamison"
     orcid: "0000-0002-5116-5724"
 date: last-modified
 date-format: "D MMMM YYYY"
 bibliography: references.bib
 csl: chicago-notes-bibliography.csl
 link-citations: true
+license: "CC BY"
+google-scholar: true
+citation:
+  type: report
+  publisher: "UCLA Library Data Science Center"
+  issued: 2026-10-28
+  url: https://ucla-data-science-center.github.io/ssda-dsc-history/history.html
+  doi: 10.5281/zenodo.23716811
 format:
   html:
     toc: true
@@ -19,6 +29,7 @@ format:
     citations-hover: true
     max-width: 46em
     fig-cap-location: bottom
+    lightbox: true
   pdf:
     toc: true
     toc-depth: 3
@@ -58,24 +69,10 @@ where a claim rests on one author's own account. The full statement is under [Th
 [companion document](history-companion.html) holds the full roster, project inventories, chart
 methods, and open questions.
 
-::: {.callout-note appearance="minimal" icon=false}
-#### Cite this report
-
 ::: {.content-visible when-format="html"}
 ```{=html}
-<p><a href="https://doi.org/10.5281/zenodo.23716811"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23716811.svg" alt="DOI 10.5281/zenodo.23716811"></a></p>
+<p><a href="https://doi.org/10.5281/zenodo.23716811"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23716811.svg" alt="DOI 10.5281/zenodo.23716811"></a> <a href="#how-to-cite">How to cite this report</a></p>
 ```
-:::
-
-Dennis, Tim, and Jina "Jamie" Jamison. 2026. "From the Political Behavior Archive to the Data Science Center: An Institutional
-History of UCLA's Social Science Data Archive, 1961–2026." UCLA Library Data Science Center.
-<https://ucla-data-science-center.github.io/ssda-dsc-history/history.html>.
-[https://doi.org/10.5281/zenodo.23716811](https://doi.org/10.5281/zenodo.23716811). This DOI always
-points to the latest version. Each numbered release also has its own version DOI, listed on the
-[Zenodo record](https://doi.org/10.5281/zenodo.23716811).
-Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The repository's
-[CITATION.cff](https://github.com/ucla-data-science-center/ssda-dsc-history/blob/main/CITATION.cff)
-carries the same metadata in machine-readable form.
 :::
 
 ## Two tracks: where the archive lived, and what it stewarded
@@ -153,6 +150,7 @@ body.quarto-dark .ssda-timeline {
   <text x="116"   y="62" class="tl-home-inv" text-anchor="middle">SRC</text>
   <text x="345"   y="62" class="tl-home-on-light" text-anchor="middle">Institute for Social Science Research</text>
   <text x="196"   y="88" class="tl-year" text-anchor="start">1977: named SSDA, staffed</text>
+  <text x="164"   y="106" class="tl-year" text-anchor="start">ISSR founded 1974; date the archive came under it uncertain (1974 to 1976)</text>
   <text x="507"   y="38" class="tl-home" text-anchor="end">ISR, then standalone SSDA</text>
   <text x="552"   y="38" class="tl-home" text-anchor="start">UCLA Library</text>
   <text x="587"   y="88" class="tl-year" text-anchor="start">2018: DSC</text>
@@ -186,7 +184,7 @@ body.quarto-dark .ssda-timeline {
   <text x="660" y="292" class="tl-item" text-anchor="end">2023 governed restricted data</text>
   <line x1="631.4" y1="205" x2="631.4" y2="282" stroke="var(--baseline)" stroke-width="1"/>
 </svg>
-<figcaption>Institutional homes (top) and dated examples of material or services (bottom), 1961–2026. Only firmly dated items are plotted; the empty stretches of the lower track are undated, not idle. ISSR (1974) and the naming of SSDA within it (1977) are three years apart. Dates are sourced in the sections below.</figcaption>
+<figcaption>Institutional homes (top) and dated examples of material or services (bottom), 1961–2026. Only firmly dated items are plotted; the empty stretches of the lower track are undated, not idle. ISSR (1974) and the naming of SSDA within it (1977) are three years apart, and when the archive itself came under ISSR is uncertain, so the bar's left edge marks the Institute's founding, not a documented transfer. Dates are sourced in the sections below.</figcaption>
 </figure>
 ```
 :::
@@ -431,10 +429,10 @@ Jina "Jamie" Jamison, who came across with the archive in 2014, ran that reposit
 She wrote the preservation documentation, kept nightly database backups and a tested rebuild
 script in place, and walked depositors through collections and DOIs.
 
-By 2026 UCLA Dataverse held
-about 1,390 released datasets: about 376 deposited directly at UCLA and about 1,014 harvested
-from the legacy SSDA collection. Counting drafts and restricted deposits, the total is about
-1,600.[^dataverse-count] Reuse is harder to count: some repository records link to related
+By 2026 UCLA Dataverse listed
+about 1,390 released datasets. About 376 were deposited and hosted directly at UCLA. About 1,014
+were legacy SSDA records harvested into UCLA's search from the older collection, not new deposits.
+A broader count of about 1,600 also includes unreleased drafts and restricted deposits.[^dataverse-count] Reuse is harder to count: some repository records link to related
 publications, but those links are incomplete and cannot measure total reuse.
 
 The curation continued too, though no longer under the SSDA name. DSC did not publish new studies
@@ -471,12 +469,16 @@ the Williams Institute studies at ICPSR (37938, 37166, 38421, 37877). The ICPSR 
 Williams Institute's; DSC's curation role there rests on Dennis's account. Hosted-collection
 detail is in the companion's [data hosted](history-companion.html#hosted-data) section.
 
-[^dataverse-count]: The two totals answer different questions. About 376 datasets were deposited
-directly at UCLA and about 1,014 legacy SSDA datasets were harvested in and curated by Library
-staff, which is roughly 1,390 released; 1,603 counts drafts and restricted deposits. UCLA's
-dashboard figure for the directly deposited slice was about 377 in August 2026. The 571 datasets in the
-chart under [Evidence of use](#evidence-of-use) are a third scope, the historical sub-collection
-still on Harvard's Dataverse. Repository defense, reuse tracing, and hosted-collection detail are in the companion's
+[^dataverse-count]: Three counts answer different questions, as of August 2026. About 376 datasets
+were deposited directly at UCLA, and about 1,014 legacy SSDA datasets were harvested in and
+curated by Library staff; together that is roughly 1,390 released datasets. The figure of 1,603 is
+the Data Summary's broader count, which adds drafts and restricted deposits. Release status and
+access restriction are separate things: restricted files can sit inside a released dataset, and the
+Summary does not itemize the 213 records in the gap. UCLA's dashboard figure for the directly
+deposited slice was about 377 in August 2026. The 571 datasets in the chart under
+[Evidence of use](#evidence-of-use) are a third scope: the historical sub-collection on Harvard's
+Dataverse (`ssda_ucla`), pulled by search API on 2026-08-09, which includes 10 guide pages. The
+[chart methods](history-companion.html#chart-methods) give the full extraction. Repository defense, reuse tracing, and hosted-collection detail are in the companion's
 [2018–present detail](history-companion.html#dsc-era-detail).
 
 ### Restricted voter data got a governed place to be analyzed
@@ -891,7 +893,7 @@ claim rests on one author's own account, the note says so (the notes name Dennis
 credited to the team. Individuals are named where authorship, formal authority, or accountability makes it matter.
 
 The period covered ends on 2026-08-31. Corrections and first-hand accounts were added through
-2026-09-29, and one dated postscript (October 5, 2026) follows the last chapter. Last revised 2026-10-27. The working evidence files and version history are kept in a private
+2026-09-29, and one dated postscript (October 5, 2026) follows the last chapter. Last revised 2026-10-28. The working evidence files and version history are kept in a private
 repository. To report an error or add context, use the correction link at the foot of each page.
 
 ### How the evidence is handled
@@ -935,3 +937,16 @@ The full evidence base, with per-claim detail and verification status, is held i
 private working files. Published sources are listed above; the research site's
 [claim register](https://github.com/ucla-data-science-center/dsc-stats-reports/blob/main/claim-register.md)
 records the approved wording and source for figures the two sites share.
+
+## How to cite {#how-to-cite}
+
+::: {.callout-note appearance="minimal" icon=false}
+The formatted citation and BibTeX are in the Citation box at the very end of this page. The DOI
+[10.5281/zenodo.23716811](https://doi.org/10.5281/zenodo.23716811) always points to the latest
+version. To cite this exact edition (v1.0.1), use
+[10.5281/zenodo.23717807](https://doi.org/10.5281/zenodo.23717807). Each numbered release has its
+own version DOI, listed on the [Zenodo record](https://doi.org/10.5281/zenodo.23716811). Licensed
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The repository's
+[CITATION.cff](https://github.com/ucla-data-science-center/ssda-dsc-history/blob/main/CITATION.cff)
+carries the same metadata in machine-readable form.
+:::

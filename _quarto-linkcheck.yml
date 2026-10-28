@@ -1,0 +1,12 @@
+# Review profile: quarto render history.qmd --to html --profile linkcheck
+# Warning-only link check. A timeout or bot block can look like a dead link, so a person reads the report.
+filters:
+  - linkrot
+extensions:
+  linkrot:
+    fail-on-error: false
+    timeout: 15
+    output-file: linkrot-report.txt
+    skip-patterns:
+      - "doi\\.org"
+      - "zenodo\\.org/badge"

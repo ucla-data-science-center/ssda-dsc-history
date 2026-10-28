@@ -81,6 +81,7 @@ format:
     toc-depth: 3
     number-sections: false
     citations-hover: true
+    lightbox: true
   pdf:
     documentclass: scrartcl
     papersize: letter
