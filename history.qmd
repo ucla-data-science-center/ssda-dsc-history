@@ -587,7 +587,7 @@ DataSquad student Bianca Badajos helped set up the Potree viewer that hosts it.
   margin: 0; padding: 1rem; text-align: center; color: #e8e8e8; }
 .boat-status[hidden] { display: none; }
 .boat-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.25rem; margin-top: 0.5rem; }
-.boat-toggle { padding: 8px 16px; font: inherit; font-weight: 600; color: #fff; background: #005587;
+.boat-toggle { position: static; transform: none; inset: auto; padding: 8px 16px; font: inherit; font-weight: 600; color: #fff; background: #005587;
   border: 2px solid #005587; border-radius: 4px; cursor: pointer; }
 .boat-toggle:hover, .boat-toggle:focus-visible { background: #003b5c; border-color: #003b5c; outline: 3px solid #ffd100; outline-offset: 2px; }
 @media (max-width: 700px) { .boat-stage iframe { height: 420px; } }
