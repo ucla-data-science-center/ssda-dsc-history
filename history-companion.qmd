@@ -44,7 +44,7 @@ the operational-staff entries, are still soft; treat those as leads.
 | Rita Engelhardt, Donald Witzke, Michael Greenwell, Madeleine/Madelyn De Maria, Ann Cinderella, Cheryl Groves, Kathleen O'Kane, Matthew Futterman, Jack Katola, Tana Wong (asst. director, 2009) | ISSR/SRC operational staff (statistical services, sampling, CATI, coding, programming, assistant directors) | various, 1980s–2000s | Roles tied to ISSR/SRC broadly, not all confirmed as archive-specific |
 | Harry Ganzeboom | Collaborator, Free University Amsterdam | |  Co-built the ISMF, NWO-funded |
 | Lawrence Bobo | Rotating PI, LACSS 1992 | 1992 | Then UCLA Assoc. Professor of Sociology |
-| Jina "Jamie" Jamison | "Gina Jamison" in the ~1979 newsletter (left ~1979 for an MFA, returned); tape/mainframe management, then Collection Manager, DSC | ~1979, then continuous from before the 2014 MOU – present | Leads UCLA Dataverse; co-taught IS262A with Dennis, Oct 2025, doi:10.5281/zenodo.17360885 |
+| Jina "Jamie" Jamison | "Gina Jamison" in the ~1979 newsletter (left ~1979 for an MFA, returned); tape/mainframe management, then Data Collections Manager, DSC | ~1979, then continuous from before the 2014 MOU – present | Leads UCLA Dataverse; co-taught IS262A with Dennis, Oct 2025, doi:10.5281/zenodo.17360885 |
 | Tim Dennis | Director, SSDA (Apr 2017); Director, DSC | 2017 – 2026 | Succeeded Stephenson; founded UCLA Carpentries (2018), co-founded UC Carpentries (2020), founded UCLA DataSquad (2020) |
 | Doug Daniels | Helpdesk Specialist, then Technical Projects Specialist, then Coordinator of Scholarly Innovation Technologies, then Emerging Technologies Librarian | 2013 – present (DSC team 2020) | UCLA Librarian of the Year 2026; see full project list below |
 | Leigh Phan | Programmer, later Data Scientist | 2018-present era | Role evolution per Tim; deep learning work with Dennis; verified open-data/mapping and data-ethics-instruction work |
@@ -196,7 +196,7 @@ their own sections elsewhere in this companion.
 This is the era with the widest gap between the unit's size and its reach, and the era this
 history's author directed. It is written against institutional records and cited sources rather
 than recollection, and the judgments in it are marked as judgments. The full evidence trail is in this companion
-and the author's private working notes.
+and the authors' private working notes.
 
 ### Continuity, not rupture
 
@@ -223,7 +223,7 @@ program described below; part is that some capacity was simply lost, a GIS posit
 after August 2024 and not refilled, and other roles ended, with the demand in those areas still there.
 
 [^c-staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
-model. The specific position histories rest partly on the author's account.
+model. The specific position histories rest partly on Dennis's account.
 
 [^c-dataverse-count]: The growth comparison uses the same population at both ends: datasets
 deposited directly at UCLA. The repository's larger total is a different scope: about 376 direct
@@ -340,7 +340,7 @@ Before this, UCLA had no campus service for restricted data of this class outsid
 medical enterprise's computing environment (with HIPAA-level services such as a HIPAA-compliant
 Box), which the rest of campus could not use. There was no governed way to give a student access
 to a voter file, and no secure place outside medicine to merge FERPA-, PII-, or PHI-restricted
-data at scale (author's account, 2026-09-27). To support that class of
+data at scale (Dennis's account, 2026-09-27). To support that class of
 data, DSC selected and licensed Redivis, ran the institutional compliance review (Third-Party
 Risk Management, P3/P4 approval), negotiated access to the restricted datasets, piloted the
 platform in 2022, and launched the governed service in January 2023. It set up a 50-seat model
@@ -394,7 +394,7 @@ the AWS resources, an Ansible playbook forked from the Dataverse community's, an
 Postgres database, with the 6.x series as the target. That rebuild was not finished where this
 history stops.
 
-[^c-funding]: The author's firsthand account as director; the gift fund's name and number are
+[^c-funding]: Dennis's firsthand account as director; the gift fund's name and number are
 from the 2014 transfer agreement. The years of Powell's AWS coverage and the Library's added
 amounts are not yet reconstructed from transaction records. Corrected 2026-09-28: an earlier
 draft reversed the funds' roles.
@@ -588,7 +588,7 @@ better research software, co-taught a UC Love Data Week 2026 workshop on making 
 software citable and discoverable (doi:10.5281/zenodo.18615247), and became co-lead of UCLA's
 open source program office.
 
-[^c-ml-people]: Staffing per Dennis et al. 2021 [@dennisEtal2021] and the author's account.
+[^c-ml-people]: Staffing per Dennis et al. 2021 [@dennisEtal2021] and Dennis's account.
 
 [^c-ocr]: Project descriptions from DSC's own materials (the DataSquad project portfolio and a
 2026 Powell Society presentation) and the `dsc-ocr-triage` repository (2026).

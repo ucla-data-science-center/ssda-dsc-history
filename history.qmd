@@ -34,7 +34,7 @@ format:
 
 
 ::: {.callout-note}
-This is the October 2026 version, written from public sources and the author's records. Where a point rests on the author's own account, the text says so. Corrections are welcome through the "Report a correction" link in the footer.
+This is the October 2026 version, written from public sources and the authors' records. Where a point rests on Tim Dennis's own account, the text says so. Corrections are welcome through the "Report a correction" link in the footer.
 :::
 
 ## The history in 30 seconds
@@ -51,9 +51,10 @@ trustworthy for the next person.
 
 ## About this account
 
-Tim Dennis, the author, directed the archive and then the Data Science Center from 2017 through
-2026, so the recent chapters are a participant's account. They are held to cited records where
-those exist, and the notes say where a claim rests on the author's own account. The full statement is under [The author's position](#the-authors-position). A
+Tim Dennis directed the archive and then the Data Science Center from 2017 through 2026. Jina "Jamie"
+Jamison, the Data Collections Manager, is a co-author. Both took part in the recent years, so the recent
+chapters are participants' accounts. They are held to cited records where those exist, and the notes say
+where a claim rests on one author's own account. The full statement is under [The authors' position](#the-authors-position). A
 [companion document](history-companion.html) holds the full roster, project inventories, chart
 methods, and open questions.
 
@@ -375,7 +376,7 @@ design the 2018 service model.[^grappone]
 [^tim-hire]: Tim Dennis, personal account, 2026-08-09.
 
 [^grappone]: Tim Dennis, personal account. Grappone's role in the 2014 transfer and the 2018
-naming is not in any public source; it rests on the author's account as a participant. Grappone
+naming is not in any public source; it rests on Dennis's account as a participant. Grappone
 became University Librarian at UC Santa Barbara in July 2025.
 
 
@@ -386,7 +387,7 @@ from 2.0 FTE (full-time equivalents) at the 2014 transfer to five by about 2021,
 redesigning existing Library positions, while the repository, the teaching program, and the
 kinds of material researchers brought all grew. This chapter follows three
 changes: the material researchers brought, what DSC built to steward it, and the people and money
-that kept it running. The author directed the unit throughout, so the chapter rests on cited
+that kept it running. Dennis directed the unit throughout, so the chapter rests on cited
 records; project inventories and career detail are in the companion's
 [2018–present detail](history-companion.html#dsc-era-detail).
 
@@ -450,9 +451,9 @@ Terence Keel's BioCritical Studies Lab publishes its deaths-in-custody data in U
 including the autopsy data behind Keel's book *The Coroner's Silence*. It is a candidate for the
 second stage, made harder because the lab's data is compiled from many sources.
 
-[^curation]: Author's account, 2026-09-27; a full list of curated deposits is being compiled
+[^curation]: Tim Dennis's account, 2026-09-27; a full list of curated deposits is being compiled
 with Jamie Jamison (companion, [open questions](history-companion.html#open-questions)). The two-stage
-pattern and the reason for it (ICPSR's variable-level curation) are the author's account. Public
+pattern and the reason for it (ICPSR's variable-level curation) are Dennis's account. Public
 records: the Behind Bars collection on UCLA Dataverse (created 2022-01-28), including the *COVID
 Prison Policy Index* (doi:10.25346/S6/B5GOLX), and ICPSR's curated release, *COVID Behind Bars:
 COVID Prison Policy Index, United States, 2020–2021* (ICPSR 38730, 2023,
@@ -464,7 +465,7 @@ Death Data, 2008–2019* (2025, doi:10.25346/S627C42Q), *National List of Lost L
 doi:10.25346/S65RWE6N), and *Autopsies from The Coroner's Silence* (2025, doi:10.25346/S6R7CHCI);
 DSC scheduling records (LibInsight/Calendly exports, 2021–2022) for the ICPSR consultations;
 the Williams Institute studies at ICPSR (37938, 37166, 38421, 37877). The ICPSR deposits are the
-Williams Institute's; DSC's curation role there rests on the author's account. Hosted-collection
+Williams Institute's; DSC's curation role there rests on Dennis's account. Hosted-collection
 detail is in the companion's [data hosted](history-companion.html#hosted-data) section.
 
 [^dataverse-count]: The two totals answer different questions. About 376 datasets were deposited
@@ -483,7 +484,7 @@ be used only inside an environment that enforces who sees what. UCLA's medical e
 that through Mednet, its computing environment, which offered HIPAA-level services such as a
 HIPAA-compliant Box. The rest of campus had no access to Mednet, and outside the medical enterprise UCLA
 had no equivalent campus-wide service, though individual departments may have had their own
-arrangements: no shared, governed way to give a social science student a voter file, and, in the author's account, no
+arrangements: no shared, governed way to give a social science student a voter file, and, in Dennis's account, no
 secure place outside medicine to merge restricted data at scale.[^mednet]
 
 DSC selected and licensed Redivis, a platform for analyzing restricted data in place, took it
@@ -510,7 +511,7 @@ across the platform, not storage and not the voter file alone; the data held is 
 scholarship belongs to the researchers. DSC supplied the environment, the agreements, and the
 curated dataset.
 
-[^mednet]: Tim Dennis, author's account, 2026-09-27. The claim is limited to campus-wide
+[^mednet]: Tim Dennis's account, 2026-09-27. The claim is limited to campus-wide
 services outside the medical enterprise; it does not cover departmental arrangements.
 
 [^redivis-source]: Platform and governance detail: Tim Dennis, Statement of Professional
@@ -665,7 +666,7 @@ Yao (spatial data science, until 2024), Kristian Allen (software and machine lea
 ![Data Science Center staff, 2024, from the DataSquad site's November 2024 introduction.](images/dsc/dsc-staff-2024.jpg){fig-alt="Three people standing beside a large screen with DSC STAFF written on it, in a room with tall vertical window slats."}
 
 [^staff-model]: Dennis et al. 2021 [@dennisEtal2021] describes the redesign-not-hire staffing
-model. The specific position histories rest partly on the author's account; exact titles and
+model. The specific position histories rest partly on Dennis's account; exact titles and
 dates for some positions are still being confirmed (companion,
 [open questions](history-companion.html#open-questions)).
 
@@ -693,7 +694,7 @@ limits them to UCLA faculty and graduate students.[^funding] By 2025 DSC had als
 it could be recreated and upgraded; that rebuild was not finished where this history stops.
 
 [^funding]: The division between the two funds, the Library's added contributions, the Powell
-and University Librarian bridge funding, and the dropped subscriptions are the author's
+and University Librarian bridge funding, and the dropped subscriptions are Dennis's
 firsthand account as the unit's director; the gift fund's name and number are from the 2014
 transfer agreement [@uclaSsdaMou2014]. The years of Powell's AWS coverage and the amounts the
 Library added have not yet been reconstructed from transaction records. An earlier draft of
@@ -856,13 +857,14 @@ files may survive without the context that made them usable.
 
 ## Methods and limitations
 
-### The author's position
+### The authors' position
 
 Tim Dennis directed the Social Science Data Archive and the Data Science Center from April 2017
-through August 2026 and led the recent program. This is his account of the archive's history, written to
+through August 2026 and led the recent program. Jina "Jamie" Jamison, the Data Collections Manager, came across
+with the archive in 2014 and works with its collections and repository. This is their account of the archive's history, written to
 leave a record of work that ran for six decades and was reorganized out of its standalone form on August 24, 2026.
-It is a point of view, built from records and participant testimony. He welcomes corrections. Where a
-claim rests on his own account, the note says so, and judgments are marked as judgments. Work done by a team is
+It is a point of view, built from records and participant testimony. They welcome corrections. Where a
+claim rests on one author's own account, the note says so (the notes name Dennis where it is his), and judgments are marked as judgments. Work done by a team is
 credited to the team. Individuals are named where authorship, formal authority, or accountability makes it matter.
 
 The period covered ends on 2026-08-31. Corrections and first-hand accounts were added through
@@ -871,7 +873,7 @@ repository. To report an error or add context, use the correction link at the fo
 
 ### How the evidence is handled
 
-The author also wrote documents, including a grant proposal and material responding to the
+Dennis also wrote documents, including a grant proposal and material responding to the
 reorganization, that use some of the same facts to make a case. To keep this history apart from
 them:
 
@@ -906,7 +908,7 @@ Numbered notes appear at the first citation of each source.
 ::: {#refs}
 :::
 
-The full evidence base, with per-claim detail and verification status, is held in the author's
+The full evidence base, with per-claim detail and verification status, is held in the authors'
 private working files. Published sources are listed above; the research site's
 [claim register](https://github.com/ucla-data-science-center/dsc-stats-reports/blob/main/claim-register.md)
 records the approved wording and source for figures the two sites share.
