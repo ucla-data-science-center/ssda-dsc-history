@@ -2,10 +2,9 @@
 
 ## Git workflow
 
-Commit directly to `main`. No PR required — despite living under the
-`ucla-data-science-center` org (other members have Write access), Tim is
-the sole contributor here. This overrides the general "shared repos: PR by
-default" rule in `~/CLAUDE.md`.
+Commit directly to `main`. No PR is required. The registry marks this key
+`pr_exempt: true`, which is the one exception the global policy allows. Other
+org members have Write access, but Tim is the sole contributor here.
 
 ## Deploy
 
