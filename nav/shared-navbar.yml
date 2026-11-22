@@ -20,6 +20,8 @@ left:
         href: https://ucla-data-science-center.github.io/dsc-stats-reports/instruction.html
       - text: "Infrastructure"
         href: https://ucla-data-science-center.github.io/dsc-stats-reports/infrastructure.html
+      - text: "Where users are on campus"
+        href: https://ucla-data-science-center.github.io/dsc-stats-reports/reach.html
       - text: "About and methodology"
         href: https://ucla-data-science-center.github.io/dsc-stats-reports/about.html
   - text: "Archive history"
